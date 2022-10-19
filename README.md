@@ -1,15 +1,15 @@
 # pi-hole
 Blacklist for Crypto Wallet scams
 
-```bash
+```
 ############################################################## 
-# AntiScamSquad Blacklist of crypto scam links 
+# AntiScamSquad Blacklist of Crypto Scam Links 
 # Last updated: $TODAY $TIME
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 ```
 
-```bash
+```
 ############################################################## 
 # AntiScamSquad Blacklist of Newly Registered Domains 
 # Last updated: $TODAY $TIME
