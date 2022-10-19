@@ -11,7 +11,7 @@ Blacklist for Crypto Wallet scams
 
 ```bash
 ############################################################## 
-# AntiScamSquad Blacklist of crypto scam links 
+# AntiScamSquad Blacklist of Newly Registered Domains 
 # Last updated: $TODAY $TIME
 # Newly Regstered Domains  
 ############################################################## 
