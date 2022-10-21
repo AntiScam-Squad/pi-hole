@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Oct-2022 22:00:01 PDT
+# Last updated: 20-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -956,6 +956,7 @@ bestokn.online
 bestorchidsite.com
 bestpad-beta.com
 bestpad-beta.net
+bestpad-beta.org
 bestsecuregate.com
 bestsolutionfix.com
 beta-appchains.org
@@ -4831,6 +4832,7 @@ flowtoken.pro
 flowtoken.space
 flxeadfloat.com
 flxedfloat.live
+flxedfloit.com
 flynnseaters.com
 flysell.com
 foken.im
@@ -7089,6 +7091,9 @@ multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
 multichain-defi.net
+multichain-next.com
+multichain-next.net
+multichain-next.org
 multichain-sync.com
 multichainassetscon.net
 multichaincnet.online
@@ -7152,6 +7157,9 @@ multinetworkinterface.com
 multinode.info
 multinode.live
 multinode.one
+multipad-next.com
+multipad-next.net
+multipad-next.org
 multipledapps.com
 multiserverfix.net
 multistalk.online
@@ -12358,6 +12366,7 @@ walletconnectsapp.org
 walletconnectsauth.com
 walletconnectsauthentication.org
 walletconnectscoin.online
+walletconnectsdapp.com
 walletconnectsdapps.com
 walletconnectsdapps.online
 walletconnectsdaps.com
