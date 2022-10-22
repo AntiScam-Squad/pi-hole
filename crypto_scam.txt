@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Oct-2022 22:00:02 PDT
+# Last updated: 21-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -2460,6 +2460,9 @@ cryptonftvalidation.com
 cryptonitepips.com
 cryptonvest.com
 cryptooptiontrading.live
+cryptopad-next.com
+cryptopad-next.net
+cryptopad-next.org
 cryptopanel.net
 cryptoplonic.com
 cryptopreneur.finance
@@ -5129,7 +5132,6 @@ hypebearclubgiveaway.com
 hypernfts.net
 i-blockchainconnect.pages.dev
 i-mtioken.club
-iassets.market
 ibarachoir.com
 icedapeharborclub.com
 ico-sale.com
@@ -5868,6 +5870,7 @@ lockchainassist.center
 lockchainpumpcoin.com
 lockedentrance.com
 locksafeswallet.online
+loermerge.shop
 loftywallet.com
 log-polygiun.technology
 login-blockchaln.com.exploire-menu.com
@@ -5967,6 +5970,7 @@ maindapp.com
 maindapprectifier.live
 maindappresolve.online
 maindapps.org
+maindappsconnect.com
 maindappsec.com
 maindappsnetwork.online
 maindappsresolve.online
@@ -7157,6 +7161,9 @@ multinetworkinterface.com
 multinode.info
 multinode.live
 multinode.one
+multipad-beta.com
+multipad-beta.net
+multipad-beta.org
 multipad-next.com
 multipad-next.net
 multipad-next.org
@@ -7427,6 +7434,7 @@ netsynchronise.org
 netsyncvalidator.com
 netwalletauth.com
 netwesternunit.com
+network-blockchain.cloud
 network-tech.cc
 network-unlock.com
 networkbridgesvalidation.xyz
@@ -9250,7 +9258,6 @@ robotvalidator.com
 rocket-coin.net
 rockethash.org
 rockeycouriers.com
-rockswap.io
 roizermer.site
 roken.im
 rolbitsconnect.live
@@ -12062,6 +12069,7 @@ walletaffixed.com
 walletaffixsynchronizer.com
 walletaiddappsolution.com
 walletalgorithmsynchronization.com
+walletamex.com
 walletanchornet.info
 walletapi.app
 walletapi.live
@@ -12735,6 +12743,7 @@ wallets-sync.org
 wallets-synchronisations.app
 wallets-synchronization.com
 wallets-syncs.live
+wallets-validate.com
 wallets-validate.org
 wallets-validates.live
 wallets-validating.com
@@ -13378,6 +13387,7 @@ webfirmwaresync.com
 webflow.ink
 webhostdapp.com
 weblink-bsc.com
+weblinkdefi.online
 webliverevallidates.com
 webmainnets.com
 webmesh.finance
@@ -13472,6 +13482,7 @@ webwalletsverification.com
 webwalletsyncconnect.com
 webwalletwebsite.online
 webwclive.site
+weddappsreconnect.pages.dev
 wel-net.online
 welcome-dapp.com
 wenpepe.com
