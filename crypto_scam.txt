@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Oct-2022 22:00:02 PDT
+# Last updated: 22-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -4310,6 +4310,8 @@ dpp-brdge.firebaseapp.com
 dpp-brdge.web.app
 dpp-solution.firebaseapp.com
 dpp-solution.web.app
+dppbridge.firebaseapp.com
+dppbridge.web.app
 dpsconn.site
 dragonfly-tools.live
 dragonswap.money
@@ -4891,6 +4893,10 @@ gatevalidation.com
 gcf-online.com
 gdjdhdb.xyz
 gdtokenpocket.com
+gecko-reward.fun
+gecko-reward.pw
+gecko-rewards.pw
+geckorewards.fun
 gemiinilogin.com
 geminito.com
 geminitrading.org
@@ -5665,6 +5671,7 @@ kyberswap.app
 kyberswep.com
 kyc-regulations.info
 kycverify.info
+kyklo.us
 l2racesupremacy.com
 labornyveri.com
 lacasadepapeltoken.org
