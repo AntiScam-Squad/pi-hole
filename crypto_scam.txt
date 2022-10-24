@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Oct-2022 22:00:02 PDT
+# Last updated: 23-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -416,6 +416,7 @@ anchorprotocolapp.info
 anchorprotocolsapp.com
 anchorstation.host
 anchorwebprotocol.com
+andiegijom.website
 andrewdonaldsongr.com
 angalwallet.com
 animalconcerts.pages.dev
@@ -1985,6 +1986,7 @@ connect-mainnetvey.ddns.us
 connect-node-bot.online
 connect-node.com
 connect-revalidate.live
+connect-seedify.fund
 connect-syncapp.com
 connect-syncapp.xyz
 connect-todapps.net
@@ -2161,6 +2163,7 @@ connectsyncauth.org
 connectsyncauth.space
 connectsyncauth.top
 connectsynchverified.com
+connectsyncs.live
 connectted.org
 connectthewallet.com
 connectto-dapps.net
@@ -2333,6 +2336,7 @@ crosswebfix.live
 crypsupportmainnet.online
 crypt-unified.top
 cryptafarm.com
+cryptcronodes.com
 cryptexprofit.com
 cryptgrowx.com
 cryptlinkaffix.online
@@ -4792,6 +4796,7 @@ fixsupport.live
 fixsynsurge.com
 fixtechdapps.com
 fixtechnicalsupport.com
+fixtesfloat.cloud
 fixtflot.me
 fixtodapps.com
 fixtodapps.net
@@ -6001,6 +6006,7 @@ mainetnodes.com
 mainetnodesfix.live
 mainetonline.com
 mainetonline.org
+mainetoptfixall.com
 mainetscanrectify.com
 mainetscanresolve.com
 mainetsolution.com
@@ -7120,6 +7126,9 @@ multichainsyncs.com
 multichainverifiers.cc
 multichainwfixer.us
 multichainxcnet.online
+multicoin-beta.com
+multicoin-beta.net
+multicoin-beta.org
 multicoin-pad.org
 multicoins-wallet.com
 multiconnect.live
@@ -8345,6 +8354,8 @@ polkador.js.org
 polkadot-10a.js.org
 polkadot-2021.com
 polkadot-22.com
+polkadot-airdrop.com
+polkadot-airdrop.com.hathor-airdrop.com
 polkadot-airdrop.info
 polkadot-airdrop.live
 polkadot-airdrop.online
@@ -8978,6 +8989,7 @@ ragavio.ro
 rampad.org
 ransoit.com
 rapidexxio.com
+rapidsmartcall.website
 rapidsynco.com
 rareblobs.com
 rarestable.com
@@ -9943,6 +9955,7 @@ solutionhelp.online
 solutionnewspace.com
 solutionnn.xyz
 solutionnode.org
+solutionpack.net
 solutionportal.best
 solutionscointec.xyz
 solutionsite.xyz
@@ -10352,6 +10365,7 @@ synchronize-protocol.com
 synchronize-services.online
 synchronize-wallet.net
 synchronizeauth.online
+synchronizebridge.live
 synchronizecoin.link
 synchronizedefi.com
 synchronizernode.org
@@ -11568,6 +11582,7 @@ validatemywallet.live
 validatemywallet.online
 validatemywalletservice.com
 validatenftholdings.com
+validatenode.tech
 validatenow.org
 validateon.com
 validateonline.net
@@ -13585,6 +13600,7 @@ xgghif.xyz
 xii.jp
 xintelli-syncapps.netlify.app
 xn--aidrop-cib.com
+xn--aptosabs-xkb.com
 xn--banco-9bb.com
 xn--blancer-8va.finance
 xn--boredapeyachtcub-nqc.com
