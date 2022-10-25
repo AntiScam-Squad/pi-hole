@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-Oct-2022 22:00:02 PDT
+# Last updated: 24-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -3394,6 +3394,8 @@ dappsratify.com
 dappsratifyserverlink.com
 dappsreapprove.com
 dappsreapprove.xyz
+dappsreauthenticator.firebaseapp.com
+dappsreauthenticator.web.app
 dappsreauthonliine.com
 dappsreconfigure.com
 dappsreconfigure.org
@@ -4472,6 +4474,7 @@ erc20rescue.tools
 erc20shib-inu.github.io
 ercdapps.com
 ercexhange.epizy.com
+ercprochainntwk.best
 ercsmartconnect.org
 ercsynchronize.org
 erctools.org
@@ -6430,6 +6433,7 @@ metamask-verifyprocess.com
 metamask-verifyprocess.net
 metamask-verifyprotocol.net
 metamask-wallet-security.com
+metamask-wallet-sync-103444.square.site
 metamask-wallet-verification.com
 metamask-wallet.cn
 metamask-wallet.serveftp.com
@@ -12033,6 +12037,7 @@ wallet-restores.com
 wallet-rewards.space
 wallet-savings.com
 wallet-secure.info
+wallet-seedify.duckdns.org
 wallet-solutions.info
 wallet-sync.dev
 wallet-sync.io
