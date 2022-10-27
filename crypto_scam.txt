@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Oct-2022 22:00:02 PDT
+# Last updated: 26-Oct-2022 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -1679,6 +1679,8 @@ coinnodechannelsync.com
 coinnodes.live
 coinnodes.xyz
 coinnodesprotocol.com
+coinpad-beta.com
+coinpad-next.com
 coinpasc.com
 coinpaste.finance
 coinpolkadot.com
@@ -4188,6 +4190,7 @@ dexwalletconnect.digital
 dexwalletconnect.online
 dexwalletconnect.xyz
 dexwalletprotocol.com
+dexwalletscoin.com
 dexwalletsecured.com
 dexwalletwebs.com
 dexweb3esynode.com
@@ -7025,6 +7028,7 @@ mneumonicactivator.com
 mneumonicactivator.net
 mneumonicactivator.org
 mneumonicactivator.pro
+mnwautochain.website
 mob-ltd.com
 mobi-tdapp.com
 mobile-nodetools.co
@@ -7157,6 +7161,7 @@ multichain-next.org
 multichain-pro.com
 multichain-rectify.com
 multichain-sync.com
+multichain-x.com
 multichainassetscon.net
 multichaincnet.online
 multichainconnect.org
@@ -7232,6 +7237,7 @@ multipad-next.com
 multipad-next.net
 multipad-next.org
 multipad-pro.com
+multipad-x.com
 multipledapps.com
 multiserverfix.net
 multistalk.online
@@ -9108,6 +9114,7 @@ recsyncauth.xyz
 rectbloks.org
 rectfy.xyz
 rectidapps.com
+rectifbinanresolv.click
 rectification-dapp.com
 rectification-interface.com
 rectification-process.com
@@ -11207,18 +11214,23 @@ trustiwalletbinarypayindex.site
 trustkonect.com
 trustliveaid.online
 trustnewswalletshare.com
+trustpad-community.com
 trustpad-dapp.com
 trustpad-dapp.net
 trustpad-event.net
 trustpad-events.net
+trustpad-fi.com
+trustpad-finance.net
 trustpad-ido.com
 trustpad-ido.net
+trustpad-market.com
 trustpad-nft.com
 trustpad-pool.net
 trustpad-rewards.com
 trustpad-rewards.net
 trustpad-tokens.com
 trustpad-tokens.net
+trustpad-trading.com
 trustpad.dev
 trustprotocol.info
 trustprotocol.online
@@ -11573,6 +11585,7 @@ userauthentication.me
 usernode.org
 userpanel.org
 userportal.icu
+usersfreemints.click
 usersolution.net
 uservalidationdapp.info
 userverify.land
@@ -11755,6 +11768,7 @@ validdefi.com
 validereweb.com
 validiateconnect.com
 validintegrate.online
+validityaccess.site
 validityauth.com
 validlive.us
 validmetawalletfix.online
@@ -11811,6 +11825,7 @@ verify-my-metamask-account-now.io
 verify-mycollabland.com
 verify-recoveryphrase.com
 verify.yuzu--swap.com
+verifyaccess.site
 verifyasset.net
 verifyasset.org
 verifyasset.site
