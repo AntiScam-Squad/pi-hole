@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Oct-2022 22:00:01 PDT
+# Last updated: 27-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -2481,6 +2481,7 @@ cryptopad-next.com
 cryptopad-next.net
 cryptopad-next.org
 cryptopad-pro.com
+cryptopad-pro.net
 cryptopad-pro.org
 cryptopads-pro.com
 cryptopanel.net
@@ -3786,6 +3787,7 @@ dawsonline.live
 dbasemainnet.tech
 dbridgenode.netlify.app
 dcrv2.xyz
+dcwsynesecure.com
 ddfflwallnneetccoozznnet.gztyisl.online
 de-fiappsnetwork.com
 deadapeverification.com
@@ -4108,6 +4110,8 @@ deservedapp.net
 desk-validation.com
 deskcom.cfd
 deskftmx.com
+deslab.firebaseapp.com
+deslab.web.app.com
 dessynchronise.000webhostapp.com
 desydefinode.com
 details-paxful.dashboard-paxful.com
@@ -4357,6 +4361,7 @@ dropcake.finance
 drvapp.link
 dsappconnectwallet.ml
 dspsoltiion.info
+dualcentralconnect.netlify.app
 ductnetrex.live
 duken.im
 dune-token.xyz
@@ -6149,6 +6154,7 @@ mainnetmigrates.online
 mainnetnode-dapps.online
 mainnetnode-interface.com
 mainnetnode.online
+mainnetnodesapp.com
 mainnetnow.com
 mainnetonline.info
 mainnetprotocol.co
@@ -7159,6 +7165,8 @@ multichain-next.com
 multichain-next.net
 multichain-next.org
 multichain-pro.com
+multichain-pro.net
+multichain-pro.org
 multichain-rectify.com
 multichain-sync.com
 multichain-x.com
@@ -7170,6 +7178,8 @@ multichainprotocol.com
 multichainregistry.co
 multichains-connect.com
 multichains-pro.com
+multichains-pro.net
+multichains-pro.org
 multichainserver.com
 multichainsynch.net
 multichainsynchronize.com
@@ -7182,6 +7192,7 @@ multicoin-beta.net
 multicoin-beta.org
 multicoin-pad.org
 multicoin-pro.com
+multicoin-pro.net
 multicoins-wallet.com
 multiconnect.live
 multiconnect.tech
@@ -7192,6 +7203,8 @@ multiconnectionbot.online
 multiconnectionmobile.co
 multiconnectsync.online
 multicrypto-pro.com
+multicrypto-pro.net
+multicrypto-pro.org
 multicryptolink.com
 multicryptosync.net
 multicryptowallt.io
@@ -7237,6 +7250,8 @@ multipad-next.com
 multipad-next.net
 multipad-next.org
 multipad-pro.com
+multipad-pro.net
+multipad-pro.org
 multipad-x.com
 multipledapps.com
 multiserverfix.net
@@ -8911,6 +8926,7 @@ pro-fundrecovery.com
 pro-multichain.com
 pro-multicoin.com
 pro-neutral.net
+pro-neutral.pages.dev
 pro-nft.io
 pro-nft.net
 pro-nfts.com
@@ -9719,6 +9735,7 @@ slunatoken.com
 slunatoken.online
 smarr.pics
 smarrfixssync.homes
+smarrrtttmiigrrattetech.homes
 smarrtscoire.xyz
 smart-authsvalidity.com
 smart-coinsioluiition.xyz
@@ -9832,6 +9849,7 @@ smartconnecttrading.xyz
 smartconnectwallet.net
 smartconnectx.com
 smartconsult.digital
+smartcontractauth.com
 smartcontractexecutor.com
 smartcontractsvalidation.com
 smartcontractsynchronization.live
@@ -11219,6 +11237,7 @@ trustpad-dapp.com
 trustpad-dapp.net
 trustpad-event.net
 trustpad-events.net
+trustpad-evm.com
 trustpad-fi.com
 trustpad-finance.net
 trustpad-ido.com
@@ -11231,6 +11250,8 @@ trustpad-rewards.net
 trustpad-tokens.com
 trustpad-tokens.net
 trustpad-trading.com
+trustpad-web.com
+trustpad-web3.com
 trustpad.dev
 trustprotocol.info
 trustprotocol.online
@@ -11625,6 +11646,7 @@ v5-multibridge.com
 v5multibridgefixconnect.com
 v5myetherwallet.com
 vacationscoin.com
+validaccessauth.pages.dev
 validappauthentication.com
 validat0rdesk.com
 validate-chain.com
