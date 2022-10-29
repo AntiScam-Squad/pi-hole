@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Oct-2022 22:00:02 PDT
+# Last updated: 28-Oct-2022 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -626,6 +626,7 @@ assetbackupledger.com
 assetcolab.land
 assetcollab.me
 assetconfirmation.net
+assetconnect.org
 assetcrypto.uk
 assetfix.vercel.app
 assetfunds.info
@@ -1078,6 +1079,7 @@ bitwayplus.com
 bitwexray.com
 bitz.country
 bizdavar.com
+blascanner.web.app
 bloccksync.live
 bloccwallets.com
 blocfchain.com
@@ -1325,6 +1327,7 @@ bswaptoken.online
 bt-mining.com
 btc-tools.org
 btc2xbonus.site
+btcshizzle.000webhostapp.com
 bugifybridge.xyz
 buncebit.com
 bunkrectify.live
@@ -1494,6 +1497,7 @@ chargedparticles.medium.com.ru
 chargeurswoolusa.com
 chat-ronin.com
 chechwallet.online
+checkchain.site
 checkdapp.online
 checksview.bid
 checkveiw.com
@@ -1681,6 +1685,7 @@ coinnodes.xyz
 coinnodesprotocol.com
 coinpad-beta.com
 coinpad-next.com
+coinpad-x.com
 coinpasc.com
 coinpaste.finance
 coinpolkadot.com
@@ -2483,6 +2488,7 @@ cryptopad-next.org
 cryptopad-pro.com
 cryptopad-pro.net
 cryptopad-pro.org
+cryptopad-x.com
 cryptopads-pro.com
 cryptopanel.net
 cryptoplonic.com
@@ -3849,6 +3855,8 @@ decentralizedlaunchpads.com
 decentralizedmigration.best
 decentralizednetwork.co
 decentralizednewcollab.online
+decentralizedplatform.app
+decentralizedplatform.net
 decentralizedpro.online
 decentralizedprotocol.live
 decentralizedprotocolsync.online
@@ -4408,6 +4416,7 @@ easyswap.tk
 easyswapwallet.com
 easysynchconnect.com
 easysynclink.online
+easysyncreload.com
 easysyncsolution.com
 easytokenconnect.com
 easywalletsolution.com
@@ -4762,6 +4771,7 @@ fixdapps.online
 fixdapps.xyz
 fixdappsync.com
 fixdappwallet.com
+fixeadfioat.com
 fixeadfloat.com
 fixeadfloat.net
 fixed-change.com
@@ -5649,6 +5659,7 @@ keyztorreactivatiion.live
 kibainus.online
 kibainuspace.com
 kingprominers.com
+kintcoinfix.website
 kitchenft.live
 kiwipolkadot.js.org
 kjellsblog.com
@@ -5839,6 +5850,7 @@ litechainconnect.com
 liteswapp.com
 little-cronos.com
 littlerabbitintegrated.live
+live-applink.in.net
 live-dapp.surge.sh
 live-securevalidator.net
 live-walletaffix.com
@@ -6348,6 +6360,7 @@ meta-extension.net
 meta-kyc-standards.cz
 meta-mas.com
 meta-mask-wallet-security.web.app
+meta-pad.org
 meta-sea.club
 meta-verfypersonal.org
 meta-wallet-help-desk.com
@@ -7193,6 +7206,7 @@ multicoin-beta.org
 multicoin-pad.org
 multicoin-pro.com
 multicoin-pro.net
+multicoin-x.com
 multicoins-wallet.com
 multiconnect.live
 multiconnect.tech
@@ -9195,6 +9209,7 @@ rectiverse.org
 redclayware.com
 redconsulting.co.id
 redirectwallet.online
+redliytefi.com
 refixsystem.com
 reformfixscan.live
 reformscan.com
@@ -11833,6 +11848,7 @@ verification-vvalletconnect.com
 verification-walet.online
 verification-wallet-protocol.com
 verification.unicrypt.host
+verificationauthority.top
 verificationmetamask.rf.gd
 verificationprocess-metamask.io
 verificationtw.com
@@ -12886,6 +12902,7 @@ wallets-validating.com
 wallets-validation.com
 wallets-validation.net
 wallets-validations.online
+wallets-validators.com
 wallets-verification.com
 wallets-walletconnect.com
 wallets.global
@@ -13230,6 +13247,7 @@ walletvalidateconnect.com
 walletvalidatefix.com
 walletvalidatelive.com
 walletvalidates-sync.square.site
+walletvalidates.com
 walletvalidation-support.cc
 walletvalidation.info
 walletvalidation.link
@@ -13342,6 +13360,7 @@ walsyncvalidator.link
 wandupdate.live
 wappsauthentify.com
 wappsautosync.net
+wareplugsvercel.com
 waspcandy.xyz
 watch2buy.commetamask.io.account.verification.update
 watchonlywallet.com
