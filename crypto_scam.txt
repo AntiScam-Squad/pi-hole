@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Oct-2022 22:00:01 PDT
+# Last updated: 29-Oct-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -907,6 +907,7 @@ bakeryswaps.com
 balancer-flnance.com
 balancerlp.com
 balancerr.finance
+balderweb.com
 bancor-dashboard.network
 bancor-eth.com
 bancor-token.com
@@ -1079,6 +1080,7 @@ bitwayplus.com
 bitwexray.com
 bitz.country
 bizdavar.com
+blascanner.firebaseapp.com
 blascanner.web.app
 bloccksync.live
 bloccwallets.com
@@ -3478,6 +3480,7 @@ dappstechlink.com
 dappstether.com
 dappstetherall.xyz
 dappstoconnect.com
+dappstoken.net
 dappstoken.online
 dappstokenauthenticator.com
 dappstokenconnect.online
@@ -4794,6 +4797,7 @@ fixedfoat.org
 fixedlfoat.net
 fixedlfoat.org
 fixedmainnet.online
+fixedmoment.com
 fixemart.online
 fixencrypt.online
 fixerextension.info
@@ -6881,6 +6885,7 @@ metamaskzendesk.com
 metammasks.io
 metamusk.us
 metamusktoken.com
+metapad-next.com
 metapancakeswap.com
 metarun.finance
 metasafe.live
@@ -10106,6 +10111,7 @@ stackchainledger.com
 stackkerapp.com
 stackledgerchain.com
 stacks-walletconnect.com
+stake-allnodes.network
 stake-eth.org
 stake-ether.org
 stakebrntoken.com
@@ -13483,6 +13489,7 @@ web3securedefi.com
 web3services.us
 web3settings.online
 web3solution.org
+web3stringresolve.com
 web3sycndapp.live
 web3sycprotocol.com
 web3syncronize.net
