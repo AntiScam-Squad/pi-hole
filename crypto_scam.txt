@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Oct-2022 22:00:03 PDT
+# Last updated: 31-Oct-2022 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -1038,6 +1038,7 @@ bitcountry.org
 bitcryptowallets.com
 bitdsppconn.info
 bitemanix.com
+biteth.io
 bitex-fxtrading.com
 bitexcoin.pro
 bitfarmstore.com
@@ -2660,6 +2661,8 @@ dapmainnet.com
 dapnodeconnect.com
 dapp-acts.com
 dapp-authentikator.xyz
+dapp-brdg.firebaseapp.com
+dapp-brdg.web.app
 dapp-browser-logln.com
 dapp-calo.run
 dapp-chain.com
@@ -3091,6 +3094,7 @@ dapps-rectification.com
 dapps-reservetool.com
 dapps-resolves.tech
 dapps-rewards.com
+dapps-securechainnode.pages.dev
 dapps-secured.com
 dapps-seedify.com
 dapps-seedify.live
@@ -7093,6 +7097,7 @@ mobilewalletvalidation.net
 mobileworldappsstore.xyz
 mobwallet.co
 moderatorchannel.live
+modulefix.com
 moduleprotocol.com
 modulesct.com
 moduleweb3.com
@@ -7585,6 +7590,7 @@ newdent.al
 newdoor.netlify.app
 newfixingmanager.com
 newsystemresolve.live
+newwestcoin.website
 nexglobalexchange.com
 nexo-fx.com
 nextgenopss.com
@@ -7757,6 +7763,7 @@ nodesauths.com
 nodesbridge.online
 nodesconnection.com
 nodesconnectserver.com
+nodesdapp247.com
 nodesdappnet.com
 nodesdappsnet.com
 nodesdashboard.digital
