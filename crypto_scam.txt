@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-Oct-2022 22:00:01 PDT
+# Last updated: 01-Nov-2022 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -367,6 +367,7 @@ allnodes-chains.com
 allnodes-rpc.com
 allnodes-rpcs.com
 allnodesapp.com
+allnodesapps.com
 allnodeschains.com
 allnodesdaps.com
 allnodeswallet.com
@@ -2318,6 +2319,7 @@ cosmoioapp.com
 cosmosintegration.com
 cosmoskldznft.com
 cosmostationio.online
+couturistewalletsupport.com
 cowrabuilders.com.au
 cowswap-token.exchange#
 coyoteswap.io
@@ -2516,6 +2518,7 @@ cryptossdapps.webflow.io
 cryptosupport-base.com
 cryptosvalidator.webflow.io
 cryptoswalletsconnect.com
+cryptosync.app
 cryptosync.vip
 cryptosynchroniser.cloud
 cryptosyncwallet.link
@@ -4033,6 +4036,8 @@ defionlinesolutions.link
 defiportal.alphaacetech.com
 defiportal.translavandero.cl
 defipro.website
+defiprotocol-dcd35.firebaseapp.com
+defiprotocol-dcd35.web.app
 defiprotocol-fixedissues.com
 defiprotocol-live.com
 defiprotocol.biz
@@ -4798,6 +4803,7 @@ fixedappweb.com
 fixedcoinwallets.com
 fixedconnects.live
 fixeddappscom.com
+fixedfleat.com
 fixedfloat.cfd
 fixedfloat.ch
 fixedfloat.in.net
@@ -7191,6 +7197,8 @@ multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
 multichain-defi.net
+multichain-meta.com
+multichain-meta.org
 multichain-next.com
 multichain-next.net
 multichain-next.org
@@ -7265,6 +7273,7 @@ multifixed.center
 multihexa.pw
 multihexa.ws
 multiibridgedapps.com
+multikits.online
 multilinks.live
 multiminer.finance
 multiminers-bridge.live
@@ -8957,6 +8966,7 @@ pro-app.org
 pro-earners.com
 pro-fix.org
 pro-fundrecovery.com
+pro-metapad.net
 pro-multichain.com
 pro-multicoin.com
 pro-neutral.net
@@ -8990,6 +9000,7 @@ projectscriptstore.xyz
 projectsinterface.fr-par.site
 projectwebmainnets.com
 promvalidator.online
+pronodesolutions.com
 proponlinesync.com
 prosmartlinks.live
 prosycnnrectification.com
@@ -9350,6 +9361,7 @@ restorewallets.online
 restoreweblink.com
 restrictedappeal.com
 resync4block.com
+resyncvalidatelive.com
 resyncvault.site
 resyncweb.online
 resyncwebdapp.com
@@ -9434,6 +9446,7 @@ safe-mm.xyz
 safe-panel.com
 safeblocknetwork.live
 safebridge.best
+safebridgeassist.link
 safebtcminings.com
 safecointrade.com
 safeconntedsever.com
@@ -11194,6 +11207,7 @@ tradex-financial.com
 tradfem.com
 tradiine.com
 tradingcoinsolution.space
+tradingdappnodes.com
 tradings-view-meta.club
 trainlife.online
 trainyourentrepreneurialeye.com
