@@ -1,4 +1,4 @@
-# Pi-hole Blacklist for Crypto Wallet scams
+# 🚀 Pi-hole Blacklist for Crypto Wallet scams 🚀 
 
 ## Polkadot.js/phishing
 ```
