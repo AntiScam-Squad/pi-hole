@@ -1,4 +1,4 @@
-# 🚀 Pi-hole Blacklist for Crypto Wallet scams 🚀 
+# 🚀 Pi-hole Blacklist for Crypto Wallet scams and Newly Registered Domains🚀 
 
 ## Polkadot.js/phishing
 ```
@@ -8,6 +8,7 @@
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 ```
+13900 Blocked Domains
 crypto_scam.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/crypto_scam.txt
 
 
@@ -21,6 +22,7 @@ crypto_scam.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/
 # Newly Registered Domains  +7 Day
 ############################################################## 
 ```
+ Blocked Domains
 7day_NRD.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/7day_NRD.txt
 
 
