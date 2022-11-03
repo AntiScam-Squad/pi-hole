@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Nov-2022 22:00:01 PDT
+# Last updated: 02-Nov-2022 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -1924,6 +1924,7 @@ collabs-helpdesks.com
 collabs-land.finance
 collabs-land.live
 collabs-sync.com
+collabs-verifier.netlify.app
 collabs.finance
 collabsconnect.com
 collabslands.org
@@ -2603,6 +2604,7 @@ cyclicswitch.online
 cyclopsagconnect.pro
 cyclopsvalidate.live
 cyncollabnet.com
+cyrptsync.net
 d-proapps.com
 d3bh89dd6mad4t.amplifyapp.com
 daapauthentication.com
@@ -4782,6 +4784,7 @@ fixconnect.net
 fixconnecthub.online
 fixconnects.com
 fixcryptowallets.com
+fixcustodialextention.website
 fixdappchain.com
 fixdapperror.com
 fixdappnodes.com
@@ -4804,6 +4807,7 @@ fixedcoinwallets.com
 fixedconnects.live
 fixeddappscom.com
 fixedfleat.com
+fixedfleot.com
 fixedfloat.cfd
 fixedfloat.ch
 fixedfloat.in.net
@@ -4970,11 +4974,15 @@ gecko-reward.fun
 gecko-reward.link
 gecko-reward.pw
 gecko-reward.space
+gecko-reward.xyz
 gecko-rewards.link
 gecko-rewards.pw
+geckopay.click
 geckorewards.fun
 geckorewards.space
 geckorewards.top
+geckorewardsi.pw
+geckorewardx.fun
 gemiinilogin.com
 geminito.com
 geminitrading.org
@@ -8963,6 +8971,7 @@ privacy-wallet.online
 privatemint.space
 privatesync.online
 pro-app.org
+pro-cryptopad.com
 pro-earners.com
 pro-fix.org
 pro-fundrecovery.com
@@ -9385,6 +9394,7 @@ rewalletauthorization.org
 rewalletsyn.net
 reward-app.net
 rewardcryptos.com
+rewardex.space
 rewards-trust-crypto-wallet.000webhostapp.com
 rewardsyncdappssconnect.firebaseapp.com
 rewardsyncdappssconnect.web.app
@@ -11305,6 +11315,7 @@ trustpad-trading.com
 trustpad-web.com
 trustpad-web3.com
 trustpad.dev
+trustpad.events
 trustprotocol.info
 trustprotocol.online
 trustrealaid.online
