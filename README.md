@@ -8,7 +8,7 @@
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 ```
-crypto_scam.txt
+crypto_scam.txt - 
 
 
 ## Newly Registered Domains
@@ -21,4 +21,4 @@ crypto_scam.txt
 # Newly Registered Domains  +7 Day
 ############################################################## 
 ```
-7day_NRD.txt
+7day_NRD.txt - 
