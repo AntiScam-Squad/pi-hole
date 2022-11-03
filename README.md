@@ -32,4 +32,4 @@ nrd_1.txt
 # Newly Registered Domains  +7 Day
 ############################################################## 
 ```
-nrd_7.txt
+7d_NRD.txt
