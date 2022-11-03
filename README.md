@@ -30,3 +30,5 @@ crypto_scam.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/
 ![image](https://user-images.githubusercontent.com/66147586/199627093-e5e9f511-358c-4ade-877c-63c69ca034f2.png)
 
 ![image](https://user-images.githubusercontent.com/66147586/199627204-b65aed9c-6141-405a-a675-586bf4f7aaf2.png)
+
+## Do not submit any Tips for this project.
