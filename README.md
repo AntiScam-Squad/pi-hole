@@ -31,4 +31,6 @@ crypto_scam.txt - https://raw.githubusercontent.com/AntiScam-Squad/pi-hole/main/
 
 ![image](https://user-images.githubusercontent.com/66147586/199627204-b65aed9c-6141-405a-a675-586bf4f7aaf2.png)
 
-## Do not submit any Tips for this project. Not to be used by Child Bounty 11 in any way shape or form!
+## Do not submit any Tips for this project. 
+
+## 🚫 Not to be used by Child Bounty 11 in any way, shape, or form! 🚫
