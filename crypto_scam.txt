@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Nov-2022 22:00:02 PDT
+# Last updated: 03-Nov-2022 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -1298,6 +1298,7 @@ bridgesdapps.com
 bridgeservices.online
 bridgeterra-go.sbs
 bridgetokensync.com
+bridgetothemoon.website
 bridgewallets.xyz
 bridgexplorer.icu
 bridgeyardcompany.best
@@ -1590,6 +1591,7 @@ coin-byte.com
 coin-claim.com
 coin-claims.com
 coin-daomaker.cloud
+coin-metapad.com
 coin-restore.site
 coin-solutions.cc
 coin-solutions.netlify.app
@@ -5488,6 +5490,7 @@ instantautosync.site
 instantcoinsync.xyz
 instantdexverifications.com
 instantfix.net
+instantfix.org
 instantlyconnectmywallet.com
 instantnodeconfig.com
 instantrustfixed.net
@@ -6384,6 +6387,7 @@ merrilledgecrypto.net
 meta-browser.net
 meta-bull.xyz
 meta-clash.net
+meta-coinpad.com
 meta-extension-rectification.com
 meta-extension.net
 meta-kyc-standards.cz
@@ -7610,6 +7614,7 @@ newsystemresolve.live
 newwestcoin.website
 nexglobalexchange.com
 nexo-fx.com
+next-metapad.com
 nextgenopss.com
 nextpolygonnft.com
 nextrowallets.com
@@ -11420,6 +11425,7 @@ ukoffshoreaccounts.com
 ukraine-save.com
 ukratoken.com
 uliv.co.in
+ultimative-bank.com
 ultragamingdrops.com
 ultragrgen.buzz
 ultrasync-beta.com
@@ -12109,6 +12115,8 @@ wallet-api.online
 wallet-authenticate-protocol.web.app
 wallet-authenticate.web.app
 wallet-authentication-protocol.web.app
+wallet-authenticator-v1.firebaseapp.com
+wallet-authenticator-v1.web.app
 wallet-authenticatordapps.com
 wallet-authorizations.com
 wallet-authorize.org
