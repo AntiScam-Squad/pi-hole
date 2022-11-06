@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Nov-2022 22:00:01 PDT
+# Last updated: 05-Nov-2022 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -2997,6 +2997,7 @@ dappocket.com
 dapponline.live
 dapponlineprotocol.com
 dapponlines.org
+dapponlineupdate.pages.dev
 dappopensolution.com
 dapppoo-coinfixed.com
 dapppp.lol
@@ -4211,6 +4212,7 @@ dexfixrestore.com
 dexhubonline.com
 dexintegrationweb.com
 dexinterconnect.online
+dexlaunchbrowser.com
 dexlaunchpads.com
 dexlaunchpads.org
 dexlaunchpads.xyz
@@ -6413,6 +6415,7 @@ meta-bull.xyz
 meta-clash.net
 meta-coinpad.com
 meta-coinpad.net
+meta-coinpad.org
 meta-extension-rectification.com
 meta-extension.net
 meta-kyc-standards.cz
@@ -7236,6 +7239,7 @@ multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
 multichain-defi.net
+multichain-event.net
 multichain-event.org
 multichain-meta.com
 multichain-meta.org
@@ -10635,6 +10639,7 @@ syncreconnect.com
 syncrecovery.site
 syncrectification.live
 syncrectificationdapp.com
+syncrectificationsdapp.com
 syncrectify.netlify.app
 syncrectifylive.com
 syncredirecting.info
@@ -10726,6 +10731,8 @@ syndefidapps.com
 syndefinode.com
 syndefn.com
 syndefs.com
+syndpps.firebaseapp.com
+syndpps.web.app
 synkswallet.square.site
 synmultiwallet.com
 synnex-network.xyz
@@ -11356,6 +11363,7 @@ trustpad-web.com
 trustpad-web3.com
 trustpad.dev
 trustpad.events
+trustpad.gift
 trustprotocol.info
 trustprotocol.online
 trustrealaid.online
@@ -11935,6 +11943,7 @@ vempire-ddao-rewards-claims-erc20-token.my.id
 vercelexchange.com
 verifewallt.xyz
 verifica-ora-security.com
+verificaionankupdated.publicvm.com
 verification-vvalletconnect.com
 verification-walet.online
 verification-wallet-protocol.com
@@ -13585,6 +13594,7 @@ web3sycndapp.live
 web3sycprotocol.com
 web3syncronize.net
 web3validate.com
+web3validate.netlify.app
 web3validator.online
 web3wallet.gq
 web3wallet.live
