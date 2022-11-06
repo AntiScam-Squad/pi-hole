@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Block list of crypto scam links 
-# Last updated: 18-Oct-2022 22:04:54 PDT
+# Last updated: 18-Oct-2022 22:19:17 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
