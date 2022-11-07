@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Nov-2022 22:00:01 PDT
+# Last updated: 06-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -1111,6 +1111,7 @@ blockchain-fix.org
 blockchain-fixnodes.web.app
 blockchain-node.pages.dev
 blockchain-nodelab.app
+blockchain-nodeprotocol.com
 blockchain-nodes.net
 blockchain-phrase.ml
 blockchain-recovery.ml
@@ -1914,6 +1915,7 @@ collablandtools.online
 collablandup.cc
 collablandupdate.com
 collablandverification.cc
+collablandwallet.netlify.app
 collablandwalletconnect.xyz
 collablandwallets.xyz
 collablandx.cc
@@ -2817,6 +2819,7 @@ dappconnector.ml
 dappconnectpad.com
 dappconnectplug.com
 dappconnects.io
+dappconnects.pages.dev
 dappconnectvalidation.net
 dappconnectwallet.com
 dappconnectwallet.web.app
@@ -4627,6 +4630,8 @@ ethx2xxevent.com
 eurotoken.live
 event-metapad.com
 event-metapad.org
+event-multichain.net
+event-multichain.org
 events-movr3x.com
 everdomedapps.online
 everscale-ecosystem.com
@@ -4841,6 +4846,7 @@ fixedlfoat.net
 fixedlfoat.org
 fixedmainnet.online
 fixedmoment.com
+fixedmoments.com
 fixemart.online
 fixencrypt.online
 fixerextension.info
@@ -4909,6 +4915,7 @@ fixupwallets.online
 fixverification.online
 fixviii2.xyz
 fixwallab.xyz
+fixwallet.org
 fixwalletauth.com
 fixwalletissues.com
 fixwallets.net
@@ -4918,6 +4925,7 @@ fixwalletz.com
 fixwalletzs.com
 fjxedfloat.net
 flare.cfd
+flash-dapps.com
 flashbot.online
 flashfixprotocol.site
 fleetwc.com
@@ -6023,6 +6031,7 @@ lpuniswap.com
 lpuniswap.org
 lrnrtoken.xyz
 lrntoken.xyz
+lucksiamtrade.tk
 luckybblock.com
 luckyblockapp.online
 luckyblockchain.org
@@ -7838,6 +7847,7 @@ nodesmainnetdapp.com
 nodesmainnetdapps.com
 nodesmartconnect.com
 nodesmartconnect.live
+nodesnetwork.live
 nodesocket.xyz
 nodesolutions.site
 nodesprotocolaffix.online
@@ -9010,6 +9020,7 @@ primeprotocol.net
 privacy-wallet.online
 privatemint.space
 privatesync.online
+prixtoconnect.com
 pro-app.org
 pro-cryptopad.com
 pro-earners.com
@@ -9830,6 +9841,7 @@ skyliteconsulting.com
 skynetcon.net
 skynetconnectassist.com
 skyupdatewallets.com
+slatrecycledapinx.online
 sleekvert.com
 sltepn.space
 slunatoken.com
@@ -10536,6 +10548,7 @@ synchmigration.live
 synchpads.online
 synchprotocols.com
 synchrochains.online
+synchroconnects.co
 synchrofastresolveds.co
 synchroniization.com
 synchronisedata.com
@@ -10575,6 +10588,7 @@ synchubfix.online
 synchvalidation.com
 synchwallet.net
 synchwebconnection.com
+syncidex.com
 syncifix.com
 syncingconnect.com
 syncingcryptovalidator.com
@@ -11240,6 +11254,7 @@ topolkadot.js.org
 topp-offer.online
 topwalletlinker.org
 tornadosync.xyz
+torussinc.org
 torustools.com
 torustools.org
 total-handshake.com
@@ -11265,6 +11280,7 @@ tradfem.com
 tradiine.com
 tradingcoinsolution.space
 tradingdappnodes.com
+tradingdappsnode.com
 tradings-view-meta.club
 trainlife.online
 trainyourentrepreneurialeye.com
@@ -12305,6 +12321,7 @@ wallet-zhcn.com
 wallet.connectsync.live
 wallet.rent
 wallet.samirtomb.com
+wallet.socially.rest
 walletaccess.surge.sh
 walletaccessconnect.online
 walletaccessimport.com
@@ -12505,6 +12522,7 @@ walletconnect.educationfranchisee.com
 walletconnect.ga
 walletconnect.gq
 walletconnect.hillsfinancialservice.com
+walletconnect.hstn.me
 walletconnect.minehouse.tech
 walletconnect.ml
 walletconnect.net.cn
@@ -12546,6 +12564,7 @@ walletconnectbot.online
 walletconnectbridge.com
 walletconnectcheck.com
 walletconnectclient.online
+walletconnectclone.vercel.app
 walletconnectconfirmation.com
 walletconnectconfirmation.net
 walletconnectconfirmations.com
@@ -12573,6 +12592,7 @@ walletconnectify.net
 walletconnectify.tech
 walletconnecting.co
 walletconnectingapps.com
+walletconnection.duckdns.org
 walletconnection.services
 walletconnection.support
 walletconnectioncrypt.com
@@ -12984,6 +13004,7 @@ wallets-dapp.online
 wallets-dappsinterface.org
 wallets-dappsvalidate.com
 wallets-dappsvalidate.weebly.com
+wallets-dappsvalidator.weebly.com
 wallets-mainnet.com
 wallets-pancakeswap.finance
 wallets-polingon.site
@@ -13330,6 +13351,7 @@ wallettconnect.com
 wallettconnect.net
 wallettconnect.site
 wallettconnectionfixing.ga
+wallettconnects.netlify.app
 wallettech-dapp.com
 wallettech.help
 wallettechsupport.com
@@ -13641,6 +13663,7 @@ webdappsvalidate.us
 webdefi.org
 webdefii.site
 webdefiprotocol.com
+webdeskconnect.com
 webextension-interface.com
 webextension-interface.net
 webextension-interface.org
