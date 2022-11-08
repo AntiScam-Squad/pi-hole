@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Nov-2022 22:00:01 PST
+# Last updated: 07-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -614,6 +614,7 @@ arkfree.org
 arkinvest-musk.com
 arkinvest.info
 arkmusk.net
+arocprotocol.tech
 artauthenticateonnft.org
 asetsupport.com
 ashaunthentication.com
@@ -1971,6 +1972,7 @@ community-airdrop-program.com
 compoundfx.org
 comytvweb.com
 con2dapps.com
+conbinanrecresol.lol
 concertifyonwall.org
 concordium-bridge.phi-blockchain.com
 condappsjoint.com
@@ -3360,6 +3362,7 @@ dappslinking.com
 dappslinking.online
 dappslinkr.com
 dappslinks.com
+dappslinks.online
 dappslinks.site
 dappslinks.xyz
 dappslinkscan.com
@@ -5214,6 +5217,7 @@ hodlnetscan.com
 hodlonline.live
 hodltrustconnections-fixed.live
 hoistcoins.net
+holdane.com
 holders-airdrop.info
 holdersverify.online
 holdervalidator.icu
@@ -5706,6 +5710,7 @@ karura.top
 kasta.ltd
 katana-roninchain.org
 katana-roninhcain.com
+katobit.net
 kavaapp.net
 kavatoken.online
 kazirangafoundation.com
@@ -6216,6 +6221,7 @@ mainnetdappsresolve.online
 mainnetdaps.com
 mainnetdefi.net
 mainnetdev.live
+mainnetextension.com
 mainnetextension.net
 mainnetfix.net
 mainnethost.com
@@ -7029,6 +7035,7 @@ migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
 migration-saitamav2.com
 migrationfix.com
+migrationfix.live
 miiggrraattiinngtov2hoop.xyz
 miiggrraattiinngtov4hoopsite.me
 miigratiingtov2liiveehere.xyz
@@ -7629,6 +7636,7 @@ networkdaap.com
 networkdebug.net
 networklabs.digital
 networklabs.online
+networknodes.live
 networkplugdapp.com
 networkrestoreauth.live
 networkrestoresync.live
@@ -7877,6 +7885,7 @@ nodetoolsdev.com
 nodetroubleshoot.online
 nodevalidate.live
 nodevalidate.online
+nodevalidate.tech
 nodevalidation.icu
 nodevalidation.top
 nodevalidator.net
@@ -9178,6 +9187,7 @@ ransoit.com
 rapidexxio.com
 rapidsmartcall.website
 rapidsynco.com
+rarebearmint.com
 rareblobs.com
 rarestable.com
 rari.fund
@@ -9427,6 +9437,7 @@ resyncvalidatelive.com
 resyncvault.site
 resyncweb.online
 resyncwebdapp.com
+resyncwebvalidation.com
 retrievetokens.com
 revaldappwallet.netlify.app
 revalidateconnect.site
