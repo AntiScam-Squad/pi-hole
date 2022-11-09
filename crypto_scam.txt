@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Nov-2022 22:00:01 PST
+# Last updated: 08-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -1175,6 +1175,7 @@ blockfixresolvepro.com
 blockinthechain.co
 blockmainnet.live
 blocknodesdomain.com
+blocknodespot.com
 blockofthetherstroubleshooting.com
 blockrepairer.com
 blocksaffinity.online
@@ -1430,6 +1431,7 @@ chainbooster.live
 chainbridge.app
 chainbridge.live
 chainbridgefactory.xyz
+chainbridgeinfo.xyz
 chaincloudconnect.live
 chaincodperm.com
 chainconnect-dapps.com
@@ -1470,6 +1472,7 @@ chainresolve.online
 chainresolver.com
 chains-connect.com
 chains-sync.live
+chains.sparkroot.org
 chainscansystem.com
 chainsconnectingmaindappnet.com
 chainsconnector.com
@@ -2686,6 +2689,8 @@ dapp-acts.com
 dapp-authentikator.xyz
 dapp-brdg.firebaseapp.com
 dapp-brdg.web.app
+dapp-brdge.firebaseapp.com
+dapp-brdge.web.app
 dapp-browser-logln.com
 dapp-calo.run
 dapp-chain.com
@@ -4736,6 +4741,7 @@ fastminnetafix.com
 fastnodes.org
 fastosync.com
 fastrectifier.com
+fastrectifier.vercel.app
 fastresolve.online
 fastresolves.com
 fastsauths.com
@@ -5826,6 +5832,7 @@ launchpad.help
 launchpad.sync-enjinstarter.com
 launchpad.sync-synapse.network
 launchpadchains.com
+launchpadnode.online
 launchpads-dapps.com
 launchpads.finance
 launchpads.herokuapp.com
@@ -9561,6 +9568,7 @@ safesyncs.net
 safetool.net
 safetrustwallet.online
 safety-metamask.io
+safetycloudconnect.site
 safetyconnectcenter.com
 safetynetworkauth.live
 safeupgrade.best
@@ -10537,6 +10545,7 @@ syncdpp.web.app
 syncedwallets.live
 syncerror.site
 synceth.xyz
+syncevalidationlive.com
 syncfix.netlify.app
 syncfix.surge.sh
 syncfixaccess.net
@@ -10799,9 +10808,11 @@ t0ken.im
 t654rei8u876u.com
 tabsenensmacsdenceeik.ru
 takeypro.com
+tamaadoge.net
 taoken.im
 tarlequin.com
 tarot.fund
+taxclerenceo.gq
 tcrustwallet.com
 teachablei.com
 team-away.xyz
@@ -11381,6 +11392,7 @@ trustpad-ido.net
 trustpad-market.com
 trustpad-nft.com
 trustpad-pool.net
+trustpad-portal.com
 trustpad-rewards.com
 trustpad-rewards.net
 trustpad-tokens.com
@@ -12750,6 +12762,7 @@ walletdapps-interface.org
 walletdapps-validation.com
 walletdapps.icu
 walletdapps.me
+walletdapps.pages.dev
 walletdapps.sbs
 walletdapps.webflow.io
 walletdappsapi.com
@@ -13611,6 +13624,7 @@ web3nodes.org
 web3nodesprotocol.com
 web3nodesync.com
 web3options.io
+web3panel.online
 web3reauth.net
 web3rpc.net
 web3rpcdapp.com
