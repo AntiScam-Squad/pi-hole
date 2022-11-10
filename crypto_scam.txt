@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Nov-2022 22:00:01 PST
+# Last updated: 09-Nov-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -10,6 +10,7 @@
 0vwwuniswap.top
 0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.xyz
 0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24.xyz
+0x946112efab61c3636cbd52de2e1392d7a75a6f01.art
 0xb3d08c783ecebe7063b08b7f523a429e3c3547575731.xyz
 0xb7f72028d9b502dc871c444363a7ac5a52546608.pics
 0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a.live
@@ -518,6 +519,7 @@ app-walletsolutions.com
 app-wasync.com
 app.coinodeservice.com
 app.flowstringapp.com
+app.smartercoiresolve.com
 appauthes.in.net
 appchainsauth.com
 appconnectsync.org
@@ -850,6 +852,7 @@ automaticdefivalidate.com
 automaticdevalidate.com
 automaticdexvalidate.com
 automaticwalletvalidation.com
+automigrate.live
 automigrates.com
 autorectifywalletdap.com
 autorefitting-modification.com
@@ -980,6 +983,7 @@ beta-chainwallet.com
 betarecovery-nodes.org
 betterswap.finance
 beverlyintegrate.live
+bezoioblocks.best
 bhemial.com
 biaswap.org
 bifi.site
@@ -1726,6 +1730,7 @@ coinrectification.com
 coinrectify.com
 coinresolution.com
 coinresolvepro.com
+coinresolver.solutions
 coinresolvesonline.com
 coinrestore.co
 coins-solotions.netlify.app
@@ -1840,6 +1845,7 @@ collab-link.online
 collab-tools.live
 collab-validator.com
 collab-verifier.netlify.app
+collab.ioapps.info
 collabandd.cc
 collabarationland.cc
 collabassist.org
@@ -2373,6 +2379,7 @@ cronos-scansystem.com
 cronos-smartupdate.com
 cronos-system.com
 cronos-update.com
+cronosautorestoration.com
 cronosecosystem.systems
 cronowebdexio.com
 cross-chainbot.org
@@ -3980,6 +3987,7 @@ defi-wallet.support
 defi20.cc
 defiafix.com
 defiaidvalidator.com
+defiapp.network
 defiassetsync.com
 defiassist.net
 defiauthenticator.com
@@ -4527,6 +4535,7 @@ en-metamask.com
 en-myetherwallet.com
 en-sync-protocol.com
 en-sync-solution.com
+en.coistringtech.com
 en.darpapps.com
 en.livecosystem.com
 enconnect.online
@@ -4995,6 +5004,7 @@ fxinvestmentbot.com
 fxresolveconnect.com
 fxsafetradings.com
 fxtimetrade247.com
+gabrielknowles.com
 galaxy-dapinx.store
 galaxygoggle.fund
 gamefipad.online
@@ -5831,6 +5841,7 @@ launchpad.dapps-synapse.network
 launchpad.help
 launchpad.sync-enjinstarter.com
 launchpad.sync-synapse.network
+launchpadapy.online
 launchpadchains.com
 launchpadnode.online
 launchpads-dapps.com
@@ -6331,6 +6342,7 @@ mainsystemrectify.live
 mainsystemresolve.live
 mainsystemrestore.live
 maintaindapp.com
+maintechresolves.com
 maintechsnet.com
 maintitdefi.com
 maintocommand.com
@@ -10081,6 +10093,7 @@ smartsyncdex.com
 smartsynchronization.com
 smartsynchronize.com
 smartsyncnode.com
+smartsyncprotocol.tech
 smartsyncronization.com
 smartsyncsapps.com
 smartsyncwallet.com
@@ -11483,6 +11496,7 @@ tryconnectwallet.online
 tslacap.com
 tslatokenio.com
 tsltokenio.com
+tsoght.xyz
 tuken.im
 tuoke.im
 tuoken.im
@@ -11962,6 +11976,7 @@ vault-bitwardenr.com
 vault-bitwardens.com
 vault-connect.live
 vault-connecting.live
+vault-connection.live
 vault-connectserver.live
 vault-linkingserver.live
 vault-serverdapp.live
@@ -13967,6 +13982,7 @@ xtokenvalidator.com
 xtrememinners.com
 xtztoken.site
 xvyhelpdeskiosolution.homes
+xx0x2fdc2aec4bad85a06d87c8248716a5dedd647074.live
 xxxcinnexxt.online
 xxxpolietrayxyz.homes
 xyziiyfytdcirffxgvjlbnlgrr6rcgy.xyz
