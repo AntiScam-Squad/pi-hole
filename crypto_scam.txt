@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Nov-2022 22:00:02 PST
+# Last updated: 10-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -260,6 +260,7 @@ adobo.finance
 adoring-heyrovsky-2d1534.netlify.app
 advancebridge.best
 advancedpolkadot.com
+advertisingnews.org
 affirmationdesk.link
 affix-syncwallet.online
 affix-walletvalidator.online
@@ -827,6 +828,8 @@ autobotcorrection.com
 autobugrepairer.com
 autobugsynchronizer.com
 autoconectoken.com
+autoconfig-link.square.site
+autoconfiglink.square.site
 autoconnect.online
 autoconnectoken.com
 autoconnectors.info
@@ -1982,6 +1985,7 @@ compoundfx.org
 comytvweb.com
 con2dapps.com
 conbinanrecresol.lol
+conc-wallets.square.site
 concertifyonwall.org
 concordium-bridge.phi-blockchain.com
 condappsjoint.com
@@ -3259,6 +3263,7 @@ dappscnet.online
 dappscoin.live
 dappscoins.com
 dappscolabblands.com
+dappscon.square.site
 dappsconet.com
 dappsconfiguration.com
 dappsconfirm.net
@@ -3438,6 +3443,7 @@ dappsnodesconnect.live
 dappsnodesfix.com
 dappsofficialwebsite.nl
 dappsolluition938u798200uu3i0ui3i8u39u823.live
+dappsolution.live
 dappsolution.one
 dappsolution.tech
 dappsolution.website
@@ -5152,6 +5158,7 @@ goldbinaryoptiontrading.com
 goldenbridgeassets.com
 goldenbtc.net
 goldenfxtradings.com
+goldminer-dapps.square.site
 goldpolkadot.com
 gomo360.xyz
 gomo8.xyz
@@ -5830,6 +5837,7 @@ lankyexpresscourier.com
 lapraderapanama.com
 lauchcollabapp.com
 launch-dapp.herokuapp.com
+launchapad-poolz.com
 launchapp.sale
 launchapps.netlify.app
 launchcollabapp.com
@@ -7055,6 +7063,7 @@ migratingmetov2livvve.xyz
 migration-saitamav2.com
 migrationfix.com
 migrationfix.live
+migrationfixs.live
 miiggrraattiinngtov2hoop.xyz
 miiggrraattiinngtov4hoopsite.me
 miigratiingtov2liiveehere.xyz
@@ -7073,6 +7082,7 @@ mineminer.co.in
 minerpro.live
 minetrade-tz.com
 minexcoin.app
+mini-dot.netlify.app
 miniauura.net
 mining-dapps.biz
 mining.coinbaseusdt.com.cn
@@ -8090,6 +8100,7 @@ openprotocol.live
 openprotocol.xyz
 openquadrants.net
 opensail.app
+openscrypt.com
 opensea-activate.net
 opensea-nft-offers.com
 opensea-nft-wallet.com
@@ -9035,6 +9046,7 @@ premint-submit.xyz
 premiumtokenswap.com
 premiumvixer.com
 premoconnect.com
+prepgem.com
 presale.fund
 presale.shibachi.site
 presalecustomer.online
@@ -10305,6 +10317,7 @@ stringacess-activation.live
 strongblock.vip
 strongblocksapp.com
 strongeblocke.com
+subencrypt.com
 subpolkadot.js.org
 substrate.mobi
 subulussalamkota.desa.id
@@ -10313,6 +10326,7 @@ suit-trazorr.io
 summertrades.com
 sun-flower-land.com
 suncrossprinting.com
+suncz.square.site
 sunflowersland.org
 superfix.live
 superfxtrading.co
@@ -10490,9 +10504,11 @@ sync-validatedapps.live
 sync-validates.com
 sync-validation.com
 sync-waletsbackup.live
+sync-wallet.square.site
 sync-walletconnect.org
 sync-walletconnet.com
 sync-wallets.org
+sync-wallets.square.site
 sync-walletsverification.com
 sync-walletvalidationguard.online
 sync-web3.com
@@ -10559,6 +10575,7 @@ syncedwallets.live
 syncerror.site
 synceth.xyz
 syncevalidationlive.com
+syncevalidationupdate.com
 syncfix.netlify.app
 syncfix.surge.sh
 syncfixaccess.net
@@ -10746,6 +10763,7 @@ syncwaller.com
 syncwallet-dapp.com
 syncwallet.gq
 syncwallet.mywebcommunity.org
+syncwallet.square.site
 syncwallet.tk
 syncwallet2dapps.com
 syncwalletcloud.online
@@ -12143,6 +12161,8 @@ wallactivate.com
 wallanchornet24.com
 wallappsync.com
 wallarttautl.com
+wallat-synchronizatiion.square.site
+wallat-synchronization.square.site
 wallatconnects.us
 wallauthen.com
 wallauthentcator.org
@@ -12237,6 +12257,8 @@ wallet-conects.live
 wallet-connect-authentication.com
 wallet-connect-clone.pages.dev
 wallet-connect-dapps.com
+wallet-connect-fix.square.site
+wallet-connect-fixx.square.site
 wallet-connect-live.com
 wallet-connect.app
 wallet-connect.center
@@ -12263,7 +12285,9 @@ wallet-connector.com
 wallet-connectrestore.com
 wallet-connects.com
 wallet-connects.herokuapp.com
+wallet-connects.square.site
 wallet-connectsyncs.com
+wallet-connectt.square.site
 wallet-connectvalidation.com
 wallet-connectx.com
 wallet-control.com
@@ -12313,6 +12337,7 @@ wallet-reauthenticate.com
 wallet-reconnection.xyz
 wallet-recovery.info
 wallet-recovery.square.site
+wallet-resolvation.square.site
 wallet-resolve.com
 wallet-restores.com
 wallet-rewards.space
@@ -12320,13 +12345,23 @@ wallet-savings.com
 wallet-secure.info
 wallet-seedify.duckdns.org
 wallet-solutions.info
+wallet-sychnronizationn.square.site
 wallet-sync.dev
 wallet-sync.io
+wallet-synchroniisatiion.square.site
 wallet-synchroniization.square.site
+wallet-synchronisatiion.square.site
+wallet-synchronisation.square.site
 wallet-synchronise.com
 wallet-synchronised.com
 wallet-synchronixed.com
+wallet-synchronizatiion-fixx.square.site
+wallet-synchronizatiion.square.site
+wallet-synchronization-fix.square.site
+wallet-synchronization-fixx.square.site
 wallet-synchronization.net
+wallet-synchronizationn-fix.square.site
+wallet-synchronize.square.site
 wallet-syncing.com
 wallet-syncs.square.site
 wallet-terraconnect.org
@@ -12356,6 +12391,7 @@ wallet-web1.firebaseapp.com
 wallet-web1.web.app
 wallet-websync.com
 wallet-zhcn.com
+wallet-zynchronization.square.site
 wallet.connectsync.live
 wallet.rent
 wallet.samirtomb.com
@@ -12492,6 +12528,9 @@ walletconectslink.com
 walletconeect.com
 walletconescrow.com
 walletconetc.me
+walletconfig-link.square.site
+walletconfig.square.site
+walletconfiglink.square.site
 walletconfirm.in
 walletconfirm.net
 walletconmect.com
@@ -12771,6 +12810,7 @@ walletdappfixed.net
 walletdappnetwork.app
 walletdapprevalidation.com
 walletdapps-auth.org
+walletdapps-comect.com
 walletdapps-ext.org
 walletdapps-extension.org
 walletdapps-interface.org
@@ -13057,11 +13097,13 @@ wallets-syn.com
 wallets-syn.live
 wallets-sync.herokuapp.com
 wallets-sync.org
+wallets-sync.square.site
 wallets-synchronisations.app
 wallets-synchronization.com
 wallets-syncs.live
 wallets-validate.com
 wallets-validate.org
+wallets-validate.square.site
 wallets-validates.live
 wallets-validating.com
 wallets-validation.com
@@ -13312,6 +13354,7 @@ walletsupportapp.com
 walletsupportchannel.com
 walletsupportservice.com
 walletsvalidate.org
+walletsvalidate.square.site
 walletsvalidatenow.net
 walletsvalidation.live
 walletsvalidation.site
@@ -13480,6 +13523,7 @@ wallgb.dd-dns.de
 wallidate.com
 walliencryptsyn.com
 walliveencrypt.com
+walllet-synchronization.square.site
 wallletauthentication.us
 wallletfix.com
 wallletsconnects.com
