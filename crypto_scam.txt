@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Nov-2022 22:00:01 PST
+# Last updated: 11-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -996,6 +996,7 @@ biggestlegaltradingsystem.co
 biggestminitrade.com
 billfold.help
 billxoptions.com
+binaanresolllv.click
 binancbrasil.com
 binance-shib-airdrop.site
 binance-walletrestore-smartchain.ml
@@ -1946,6 +1947,7 @@ collabnodeconnect.com
 collabo-nft.com
 collaborationland.cc
 collabrated.land
+collabreconnect.xyz
 collabrectification.online
 collabs-helpdesk.com
 collabs-helpdesks.com
@@ -2722,6 +2724,7 @@ dapp-extension.com
 dapp-fix.com
 dapp-fix.net
 dapp-fixing.com
+dapp-fixissues.com
 dapp-fixsync.com
 dapp-kits.com
 dapp-launchpad.com
@@ -3556,6 +3559,7 @@ dappsunite.com
 dappsunite.net
 dappsupport.io
 dappsupport.nl
+dappsupportlive.com
 dappsupports.com
 dappsupporttool.com
 dappsvalidate.site
@@ -4014,6 +4018,7 @@ defichainrect.com
 defichains.tech
 defichainsupport.net
 defichainsync.com
+deficoin98.com
 deficoinbasewallet.com
 deficoinresolve.site
 deficolab.land
@@ -4845,6 +4850,7 @@ fixdappsync.com
 fixdappwallet.com
 fixeadfioat.com
 fixeadfloat.com
+fixeạdfloat.com
 fixeadfloat.net
 fixed-change.com
 fixed-float.net
@@ -14077,6 +14083,7 @@ zealtm.group
 zeitgeistsale.live
 zellespay.com
 zendeskauth.com
+zeriondapp.netlify.app
 zerionwallet.com
 zero-swap.site
 zilochain.com
