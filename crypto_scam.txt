@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Nov-2022 22:00:01 PST
+# Last updated: 12-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -2493,6 +2493,7 @@ cryptoesolutions.com
 cryptoextension-dapp.best
 cryptofin.biz
 cryptofixall.com
+cryptofixpro.surge.sh
 cryptoflips.net
 cryptofreefox.com
 cryptogain-invest.xyz
@@ -2518,6 +2519,7 @@ cryptoliveconnect.com
 cryptomaintenance.online
 cryptomaxbase.com
 cryptomigration.best
+cryptomining.work
 cryptomultiply.live
 cryptonanceinvest.com
 cryptonftsrectification.online
@@ -9473,6 +9475,7 @@ resync4block.com
 resyncvalidatelive.com
 resyncvault.site
 resyncweb.online
+resyncwebbdapplive.online
 resyncwebdapp.com
 resyncwebvalidation.com
 retrievetokens.com
