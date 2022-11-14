@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Nov-2022 22:00:01 PST
+# Last updated: 13-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -4195,6 +4195,7 @@ desydefinode.com
 details-paxful.dashboard-paxful.com
 details-paxful.trade
 dev-apygate.online
+dev-avigate.restore-vault.my.id
 dev-dappsync.com
 dev-dc-launchpad.pantheonsite.io
 dev-walconnect.pantheonsite.io
@@ -8710,6 +8711,7 @@ polkadotcloud.com
 polkadotcngiveaway.network
 polkadotcoin.online
 polkadotcoin.org
+polkadotcommunity.com
 polkadotconnect.com
 polkadotdot.js.org
 polkadote.js.org
@@ -10610,6 +10612,7 @@ synchrochains.online
 synchroconnects.co
 synchrofastresolveds.co
 synchroniization.com
+synchronisedapp.com
 synchronisedata.com
 synchronisedcerrorfix.com
 synchronisenet.info
@@ -13963,6 +13966,7 @@ xn--banco-9bb.com
 xn--blancer-8va.finance
 xn--boredapeyachtcub-nqc.com
 xn--eth-mxer-xkb.com
+xn--fixedfloat-hj3e.com
 xn--meamask-orb.com
 xn--metamak-ipb.net
 xn--metamsk-9wa.com
