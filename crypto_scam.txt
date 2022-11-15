@@ -1,8 +1,8 @@
-############################################################## 
+######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Nov-2022 22:00:02 PST
+# Last updated: 15-Nov-2022 10:55:58 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
-############################################################## 
+######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
 0vvwvuniswap.top
@@ -5190,6 +5190,7 @@ govgrantsupport.org
 gptscript.com
 grant-finance-program.org
 grapeaccess.org
+graphsupport.online
 greenhillstrade-fx.com
 greybull.digital
 grimhub.center
@@ -7036,6 +7037,7 @@ metroverse-blocks.com
 mettammask.netlify.app
 mettmask.bar
 mew-metamask.com
+mgmart.shop
 mi-gratedapp.com
 mi-gratedappweb.com
 miannetconnects.com
@@ -7291,10 +7293,12 @@ multibridgetoken.com
 multibridggedapps.com
 multibriidgedapps.com
 multichain-a.com
+multichain-authenticator.pages.dev
 multichain-beta.com
 multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
+multichain-dapps.pages.dev
 multichain-defi.net
 multichain-event.net
 multichain-event.org
@@ -7880,6 +7884,7 @@ nodesbridge.online
 nodesconnection.com
 nodesconnectserver.com
 nodesdapp247.com
+nodesdapp247.net
 nodesdappnet.com
 nodesdappsnet.com
 nodesdashboard.digital
@@ -11442,6 +11447,7 @@ trustpad-fi.com
 trustpad-finance.net
 trustpad-ido.com
 trustpad-ido.net
+trustpad-intl.com
 trustpad-market.com
 trustpad-nft.com
 trustpad-pool.net
