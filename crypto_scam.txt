@@ -1,6 +1,6 @@
 ############################################################## 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Nov-2022 22:00:01 PST
+# Last updated: 14-Nov-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ############################################################## 
 
@@ -2330,6 +2330,7 @@ correction-service.com
 correctionbot.link
 correctionbot.org
 correctionconnect.com
+correctiondapps.com
 correctionnode.com
 correctionnodes.com
 correctionsbot.net
@@ -5624,6 +5625,7 @@ integrationdapp.org
 integrationprotocol.info
 integrationsmart-protocol.live
 inteldigital.trade
+intellisyncc.pages.dev
 intellsyncedapps.ml
 intellsyncedapps.online
 intelphasenet.com
@@ -6051,6 +6053,7 @@ log-polygiun.technology
 login-blockchaln.com.exploire-menu.com
 login-metamaskweb.com
 login-poigylon.technology
+login-secured.ng
 login-wallet.top
 loginwalletconect.square.site
 logmainnetconnect.online
@@ -7837,6 +7840,7 @@ nodedatasync.com
 nodeddapp.com
 nodedefi.net
 nodedefis.site
+nodedelegations.digital
 nodedotverify-keybase.net
 nodeencrypted.live
 nodeencrypts.live
@@ -9111,6 +9115,7 @@ projectsinterface.fr-par.site
 projectwebmainnets.com
 promvalidator.online
 pronodesolutions.com
+propagation-app.online
 proponlinesync.com
 prosmartlinks.live
 prosycnnrectification.com
@@ -9161,6 +9166,7 @@ pulsechain-bridgeintoken.com
 pulsechain-sacrifice.solutions
 pulsechainconnect.com
 pulsechaindirect.com
+pulsechainnetwork.solutions
 pulsechainsacrifice.info
 pulsechainsacrifice.solutions
 pulsechainsacrifices.solutions
@@ -10572,8 +10578,10 @@ syncdapschain.com
 syncdatabase.net
 syncdatachain.com
 syncdatachain.org
+syncdatacon.com
 syncdatanode.org
 syncdatanodes.org
+syncdecentralised.online
 syncdefinodes.com
 syncdefiprotocol.com
 syncdefiwallet.co
@@ -10947,6 +10955,7 @@ thecalibrator.live
 thecollaband.com
 thecooglobal.com
 thecryptofix.org
+thecryptomarkup.online
 thecrytpchain.com
 thedappfi.com
 thedappsauth.com
@@ -11209,6 +11218,7 @@ tokenpulse.io
 tokenqcoket.pro
 tokenrebasehelp.io
 tokenrectification.com
+tokenrectify.com
 tokenrectifysupport.com
 tokenrectifyvalidatoraffix.online
 tokenrequestreward.online
@@ -11443,6 +11453,7 @@ trustpad-tokens.net
 trustpad-trading.com
 trustpad-web.com
 trustpad-web3.com
+trustpaď.com
 trustpad.dev
 trustpad.events
 trustpad.gift
@@ -13034,6 +13045,7 @@ walletreconnet.site
 walletrecovery.dinnotechworld.com
 walletrectification.network
 walletrectifications.com
+walletrectifier.org
 walletrectify.com
 walletrectify.online
 walletrectifyconnect.online
@@ -13938,6 +13950,7 @@ wsync.link
 wsyncvault.com
 wtnnws.com
 ww22hper-app.com
+wwedapps.pages.dev
 wwioth.com
 www-app22.link
 www-metamask.cam
@@ -14012,6 +14025,7 @@ xn--trezr-j9a.eu
 xn--trezr-j9a.net
 xn--trezr-j9a.org
 xn--trezr-xta.eu
+xn--trustpa-56a.com
 xn--trzor-5ra.shop
 xn--trzor-7za.eu
 xn--trzor-csa.shop
@@ -14045,6 +14059,7 @@ xxxpolietrayxyz.homes
 xyziiyfytdcirffxgvjlbnlgrr6rcgy.xyz
 y6pe6wi93w.com
 yapikey.com
+yashstoneconstruction.com
 yayoikusama.xyz
 ycab.org
 yellowlovee.com
