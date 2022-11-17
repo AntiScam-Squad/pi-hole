@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Nov-2022 22:00:02 PST
+# Last updated: 16-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -612,6 +612,8 @@ aquilaoption.com
 arbitrum-ecosystems.com
 arbitrumsyseco.com
 arbutrium.com
+arcoplotocol.com
+arcoprotocol.net
 arhamsoft.org
 arkfree.org
 arkinvest-musk.com
@@ -1220,6 +1222,7 @@ bnarectifierer.quest
 bnb-fund.top
 bnb-give.com
 bnbpool.live
+bnxn.xyz
 boasecure-verify.duckdns.org
 bobatamacoin-bonus.online
 boggeb.finance
@@ -2562,6 +2565,7 @@ cryptosynchroniser.cloud
 cryptosyncwallet.link
 cryptosyncwallet.org
 cryptosyncwallet.tech
+cryptotempfix.online
 cryptotoken.be
 cryptotoken.cf
 cryptotoken.exchange
@@ -4866,6 +4870,7 @@ fixedappweb.com
 fixedcoinwallets.com
 fixedconnects.live
 fixeddappscom.com
+fixedfịoat.com
 fixedfleat.com
 fixedfleat.net
 fixedfleot.com
@@ -5841,6 +5846,7 @@ l2racesupremacy.com
 labornyveri.com
 lacasadepapeltoken.org
 laconfianzacoop.com
+lakerssfirmnet.com
 lanav2.com
 landapp.xyz
 landconnecticuts.xyz
@@ -6325,6 +6331,7 @@ mainrectification.com
 mainrectifications.com
 mainrectifier.live
 mainrectify-sync.top
+mainrectify.com
 mainresolvequest.homes
 mains-afixs.online
 mainsaffixsync.online
@@ -7204,6 +7211,7 @@ mobileworldappsstore.xyz
 mobwallet.co
 moderatorchannel.live
 modostance.xyz
+moduleautorestore.com
 modulefix.com
 moduleprotocol.com
 modulesct.com
@@ -7363,6 +7371,7 @@ multidefi-wallet.com
 multidefiapp.com
 multidefichains.com
 multidefiprotocols.com
+multidefisapp.live
 multidefiwallet.io
 multidevconnect.net
 multidevtools.com
@@ -9234,6 +9243,7 @@ raderdefi.live
 raderdefi.xyz
 radiocacaconnect.netlify.app
 ragavio.ro
+rahelesadeghi.ir
 rampad.org
 ransoit.com
 rapidexxio.com
@@ -9557,6 +9567,7 @@ rpcs-allnode.com
 rpcs-allnodes.com
 ru-doc.com
 rulaninfo.com
+rutac.com.co
 rxdappsmainnet.online
 rxomcho.com
 s-conn.netlify.app
@@ -9640,6 +9651,7 @@ satosh-island.com
 sattota.com
 saturnconnect.live
 saveshields.com
+saveshields.online
 saveukr.org
 sbrokerforexpips.com
 sbs303.xyz
@@ -10001,6 +10013,7 @@ smartcoiresolution.com
 smartcoiresolution.net
 smartcoiresolution.pics
 smartcoiresolution.pro
+smartcoiresolutions.live
 smartcoiresolved.com
 smartcoiresolves.com
 smartcoiretechsoluitiion.xyz
@@ -10609,6 +10622,7 @@ synch-connect.com
 synchainweb.site
 synchappconnect.net
 synchauthenticator.com
+synchchaininfo.live
 synchconnect.tk
 synchconnectapp.com
 synchconnects.com
@@ -11457,6 +11471,7 @@ trustpad-rewards.net
 trustpad-tokens.com
 trustpad-tokens.net
 trustpad-trading.com
+trustpad-vc.com
 trustpad-web.com
 trustpad-web3.com
 trustpaď.com
@@ -12034,8 +12049,10 @@ vaultconnect.org
 vaultconnectpost.com
 vaultdefi-nodes.net
 vaultftconnectserver.com
+vaultgateway.info
 vaultseedify.online
 vaultserver.site
+vaultvalue.online
 vaultzdapp.online
 vcoin.digital
 vechainthewallet.org
