@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Nov-2022 22:00:01 PST
+# Last updated: 17-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -251,6 +251,7 @@ adcon-wall.web.app
 addrconnectfix.com
 addressauthenticate.com
 adestrade.com
+adgfuspp0rt.my03.com
 adidas-nft.art
 adidasmint.art
 adieustudio.best
@@ -1387,6 +1388,7 @@ camavan.com
 camelneedlesnft.com
 cancel-txid-1bcgtqqythbkp2-wallet.com
 cancel-txid-1bcgtqqythbkp2f-wallet.com
+canto.netlify.app
 capita1ltradeoption.com
 capital-bittrade.online
 captcha.ms
@@ -1522,6 +1524,7 @@ chainvalidator.tech
 chainwall.org
 chainwallet.42web.io
 chainwalletconnectdapp.com
+channelautoweb.com
 channeldapprestoration.com
 channeldatasync.org
 chargedefi.solutions
@@ -1570,6 +1573,7 @@ claimpolkadot.net
 claimpolkadot.network
 claimpolkadot.org
 claimpresaletokens.live
+claims-aave.com
 claimstation.online
 claimsyn.com
 claimtokenauth.com
@@ -2081,6 +2085,7 @@ connectappsync-syn.com
 connectassists.online
 connectauthsyncs.online
 connectchains.co
+connectchainserver.org
 connectcollab-land.com
 connectcollabland.cc
 connectcollabland.com
@@ -3470,6 +3475,7 @@ dappsoption.xyz
 dappspage.com
 dappsplug.epizy.com
 dappsproconnect.com
+dappsprojectinteractions.com
 dappsprotocol.co
 dappsprotocol.com
 dappsprotocol.io
@@ -4554,6 +4560,7 @@ en-metamask.com
 en-myetherwallet.com
 en-sync-protocol.com
 en-sync-solution.com
+en.assetsapprestore.com
 en.coistringtech.com
 en.darpapps.com
 en.livecosystem.com
@@ -5260,6 +5267,7 @@ holdane.com
 holders-airdrop.info
 holdersverify.online
 holdervalidator.icu
+holdtokensconnect.com
 holiday-rental.online
 holoridebot.online
 holscrape.one
@@ -5300,6 +5308,7 @@ hypernfts.net
 i-blockchainconnect.pages.dev
 i-mtioken.club
 ibarachoir.com
+iccofixx.surge.sh
 icedapeharborclub.com
 ico-sale.com
 icoconnect.org
@@ -5544,6 +5553,7 @@ ingreenwetrust.blog
 initialisation.000webhostapp.com
 initialization.us
 initialize-dapps.com
+initialize-web.net
 initializedapps.site
 initiatewalletconnection.com
 initiialize.000webhostapp.com
@@ -6254,6 +6264,7 @@ mainnetconnectv2.net
 mainnetcorrection.org
 mainnetcryptoinsurance.com
 mainnetdapp.app
+mainnetdapp.com
 mainnetdapp.online
 mainnetdappbot.net
 mainnetdappresolve.com
@@ -7814,6 +7825,7 @@ node-access.live
 node-authrepair.online
 node-bot.me
 node-debug.com
+node-debug.pages.dev
 node-labs.net
 node-modal-validation.com
 node-project.com
@@ -11425,9 +11437,11 @@ trusrtwallets.org
 trussettings.com
 trust-connectwallet.org
 trust-cryptofreetokens.co
+trust-fi.app
 trust-qp.com
 trust-setting.support
 trust-walle.com
+trust-wallet.claims
 trustaidsync.online
 trustair-wallet.com
 trustbots.support
@@ -11457,6 +11471,7 @@ trustpad-dapp.net
 trustpad-event.net
 trustpad-events.net
 trustpad-evm.com
+trustpad-ex.net
 trustpad-fi.com
 trustpad-finance.net
 trustpad-ido.com
@@ -11477,6 +11492,7 @@ trustpad-web3.com
 trustpaď.com
 trustpad.dev
 trustpad.events
+trustpad.fi
 trustpad.gift
 trustprotocol.info
 trustprotocol.online
@@ -11570,6 +11586,7 @@ tvmcj.com
 tw-hm.tel
 twmnftcollectibles.com
 twrectify.com
+twt-claims.com
 tyoken.im
 type5iv.com
 u-veryfication.com
@@ -12048,6 +12065,7 @@ vaultconnect.live
 vaultconnect.org
 vaultconnectpost.com
 vaultdefi-nodes.net
+vaultfix.live
 vaultftconnectserver.com
 vaultgateway.info
 vaultseedify.online
@@ -13757,6 +13775,7 @@ web3walletconnect.net
 web3walletmanager.com.ng
 web3walletsecureprotocol.com
 web3walletsecureprotocols.com
+webadminresolveportal.online
 webappconnection.com
 webappresolution.com
 webapprestore.live
