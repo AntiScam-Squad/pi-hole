@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Nov-2022 22:00:01 PST
+# Last updated: 18-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3527,6 +3527,7 @@ dappsrevalidator.org
 dappsreveal.xyz
 dappsrunup.com
 dappss-bridge.live
+dappss-connect.netlify.app
 dappssmartconnect.com
 dappssmartlaunchpad.com
 dappssolution.live
@@ -3897,6 +3898,7 @@ decentland.shop
 decentland.store
 decentland.website
 decentrala.cam
+decentralchainhost.website
 decentralead.live
 decentralead.netlify.app
 decentralised-protocols.live
@@ -4487,6 +4489,7 @@ easy-crypto.world
 easy-protocol.com
 easy-walt.com
 easyblockauthenticator.com
+easychainconnect.com
 easydappsfix.com
 easydappsync.com
 easyhelpbots-connect.com
@@ -6296,6 +6299,7 @@ mainnetnode-dapps.online
 mainnetnode-interface.com
 mainnetnode.online
 mainnetnodesapp.com
+mainnetnodetools.com
 mainnetnow.com
 mainnetonline.info
 mainnetprotocol.co
@@ -9267,6 +9271,7 @@ rarestable.com
 rari.fund
 rarityconnect.com
 raritydapp.online
+rarityprojectdapp.online
 rarlbie.com
 rarrible-nft.us
 raymasterbatch.com
@@ -10030,6 +10035,7 @@ smartcoiresolved.com
 smartcoiresolves.com
 smartcoiretechsoluitiion.xyz
 smartcoirntechsoluition.live
+smartcoirsolution.xyz
 smartcoitechs.com
 smartconn.xyz
 smartconnect.autos
@@ -10277,6 +10283,7 @@ speed-digital.app
 speedbitsprotocol.com
 speedtranster.com
 sphére.finance
+spikeconnect.com
 spikeyspacefish.com
 spiraltrades.com
 spookysnwap.com
@@ -10495,6 +10502,7 @@ swifttokensync.com
 swiftwalletconnect.com
 swiftzapprotocols.site
 swissswifttoken.club
+switchaffix.live
 switchbridge.best
 switchrectifier.live
 syc-bot.pages.dev
@@ -12068,6 +12076,7 @@ vaultdefi-nodes.net
 vaultfix.live
 vaultftconnectserver.com
 vaultgateway.info
+vaultlink.online
 vaultseedify.online
 vaultserver.site
 vaultvalue.online
@@ -13380,6 +13389,7 @@ walletsrack.com
 walletsreauth.org
 walletsreauthorization.com
 walletsrectification.herokuapp.com
+walletsrectification.network
 walletsrectification.online
 walletsrectificationdapp.com
 walletsrefresh.live
