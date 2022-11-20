@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Nov-2022 22:00:01 PST
+# Last updated: 19-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -6480,6 +6480,7 @@ member-rewards-stake.com
 memberdatacollab.com
 menakim.org
 mercadou.net
+mergedapps.tech
 mergedefi.click
 mergerouter.info
 mergevalidation.com
