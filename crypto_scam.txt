@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Nov-2022 22:00:01 PST
+# Last updated: 20-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -220,6 +220,7 @@ activateswallets.com
 activatesynmainnet.com
 activatewallet.me
 activatewallet.org
+activatewalt.com
 activatingdefiprotocol.com
 activatingmainnet.com
 activatingmymainnet.com
@@ -1527,6 +1528,7 @@ chainwalletconnectdapp.com
 channelautoweb.com
 channeldapprestoration.com
 channeldatasync.org
+channelmanualweb.com
 chargedefi.solutions
 chargedparticles.medium.com.ru
 chargeurswoolusa.com
@@ -2361,6 +2363,7 @@ cosmoioapp.com
 cosmosintegration.com
 cosmoskldznft.com
 cosmostationio.online
+coss.quest
 couturistewalletsupport.com
 cowrabuilders.com.au
 cowswap-token.exchange#
@@ -4886,6 +4889,7 @@ fixedfleat.net
 fixedfleot.com
 fixedfloat.cfd
 fixedfloat.ch
+fixedflȯat.com
 fixedfloat.in.net
 fixedfloat.mom
 fixedfloat.one
@@ -5415,6 +5419,7 @@ importrewards.org
 importsnode.com
 importvalidator.org
 importwallets.com
+impossibledevfi.online
 improvewalletchains.com
 imtokem.bond
 imtoken-3s.xyz
@@ -5832,6 +5837,7 @@ krowfund.network
 kryptoconnect-support.com
 kryptoconnect.live
 kryptoconnectsupport.com
+kryptorectifysurge.online
 ksm-chinese.com
 kubecoln.org
 kucoin-sne.online
@@ -6102,6 +6108,7 @@ luckyblockers.online
 luckydex.xyz
 luna-claim.com
 lunadogetoken.online
+lunakite.com
 lunamoontoken.com
 lunatamatoken.com
 luncdex.org
@@ -7956,6 +7963,7 @@ nodetoautt.com
 nodetooldev.online
 nodetoolsdev.com
 nodetroubleshoot.online
+nodetroubleshoot.pages.dev
 nodevalidate.live
 nodevalidate.online
 nodevalidate.tech
@@ -9707,6 +9715,7 @@ secureassetschain.com
 secureassetsnode.com
 secureauthenticationportal.info
 secureblocknode.com
+securebridge.network
 securebrowsers.co
 securechainlink.com
 securechainnode.net
@@ -10036,6 +10045,7 @@ smartcoiresolved.com
 smartcoiresolves.com
 smartcoiretechsoluitiion.xyz
 smartcoirntechsoluition.live
+smartcoirsolution.site
 smartcoirsolution.xyz
 smartcoitechs.com
 smartconn.xyz
@@ -11523,6 +11533,7 @@ trustswalletrestores.net
 trustsywtch.xyz
 trusttoken.info
 trusttoken.top
+trusttwallet.duckdns.org
 trustval.live
 trustvips.com
 trustwalet.space
@@ -12237,6 +12248,8 @@ wallappsync.com
 wallarttautl.com
 wallat-synchronizatiion.square.site
 wallat-synchronization.square.site
+wallat-synchronizationn.square.site
+wallat-synchronized.square.site
 wallatconnects.us
 wallauthen.com
 wallauthentcator.org
@@ -13031,6 +13044,7 @@ walletmend.com
 walletmerge.site
 walletmerge.tech
 walletmigrateweb3.com
+walletmill.live
 walletmodifier.com
 walletmonero.site
 walletmono.co
@@ -13719,6 +13733,7 @@ web-walletsextensions.com
 web.flowlinksapp.com
 web3-connect.org
 web3-connector.com
+web3-dappmainnet.live
 web3-dapps.org
 web3-ethereum.org
 web3-mainnet.net
@@ -13938,6 +13953,7 @@ westsideblock.center
 wethepeoplenft.io
 weyu.pro
 wfree.digital
+whalepad.net
 whitelist-network.com
 whitelist-reg.click
 whitelist-slot.com
