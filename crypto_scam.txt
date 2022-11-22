@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Nov-2022 22:00:01 PST
+# Last updated: 21-Nov-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -861,6 +861,7 @@ automaticdexvalidate.com
 automaticwalletvalidation.com
 automigrate.live
 automigrates.com
+autonomouscryt.website
 autorectifywalletdap.com
 autorefitting-modification.com
 autorefix.site
@@ -1239,6 +1240,7 @@ bonusandsolution.com
 bonuscriptomoedas.com
 bonushex.com
 bonusservies.com
+boomv2xnode.website
 boostcontractupgrade.best
 bored-ape.us
 boredape-yacht.com
@@ -1707,6 +1709,7 @@ coinhelptechsolution.com
 coinindexmarket.com
 coinkin.org
 coinkit.tech
+coinkzt.com
 coinlee.live
 coinmarket.herokuapp.com
 coinmarketswap.me
@@ -4695,6 +4698,7 @@ ewest.com.au
 exalica.ba
 excelbuy-connect.net
 excelhalonft.net
+exchange-fixedfloat.com
 exchangeconnect.art
 exchangerapp.net
 exchangewllt.com
@@ -5882,6 +5886,7 @@ launchconnectpad.co
 launchdapps.netlify.app
 launchmainnet-sync.com
 launchmywallet.netlify.app
+launchpad-tokensoft.com
 launchpad.dapps-synapse.network
 launchpad.help
 launchpad.sync-enjinstarter.com
@@ -14048,6 +14053,7 @@ xn--banco-9bb.com
 xn--blancer-8va.finance
 xn--boredapeyachtcub-nqc.com
 xn--eth-mxer-xkb.com
+xn--fixedflat-msd.com
 xn--fixedfloat-hj3e.com
 xn--meamask-orb.com
 xn--metamak-ipb.net
