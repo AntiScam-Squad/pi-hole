@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Nov-2022 22:00:01 PST
+# Last updated: 23-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -890,6 +890,7 @@ awdekkk.ml
 awe-scan.web.app
 awesomeapes.info
 awnetcon.com
+awsbridgeliveio.best
 axie-manualvalidation.com
 axieinfinity.site
 axielnfinity.info
@@ -1004,6 +1005,7 @@ billfold.help
 billxoptions.com
 binaanresolllv.click
 binancbrasil.com
+binance-pad.net
 binance-shib-airdrop.site
 binance-walletrestore-smartchain.ml
 binance-walletrestore-smartchain.ml.ultimatefxmarttrade.cf
@@ -1766,6 +1768,7 @@ coinsmartsolutions.live
 coinsmartsolutions.net
 coinsmarttechsolu.xyz
 coinsnationcryptoinsurance.com
+coinsnode.live
 coinsoiluitiiontech.site
 coinsoiluitiontec.live
 coinsoiluitionteconect.xyz
@@ -1779,8 +1782,10 @@ coinsolutiondapp.online
 coinsolutiondesk.com
 coinsolutionnetwork.live
 coinsolutionportal.best
+coinsolutions.firebaseapp.com
 coinsolutions.live
 coinsolutions.site
+coinsolutions.web.app
 coinsolutionsapp.com
 coinsolutionsdapp.com
 coinsolutiontech.app
@@ -2409,6 +2414,7 @@ cross-chainbot001.ddns.us
 cross-chaindapps.org
 cross-chaindefi.org
 crosschain-users.support
+crosschain.click
 crosswebfix.live
 crypsupportmainnet.online
 crypt-unified.top
@@ -3841,6 +3847,7 @@ dargah-sigh.tk
 darnfurnsmacslavecrime.ru
 darp.pics
 darpicsols.com
+darpscentralsfix.com
 darpsupfix.com
 dashboard-metamask.com
 dashboard-online.me
@@ -4006,6 +4013,7 @@ defi-nodeapi.com
 defi-nodetool.com
 defi-nodetools.com
 defi-offchainrects.com
+defi-pad.net
 defi-protocol.icu
 defi-protocol.live
 defi-protocol.net
@@ -4186,6 +4194,7 @@ defiwalletsyn.com
 defiweb-interface.org
 defiwebrectify.org
 defiwebsupport.org
+defixpro.website
 defixrectify.live
 deflkingdom.live
 defo-collab.com
@@ -6001,6 +6010,7 @@ live-applink.in.net
 live-dapp.surge.sh
 live-securevalidator.net
 live-walletaffix.com
+live.assetsrestoreapp.com
 liveactivationwallet.com
 liveappio.com
 liveappsaccess.com
@@ -6407,6 +6417,7 @@ mainsystemrestore.live
 maintaindapp.com
 maintechresolves.com
 maintechsnet.com
+maintecth.org
 maintitdefi.com
 maintocommand.com
 maintoken.org
@@ -7955,6 +7966,7 @@ nodesprotocolaffix.online
 nodesprotocolrestore.online
 nodesrectification.com
 nodessync.online
+nodestaking.live
 nodestring-auth.online
 nodestringfix.site
 nodestringoracle.net
@@ -9525,6 +9537,7 @@ restorerokensyncwalletconnect.com
 restoresmainnet.com
 restoresync.000webhostapp.com
 restoresync.com
+restoresyncguide.com
 restoresynchr.com
 restoresyncr.com
 restoresyncweb.site
@@ -13772,6 +13785,7 @@ web3connection.com
 web3connection.org
 web3connector.com
 web3connectr.com
+web3dapp-mainnet.live
 web3dapp.online
 web3dappsconnect.com
 web3dappstool.com
