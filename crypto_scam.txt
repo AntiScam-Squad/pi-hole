@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-Nov-2022 22:00:01 PST
+# Last updated: 24-Nov-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1700,6 +1700,7 @@ coindappsolliution.xyz
 coindappsync.online
 coindevonlineconnectlive.life
 coindexfinance.com
+coinduck.pro
 coinencrypt.cloud
 coineresolve.cloud
 coinfactory.digital
@@ -6432,6 +6433,7 @@ mainwalletdapps.com
 mainwalletsconnect.online
 mainwalletvalidate.com
 mainwc-sync.online
+mainwebdapp.com
 mainzaffix.com
 maketools.co
 maketools.tech
@@ -9945,6 +9947,7 @@ shielded-chain.com
 shiibaswap.org
 shinainutoken.com
 shinemedia.com.ng
+shinjav2shibnobi.live
 shiryoinu.co
 shizukahariu.com
 shockwave-finance.site
@@ -12809,6 +12812,7 @@ walletconnectlink.net
 walletconnectlive.crystalmining.live
 walletconnectlive.vip
 walletconnectlivevalidation.org
+walletconnectmainet.top
 walletconnectmainnet.com
 walletconnectmainnet.online
 walletconnectme.co
