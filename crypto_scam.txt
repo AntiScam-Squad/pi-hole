@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Nov-2022 22:00:02 PST
+# Last updated: 25-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -328,6 +328,7 @@ allauthorization.online
 allbestwalletupdates.one
 allbestwalletupdates.org
 allbriclge.com
+allchain-usersupport.com
 allchainaccess.com
 allchainconfig.com
 allchaindapps.com
@@ -3965,6 +3966,7 @@ decentralizedtools.net
 decentralizedtools.org
 decentralizedvalidation.com
 decentralizedwalletprotocol.com
+decentralizedwalletprotocols.live
 decentralizedwalletvalidator.online
 decentralizedwebdapp.com
 decentralizedweps.com
@@ -4914,7 +4916,10 @@ fixedfloat.mom
 fixedfloat.one
 fixedfloat.to
 fixedfloatchange.com
+fixedfloatexchange.xyz
+fixedfloathome.xyz
 fixedfloatmirror.com
+fixedfloatswap.xyz
 fixedfoat.org
 fixedlfoat.net
 fixedlfoat.org
@@ -5016,6 +5021,8 @@ flowtechlinks.com
 flowtoken.pro
 flowtoken.space
 flxeadfloat.com
+flxed-float.xyz
+flxedfaot.com
 flxedfloat.live
 flxedfloit.com
 flynnseaters.com
@@ -5599,6 +5606,7 @@ installmetadata.com
 instant-integration.io
 instantautosync.site
 instantcoinsync.xyz
+instantdappfix.net
 instantdexverifications.com
 instantfix.net
 instantfix.org
@@ -5952,6 +5960,7 @@ liiveconnect.com
 limtoken.cc
 lingvalidate.netlify.app
 link-a1ji0hhd9.online
+link-accountvalidate.com
 link-apps.com
 link-bridge.live
 link-protocol.com
@@ -9177,6 +9186,7 @@ project-sparkdapps.net
 projectmainets.xyz
 projectmainn.com
 projectmainnet.netlify.app
+projectnodes.online
 projectpolkadot.com
 projectscriptstore.xyz
 projectsinterface.fr-par.site
@@ -9377,6 +9387,7 @@ rectificationwallets.com
 rectificationweb.com
 rectifierchannel.com
 rectifirierernace.xyz
+rectify-apps.com
 rectify-dapps.com
 rectify-metaspace.com
 rectify-portfolio.online
@@ -11932,6 +11943,7 @@ v2pancakeswap.io
 v2promigration.best
 v2safemoonconsolidation.live
 v2saitama.com
+v2shinjanobi.org
 v2tokenbridge.live
 v2tokenmigration.live
 v2tokenswitch.live
