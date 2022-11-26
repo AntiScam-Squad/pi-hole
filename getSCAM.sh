@@ -33,8 +33,6 @@ echo "==========================================================================
 #git commit -m "Adding latest scam.txt from $host"
 #git push -u origin HEAD
 
-# Adding Slack notification
-#curl -X POST --data-urlencode "payload={\"channel\": \"#phisher\", \"username\": \"webhookbot\", \"text\": \"Pi-hole repo downloaded successfully.\", \"icon_emoji\": \":cool-doge:\"}" https://hooks.slack.com/services/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
 echo "==============================================================================="
 echo "###############################################################################"
 echo "               ██████ ██  ██  █████  █████ ██████ ██████ ██████                "
