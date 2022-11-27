@@ -1,17 +1,6 @@
-<<<<<<< HEAD
-############################################################## 
-<<<<<<< HEAD:scam.txt
-# AntiScamSquad Block list of crypto scam links 
-# Last updated: 18-Oct-2022 22:19:17 PDT
-=======
-# AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Nov-2022 22:00:01 PDT
->>>>>>> b1511caec94ebcd965745e413683f403a1c1e619:crypto_scam.txt
-=======
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Nov-2022 22:00:01 PST
->>>>>>> ae1f4894be8e6280e5c046594c90a6ae9bb58ed3
+# Last updated: 26-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -20,6 +9,7 @@
 0vvwwuniswap.top
 0vwwuniswap.top
 0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.xyz
+0x2f499c6da2c8784063bb7e0cb1c478687210cdbr615.xyz
 0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24.xyz
 0x946112efab61c3636cbd52de2e1392d7a75a6f01.art
 0xb3d08c783ecebe7063b08b7f523a429e3c3547575731.xyz
@@ -2162,6 +2152,7 @@ connectingerrordap.com
 connectingmainnet.com
 connectingwallet.app
 connectingwalletsdapps.com
+connectingweb3dev.cloud
 connectintegrate.net
 connectintegrate.support
 connectintegration.live
@@ -4350,6 +4341,7 @@ digital-smartprotocol.live
 digital-smartsync.live
 digital-synchub.com
 digital-synchub.live
+digitalannex.live
 digitalappsync.online
 digitalassetssolution.com
 digitalauth-repair.online
@@ -4720,6 +4712,7 @@ everydayjanetravel.com
 evidenceconnectwonder.xyz
 evmtoken.xyz
 ewalletretrieval.live
+ewalletsupport.netlify.app
 ewalletvalidators.com
 ewest.com.au
 exalica.ba
@@ -6399,6 +6392,7 @@ mainrectifier.live
 mainrectify-sync.top
 mainrectify.com
 mainresolvequest.homes
+mainresolvetech.com
 mains-afixs.online
 mainsaffixsync.online
 mainsafixx.com
@@ -7394,6 +7388,7 @@ multichainassetscon.net
 multichaincnet.online
 multichainconnect.org
 multichainconnections.org
+multichaindapp.network
 multichainprotocol.com
 multichainregistry.co
 multichains-connect.com
@@ -9643,6 +9638,7 @@ rpconevalidator.app
 rpcrectify.us
 rpcs-allnode.com
 rpcs-allnodes.com
+rteme.xyz
 ru-doc.com
 rulaninfo.com
 rutac.com.co
@@ -10197,6 +10193,7 @@ smartokenfix.com
 smartprotocol-solution.live
 smartprotocol-sync.com
 smartprotocol.digital
+smartprotocols.co
 smartprotocols.xyz
 smartrecfix.xyz
 smartrecsyncauth.xyz
@@ -10554,6 +10551,7 @@ swiftokensfixtools.help
 swiftpeggybox.com
 swiftrectifier.com
 swiftrectifier.online
+swiftresolve.info
 swiftsolutionsapp.com
 swiftstation.net
 swiftsynchronization.com
