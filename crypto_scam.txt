@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Nov-2022 22:00:01 PST
+# Last updated: 27-Nov-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -892,6 +892,7 @@ awdekkk.ml
 awe-scan.web.app
 awesomeapes.info
 awnetcon.com
+awsblocksio.live
 awsbridgeliveio.best
 axie-manualvalidation.com
 axieinfinity.site
@@ -923,6 +924,7 @@ backend-dapps.net
 backendreactiveqr.live
 badapplesiphonerepair.com
 bahamaslandnftmint.com
+baiancer.fi
 bakeryswaper.com
 bakeryswaps.com
 balancer-flnance.com
@@ -930,6 +932,7 @@ balancer.rest
 balancerlp.com
 balancerr.finance
 balderweb.com
+balencer.fi
 bancor-dashboard.network
 bancor-eth.com
 bancor-token.com
@@ -995,6 +998,7 @@ beta-chainwallet.com
 betarecovery-nodes.org
 betterswap.finance
 beverlyintegrate.live
+bezoawblocksio.live
 bezoioblocks.best
 bhemial.com
 biaswap.org
@@ -1535,6 +1539,7 @@ chainwalletconnectdapp.com
 channelautoweb.com
 channeldapprestoration.com
 channeldatasync.org
+channelmanualnode.com
 channelmanualweb.com
 chargedefi.solutions
 chargedparticles.medium.com.ru
@@ -2655,6 +2660,7 @@ curve-fi.live
 curve-fi.shop
 curve-fi.site
 curve-fi.store
+curve-reward.fi
 custodiahull.com
 customdefiresolve.com
 customersupportteam.net
@@ -3882,6 +3888,7 @@ datanetpaths.org
 datanodeschain.org
 datanodeschains.org
 datasyncnet.org
+datasyncsactivate.site
 datavalidator.tk
 datawalletconnect.com
 datawalletconnect.net
@@ -4019,6 +4026,7 @@ defi-nodetool.com
 defi-nodetools.com
 defi-offchainrects.com
 defi-pad.net
+defi-portal.intecilab.com
 defi-protocol.icu
 defi-protocol.live
 defi-protocol.net
@@ -4055,6 +4063,7 @@ defichainrect.com
 defichains.tech
 defichainsupport.net
 defichainsync.com
+deficlaimmint.herokuapp.com
 deficoin98.com
 deficoinbasewallet.com
 deficoinresolve.site
@@ -4220,6 +4229,7 @@ dent-scnn.firebaseapp.com
 dent-scnn.web.app
 deoxanaut.com
 dependantweb3functions.live
+deploysync.pages.dev
 deservedapp.net
 desk-validation.com
 deskcom.cfd
@@ -5913,6 +5923,7 @@ launchapp.sale
 launchapps.netlify.app
 launchcollabapp.com
 launchconnectpad.co
+launchdapps.net
 launchdapps.netlify.app
 launchmainnet-sync.com
 launchmywallet.netlify.app
@@ -12533,6 +12544,7 @@ wallet-web1.web.app
 wallet-websync.com
 wallet-zhcn.com
 wallet-zynchronization.square.site
+wallet.authenticatingmain.network
 wallet.connectsync.live
 wallet.rent
 wallet.samirtomb.com
