@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Nov-2022 22:00:02 PST
+# Last updated: 28-Nov-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3997,6 +3997,7 @@ defcodesk.xyz
 defcolabbland-sync.com
 defi-allinone.net
 defi-api.wixsite.com
+defi-apps.net
 defi-apps.xyz
 defi-appsolution.com
 defi-authentication.com
@@ -5925,6 +5926,7 @@ launchcollabapp.com
 launchconnectpad.co
 launchdapps.net
 launchdapps.netlify.app
+launchdapps.network
 launchmainnet-sync.com
 launchmywallet.netlify.app
 launchpad-tokensoft.com
@@ -9169,6 +9171,7 @@ privacy-wallet.online
 privatemint.space
 privatesync.online
 prixtoconnect.com
+prize-pool.site
 pro-app.org
 pro-cryptopad.com
 pro-earners.com
