@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Nov-2022 22:00:02 PST
+# Last updated: 29-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -11,6 +11,7 @@
 0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.xyz
 0x2f499c6da2c8784063bb7e0cb1c478687210cdbr615.xyz
 0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24.xyz
+0x91af0fbb28aba7e31403cb457106ce79397fd4e6.xyz
 0x946112efab61c3636cbd52de2e1392d7a75a6f01.art
 0xb3d08c783ecebe7063b08b7f523a429e3c3547575731.xyz
 0xb7f72028d9b502dc871c444363a7ac5a52546608.pics
@@ -289,6 +290,8 @@ agroblockchain.live
 aiaai-acs-network.herokuapp.com
 aicconsulting.com.au
 aiconne.com
+air-drop-2022.pw
+air-drop-geko.pw
 air-drops.live
 air-sora.com
 airdrop-exodus10.com
@@ -966,6 +969,7 @@ beetsswap.net
 beetswap.net
 bella-protocol.pw
 bep2.online
+best-air-drop.pw
 best-blog.top
 best-coin.org
 best-restore.com
@@ -1136,6 +1140,7 @@ blockchain-node.pages.dev
 blockchain-nodelab.app
 blockchain-nodeprotocol.com
 blockchain-nodes.net
+blockchain-online-help-web.xyz
 blockchain-phrase.ml
 blockchain-recovery.ml
 blockchain-recovery.tk
@@ -1418,6 +1423,7 @@ ccp-pancakeswop.com
 cdefa.com
 cdex.netlify.app
 ceekdrops.com
+cei0x69af81e73a73b40adf4f3d4223cd9b1ece623074.website
 celernetwork.org
 centraconnect.live
 centralhub.live
@@ -1539,6 +1545,7 @@ chainwalletconnectdapp.com
 channelautoweb.com
 channeldapprestoration.com
 channeldatasync.org
+channelmanualdapp.com
 channelmanualnode.com
 channelmanualweb.com
 chargedefi.solutions
@@ -1620,6 +1627,8 @@ cn59409.tmweb.ru
 cnhind-com.cf
 co-tradex.com
 cobridge-myauth.com
+cocc.homes
+cocc.pics
 cocc.store
 codeartenterprises.com.au
 codebucket.net
@@ -2382,6 +2391,7 @@ cosmosintegration.com
 cosmoskldznft.com
 cosmostationio.online
 coss.quest
+couturistesupport.com
 couturistewalletsupport.com
 cowrabuilders.com.au
 cowswap-token.exchange#
@@ -3940,6 +3950,7 @@ decentralized-launchpad.com
 decentralized-protocol.art
 decentralized-protocol.live
 decentralized-syncprotocol.live
+decentralized-tools.org
 decentralizedchain-support.net
 decentralizedchain.co
 decentralizedchain.live
@@ -3982,6 +3993,7 @@ decentralizedweps.com
 decentralizefix.com
 decentralizenetworkinterface.com
 decentralizesync.com
+decentralprotcols.com
 decentramainnet.com
 decentranodeprotocol.com
 dechainrectify.com
@@ -3989,6 +4001,7 @@ decimoconnect.com
 decisive-crypto.netlify.app
 decline87255-coinbase.com
 declivetrex.com
+decntsupfx.com
 dedappprotocol.online
 deepcoizims-ai.online
 deeplinkbridge-verify.online
@@ -4231,6 +4244,7 @@ dent-scnn.web.app
 deoxanaut.com
 dependantweb3functions.live
 deploysync.pages.dev
+derapp.link
 deservedapp.net
 desk-validation.com
 deskcom.cfd
@@ -4254,6 +4268,7 @@ dev-wcerrorfix.pantheonsite.io
 dev-wcerrorfixertool.pantheonsite.io
 dev-web3dappscollabs.pantheonsite.io
 dev-webconnect-pantheonsite.com
+devcollab.live
 devcollabfix.live
 develon.com
 developercheck.co
@@ -4764,6 +4779,7 @@ extension-metamask.com.tabrizfinance.com
 extension-node.com
 extension.metamask.com.santafarma.com
 extensiondapps.com
+extensionfix.website
 extensionserver.com
 extninfo.com
 extractionexe.link
@@ -5088,6 +5104,7 @@ galaxygoggle.fund
 gamefipad.online
 gamfinode.online
 gamini-wallet.com
+gammadex.net
 gasrefund-otherside.com
 gate-site.xyz
 gaterateway.art
@@ -5442,6 +5459,7 @@ immb-nft.site
 immmtoken.com
 immtoken.xyz
 imotoken.vip
+impactxps.online
 imperialassets.co
 import-erc20-myetherwallet.com
 import.metamask.com.ecdprojects.com.au
@@ -9277,6 +9295,7 @@ punkingnft.com
 puny-crypto.herokuapp.com
 pwawallet-fantom.online
 pwawallet-fantom.pw
+pwtunnelx.000webhostapp.com
 pynthssale.live
 pytoor.pythonanywhere.com
 q2rv.com
@@ -10218,6 +10237,7 @@ smartsconnect.net
 smartsconnect.org
 smartsoilutiontec.live
 smartsollutiontec.live
+smartsollutointech.live
 smartsolutioninterface.info
 smartsolutiontech.live
 smartsolutiontech.pics
@@ -10435,6 +10455,7 @@ stepns.pro
 stepnshoeboxs.com
 steptullnulink.site
 sterkoption.com
+stillapays.netlify.app
 stockmarketlabfx.net
 stockmartinc.com
 stockportfxtrade.com
@@ -10871,6 +10892,8 @@ syncsdatawallet.com
 syncserver-wallet.com
 syncserver.live
 syncservr.com
+syncsnode.firebaseapp.com
+syncsnode.web.app
 syncsnodes.com
 syncsoluctions.xyz
 syncsolution.pro
@@ -11435,6 +11458,7 @@ tomb-finances.xyz
 ton-stn-app.xyz
 tonpocket.com
 tooken.im
+toolapp.online
 toolfix.online
 toolsindustrialsupplies.net
 topdogtokenswap.com
@@ -11473,6 +11497,7 @@ tradingcoinsolution.space
 tradingdappnodes.com
 tradingdappsnode.com
 tradings-view-meta.club
+tradingsignalsdirectltd.com
 trainlife.online
 trainyourentrepreneurialeye.com
 trans-interface.com
@@ -11564,6 +11589,7 @@ trustpad-ido.com
 trustpad-ido.net
 trustpad-intl.com
 trustpad-market.com
+trustpad-multichain.net
 trustpad-nft.com
 trustpad-pool.net
 trustpad-portal.com
@@ -12131,6 +12157,7 @@ validmetawalletfix.online
 validnodes.site
 validsets.space
 validsolutionfix.com
+validsync-connect.com
 validsync.nl
 validwallchain.com
 vallidation.com
@@ -13953,6 +13980,7 @@ webs-nodelinks.com
 webservernode.com
 webservernode.net
 webserversnetworkss.com
+website0x321c680a59083ca7aca76f17f4956e822d6c2ffc23.xyz
 websmartauths.com
 websolveserver.live
 websprotocol.net
