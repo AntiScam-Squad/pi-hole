@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Nov-2022 22:00:01 PST
+# Last updated: 30-Nov-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -841,6 +841,7 @@ autoconectoken.com
 autoconfig-link.square.site
 autoconfiglink.square.site
 autoconnect.online
+autoconnectapp.info
 autoconnectoken.com
 autoconnectors.info
 autoconnectsapp.com
@@ -2604,6 +2605,7 @@ cryptosyncwallet.link
 cryptosyncwallet.org
 cryptosyncwallet.tech
 cryptotempfix.online
+cryptothetop.website
 cryptotoken.be
 cryptotoken.cf
 cryptotoken.exchange
@@ -4284,6 +4286,7 @@ dexbridge.xyz
 dexbridgelink.com
 dexbridgelink.live
 dexbrowserconnect.com
+dexchain.netlify.app
 dexchain.space
 dexchainpad.site
 dexcloudlink.com
@@ -5105,6 +5108,7 @@ gamefipad.online
 gamfinode.online
 gamini-wallet.com
 gammadex.net
+gammaswap.net
 gasrefund-otherside.com
 gate-site.xyz
 gaterateway.art
@@ -5859,6 +5863,7 @@ kks24.vip
 kleanproutah.com
 klever-restores.org
 kleverauthorization.com
+klilopce.xyz
 klimadaov2.finance
 klimadapp.com
 knowmypath.net
@@ -10054,6 +10059,7 @@ smart-protocolfix.live
 smart-resolution.live
 smart-shellshock.live
 smart-shellshocks.live
+smart-switchaffix.live
 smart-switchs.live
 smart-synchronization.com
 smart-syncronization.com
@@ -12184,6 +12190,7 @@ vaultfix.live
 vaultftconnectserver.com
 vaultgateway.info
 vaultlink.online
+vaultrepairs.com
 vaultseedify.online
 vaultserver.site
 vaultvalue.online
