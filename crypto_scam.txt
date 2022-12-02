@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Nov-2022 22:00:01 PST
+# Last updated: 01-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1216,6 +1216,7 @@ blockschaintool.live
 blockschaintools.live
 blocksindex.org
 blockstakweb3.com
+blockstationfixglitch.com
 blocksyncc.live
 blocksynchronizer.com
 blocktopia.co
@@ -2433,6 +2434,7 @@ cross-chainbot.org
 cross-chainbot001.ddns.us
 cross-chaindapps.org
 cross-chaindefi.org
+cross-chainsupport.h-ex.online
 crosschain-users.support
 crosschain.click
 crosswebfix.live
@@ -4004,6 +4006,7 @@ decisive-crypto.netlify.app
 decline87255-coinbase.com
 declivetrex.com
 decntsupfx.com
+dedappp.link
 dedappprotocol.online
 deepcoizims-ai.online
 deeplinkbridge-verify.online
@@ -4467,6 +4470,7 @@ dot4.org
 dot4.tech
 dot4.top
 dotairdrop.co
+dotbsc.link
 dotceo.net
 dotdrop2x.com
 dotevent.io
@@ -4955,6 +4959,7 @@ fixedfloathome.xyz
 fixedfloatmirror.com
 fixedfloatswap.xyz
 fixedfoat.org
+fixedfout.com
 fixedlfoat.net
 fixedlfoat.org
 fixedmainnet.online
@@ -11465,6 +11470,7 @@ ton-stn-app.xyz
 tonpocket.com
 tooken.im
 toolapp.online
+tooldapp.online
 toolfix.online
 toolsindustrialsupplies.net
 topdogtokenswap.com
@@ -13939,6 +13945,7 @@ webdappsconnect.app
 webdappsconnection.com
 webdappslink.com
 webdappsquery.online
+webdappssynchronization.pages.dev
 webdappsvalidate.com
 webdappsvalidate.us
 webdefi.org
