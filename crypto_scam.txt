@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Dec-2022 22:00:02 PST
+# Last updated: 02-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1550,6 +1550,7 @@ channeldatasync.org
 channelmanualdapp.com
 channelmanualnode.com
 channelmanualweb.com
+chargebackbridge.app
 chargedefi.solutions
 chargedparticles.medium.com.ru
 chargeurswoolusa.com
@@ -2040,6 +2041,7 @@ conectwallet.com
 conextension.com
 configdevminter.online
 configmintedapps.life
+configurationdapps.com
 configureallwallets.net
 configurenodes.live
 configvalidate.tk
@@ -2114,6 +2116,7 @@ connectappsonline.com
 connectappsync-syn.com
 connectassists.online
 connectauthsyncs.online
+connectchain.pages.dev
 connectchains.co
 connectchainserver.org
 connectcollab-land.com
@@ -2430,6 +2433,7 @@ cronos-update.com
 cronosautorestoration.com
 cronosecosystem.systems
 cronowebdexio.com
+cross-allchains.com
 cross-chainbot.org
 cross-chainbot001.ddns.us
 cross-chaindapps.org
@@ -2661,6 +2665,7 @@ cryptoweek.ru
 cryptoxrp.org
 cryptoxtmining.com
 cryptoxtoken.xyz
+cryptozerofi.online
 cryptvalidate.com
 crypwex.com
 crytfxpro.com
@@ -5152,6 +5157,8 @@ genesisicu.com
 geniusyieldvalidate.expert
 genopets-verify-connect.in
 genuineauthorizedcryptosupport.com
+genuniqr.firebaseapp.com
+genuniqr.web.app
 genunixt.online
 geomarket.tech
 get-dot.me
@@ -6063,6 +6070,7 @@ little-cronos.com
 littlerabbitintegrated.live
 live-applink.in.net
 live-dapp.surge.sh
+live-ico.com
 live-securevalidator.net
 live-walletaffix.com
 live.assetsrestoreapp.com
@@ -6545,6 +6553,7 @@ matic-wallet.com
 maticchainconnect.com
 maticmigrationfinance.com
 maticsmartconnect.xyz
+maximusdao.net
 maxtokenconnect.co
 maxtool.org
 mcc-holdings.net
@@ -6568,6 +6577,7 @@ member-rewards-stake.com
 memberdatacollab.com
 menakim.org
 mercadou.net
+mergeapps-defi.com
 mergedapps.tech
 mergedefi.click
 mergerouter.info
@@ -7294,6 +7304,7 @@ mobiledappsvalidation.com
 mobiledappsvalidations.com
 mobiledappsync.com
 mobiledappsync.io
+mobilefxchange.org
 mobileimport.net
 mobileintegralswap.com
 mobilenet.cc
@@ -8202,6 +8213,7 @@ onlinesmartverify.com
 onlinesoultionshx.com
 onlinesyncaid.com
 onlinesyncguide.com
+onlinetokencon.website
 onlinevalidationsync.online
 onlinevalldator.com
 onlinewalletverification.dnset.com
@@ -9231,6 +9243,7 @@ progresacr.com
 project-connect.net
 project-dappsconnect.net
 project-sparkdapps.net
+projectintegrationtools.online
 projectmainets.xyz
 projectmainn.com
 projectmainnet.netlify.app
@@ -9767,6 +9780,7 @@ satgurun.net
 satosh-island.com
 sattota.com
 saturnconnect.live
+savannah3.one
 saveshields.com
 saveshields.online
 saveukr.org
@@ -10961,6 +10975,7 @@ syncwldapp.firebaseapp.com
 syncwldapp.web.app
 syncyourapp.info
 syncyourapp.online
+syncyourchain.xyz
 syndefidapp.com
 syndefidapps.com
 syndefinode.com
@@ -12196,6 +12211,7 @@ vaultfix.live
 vaultftconnectserver.com
 vaultgateway.info
 vaultlink.online
+vaultrepair.onrender.com
 vaultrepairs.com
 vaultseedify.online
 vaultserver.site
@@ -12286,6 +12302,7 @@ vitalik-ethupgrade.netlify.app
 vitaliklive.com
 vitals-bridge.com
 vitexlimited.com
+vnxymiigrattiiontechliveweb.homes
 voltconnector.com
 voltinu-migrated.live
 vproblockscan.com
@@ -13841,6 +13858,7 @@ web-walletconnectapp.com
 web-walletsconnect.com
 web-walletsextensions.com
 web.flowlinksapp.com
+web.vaultweblink.site
 web3-connect.org
 web3-connector.com
 web3-dappmainnet.live
