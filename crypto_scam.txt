@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Dec-2022 22:00:01 PST
+# Last updated: 03-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5361,6 +5361,7 @@ honeysvvap.org
 hooki.ng
 host-ethereum.org
 host-node.net
+hotgains.xyz
 hotinvestnow.com
 houseofpixel.com
 hrouvr.com
