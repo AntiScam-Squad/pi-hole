@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Dec-2022 22:00:01 PST
+# Last updated: 04-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1099,6 +1099,7 @@ bitnetworklink.live
 bitproblemresolved.com
 bitprofitinvest.com
 bitrarm.online
+bitseth.io
 bitstarminin.co
 bitstocklivetrading.com
 bitswapme.com
@@ -4117,6 +4118,7 @@ defidappprotocol.com
 defidapps-net.web.app
 defidappsmainnet.com
 defidappsprotocol.online
+defidomain.io
 defiease.net
 defiencrypt.com
 defiencrypt.net
@@ -4886,6 +4888,7 @@ financeappprotocol.online
 financehalix.com
 financepancakeswapcake.ml
 financequity.com
+financeweb.io
 financial-trading.ltd
 fincapitalbank.com
 finddappssolutions.live
@@ -4955,6 +4958,7 @@ fixedfloat.cfd
 fixedfloat.ch
 fixedflȯat.com
 fixedfloat.in.net
+fixedfloat.ltd
 fixedfloat.mom
 fixedfloat.one
 fixedfloat.to
@@ -6578,7 +6582,9 @@ member-rewards-stake.com
 memberdatacollab.com
 menakim.org
 mercadou.net
+mergeapps-dao.com
 mergeapps-defi.com
+mergedapps.net
 mergedapps.tech
 mergedefi.click
 mergerouter.info
@@ -7664,6 +7670,7 @@ myetherwallet.es
 myetherwallet.info
 myetherwallet.us
 myethgateway.xyz
+myflxedfloat.org
 myfreedomlife.org
 myhuaweicloud.com
 myinteli-syncedapps.netlify.app
@@ -11578,6 +11585,7 @@ trust-cryptofreetokens.co
 trust-fi.app
 trust-qp.com
 trust-setting.support
+trust-swap.net
 trust-walle.com
 trust-wallet.claims
 trustaidsync.online
