@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Dec-2022 22:00:01 PST
+# Last updated: 05-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2827,6 +2827,7 @@ dapp-synchronize.com
 dapp-tool.xyz
 dapp-vadilate.tools
 dapp-validator.com
+dapp-validators.com
 dapp-validators.live
 dapp-walletaffix.online
 dapp-wallets.com
@@ -6020,6 +6021,7 @@ link-a1ji0hhd9.online
 link-accountvalidate.com
 link-apps.com
 link-bridge.live
+link-junonetworkvalidate.live
 link-protocol.com
 link-protocols.com
 link-token.com
@@ -12793,6 +12795,7 @@ walletconnect-reload.com
 walletconnect-restore.online
 walletconnect-sale.com
 walletconnect-sefibridge.com
+walletconnect-selfservicevalidation.weebly.com
 walletconnect-service.com
 walletconnect-service.net
 walletconnect-support.com
@@ -12836,6 +12839,7 @@ walletconnect.tel
 walletconnect.tk
 walletconnect.tools
 walletconnect.work
+walletconnect.z13.web.core.windows.net
 walletconnect12.yolasite.com
 walletconnect1331.com
 walletconnect7.yolasite.com
