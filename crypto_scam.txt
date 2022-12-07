@@ -1,10 +1,15 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Dec-2022 22:00:01 PST
+# Last updated: 06-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
+resetdevsynchronized.com
+authenticont.website
+fixedswaps.com
+fixedfloaf.net
+webverif-8554.net
 0vvwvuniswap.top
 0vvwwuniswap.top
 0vwwuniswap.top
@@ -3949,6 +3954,7 @@ decentrala.cam
 decentralchainhost.website
 decentralead.live
 decentralead.netlify.app
+decentralised-protocol.com
 decentralised-protocols.live
 decentralised-refitting.app
 decentralisedcollab.land
@@ -4417,6 +4423,7 @@ digitalwalletchain.com
 digitalwalletconnect.xyz
 digitrecovery.com
 dimenxion.online
+diniance.art
 dinobusdfinace.com
 dip1linker.com
 dipfix.help
@@ -4507,6 +4514,8 @@ dpp-solution.firebaseapp.com
 dpp-solution.web.app
 dppbridge.firebaseapp.com
 dppbridge.web.app
+dppwallet.firebaseapp.com
+dppwallet.web.app
 dpsconn.site
 dragonfly-tools.live
 dragonswap.money
@@ -9333,6 +9342,7 @@ pynthssale.live
 pytoor.pythonanywhere.com
 q2rv.com
 qantasfx.ltd
+qc-project.com
 qcxdapps.com
 qfsledger-security.com
 qfsledgersecv.com
