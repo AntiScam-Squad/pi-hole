@@ -1,15 +1,10 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Dec-2022 22:00:01 PST
+# Last updated: 07-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
-resetdevsynchronized.com
-authenticont.website
-fixedswaps.com
-fixedfloaf.net
-webverif-8554.net
 0vvwvuniswap.top
 0vvwwuniswap.top
 0vwwuniswap.top
@@ -778,6 +773,7 @@ authenticatewalletlive.com
 authenticatewebs.com
 authenticatordapp.sbs
 authenticatordapps.site
+authenticont.website
 authenticwall.xyz
 authenticwb.com
 authenticwebss.com
@@ -1820,6 +1816,7 @@ coinsrecovereyconnects.com
 coinsreward.biz
 coinssolutionrectification.com
 coinstechsolutions.live
+coinsupport.app
 coinsvortexnft.com
 coinswp.exchange
 coinsync.online
@@ -4832,6 +4829,7 @@ fastautheaunthor.live
 fastauthecoin.co
 fastauthecoin.help
 fastauthecoinsolution.org
+fastauthemigrationv2.link
 fastauthes.site
 fastauthfixed.online
 fastauths.com
@@ -4949,6 +4947,7 @@ fixeadfioat.com
 fixeadfloat.com
 fixeạdfloat.com
 fixeadfloat.net
+fixeadfloet.com
 fixed-change.com
 fixed-float.net
 fixedapp.xyz
@@ -4964,6 +4963,7 @@ fixedfl0af.com
 fixedfleat.com
 fixedfleat.net
 fixedfleot.com
+fixedfloaf.net
 fixedfloat.cfd
 fixedfloat.ch
 fixedflȯat.com
@@ -4984,6 +4984,7 @@ fixedlfoat.org
 fixedmainnet.online
 fixedmoment.com
 fixedmoments.com
+fixedswaps.com
 fixemart.online
 fixencrypt.online
 fixerextension.info
@@ -6387,6 +6388,7 @@ mainnetdapps.info
 mainnetdappsconnect.com
 mainnetdappsresolve.online
 mainnetdaps.com
+mainnetdashboard.com
 mainnetdefi.net
 mainnetdev.live
 mainnetextension.com
@@ -8942,6 +8944,7 @@ polkadotstaking.com
 polkadotstaking.live
 polkadotsubstrate.js.org
 polkadotswallet.website
+polkadotswap.online
 polkadottechnology.com
 polkadottii3.co.uk
 polkadottoken.live
@@ -9548,6 +9551,7 @@ rephrasesynchronization.com
 requestpoint.site
 reseolveprotocols.com
 resetcnt.com
+resetdevsynchronized.com
 resetlaunchdapp.com
 resolbinan.shop
 resolution-mainnet.live
@@ -10127,6 +10131,7 @@ smartchainextension.com
 smartchains.site
 smartchainspro.com
 smartchainsync.com
+smartcoi.live
 smartcoiapp.com
 smartcoiintechsollution.xyz
 smartcoiintechsollutionn.me
@@ -11643,6 +11648,8 @@ trustpad-pool.net
 trustpad-portal.com
 trustpad-rewards.com
 trustpad-rewards.net
+trustpad-swap.com
+trustpad-swap.net
 trustpad-tokens.com
 trustpad-tokens.net
 trustpad-trading.com
@@ -14070,6 +14077,7 @@ webvalidationprotocol.netlify.app
 webvalidator-interface.net
 webvalidator.co
 webvalidauth.com
+webverif-8554.net
 webwallet-authntication.us
 webwallet-interface.com
 webwallet-interface.live
