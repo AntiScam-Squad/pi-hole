@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Dec-2022 22:00:01 PST
+# Last updated: 10-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -864,6 +864,7 @@ autoethcalibrator.com
 autofixbug.site
 autofixmyblock.com
 autofixpermit.com
+autohelpfix.com
 automatedauth.com
 automatedfix.online
 automaticdappsvalidator.com
@@ -4789,6 +4790,7 @@ eversgrowcoin.com
 everycryptotoken.com
 everydayjanetravel.com
 evidenceconnectwonder.xyz
+evmfixtools.com
 evmtoken.xyz
 ewalletretrieval.live
 ewalletsupport.netlify.app
@@ -5714,6 +5716,7 @@ instantautosync.site
 instantcoinsync.xyz
 instantdappfix.net
 instantdexverifications.com
+instantfix.live
 instantfix.net
 instantfix.org
 instantfixedfloat.com
@@ -14051,6 +14054,7 @@ webconnectdapps.com
 webconnectingwallets.net
 webconnectliive.com
 webconnectroute.com
+webconnects.online
 webconns.com
 webdapp-syncs.com
 webdappassistance.com
