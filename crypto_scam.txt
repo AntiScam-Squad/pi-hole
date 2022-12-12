@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Dec-2022 22:00:01 PST
+# Last updated: 11-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -194,6 +194,7 @@ account-servicesc.com
 account-updatesc.com
 accountresolvesdapp.pages.dev
 accountresult.site
+accounts-markets.online
 accountsre-validator.com
 accountsresolvecenter.webflow.io
 accountsvalidator.com
@@ -276,6 +277,7 @@ affixactivation.org
 affixappsolution.com
 affixchain.xyz
 affixfarm.com.ng
+affixfixxensync.live
 affixkawaiimainnet.com
 affixlive-wallets.com
 affixmain.online
@@ -291,6 +293,7 @@ agrapackaging.com
 agroblockchain.live
 aiaai-acs-network.herokuapp.com
 aicconsulting.com.au
+aichainrpc.live
 aiconn.live
 aiconne.com
 air-drop-2022.pw
@@ -2452,6 +2455,7 @@ cross-chainbot001.ddns.us
 cross-chaindapps.org
 cross-chaindefi.org
 cross-chainsupport.h-ex.online
+cross-userchain.com
 crosschain-users.support
 crosschain.click
 crosswebfix.live
@@ -2853,6 +2857,7 @@ dapp-walletverify.com
 dapp2.xyz
 dapp2022connect.web.app
 dapp3-usdc.xyz
+dapp3web.com
 dappaccess-activation.com
 dappaccess.net
 dappactions.com
@@ -4465,6 +4470,8 @@ directmergedappslinkup.com
 directvalidator.com
 disable-us1.com
 disapprove-login.com
+discord-acc.com
+discord-accounts.ru
 discord-nitro-best.com
 discordappinvite.com
 discordrectify.com
@@ -7269,6 +7276,7 @@ migration-saitamav2.com
 migrationfix.com
 migrationfix.live
 migrationfixs.live
+migrationsfix.live
 miiggrraattiinngtov2hoop.xyz
 miiggrraattiinngtov4hoopsite.me
 miigratiingtov2liiveehere.xyz
@@ -8009,6 +8017,7 @@ node-modal-validation.com
 node-project.com
 node-resolve-all-defi-setup.com
 node-revalidation.online
+node-sc.com
 node-secured.com
 node-syncs.com
 node-tool.info
@@ -9185,6 +9194,8 @@ polkastertar.finance
 polkastertar.io
 polkastertarcom.info
 polkastorter.com
+polkastqrter.com
+polkastqrtter.com
 polkastrarter.com
 polkastrater.info
 polkaswap.info
@@ -9714,6 +9725,7 @@ resyncwebbdapplive.online
 resyncwebdapp.com
 resyncwebvalidation.com
 retrievetokens.com
+retriv-discount.ru
 revaldappwallet.netlify.app
 revalidateconnect.site
 revalidatedapps.com
@@ -10111,6 +10123,7 @@ shinjav2shibnobi.live
 shiryoinu.co
 shizukahariu.com
 shockwave-finance.site
+shrioblocks.live
 siatamask.com
 siayu.indramayukab.go.id
 sienna.medium.com.ru
@@ -10225,6 +10238,7 @@ smartcointechsolution.click
 smartcointechsolution.com
 smartcointechsolution.info
 smartcointechsolution.live
+smartcointechsolution.site
 smartcointechsolution.us
 smartcointechsolution.xyz
 smartcointechsoluxyz.store
@@ -11584,6 +11598,7 @@ toolapp.online
 tooldapp.online
 toolfix.online
 toolsindustrialsupplies.net
+top-discord.com
 topdogtokenswap.com
 topforexcrypto.com
 toplaser.com.au
