@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Dec-2022 22:00:02 PST
+# Last updated: 13-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -537,6 +537,7 @@ app-wallets-restore.net
 app-wallets.ml
 app-walletsolutions.com
 app-wasync.com
+app.astarsnetworks.com
 app.coinodeservice.com
 app.flowstringapp.com
 app.smartercoiresolve.com
@@ -5125,6 +5126,7 @@ fixresolvepro.com
 fixsaccessync.com
 fixsdefi.com
 fixserv.live
+fixsmartco.in
 fixsupport.live
 fixsynsurge.com
 fixtechdapps.com
@@ -6517,6 +6519,7 @@ mainnethub.app
 mainnethub.com
 mainnethub.org
 mainnethub.pages.dev
+mainnethubs.pages.dev
 mainnetinsurance.com
 mainnetintegration.net
 mainnetintegration.org
@@ -7501,6 +7504,7 @@ moonbeam-sale.com
 moonbeam-update.com
 moonbeam.ink
 moonbeam.link
+moonbeamapi.app
 moonbeamc.foundation
 moonbeamconnect.com
 moonbeamstaking.com
@@ -11350,6 +11354,7 @@ thepolkadot.io
 thepolkadot.online
 thepolkadot.org
 thepolkadotgroup.com
+thepolkingdot.site
 theprimeapeplanetmint.com
 therepairer.center
 therestoreservices.com
