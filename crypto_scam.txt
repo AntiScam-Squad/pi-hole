@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Dec-2022 22:00:02 PST
+# Last updated: 14-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -284,6 +284,7 @@ affixlive-wallets.com
 affixmain.online
 affixs-snyc.online
 affixserve-activation.com
+affixsswitch.live
 affixstoken.com
 affixstring.online
 affixsync.com
@@ -3305,6 +3306,7 @@ dapps-validator.online
 dapps-validator.org
 dapps-verification.com
 dapps-verifier.com
+dapps-wallet-connect.netlify.app
 dapps-walletconnect.tech
 dapps-walletconnectprotocol.link
 dapps-walletintegrator.app
@@ -4136,6 +4138,7 @@ defi-validate.firebaseapp.com
 defi-validate.web.app
 defi-validation.com
 defi-wallet.support
+defi.hpco.ps
 defi20.cc
 defiaccessprotocol.com
 defiafix.com
@@ -4912,6 +4915,7 @@ farmtether.com
 fashion.blog
 fast-auth.com
 fast-autheswallet.org
+fast-dapp.site
 fast-wallet-fix.xyz
 fast-walletconnect.com
 fastappsolutions.com
@@ -4959,6 +4963,8 @@ fastsms.com.ng
 fastsolutionsapp.com
 fastsynchronization.com
 fastwebprotocol.com
+fearlesswallet-desktop.io
+fearlesswallet.app
 fearlesswalletdesktop.io
 ferrum-network.site
 festive-knuth-9ba589.netlify.app
@@ -7481,7 +7487,9 @@ mobwallet.co
 moderatorchannel.live
 modostance.xyz
 moduleautorestore.com
+moduledapp.com
 modulefix.com
+modulefix.online
 moduleprotocol.com
 modulesct.com
 moduleweb3.com
@@ -8091,6 +8099,7 @@ node-bot.me
 node-debug.com
 node-debug.pages.dev
 node-labs.net
+node-main.live
 node-mainnet.online
 node-modal-validation.com
 node-project.com
@@ -10697,6 +10706,7 @@ substantialerrorlogs.com
 substantiateerrorlog.com
 substrate.mobi
 subulussalamkota.desa.id
+subwallet.online
 suguniport.org.ng
 suit-trazorr.io
 summertrades.com
@@ -14413,6 +14423,9 @@ xcoinsea.com
 xcrosssupport.center
 xcube.online
 xdapp.xyz
+xencrypto.live
+xencrypto.solutions
+xenmint.network
 xgghif.xyz
 xii.jp
 xintelli-syncapps.netlify.app
