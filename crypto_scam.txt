@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Dec-2022 22:00:02 PST
+# Last updated: 15-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -427,6 +427,7 @@ alquebyhotel.com
 altchains-beta.online
 altdexbridge.live
 alterdappasync.com
+altsupport.center
 altsupport.tools
 alwaysnode.com
 amara.finance
@@ -625,6 +626,7 @@ appwalletnetwork.com
 appwalletsolution.xyz
 appwonderlandmoney.org
 aptosıabs.com
+apygate.com
 apyinterphase.online
 apynodeconnect.xyz
 apynodesecured.online
@@ -729,6 +731,7 @@ auth-server-login.com
 auth-walletconnect.cc
 auth-walletconnect.com
 auth-walletdapps.com
+auth-wallets.netlify.app
 auth-webconnect.net
 auth-webs.com
 auth.app-connect.io
@@ -2333,9 +2336,11 @@ connectwallet-kucoin.ml
 connectwallet.co.in
 connectwallet.digital
 connectwallet.ipq.co
+connectwallet.lnkwaco.live
 connectwallet.me
 connectwallet.ml
 connectwallet.onrender.com
+connectwallet.sh
 connectwallet.site
 connectwallet.space
 connectwallet.systems
@@ -2411,6 +2416,7 @@ conwallets.com
 conwallt-meta.com
 coojoint.com
 copolkadot.js.org
+cordium-app.com
 corectionsbot.net
 coreumlive.co
 corewallet.icu
@@ -3464,6 +3470,7 @@ dappserveraccess.net
 dappserverconnect.com
 dappservers.online
 dappservice.org
+dappservice.xyz
 dappservices.online
 dappsextension.com
 dappsfi.online
@@ -4838,6 +4845,7 @@ ethswiftrecon.net
 ethsynchronizer.com
 ethtake2022.net
 ethx2xxevent.com
+etrustsync.com
 eurotoken.live
 event-metapad.com
 event-metapad.org
@@ -5408,6 +5416,7 @@ gotcoinwallet.com
 govgrantsupport.org
 gptscript.com
 grant-finance-program.org
+grantsynchronizationtech.com
 grapeaccess.org
 graphsupport.online
 greenhillstrade-fx.com
@@ -9993,6 +10002,7 @@ scoreencrypt.com
 scourcloud.com
 scyn-walletsbackup.com
 scyn-walletsecure.com
+sdigital-mainethub.live
 seamless-swift.herokuapp.com
 sec-tool.net
 secconnect-dapp.herokuapp.com
@@ -10356,6 +10366,7 @@ smartcoirntechsoluition.live
 smartcoirsolution.site
 smartcoirsolution.xyz
 smartcoitechs.com
+smartcondapp.online
 smartconn.xyz
 smartconnect.autos
 smartconnect.exchange
@@ -10427,6 +10438,7 @@ smartlinkrectifier.info
 smartlivechain.com
 smartliveconnect.org
 smartliveioapps.com
+smartlivesconnects.org
 smartmainnetsync.com
 smartmainsrestore.com
 smartmatchconnect.com
@@ -10541,6 +10553,7 @@ sohochain-protocol.live
 sol-communities.org
 solan-dapp.com
 solan-nftmint.com
+solana-web3wallet.com
 solanaclassic.io
 solanaclubsystem-net.web.app
 solanalink.live
@@ -10563,6 +10576,7 @@ solution-fix.com
 solution-fix.online
 solution-fixhub.live
 solution-servers.online
+solution-tool.info
 solutionandsync.org
 solutionapp.online
 solutionapp.org
@@ -11741,6 +11755,7 @@ trade-uniswap.com
 trade-verified.com
 tradecryptolab.000webhostapp.com
 tradeddapp.org
+tradeelicit.com
 tradefidel-defi.net
 trader-joexyz.biz
 traderdesk.org
@@ -11812,11 +11827,13 @@ trust-wallet.claims
 trust-wallet.com.cn
 trustaidsync.online
 trustair-wallet.com
+trustassetssynchronization.com
 trustbots.support
 trustconnectdapps.com
 trustconnectdapps.online
 trustcwallet.com
 trustdappconnect.com
+trustdapps.live
 trustdapps.net
 trustdappsmainnet.online
 trustdappswallet.com
@@ -12819,6 +12836,7 @@ wallet-synchronizationn-fix.square.site
 wallet-synchronize.square.site
 wallet-syncing.com
 wallet-syncs.square.site
+wallet-termscondition.com
 wallet-terraconnect.org
 wallet-token.com
 wallet-token.net
@@ -13053,6 +13071,7 @@ walletconnect.cf
 walletconnect.cm
 walletconnect.com.cn
 walletconnect.educationfranchisee.com
+walletconnect.epizy.com
 walletconnect.ga
 walletconnect.gq
 walletconnect.hillsfinancialservice.com
@@ -14567,6 +14586,7 @@ zendeskauth.com
 zeriondapp.netlify.app
 zerionwallet.com
 zero-swap.site
+zextsupports.com
 zhifeijimx.com
 zilochain.com
 zinotiger.com
