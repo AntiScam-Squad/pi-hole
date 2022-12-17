@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Dec-2022 22:00:01 PST
+# Last updated: 16-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -314,6 +314,7 @@ airdropmaster.finance
 airdrops.fun
 airdropsdao.org
 airdroptrust.xyz
+airdropwalletapp.pages.dev
 airdropwalletconnect.org
 airesolution.live
 airswallets.com
@@ -343,6 +344,7 @@ allauthorization.online
 allbestwalletupdates.one
 allbestwalletupdates.org
 allbriclge.com
+allchain-userssupport.com
 allchain-usersupport.com
 allchainaccess.com
 allchainconfig.com
@@ -735,6 +737,7 @@ auth-wallets.netlify.app
 auth-webconnect.net
 auth-webs.com
 auth.app-connect.io
+auth.chainsolution.site
 authappsolvedapps.com
 authappsvault.com
 authassets.icu
@@ -5970,6 +5973,7 @@ jpolkadot.js.org
 juicy-opikeses.org.ua
 junonetwork.net
 justconn.online
+justifieddappfix.com
 juwerii.com
 juzztoken.com
 kabyarenadev.com
@@ -10472,6 +10476,7 @@ smartrecsyncauth.xyz
 smartrectification.org
 smartrectify.com
 smartresolutioncoindec.live
+smartresolve-fix.live
 smartsconnect.net
 smartsconnect.org
 smartsoilutiontec.live
@@ -10643,6 +10648,7 @@ stackchainledger.com
 stackkerapp.com
 stackledgerchain.com
 stacks-walletconnect.com
+staging-connect.collab.land
 stake-allnodes.network
 stake-eth.org
 stake-ether.org
@@ -11282,6 +11288,7 @@ technicalextenstions.online
 technicalvalidator.pw
 techsmainapp.com
 techsolutionagent.com
+techsuportter.000webhostapp.com
 techvantageapps.com
 teddybearsquad.org
 teddybearsquads.com
