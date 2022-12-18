@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Dec-2022 22:00:01 PST
+# Last updated: 17-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -376,6 +376,7 @@ allinone-dapps.org
 allinone-defi.net
 allinone-services.net
 allinonesync.com
+allmainconnect.org
 allmainnetdapps.com
 allmultidigital.com
 allnetsync.com
@@ -2120,6 +2121,7 @@ connect-dapps.org
 connect-dappssync.com
 connect-ecosystem.com
 connect-en.link
+connect-eth.site
 connect-finance.online
 connect-mainnet.ddns.us
 connect-mainnet01.ddns.us
@@ -2418,6 +2420,7 @@ conversetek.xyz
 conwallets.com
 conwallt-meta.com
 coojoint.com
+copiersolutionsmigrate.live
 copolkadot.js.org
 cordium-app.com
 corectionsbot.net
@@ -3247,6 +3250,7 @@ dapps-multichain.com
 dapps-node.link
 dapps-node.mavsm.com
 dapps-node.org
+dapps-nodebox.online
 dapps-nodes.io
 dapps-nodes.tech
 dapps-nodetools.com
@@ -3650,6 +3654,7 @@ dappsreveal.xyz
 dappsrunup.com
 dappss-bridge.live
 dappss-connect.netlify.app
+dappsscan.com
 dappssmartconnect.com
 dappssmartlaunchpad.com
 dappssolution.live
@@ -4117,6 +4122,7 @@ defi-connector.info
 defi-connects.com
 defi-cronos.com
 defi-cronos.net
+defi-dao.org
 defi-dapp-resolution.org
 defi-dapps-resolution.org
 defi-dexvalidate.com
@@ -4751,6 +4757,7 @@ encryptednode.online
 encryptedprotocol.com
 encryptedprotocol.herokuapp.com
 encryptedsync.com
+encryptedwalletconnect.com
 encryptodapps.com
 encryptodapps.pages.dev
 encryptodesk.com
@@ -5140,6 +5147,7 @@ fixprotocol.solutions
 fixprotocols.com
 fixprotocols.org
 fixresolvepro.com
+fixresolvetech.live
 fixsaccessync.com
 fixsdefi.com
 fixserv.live
@@ -6436,6 +6444,7 @@ mainetfix.com
 mainetfix.online
 mainetintegration.com
 mainetissue.com
+mainetlinked.com
 mainetmerge.info
 mainetnodes.com
 mainetnodesfix.live
@@ -7575,6 +7584,7 @@ multi-rectifier.com
 multi-signates.com
 multi-signature.org
 multi-signatures.com
+multi-wc-sync.online
 multialignfix.com
 multialignfix.site
 multibotconnector.co
@@ -8113,6 +8123,7 @@ node-debug.com
 node-debug.pages.dev
 node-labs.net
 node-main.live
+node-mainnet.link
 node-mainnet.online
 node-modal-validation.com
 node-project.com
@@ -8522,6 +8533,7 @@ outerring-bonus.online
 outrightchain.site
 ouyi-tweb3.com
 ouyi-web3.com
+overlord-collabland.com
 owners-verify.com
 oxy.dev
 p-stkconn.online
@@ -9185,6 +9197,7 @@ polkastartel.com
 polkastarter-activator.com
 polkastarter-app.com
 polkastarter-breeder.netlify.app
+polkastarter-connect.com
 polkastarter-n.com
 polkastarter-project.online
 polkastarter-projects.com
@@ -9651,6 +9664,7 @@ rectificationwallets.com
 rectificationweb.com
 rectificationwebpage.online
 rectifierchannel.com
+rectifierprotocol.live
 rectifirierernace.xyz
 rectify-apps.com
 rectify-dapps.com
@@ -10325,6 +10339,7 @@ smartcoiintechsollution.xyz
 smartcoiintechsollutionn.me
 smartcoiirnresolve.info
 smartcoiirnsolutiiont.live
+smartcoinmigrate.live
 smartcoinnsoiltuion.live
 smartcoinresolvetec.info
 smartcoinresolvetec.live
