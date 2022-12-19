@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Dec-2022 22:00:02 PST
+# Last updated: 18-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -437,6 +437,7 @@ amara.finance
 amazoniarainforestprotectiontoken.com
 amhof.com.au
 amodosecurityservices.org
+amplifyapp.com
 amwmarket.com
 anchoeprotoccol.com
 anchorappweb.com
@@ -1177,6 +1178,7 @@ blockchain-recovery.tk
 blockchain-sync.netlify.app
 blockchain-token-visualization.com
 blockchain-validator.com
+blockchain-wallet-login.com
 blockchain-wallet-verification.com
 blockchain-walletconnect.com
 blockchain-wallets-connect.cf
@@ -2423,6 +2425,7 @@ coojoint.com
 copiersolutionsmigrate.live
 copolkadot.js.org
 cordium-app.com
+core-krypto.com
 corectionsbot.net
 coreumlive.co
 corewallet.icu
@@ -2730,6 +2733,7 @@ cryptoxtmining.com
 cryptoxtoken.xyz
 cryptozerofi.online
 cryptsyncs.com
+cryptvali.cloud
 cryptvalidate.com
 crypwex.com
 crytfxpro.com
@@ -2760,7 +2764,6 @@ cyclopsvalidate.live
 cyncollabnet.com
 cyrptsync.net
 d-proapps.com
-d3bh89dd6mad4t.amplifyapp.com
 daapauthentication.com
 daapchainlink.live
 daappconnections.com
@@ -5209,6 +5212,7 @@ flxedfloat.live
 flxedfloit.com
 flynnseaters.com
 flysell.com
+fmg-limited.com
 foken.im
 fomaxasset.club
 foodmoodnft.io
@@ -5483,6 +5487,7 @@ hitchwallet.com
 hiveblockchain.live
 hivechainblock.com
 hiveonrectify.online
+hnafaw.com
 hodldefconnections-fixed.live
 hodldefconnections-nodes.live
 hodldefvalidation-nodes.live
@@ -5492,6 +5497,7 @@ hodltrustconnections-fixed.live
 hoistcoins.net
 holdane.com
 holders-airdrop.info
+holders-tokens.com
 holdersverify.online
 holdervalidator.icu
 holdtokensconnect.com
@@ -7377,6 +7383,7 @@ migratiionislivenowmigratetov2here.xyz
 migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
 migration-saitamav2.com
+migrationchain.site
 migrationfix.com
 migrationfix.live
 migrationfixs.live
@@ -7549,6 +7556,7 @@ moonswaptoken.com
 moonwarpre-sale.live
 mooonriver.network
 moox.pro
+moralisfundings.online
 moreonnft.com
 motionless-platform.000webhostapp.com
 mountainchaletquilting.com.au
@@ -8984,6 +8992,7 @@ polkadot-promo.info
 polkadot-promo.net
 polkadot-q86nz68f.js.org
 polkadot-reward.network
+polkadot-rewards.network
 polkadot-support.com
 polkadot-token.network
 polkadot-wallet.com
@@ -9270,6 +9279,7 @@ polkastarter.sa.com
 polkastarter.social
 polkastarter.solar
 polkastarter.solutions
+polkastarter.space
 polkastarter.stream
 polkastarter.study
 polkastarter.supply
@@ -9506,6 +9516,7 @@ protofix.co
 protonmailcm.com
 protonmailcom.com
 protonscanner.com
+protronx.top
 proultranft.com
 provide-mint.sbs
 ptsupamratbk.com
@@ -9845,6 +9856,7 @@ resync4block.com
 resyncvalidatelive.com
 resyncvault.site
 resyncweb.online
+resyncwebbdapp.online
 resyncwebbdapplive.online
 resyncwebdapp.com
 resyncwebvalidation.com
@@ -10080,6 +10092,7 @@ securedappssystem.com
 securedappsystem.com
 securedappwallets.net
 securedauthlink.com
+securedcixicc.com
 securedconnect.ga
 securedconnectfix.com
 securedconnectfixtool.com
@@ -10116,6 +10129,7 @@ securedweb3wallet.com
 securedweblinks.com
 securedwebportocol.tech
 securedwebsync.com
+secureencryption.xyz
 secureencryptionaccess.com
 secureencryptionaccess.org
 securefxtrade.org
@@ -10719,6 +10733,7 @@ stepnactivties.com
 stepnapps.com
 stepncom.space
 stepnconnection.xyz
+stepndappsactivation.pages.dev
 stepns.pro
 stepnshoeboxs.com
 steptullnulink.site
@@ -10875,6 +10890,7 @@ swissswifttoken.club
 switchaffix.live
 switchbridge.best
 switchrectifier.live
+switchsmartnetwork.website
 syc-bot.pages.dev
 syc-walletsconnect.info
 sychrofchains.xyz
@@ -11011,6 +11027,7 @@ syncfixaccess.net
 syncfixdapp.com
 syncfixit.com
 synch-connect.com
+synchain.site
 synchainweb.site
 synchappconnect.net
 synchauthenticator.com
@@ -11395,6 +11412,7 @@ thehumaniod.com
 themainnetconnect.online
 themetalord.net
 themetamask.io
+thenodeconfig.online
 theopendao.app
 thepolkadot.io
 thepolkadot.online
@@ -13864,6 +13882,7 @@ walletsvalidate.org
 walletsvalidate.square.site
 walletsvalidatenow.net
 walletsvalidation.live
+walletsvalidation.netlify.app
 walletsvalidation.site
 walletsvalidation.webflow.io
 walletsvalidationapp.com
@@ -14085,6 +14104,7 @@ watchonlywallet.com
 watodco.com
 wavesexchangeapp.com
 wb3dapp.com
+wbotsupport.glitch.me
 wbsbinan.com
 wc-connect.info
 wc-connect.live
