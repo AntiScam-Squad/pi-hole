@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Dec-2022 22:00:02 PST
+# Last updated: 20-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1900,6 +1900,7 @@ cointradingsolution.co
 cointradingsolution.net
 coinupgrade.best
 coinvalidation.online
+coinvalidations.com
 coinvault.exchange
 coinwalletauthenticator.com
 coinwalletconnect.info
@@ -2132,6 +2133,7 @@ connect-ecosystem.com
 connect-en.link
 connect-eth.site
 connect-finance.online
+connect-firmencrypt.live
 connect-mainnet.ddns.us
 connect-mainnet01.ddns.us
 connect-mainnet08.ddns.us
@@ -2434,6 +2436,7 @@ conversetek.xyz
 conwallets.com
 conwallt-meta.com
 coojoint.com
+coonecttionfiix.com
 copiersolutionsmigrate.live
 copolkadot.js.org
 cordium-app.com
@@ -5822,6 +5825,7 @@ indobridge.best
 infinit3.com
 infinitygame.site
 infinitytokenswap.com
+infjniltywallet.com
 info-mywallet.com
 infoidola.com
 infospacedex.xyz
@@ -5856,6 +5860,7 @@ instantfixedfloat.com
 instantlyconnectmywallet.com
 instantnodeconfig.com
 instantrustfixed.net
+instantsupportfixed.com
 instantswalletvalidation.com
 instantswiftfixed.com
 instantwalletconnect.org
@@ -10944,6 +10949,7 @@ swiftstation.net
 swiftsynchronization.com
 swiftsyncs.com
 swiftsyncs.io
+swiftsyncs.live
 swiftsyncsecure.com
 swiftszapprotocol.ru
 swiftszapprotocols.info
