@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Dec-2022 22:00:02 PST
+# Last updated: 21-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4167,6 +4167,7 @@ defi-nodetool.com
 defi-nodetools.com
 defi-offchainrects.com
 defi-pad.net
+defi-platform.net
 defi-portal.intecilab.com
 defi-protocol.icu
 defi-protocol.live
@@ -4178,6 +4179,7 @@ defi-rectify.us
 defi-solutions.net
 defi-stakes.net
 defi-support.app
+defi-swap.net
 defi-temple.com
 defi-token.my.id
 defi-tron.xyz
@@ -4423,6 +4425,7 @@ dewalletprotocol.online
 dex-appnetwork.com
 dex-carlivechain.web.app
 dex-connect.online
+dex-platform.net
 dex-secure.com
 dexapplaunch.co
 dexapptools.com
@@ -10766,6 +10769,7 @@ stapan.website
 stapn.com
 stargatefinance.live
 starkapp.net
+starlblock.live
 starlinktoken.co
 starpunksupport.online
 start-collab.land
@@ -10962,6 +10966,7 @@ switchaffix.live
 switchbridge.best
 switchrectifier.live
 switchsmartnetwork.website
+switchv2score.website
 syc-bot.pages.dev
 syc-walletsconnect.info
 sychrofchains.xyz
