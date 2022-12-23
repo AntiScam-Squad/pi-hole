@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Dec-2022 22:00:02 PST
+# Last updated: 22-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4464,6 +4464,7 @@ dexlaunchpads.org
 dexlaunchpads.xyz
 dexlink.live
 dexnodebridge.co
+dexplatform.net
 dexproject.netlify.app
 dexprotocolserver.com
 dexprotocolserver.net
@@ -4513,6 +4514,7 @@ digital-authorepair.live
 digital-enablingsync.com
 digital-enablingsync.online
 digital-exchange-coin.com
+digital-mainethub.link
 digital-mainethub.live
 digital-proapp.com
 digital-proapps.com
