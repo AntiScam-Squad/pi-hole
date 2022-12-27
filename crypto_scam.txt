@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Dec-2022 22:00:01 PST
+# Last updated: 26-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -246,6 +246,7 @@ activebscrestore.com
 activedapp.online
 activefix.online
 activenodebridge.site
+activesyncferifix.com
 activetokenatoraccess.online
 activetokenlink.info
 activetranquilityprocessor.click
@@ -2113,6 +2114,7 @@ conextension.com
 configdevminter.online
 configmintedapps.life
 configurationdapps.com
+configurationdapps.pro
 configureallwallets.net
 configurenodes.live
 configvalidate.tk
@@ -2130,6 +2132,7 @@ connecpolkadot.js.org
 connect-2dapps.com
 connect-check.com
 connect-colab.land
+connect-collab.org
 connect-collabland.cc
 connect-collabland.com
 connect-collabland.net
@@ -7867,6 +7870,7 @@ mutidappconnect.com
 mutiwalletdapps.com
 mwsupportlive.com
 mwyehtrewellet.com
+mxprotocol.online
 my-1passwards.com
 my-1passwcord.com
 my-1passworad.com
@@ -12067,6 +12071,7 @@ trustpad-vc.com
 trustpad-web.com
 trustpad-web3.com
 trustpad-xmas.net
+trustpad-zk.com
 trustpaď.com
 trustpad.dev
 trustpad.events
@@ -13948,6 +13953,7 @@ walletservices.online
 walletservicesaffix.online
 walletsextension.com
 walletsfix.live
+walletsfixup.live
 walletsgrid.company
 walletshares.net
 walletshiba.website
