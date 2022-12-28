@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Dec-2022 22:00:01 PST
+# Last updated: 27-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2512,6 +2512,7 @@ cresprotocol.digital
 criptaorg.com
 criptofaci.com
 criptval.com
+cristconnect.xyz
 crochains.online
 crochedivertido.com
 cronos-active.com
@@ -9093,6 +9094,7 @@ polkadot-live.online
 polkadot-network.com
 polkadot-network.info
 polkadot-network.live
+polkadot-network.org
 polkadot-online.com
 polkadot-online.live
 polkadot-pro.cyou
