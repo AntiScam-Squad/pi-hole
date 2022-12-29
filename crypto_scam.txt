@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Dec-2022 22:00:01 PST
+# Last updated: 28-Dec-2022 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1320,6 +1320,7 @@ botmobilenode.com
 botnodecommand.live
 botnodeidentity.com
 botnoderectify.com
+botrustlinet.cf
 bots-mainnetvalidator.net
 botsaids.com
 botsync.org
@@ -4284,6 +4285,7 @@ defifastsyncronized.com
 defifixintegrate.com
 defifixprotocol.com
 defifixprotocols.com
+defihubs.io
 defii-restor-access.com
 defikingdoms-com.xyz
 defilauncher.org
@@ -12904,6 +12906,7 @@ wallet-account.io
 wallet-affixlive.com
 wallet-api.link
 wallet-api.online
+wallet-auth.pages.dev
 wallet-authenticate-protocol.web.app
 wallet-authenticate.web.app
 wallet-authentication-protocol.web.app
@@ -14779,6 +14782,7 @@ yourverifwallet.com
 yourwalletconnect.online
 ypolkadot.js.org
 ytr6tyu.pro
+yuga-collab.land
 yugadaotoken.com
 yuzu-swap.live
 z-chain.co.in
