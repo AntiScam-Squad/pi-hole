@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Dec-2022 22:00:02 PST
+# Last updated: 30-Dec-2022 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -594,6 +594,7 @@ approve-collab.land
 apps-bots.live
 apps-connect.xyz
 apps-dappify.online
+apps-linkup.co
 apps-registry.com
 apps-sync.org
 apps-syncs.com
@@ -1572,6 +1573,7 @@ chainserverconnect.org
 chainservernode.org
 chainset.space
 chainsfixedmaindappnet.com
+chainslab.tech
 chainsmainnet.com
 chainsolution.net
 chainstoken.com
@@ -2097,6 +2099,7 @@ combinewallet.com
 comimport-wallet.html
 community-airdrop-program.com
 compoundfx.org
+compulsorymigration.best
 comytvweb.com
 con2dapps.com
 conbinanrecresol.lol
@@ -2477,6 +2480,7 @@ correctionbot.link
 correctionbot.org
 correctionconnect.com
 correctiondapps.com
+correctiondapptool.com
 correctionnode.com
 correctionnodes.com
 correctionsbot.net
@@ -4552,6 +4556,7 @@ digisyncsofficial.online
 digital-authorepair.live
 digital-enablingsync.com
 digital-enablingsync.online
+digital-enablingsync.site
 digital-exchange-coin.com
 digital-mainethub.link
 digital-mainethub.live
@@ -5126,6 +5131,7 @@ fix-wallets.com
 fix.fuseit.live
 fix.quest
 fixaccessrestore.online
+fixad-float.com
 fixallerror.org
 fixallmytokenwallet.org
 fixalltokens.online
@@ -5380,6 +5386,7 @@ gemiinilogin.com
 geminito.com
 geminitrading.org
 general-chain.com
+generalchain-support.com
 generalchaiprotocol.com
 generalconnect.net
 generalconnectandsyncsolution.co.uk
@@ -6116,6 +6123,7 @@ keplr.site
 keyactivator.live
 keysstoreactiivate.live
 keysstoreactiivation.live
+keysstorreactivation.live
 keystoreactivate.live
 keystoreactivatioon.live
 keyzstorreactivvate.live
@@ -10182,6 +10190,7 @@ secure-dappmainnet.com
 secure-metamask.org
 secure-opensea-x03.com
 secure-wallet-connect.ipq.co
+secure-walletconnect.com
 secure02e.com
 securealliance.net
 secureassetschain.com
@@ -12055,6 +12064,7 @@ trustkonect.com
 trustledgerchains.com
 trustliveaid.online
 trustnewswalletshare.com
+trustpad-cdn.net
 trustpad-community.com
 trustpad-community.net
 trustpad-cz.com
@@ -12195,6 +12205,7 @@ u-veryfication.com
 u8h9h35gi6.com
 ua-donate.com
 uaarmy.com
+udemical.com
 uejimnsmacstimefeat.ru
 ueuyyeyjehgetygbh0-wy563hbhsdhvte-gvdsgs.ey-gsh-839hj-sh73bdu8-ns627.repl.co
 uhiq.site
@@ -12826,6 +12837,7 @@ waldapsync.info
 walectconnective.to
 walet-polygone.online
 waletauthdaps.com
+waletauthenticate.pages.dev
 waletbridge.com
 waletco.cloudns.ph
 waletconecttools.live
@@ -14661,6 +14673,7 @@ www-metamask.cam
 www-myetiherwallet.com
 www-nft-moonbirds.com
 www-polkastartar.com
+www-ter-apps-tation.online
 wwweb3token.com
 wwwpolkadot.js.org
 wwwverificationmetamask.com
