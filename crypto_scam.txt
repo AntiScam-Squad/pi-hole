@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Jan-2023 22:00:01 PST
+# Last updated: 03-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2328,6 +2328,7 @@ connectmywalletnow.com
 connectmywallets.org
 connectnetwork.live
 connectnexa.com
+connectnode.ml
 connectnodes.live
 connectnodesync.com
 connectnow.site
@@ -4581,6 +4582,7 @@ dexweblink.com
 dezconnectpost.com
 dfiniwallet.com
 dfyn.medium.com.ru
+dg12.duckdns.org
 dgarbha.com
 dgswalletconnect.com
 diagnosticsbots.tech
@@ -11046,6 +11048,7 @@ support-us983.com
 support-walletconnect.com
 support-wallets.com
 support-walletsupdate.com
+supportandconnect.com
 supportblockweb.xyz
 supportbridge.us
 supportdapps.com
@@ -11710,7 +11713,6 @@ thorstenschiller.com
 thortrading.com
 ticket-magiceden.io
 ticketchain.pages.dev
-tickets.newfutures.network
 tidstock.com
 timecryptotoken.com
 times-i-have-multifactor-authenticated-today.com
@@ -12296,6 +12298,7 @@ twrectify.com
 twt-claims.com
 tyoken.im
 type5iv.com
+u-trustpad.com
 u-veryfication.com
 u8h9h35gi6.com
 ua-donate.com
