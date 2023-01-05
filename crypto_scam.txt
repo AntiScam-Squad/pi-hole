@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Jan-2023 22:00:01 PST
+# Last updated: 04-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -495,6 +495,7 @@ api3drop.com
 apiauthenticate-sync.com
 apibridgenetwork.com
 apibridgnetwork.org
+apichainz.online
 apicolab.land
 apifirmwareswap.com
 apikucoinconnect.com
@@ -8559,6 +8560,7 @@ olympusdao-finance.online
 olympusdao.ca
 olympusdaos.app
 olympusdaos.net
+omnidefi.io
 on-dapps.com
 onappswallsync.org
 onbotzrectifyerz.xyz
@@ -12290,6 +12292,7 @@ tuoken.im
 turnbridgelive.best
 turst-wallet.cam
 turstwallet.club
+turvida.pt
 turvqweb.online
 tvmcj.com
 tw-hm.tel
