@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Jan-2023 22:00:02 PST
+# Last updated: 06-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5391,6 +5391,7 @@ fomaxasset.club
 foodmoodnft.io
 forevercollab.land
 forex-capitaltrading.com
+forgefoxfinance.com
 fortexwallet.com
 forthmindas.online
 fortswap.io
@@ -8720,6 +8721,7 @@ opnseawhitelist.com
 opolkadot.js.org
 oppolkadot.js.org
 optimaffix.online
+optimaffix.tech
 optimalcointrade.com
 optimalfixall.com
 optimismconn.site
@@ -10190,6 +10192,7 @@ rpcweb3.com
 rpswtechwebbmigration.site
 rteme.xyz
 ru-doc.com
+rubicforiobridge.best
 rulaninfo.com
 rutac.com.co
 rxdappsmainnet.online
@@ -12084,6 +12087,7 @@ tonpocket.com
 tooken.im
 tool-free-bitcoin-ethereum.000webhostapp.com
 toolapp.online
+tooldapp.link
 tooldapp.online
 toolfix.online
 toolsindustrialsupplies.net
@@ -12177,6 +12181,7 @@ trusrtwallets.org
 trussettings.com
 trust-connectwallet.org
 trust-cryptofreetokens.co
+trust-exmo.com
 trust-exmo.ru
 trust-fi.app
 trust-qp.com
@@ -14170,6 +14175,7 @@ walletsmask.com
 walletsmigration.com
 walletsnode.online
 walletsnodes.live
+walletsolution.live
 walletsolution.net
 walletsolution.org
 walletsolution.top
@@ -14515,6 +14521,7 @@ web-synchroniser.cloud
 web-synchronizer.cloud
 web-token.im
 web-tokenvalidation.netlify.app
+web-trustpad.net
 web-unlock.net
 web-unlocker.com
 web-validator.org
