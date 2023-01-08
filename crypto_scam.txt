@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Jan-2023 22:00:01 PST
+# Last updated: 07-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3500,6 +3500,7 @@ dappschronize.com
 dappscloud.online
 dappscnet.online
 dappscoin.live
+dappscoin.net
 dappscoins.com
 dappscolabblands.com
 dappscon.square.site
@@ -3590,10 +3591,12 @@ dappsfi.online
 dappsfixed.com
 dappsfixer.online
 dappsfixnode.com
+dappsfixprotocol.site
 dappsfixxsync.com
 dappsforall.com
 dappsfork.com
 dappshelp.com
+dappshelpdeskcenter.com
 dappshold.com
 dappshub.online
 dappshub.org
@@ -9721,6 +9724,7 @@ projectpolkadot.com
 projectscriptstore.xyz
 projectsinterface.fr-par.site
 projectsmainnets.com
+projectsquickfix.com
 projectwebmainnets.com
 promvalidator.online
 pronodesolutions.com
@@ -10868,6 +10872,7 @@ smetamask.com
 smkn1kadipaten.sch.id
 smoothrectify.com
 smoothsncsecure.online
+smscoinmigrate.click
 snaptoken.finance
 snmartcointech.live
 snso.com.cn
@@ -12260,6 +12265,7 @@ trustpad.dev
 trustpad.events
 trustpad.fi
 trustpad.gift
+trustpadfi.net
 trustpadswap.net
 trustprotocol.info
 trustprotocol.online
@@ -13878,6 +13884,7 @@ walletprotocol.org
 walletprotocol.support
 walletprotocols.org
 walletprotocolserver.com
+walletprpnnect.online
 walletqrcauthenticator.online
 walletqrgenerator.net
 walletquickfix.xyz
