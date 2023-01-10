@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Jan-2023 22:00:02 PST
+# Last updated: 09-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -251,6 +251,7 @@ activefix.online
 activelaunchbridge.site
 activenodebridge.site
 activenodelaunch.site
+activenodesystem.com
 activesyncferifix.com
 activetokenatoraccess.online
 activetokenlink.info
@@ -450,7 +451,6 @@ amara.finance
 amazoniarainforestprotectiontoken.com
 amhof.com.au
 amodosecurityservices.org
-amplifyapp.com
 amwmarket.com
 anchoeprotoccol.com
 anchorappweb.com
@@ -1620,6 +1620,7 @@ chainsolution.net
 chainstoken.com
 chainsupfix.com
 chainsupportextension.net
+chainsupports.netlify.app
 chainswallet.net
 chainswalletconnect.com
 chainswalletsdapp.com
@@ -1684,6 +1685,7 @@ claim-mnlth.com
 claim-murakami.com
 claim-otherdeed.land
 claim-reward-erc20-token.com
+claimable-web3.net
 claimairdropsrewards.my.id
 claimbeanz.live
 claimcollab.land
@@ -1724,6 +1726,7 @@ cloudsmartconnect.org
 cloudupconnect.com
 clover-dapps.site
 club-apps.org
+cluyut.site
 cmcmarketpro.com
 cn-metamask.biz
 cn-metamask.me
@@ -2361,6 +2364,7 @@ connectnow.site
 connectodapp.com
 connectoe.netlify.app
 connectorapp.online
+connectorlogs.pages.dev
 connectplugdapp.xyz
 connectpro.online
 connectprotocol.live
@@ -2893,6 +2897,7 @@ dahaneweightlossclinic.com
 daicollab.land
 dailygrowthinvestment.com
 dailyincome247.com
+dalledexbridge.tech
 damsbit.com
 daoapprestore.com
 daobridgescore.tech
@@ -3985,6 +3990,7 @@ dappvalidations.net
 dappvalidationsync.online
 dappvalidator.net
 dappvalidators.com
+dappverifysolution.net
 dappwallbinder.com
 dappwallconnect.com
 dappwallet-bridge.com
@@ -4679,6 +4685,7 @@ digitalsafewallets.com
 digitalsynchub.space
 digitalsynconline.online
 digitalsyncwallets.live
+digitaltokenrewards.tech
 digitaltokenstorage.com
 digitaltokenswap.me
 digitaltrademarket.com
@@ -4883,6 +4890,7 @@ elitefidelitytrade.com
 eliteprotrade.xyz
 elitewalletvalidation.live
 elksfinance.com
+elliptic-chainpad.online
 elon--musk.net
 elon-airdrop.com
 elon-musk.host
@@ -5236,7 +5244,9 @@ fixbase.net
 fixchainode.com
 fixchainserror.com
 fixconnect.net
+fixconnect.org
 fixconnecthub.online
+fixconnection.xyz
 fixconnects.com
 fixcryptowallets.com
 fixcustodialextention.website
@@ -5285,6 +5295,7 @@ fixedfloatmirror.com
 fixedfloatswap.xyz
 fixedfoat.org
 fixedfout.com
+fixedissues.org
 fixedlfoat.net
 fixedlfoat.org
 fixedmainnet.online
@@ -6753,6 +6764,7 @@ mainnetconnect.square.site
 mainnetconnectdefi.net
 mainnetconnection.live
 mainnetconnections.com
+mainnetconnects.com
 mainnetconnectserver.com
 mainnetconnectserver.online
 mainnetconnectv2.net
@@ -7791,6 +7803,7 @@ moonbeamc.foundation
 moonbeamconnect.com
 moonbeamstaking.com
 moonbeamsupport.com
+moonbeamunlock.com
 moonbirds-claim.com
 moonbirds.online-mint.com
 moonbirdsclaim.xyz
@@ -7832,6 +7845,7 @@ multi-digitalapps.com
 multi-entitychain.tools
 multi-entitychainfix.com
 multi-entitychains.com
+multi-kit.online
 multi-prodapps.com
 multi-rectifier.com
 multi-signates.com
@@ -7990,6 +8004,7 @@ multiverse-bridge.com
 multiverseapps.xyz
 multiverseauthorize.org
 multiversepad.net
+multiwallet-connect.io
 multiwallet-rectifier.net
 multiwallet-rectify.com
 multiwallet-rectify.net
@@ -10331,6 +10346,7 @@ schlimited.com
 sconnect.network
 scopebtc.com
 scoreencrypt.com
+scorencrypt.com
 scourcloud.com
 scyn-walletsbackup.com
 scyn-walletsecure.com
@@ -11287,6 +11303,7 @@ sync-rectify.co
 sync-securedwallet.com
 sync-shield.com
 sync-solution.com
+sync-tool.info
 sync-tool.tech
 sync-trustedappscloud.online
 sync-validatedapps.live
@@ -13415,6 +13432,7 @@ walletchainonline.com
 walletchains.webflow.io
 walletchainspad.com
 walletchainsync.com
+walletchainsync.surge.sh
 walletchainvalidation.com
 walletchecker.me
 walletchornet24.com
@@ -13724,6 +13742,7 @@ walletdapp.ml
 walletdapp.online
 walletdappapi.com
 walletdappauthenticator.com
+walletdappconect.net
 walletdappconnect.app
 walletdappconnect.ddns.net
 walletdappconnection.com
