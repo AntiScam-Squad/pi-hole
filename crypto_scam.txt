@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Jan-2023 22:00:01 PST
+# Last updated: 10-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -365,6 +365,7 @@ allchainconfig.com
 allchaindapps.com
 allchaindappsync.site
 allchainfix.net
+allchainfix.online
 allchainprotocol.com
 allchainprotocols.com
 allchainsaunthenticator.live
@@ -424,6 +425,7 @@ alluser-chain.com
 allvalidation.live
 allwalletconnet.com
 allwalletdapps.com
+allwalletfix.com
 allwalletfixs.com
 allwallethelp.net
 allwalletsconnect.com
@@ -1116,6 +1118,7 @@ bip39seednodeserver.com
 bip39seedsnodeserver.online
 bip39seedsnodeservers.online
 bipp44qctivqte.live
+bipp44qctivqte.online
 birbswap.io
 bisket.co
 biswap2.com
@@ -1685,6 +1688,7 @@ claim-mnlth.com
 claim-murakami.com
 claim-otherdeed.land
 claim-reward-erc20-token.com
+claim-web3.net
 claimable-web3.net
 claimairdropsrewards.my.id
 claimbeanz.live
@@ -2239,6 +2243,7 @@ connect-walletdapps.com
 connect-wallets.biz
 connect-wallets.com
 connect-wallets.live
+connect-web3fixtool.com
 connect.defisecure.site
 connect2chain.com
 connectaccess.online
@@ -2614,6 +2619,7 @@ cross-userchain.com
 crosschain-users.support
 crosschain.click
 crosswebfix.live
+crpto-solution.com
 crypsupportmainnet.online
 crypt-unified.top
 cryptafarm.com
@@ -2623,6 +2629,7 @@ cryptflag.com
 cryptgrowx.com
 cryptlinkaffix.online
 cryptnftswallet.com
+cryptnftwallet.com
 cryptnode.tech
 crypto-booster.biz
 crypto-chain.net
@@ -4921,6 +4928,7 @@ emulefinance.io
 emuskgives.com
 en-metamask.com
 en-myetherwallet.com
+en-polkastarter.com
 en-sync-protocol.com
 en-sync-solution.com
 en-telegram.com
@@ -5385,6 +5393,7 @@ fixwalletsaccountlive.com
 fixwalletts.com
 fixwalletz.com
 fixwalletzs.com
+fixxmanualprotocol.com
 fjxedfloat.net
 flare.cfd
 flaretrustline.com
@@ -6512,6 +6521,7 @@ livenodesactivations.com
 livenodesauthorization.com
 livenodesconnection.com
 livenodesynchronization.com
+liveops.live
 liverader.live
 livesecureconnect.com
 livesmartapps.com
@@ -7846,6 +7856,7 @@ multi-entitychain.tools
 multi-entitychainfix.com
 multi-entitychains.com
 multi-kit.online
+multi-kits.io
 multi-prodapps.com
 multi-rectifier.com
 multi-signates.com
@@ -7932,6 +7943,8 @@ multicryptosync.net
 multicryptowallt.io
 multidapp-mainnet.com
 multidappchain.net
+multidappconnect.com
+multidappconnect.xyz
 multidapps-mainnet.com
 multidappsconnector.online
 multidappsconnects.com
@@ -8071,6 +8084,7 @@ myauthspace.com
 mybit.zone
 myblockassist.com
 myblockassist.live
+myblockchainprotocol.live
 myblocksco.center
 mycelowallet.app
 mychaincollectibles.com
@@ -8241,6 +8255,7 @@ net-validator.com
 net-wallets.com
 netanask-wallet.live
 netassetfix.com
+netconnectsyncc.com
 netconnectsyncc.live
 netconnectsynccs.net
 neterrorfix.online
@@ -8562,6 +8577,7 @@ noilehtnoil.com
 nominexauth.firebaseapp.com
 nominexauth.web.app
 noncenode.live
+noncustdaps.com
 noncustodianappz-net.web.app
 noncustodians-sync.online
 nonftsynchronization.com
@@ -9811,6 +9827,7 @@ protocolsyncdapp.live
 protocoltodapps.live
 protocolvalidate.live
 protocolweb.live
+protodapp.online
 protofix.co
 protonmailcm.com
 protonmailcom.com
@@ -9872,6 +9889,7 @@ quantumserver.online
 quantumwalletconnect.com
 queconnect.site
 queenglobalbenefit.club
+queryrectify.dev
 queryrectify.live
 queryrectify.net
 questlumb.tech
@@ -9983,6 +10001,7 @@ rectificationwallets.com
 rectificationweb.com
 rectificationwebpage.online
 rectifierchannel.com
+rectifiernetwork.live
 rectifierprotocol.live
 rectifierprotocol.online
 rectifirierernace.xyz
@@ -10854,6 +10873,7 @@ smartscoinmigrate.xyz
 smartsconnect.net
 smartsconnect.org
 smartsoilutiontec.live
+smartsolliution.live
 smartsollutiontec.live
 smartsollutointech.live
 smartsolutioninterface.info
@@ -10925,6 +10945,7 @@ smkn1kadipaten.sch.id
 smoothrectify.com
 smoothsncsecure.online
 smscoinmigrate.click
+smssmartmigrate.store
 snaptoken.finance
 snmartcointech.live
 snso.com.cn
@@ -10965,6 +10986,7 @@ solutionandsync.org
 solutionapp.online
 solutionapp.org
 solutionapps.org
+solutioncentre.live
 solutioncoiinmsmartteconnet.live
 solutioncoin.online
 solutioncycle-affix.com
@@ -11453,6 +11475,7 @@ synchrosinteractive.com
 synchubfix.online
 synchvalidation.com
 synchwallet.net
+synchwallet.square.site
 synchwebconnection.com
 syncidex.com
 syncifix.com
@@ -12257,6 +12280,7 @@ trustaidsync.online
 trustair-wallet.com
 trustassetssynchronization.com
 trustbots.support
+trustclaim.net
 trustconnectdapps.com
 trustconnectdapps.online
 trustcwallet.com
@@ -12435,6 +12459,7 @@ ukoffshoreaccounts.com
 ukraine-save.com
 ukratoken.com
 uliv.co.in
+ultimatelyagfdytreuuinmkssew.xyz
 ultimative-bank.com
 ultragamingdrops.com
 ultragrgen.buzz
@@ -13883,6 +13908,7 @@ walletlinker.tech
 walletlinking.web.app
 walletlinknode.com
 walletlinks.online
+walletlinks.support
 walletlive-synchronization.com
 walletliveconnect.info
 walletliveconnect.net
@@ -13913,6 +13939,7 @@ walletnationcryptoinsurance.com
 walletnetconnect.com
 walletnetworkinterface.com
 walletnetworks.link
+walletneutralization.webflow.io
 walletnode.site
 walletnode.webflow.io
 walletnodeapps.com
@@ -13973,6 +14000,7 @@ walletrectifier.org
 walletrectify.com
 walletrectify.online
 walletrectifyconnect.online
+walletrefix.com
 walletreform.com
 walletrefresh.net
 walletrefund.com
@@ -14650,6 +14678,7 @@ web3nodesprotocol.com
 web3nodesync.com
 web3options.io
 web3panel.online
+web3proconnect.com
 web3reauth.net
 web3rpc.net
 web3rpcdapp.com
@@ -14843,6 +14872,9 @@ wethepeoplenft.io
 weyu.pro
 wfree.digital
 whalepad.net
+whitcex.com
+whitcoinex.net
+whitcoinpro.net
 whitelist-network.com
 whitelist-reg.click
 whitelist-slot.com
