@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Jan-2023 22:00:02 PST
+# Last updated: 11-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -643,6 +643,7 @@ appsyncpage.com
 appsyncpage.live
 apptokens.xyz
 apptokensvalidator.com
+apptool.org
 apptool.site
 appuniswapp.com
 appvalidating.online
@@ -3213,6 +3214,7 @@ dappintegraterresolve.com
 dappintegraterresolve.net
 dappintegrates.live
 dappintegrates.me
+dappintegration.co
 dappintegrations.online
 dappintegrator.cloud
 dappintegrator.site
@@ -4413,6 +4415,7 @@ defioffchain.online
 defionlinesolutions.link
 defiportal.alphaacetech.com
 defiportal.translavandero.cl
+defiportals.mac.edu.so
 defipro.website
 defiprotocol-chains.tech
 defiprotocol-dcd35.firebaseapp.com
@@ -5133,6 +5136,7 @@ fashion.blog
 fast-auth.com
 fast-autheswallet.org
 fast-dapp.site
+fast-tool.info
 fast-wallet-fix.xyz
 fast-walletconnect.com
 fastappsolutions.com
@@ -6642,6 +6646,7 @@ main-network-bridge.com
 main-panel.net
 main-rectifysync.online
 main-sync.com
+main-tool.info
 main-walletconnet.org
 mainaffix-sync.com
 mainaffixrectify.com
@@ -7984,6 +7989,7 @@ multinetworkinterface.com
 multinode.info
 multinode.live
 multinode.one
+multinodeswap.com
 multipad-beta.com
 multipad-beta.net
 multipad-beta.org
@@ -8682,6 +8688,7 @@ onewallet.network
 onewalletconnect.com
 onewalletstore.com
 ongawaterswitch.com.au
+onliinedappsync.trade
 online-auth.4nmn.com
 online-dapps.com
 online-metamask.info
@@ -9948,6 +9955,7 @@ realdapptime.xyz
 realdapptimeline.xyz
 realestatesouthwestfl.com
 realfix.netlify.app
+reallocal.com
 realnftmintsyncreveal.com
 realwallcon.com
 reaper.run
@@ -10717,6 +10725,7 @@ smartcoinsolutions.net
 smartcoinsstechsolution.live
 smartcoinsstechsolution.online
 smartcoinsstechsolution.xyz
+smartcoinstech.live
 smartcointech.top
 smartcointech.xyz
 smartcointechdappsolutiion.live
@@ -10975,6 +10984,7 @@ solidfix.cc
 solidfix.live
 solidity-cbridge.tools
 solidvest.website
+sollution9389202.tech
 solomoney11.github.io
 solrazr.club
 solution-fix.com
@@ -11325,6 +11335,7 @@ sync-rectify.co
 sync-securedwallet.com
 sync-shield.com
 sync-solution.com
+sync-tool.com
 sync-tool.info
 sync-tool.tech
 sync-trustedappscloud.online
@@ -11416,6 +11427,7 @@ syncfixdev.live
 syncfixit.com
 synch-connect.com
 synchain.site
+synchains.xyz
 synchainweb.site
 synchappconnect.net
 synchauthenticator.com
@@ -11838,6 +11850,7 @@ thetatokendrop.com
 thetrolllerart.dvrlists.com
 theuninqgen.buzz
 thewallet-sync.com
+thewalletauthentic.xyz
 thewalletauthentication.com
 thewalletconnect.com
 thewalletconnects.net
