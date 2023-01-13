@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Jan-2023 22:00:01 PST
+# Last updated: 12-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4839,6 +4839,7 @@ dydx-s.com
 dynamiccoindapps.online
 dynamicvalidate.netlify.app
 dynssl.com
+e-chain.netlify.app
 e-cryptchains.com
 e-nodevalidator.netlify.app
 e-trust.io
@@ -4929,6 +4930,7 @@ eminent-global.one
 empiretokenworld.com
 emulefinance.io
 emuskgives.com
+en-metam.com
 en-metamask.com
 en-myetherwallet.com
 en-polkastarter.com
@@ -5102,6 +5104,8 @@ expertfxcrypto.com
 expertreliable.co
 explanandaconsult.com
 explore-ledger.online
+explore-opensese.com
+exploreopensea.com
 explorerprotocol.live
 explorersync.online
 exportblocknodes.com
@@ -7604,6 +7608,7 @@ metisdao.medium.com.ru
 metmakrecovupdate.com
 metmas-k.co
 metmask.cam
+metmaxe.com
 metomask.top
 metomasks.guru
 metomasks.store
@@ -10243,6 +10248,9 @@ robotshelp.org
 robotvalidator.com
 rocket-coin.net
 rockethash.org
+rocketpoal.com
+rocketpool-stake.com
+rocketpool-staking.com
 rockeycouriers.com
 roizermer.site
 roken.im
