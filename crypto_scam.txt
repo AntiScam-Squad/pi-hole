@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Jan-2023 22:00:01 PST
+# Last updated: 15-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2567,6 +2567,7 @@ correctionsbot.net
 correctionsbot.network
 correctionsbots.com
 correctionstool.com
+correctionswallett.netlify.app
 correctiontoken.online
 correctionwallet.com
 correctioonnfix.com
@@ -5492,6 +5493,7 @@ freesoftinc.x10.mx
 freetokenclaimer.com
 friend-fund.bar
 frommerightmigrate.xyz
+frontyardcompanyio.live
 frostsync.pages.dev
 fstrevalidate.info
 ftx-acoounts.com
@@ -6816,6 +6818,7 @@ mainnetauth-interface.org
 mainnetauth.live
 mainnetauthentification.online
 mainnetchainlist.online
+mainnetchainlist.onrender.com
 mainnetchainssync.net
 mainnetchainsync.com
 mainnetconnect-us.info
@@ -7001,6 +7004,7 @@ manualconnect.com
 manualcoonectsysnode.com
 manualdappsync.com
 manualfix.xyz
+manuallfixsyncc.netlify.app
 manuallsync.xyz
 manualonline-sync.com
 manualrectifying.com
@@ -7921,6 +7925,7 @@ multi-signatures.com
 multi-wc-sync.online
 multialignfix.com
 multialignfix.site
+multiblock-defipad.com
 multiboardx-chain.com
 multibotconnector.co
 multibridge-chain.tools
@@ -8612,6 +8617,7 @@ nodesvalidator.online
 nodesvaults.online
 nodesverification.com
 nodesverification.net
+nodesync.live
 nodesynced.com
 nodesyncs.com
 nodetoautt.com
@@ -9787,6 +9793,7 @@ powallet.net
 powerbridgemining.com
 poweredbydapp.com
 ppancakeswap.info
+pplebhold.com
 ppolkadot.js.org
 pradtorchainx.org.ng
 prayersave.com
@@ -9850,6 +9857,7 @@ projectmainn.com
 projectmainnet.netlify.app
 projectnodes.online
 projectpolkadot.com
+projectraritytools.online
 projectscriptstore.xyz
 projectsinterface.fr-par.site
 projectsmainnets.com
@@ -10518,6 +10526,7 @@ secureddappsprotocol.net
 secureddefinodes.org
 securedefinode.com
 securedefinodes.org
+securedencryption.site
 securedexport.live
 securedinnodestring.com
 securedintegration.com
@@ -10967,6 +10976,7 @@ smartsyncdex.com
 smartsynchronization.com
 smartsynchronize.com
 smartsyncmigrate.online
+smartsyncmigrate.site
 smartsyncnode.com
 smartsyncprotocol.tech
 smartsyncronization.com
@@ -11071,6 +11081,7 @@ solutioncoin.online
 solutioncycle-affix.com
 solutiondapps.live
 solutionhelp.online
+solutionintergrates.netlify.app
 solutionnewspace.com
 solutionnn.xyz
 solutionnode.org
@@ -11290,6 +11301,7 @@ surekequipmentservice.com
 surfixnetwork.net
 surfixnetwork.org
 surgefix.link
+surgicalmedical.net
 sushi-v3.app
 sushiswapp.net
 sushiswoqe.com
@@ -15215,6 +15227,7 @@ zhifeijimx.com
 zilochain.com
 zinotiger.com
 zipwallet.net
+zksynchronize.help
 zogiiobridge.live
 zonefix.net
 zooltoken.io
