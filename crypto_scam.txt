@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Jan-2023 22:00:02 PST
+# Last updated: 17-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -96,6 +96,7 @@
 35-203-88-159.plesk.page
 393a-168-100-8-171.ngrok.io
 3dpouchsecure.xyz
+3secure.online
 3xexchange.io
 3xpool.bid
 3xxyyz.com
@@ -660,6 +661,7 @@ appwonderlandmoney.org
 aptosıabs.com
 aptoslab-dappstool.xyz
 apygate.com
+apygate.mainnet.website
 apyinterphase.online
 apynodeconnect.xyz
 apynodesecured.online
@@ -1776,6 +1778,7 @@ coin-metapad.com
 coin-metapad.net
 coin-metapad.org
 coin-restore.site
+coin-solution.herokuapp.com
 coin-solutions.cc
 coin-solutions.netlify.app
 coinappconnect.live
@@ -4414,6 +4417,7 @@ defifastsyncronized.com
 defifixintegrate.com
 defifixprotocol.com
 defifixprotocols.com
+defihosts.net
 defihubs.io
 defii-restor-access.com
 defikingdoms-com.xyz
@@ -5779,6 +5783,7 @@ holdtokensconnect.com
 holiday-rental.online
 holoridebot.online
 holscrape.one
+holxyx.us
 home-dappsconnect.online
 home-kraken.online
 homeconnectwalletpancakeswap.diskstation.org
@@ -9888,8 +9893,10 @@ protectwalletfix.com
 protgenzets.com
 protocol-defi.com
 protocol-defi.site
+protocol-fix.org
 protocol-sync.live
 protocol-syncc.com
+protocol-tool.com
 protocol-verify.info
 protocolapps.web.app
 protocolchains.xyz
@@ -10200,6 +10207,7 @@ resolvedefinodes.site
 resolvednodesit.live
 resolveerror.org
 resolvefhfhghghggjgudsryittdduyxt.com
+resolveissuse.top
 resolvemainwallet.xyz
 resolvemaster.live
 resolveprocess.com
@@ -10314,6 +10322,7 @@ rewebsyn.org
 richquack.io
 rifasaltasorte.com.br
 rightinvestmentcrypto.com
+ringchainio.live
 riotokenswap.com
 risedot.network
 riskofsuspension-metamask.io
@@ -12206,6 +12215,7 @@ tokens-fix.com
 tokens-fix.net
 tokens-fix.tech
 tokens-mywalletconnect.com
+tokens-resolver.netlify.app
 tokens-solution.com
 tokens-validator.com
 tokensactivator.com
@@ -12466,6 +12476,7 @@ trustpad.dev
 trustpad.events
 trustpad.fi
 trustpad.gift
+trustpade-dot.com
 trustpadfi.net
 trustpadswap.net
 trustprotocol.info
@@ -12605,6 +12616,7 @@ unicswop.com
 unicswope.com
 unified-dapp-link.com
 unified-dapps.com
+unified-oneconnect.com
 unifiedcoinsolution.online
 unifiedcoinssolution.online
 unifiedconnect.info
@@ -13787,6 +13799,7 @@ walletconnectmainnet.online
 walletconnectme.co
 walletconnectmobile.com
 walletconnectnode.live
+walletconnectnode.pages.dev
 walletconnectnodes.live
 walletconnectnow.org
 walletconnectnow.tech
@@ -14534,6 +14547,7 @@ walletsyncronization.com
 walletsyncros.com
 walletsyncsrectification.com
 walletsyncvalidation.com
+walletsynkzz-net.web.app
 walletsystemsconnect.com
 walletsystemsupport.com
 wallettaccess.co
@@ -14705,6 +14719,7 @@ wcaservice.com
 wccdappsconnect.com
 wcdapconect.pages.dev
 wcdapconnect.pages.dev
+wcdapp.netlify.app
 wcdappconnect.com
 wcdapps.com
 wcdapsaffixswa.com
