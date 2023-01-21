@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Jan-2023 22:00:02 PST
+# Last updated: 20-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1610,6 +1610,7 @@ chainfix.org
 chainfixbridge.online
 chainharmonization.live
 chainintegrator.com
+chainioring.live
 chainlink.bond
 chainlinkauth.site
 chainlinkconnect.org
@@ -5276,6 +5277,7 @@ fastwebprotocol.com
 fearlesswallet-desktop.io
 fearlesswallet.app
 fearlesswalletdesktop.io
+fearlessweb.app
 ferrum-network.site
 festive-knuth-9ba589.netlify.app
 fex-walletsec.com
@@ -5333,6 +5335,7 @@ fix.fuseit.live
 fix.quest
 fixaccessrestore.online
 fixad-float.com
+fixalgorithm.site
 fixallerror.org
 fixallmytokenwallet.org
 fixalltokens.online
@@ -5805,6 +5808,7 @@ help-tool.net
 help.mining-extracts.com
 help7070-support22.cc
 helpdeskcoinvalidaton.com
+helploginamaz00.authorizeddns.net
 helpukraine2022.online
 helpuser.org
 henexcapital.com
@@ -7116,6 +7120,7 @@ matemask.red
 matemask.tel
 math-web-wallet.com
 mathsfix.live
+mathsync.network
 mathsynchronizer.live
 mathwalletconnect.com
 matic-wallet.com
@@ -10584,6 +10589,7 @@ secure-wallet-connect.ipq.co
 secure-walletconnect.com
 secure02e.com
 securealliance.net
+secureappvalidations.network
 secureassetschain.com
 secureassetsnode.com
 secureauthenticationportal.info
@@ -10739,6 +10745,7 @@ securitytokensipo.com
 secuwallets.com
 seedifiyfund.net
 seedify-fund.org
+seedify-pad.com
 seedify-pad.org
 seedifyaccess.live
 seediify.com
