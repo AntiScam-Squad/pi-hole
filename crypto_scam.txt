@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Jan-2023 22:00:01 PST
+# Last updated: 23-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -208,6 +208,8 @@ accountvalidation.in
 accountvalidation.pages.dev
 accountvalidationpage.com
 acepi.net.au
+acessreward.firebaseapp.com
+acessreward.web.app
 acount.ca
 acountsyncvalidate.site
 acroprotocol.tech
@@ -894,6 +896,7 @@ authweb.live
 authweb3utility.com
 authweb3utility.me
 authx9334a0274e0f203601aa5ff0c4df3830e31a6755.xyz
+authyapps.live
 authyconnector.icu
 authyconnector.online
 authydapp.live
@@ -2066,6 +2069,7 @@ collab-link.online
 collab-tools.live
 collab-validator.com
 collab-verifier.netlify.app
+collab.inload.xyz
 collab.ioapps.info
 collabactivation.com
 collabandd.cc
@@ -2643,7 +2647,7 @@ couturistewalletsupport.com
 covalbridgedex.live
 covicrypbridging.website
 cowrabuilders.com.au
-cowswap-token.exchange#
+cowswap-token.exchange
 coyoteswap.io
 cr38.domaintest.cfd
 cr7fantoken.live
@@ -5642,6 +5646,7 @@ gemiinilogin.com
 geminito.com
 geminitrading.org
 gencache.site
+general-blockchain.com
 general-chain.com
 generalchain-support.com
 generalchaiprotocol.com
@@ -5859,6 +5864,7 @@ hodlnetscan.com
 hodlnetware.com
 hodlonline.live
 hodltrustconnections-fixed.live
+hohrvestversion.website
 hoistcoins.net
 holdane.com
 holders-airdrop.info
