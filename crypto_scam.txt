@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Jan-2023 22:00:02 PST
+# Last updated: 27-Jan-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -457,6 +457,7 @@ altsupport.tools
 alwaysnode.com
 amara.finance
 amazoniarainforestprotectiontoken.com
+ameliorateerrors.com
 amhof.com.au
 amodosecurityservices.org
 amwmarket.com
@@ -965,6 +966,7 @@ autorefitting-modification.com
 autorefix.site
 autorepairnodetoken.com
 autorestore.xyz
+autorestorefix.com
 autoresync.live
 autosync.link
 autosyncpermit.online
@@ -1340,6 +1342,7 @@ blockstakweb3.com
 blockstationfixglitch.com
 blocksyncc.live
 blocksynchronizer.com
+blocktokenrewards.tech
 blocktopia.co
 blockube-deluxe.com
 blockube.xyz
@@ -1763,6 +1766,7 @@ claims-seedify.fund
 claimstation.online
 claimsyn.com
 claimtokenauth.com
+claimurwinningprize.netlify.app
 clarificationw-ebsolve.online
 classicfixprotocol.online
 classicstation.org
@@ -2599,6 +2603,7 @@ contresolve.com
 controlqr.com
 convalidate.online
 conversetek.xyz
+convert.exchange
 conwallets.com
 conwallt-meta.com
 coo-global.com
@@ -5412,6 +5417,7 @@ fixeạdfloat.com
 fixeadfloat.net
 fixeadfloet.com
 fixed-change.com
+fixed-float.biz
 fixed-float.net
 fixedapp.xyz
 fixedapps.net
@@ -5539,6 +5545,7 @@ fixwalletsaccountlive.com
 fixwalletts.com
 fixwalletz.com
 fixwalletzs.com
+fixxconnectiion.com
 fixxmanuallprotocol.com
 fixxmanualprotocol.com
 fixxmanuuallprotocol.com
@@ -5844,6 +5851,7 @@ hawkminer.com
 hayleypobar.com.au
 hazermint.com
 hc-multibridge.tools
+hcvgi.com
 heartbrainbalance.com
 hectatrade.com
 helddeskrevalidation.com
@@ -7254,6 +7262,7 @@ metacolimited.com
 metaconects.com
 metaconn.live
 metaconnectplus.com
+metacoredapp.site
 metadapps.online
 metadappsfixer.live
 metadataresolve.com
@@ -7981,6 +7990,7 @@ mobileworldappsstore.xyz
 mobwallet.co
 moderatorchannel.live
 modostance.xyz
+moduleautofix.com
 moduleautorestore.com
 moduledapp.com
 modulefix.com
@@ -8666,6 +8676,7 @@ nodebridges.com
 nodecertify.com
 nodechain.live
 nodechain.me
+nodechainetwork.online
 nodechainnetwork.online
 nodeconfig.live
 nodeconnections.com
@@ -8732,6 +8743,7 @@ nodesdapp247.net
 nodesdappnet.com
 nodesdappsnet.com
 nodesdashboard.digital
+nodesdatas.online
 nodesdefiwnet.online
 nodesdev.online
 nodesea.app
@@ -9056,6 +9068,7 @@ orion-tradings.com
 orisunewa.com
 osescrow.org
 osg-sa.com
+osmosis.app.runonflux.io
 osmosisdrop.com
 osynclive-nds.info
 otc.eqibank.com
@@ -10376,6 +10389,7 @@ resolveerror.org
 resolvefhfhghghggjgudsryittdduyxt.com
 resolvefixsolution.com
 resolveissuse.top
+resolvelink.org
 resolvemainwallet.xyz
 resolvemaster.live
 resolveprocess.com
@@ -10468,6 +10482,7 @@ revalidatenodes.online
 revalidateverse.com
 revalidateweb.com
 revalidating.com
+revalidatingwallet.com
 revalidationnetwork.com
 revamp-traders.ltd
 revealswitch.netlify.app
@@ -11525,6 +11540,7 @@ swapaste.finance
 swapcorrection.com
 swapdaffix.store
 swapdaoconnect.com
+swapgull.com
 swaplibra.com
 swaplit.online
 swapnfts-community.com
@@ -12224,6 +12240,7 @@ token-stake.com
 token-support.net
 token-sync.org
 token-syncer.com
+token-syncerr.com
 token-validate.com
 token.men
 token568.im
@@ -13288,6 +13305,7 @@ vaultgateway.info
 vaultguard.live
 vaultintegrity.com
 vaultlink.online
+vaultoverride.info
 vaultrectification.com
 vaultrepair.onrender.com
 vaultrepairs.com
