@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Jan-2023 22:00:01 PST
+# Last updated: 30-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1037,6 +1037,7 @@ bahamaslandnftmint.com
 baiancer.fi
 bakeryswaper.com
 bakeryswaps.com
+balancer-fi.link
 balancer-flnance.com
 balancer.rest
 balancerlp.com
@@ -1465,6 +1466,7 @@ bridgenewcontract.live
 bridgenode.surge.sh
 bridgepad.net
 bridgeplatformio.best
+bridgeportal.online
 bridgeportconnecticut.net
 bridgeprotect.xyz
 bridgeprotocol.link
@@ -2130,6 +2132,7 @@ collabland-sync.net
 collabland-verify.cc
 collabland-walletsync.online
 collabland.in
+collabland.io
 collabland.ml
 collablandapp.net
 collablandc.cc
@@ -3790,6 +3793,7 @@ dappsmainet.link
 dappsmainframe.com
 dappsmainnet-interface.net
 dappsmainnet-liveinterface.com
+dappsmainnet.io
 dappsmainnet.live
 dappsmainnet.org
 dappsmainnet.xyz
@@ -4502,6 +4506,8 @@ defidappprotocol.com
 defidapps-net.web.app
 defidapps.wixsite.com
 defidappsmainnet.com
+defidappsnet.firebaseapp.com
+defidappsnet.web.app
 defidappsprotocol.online
 defidomain.io
 defiease.net
@@ -4698,6 +4704,7 @@ dex-appnetwork.com
 dex-carlivechain.web.app
 dex-connect.online
 dex-platform.net
+dex-rewards.online
 dex-secure.com
 dexapplaunch.co
 dexapptools.com
@@ -4742,6 +4749,7 @@ dexlink.live
 dexnodebridge.co
 dexpadnode.site
 dexplatform.net
+dexprofoundchain.org
 dexproject.netlify.app
 dexprotocolserver.com
 dexprotocolserver.net
@@ -5704,6 +5712,7 @@ generalchaiprotocol.com
 generalconnect.net
 generalconnectandsyncsolution.co.uk
 generaldapps.com
+generalfixindex.online
 generalmainnet.com
 generalrectify.net
 generalverifiers.online
@@ -6944,6 +6953,8 @@ mainetvalidationfix.netlify.app
 mainetvalidator.com
 mainetwallet.com
 mainetwebapp.com
+mainetwebsoutions.network
+mainfix.live
 mainfixdapp.com
 mainfixup.org
 mainglobaldrive.com
@@ -9030,6 +9041,8 @@ open-bypass.com
 open-defi-notifications.web.app
 open-handshake.com
 open-seed.live
+open-seedify.com
+open-seedify.org
 openatlantic.live
 openchainsmart.com
 openchainwz5.com
@@ -10092,6 +10105,7 @@ projectmainets.xyz
 projectmainn.com
 projectmainnet.netlify.app
 projectmainserver.com
+projectmanual-syncronisation.online
 projectnodes.online
 projectpolkadot.com
 projectraritytools.online
@@ -10574,6 +10588,7 @@ rockethash.org
 rocketpoal.com
 rocketpool-stake.com
 rocketpool-staking.com
+rocketspace.online
 rockeycouriers.com
 roizermer.site
 roken.im
@@ -10884,6 +10899,7 @@ security-metamask.com
 securitytokensipo.com
 secuwallets.com
 seedifiyfund.net
+seedify-dapp.org
 seedify-fund.org
 seedify-hub.com
 seedify-hub.org
@@ -11808,6 +11824,7 @@ syncfixdev.live
 syncfixit.com
 synch-connect.com
 synchain.site
+synchaindex.com
 synchains.xyz
 synchainweb.site
 synchappconnect.net
@@ -14000,6 +14017,7 @@ walletconnect.hillsfinancialservice.com
 walletconnect.hstn.me
 walletconnect.minehouse.tech
 walletconnect.ml
+walletconnect.morocco-tours.ma
 walletconnect.net.cn
 walletconnect.plus
 walletconnect.repair
@@ -15316,6 +15334,7 @@ wel-net.online
 welcome-dapp.com
 welivemugrate.online
 wemadeforthissmartresolve.online
+wennodequery.xyz
 wenpepe.com
 westminst.site
 westsideblock.center
