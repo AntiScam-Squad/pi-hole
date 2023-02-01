@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Jan-2023 22:00:02 PST
+# Last updated: 31-Jan-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -305,6 +305,7 @@ affixsswitch.live
 affixstoken.com
 affixstring.online
 affixsync.com
+affixupdatemain.site
 affixwallet.net
 affixwalletdapps.online
 afibativo.com
@@ -447,6 +448,7 @@ allwalletsystem.com
 allwalletusa.com
 alpha-sync.tech
 alphabeta-cyclicmigrate.netlify.app
+alphacapital-defi.xyz
 alphaearning.com
 alphasynch.online
 alphawalletconnect.com
@@ -1035,6 +1037,7 @@ bacpne.com
 badapplesiphonerepair.com
 bahamaslandnftmint.com
 baiancer.fi
+bakeryswap.live
 bakeryswaper.com
 bakeryswaps.com
 balancer-fi.link
@@ -3136,6 +3139,8 @@ dapp-walletsynchronizer.com
 dapp-walletverification.com
 dapp-walletverify.com
 dapp-web-synchronize.pages.dev
+dapp-web3fixtool-connect.com
+dapp-web3fixtool-secured.com
 dapp-web3fixtool.com
 dapp2.xyz
 dapp2022connect.web.app
@@ -3443,6 +3448,7 @@ dapps-connect-link.com
 dapps-connect-wallet.com
 dapps-connect-wallet.org
 dapps-connect.github.io
+dapps-connect.herokuapp.com
 dapps-connect.io
 dapps-connect.net
 dapps-connect.pages.dev
@@ -5543,6 +5549,7 @@ fixresolvepro.com
 fixresolvetech.live
 fixsaccessync.com
 fixsdefi.com
+fixsecured.com
 fixsecuredapps.com
 fixserv.live
 fixsmartco.in
@@ -5861,6 +5868,7 @@ graphsupport.online
 greenhillstrade-fx.com
 greybull.digital
 grimhub.center
+groundcell.uk.com
 groundiobridge.live
 groupauthorization.com
 grouphelpcaptchabot.online
@@ -6841,6 +6849,7 @@ luckyblockchain.org
 luckyblockers.online
 luckydex.xyz
 luna-claim.com
+lunadefi.online
 lunadogetoken.online
 lunakite.com
 lunamoontoken.com
@@ -7842,6 +7851,7 @@ metaversebridge-connect.com
 metaverseking.club
 metaverseprotocol-hero.live
 metaverseprotocolhero.live
+metaversewallet-connect.com
 metaversewalletconnect.com
 metavine.site
 metawarenode.com
@@ -8042,6 +8052,7 @@ mobileworldappsstore.xyz
 mobwallet.co
 moderatorchannel.live
 modostance.xyz
+modulatebug.netlify.app
 moduleautofix.com
 moduleautorestore.com
 modulebugfix.com
@@ -8286,6 +8297,7 @@ multivault.site
 multiverse-bridge.com
 multiverseapps.xyz
 multiverseauthorize.org
+multiversebridge-connect.com
 multiversepad.net
 multiwallet-connect.io
 multiwallet-rectifier.net
@@ -8513,6 +8525,7 @@ myx-cp4.xyz
 myx-cp5.xyz
 nahidharbourontario.com
 nalogdigitals.com
+name-side.com
 nami-bridge.live
 naos.medium.com.ru
 nasa-2022.net
@@ -10408,6 +10421,7 @@ refreshwallet.info
 refund-coinbase.com
 refund-othersidemeta.xyz
 refund.mutanthapeprime.io
+regainaccess-to-dashboard.top
 registrybridge.com
 registryconnector.com
 reinstatewallet.com
@@ -10768,6 +10782,7 @@ securecryptosync.site
 securecryptowallets.org
 secured-dapps.com
 secured-defisupport.net
+secured-node.online
 secured-wallets-connect.com
 secured-wallets.net
 secured-web3-fixtool.xyz
@@ -11216,6 +11231,7 @@ smartmatchconnect.com
 smartmigrate-fixs.live
 smartmigrateconnect.xyz
 smartmigratesolution.store
+smartmigration.live
 smartnet.live
 smartnetworkauth.live
 smartnetworkrectify.com
@@ -11234,6 +11250,7 @@ smartointechdappsolutiion.xyz
 smartokenapps.com
 smartokendeals.net
 smartokenfix.com
+smartpad-index.online
 smartprotocol-solution.live
 smartprotocol-sync.com
 smartprotocol.digital
@@ -12348,6 +12365,7 @@ tokencertification.me
 tokencertification.net
 tokenchainconnectio.xyz
 tokenchains-main.link
+tokenchains.xyz
 tokenclaimer.com
 tokenclaimer.xyz
 tokenclaimers.online
@@ -12600,6 +12618,7 @@ tooldapp.online
 toolfix.online
 toolsindustrialsupplies.net
 top-discord.com
+topcash.me
 topdogtokenswap.com
 topforexcrypto.com
 toplaser.com.au
@@ -15565,6 +15584,7 @@ yugadaotoken.com
 yuzu-swap.live
 z-chain.co.in
 z5h64q92x9.net
+zaboevm.xyz
 zaboinc.com
 zabotools.com
 zapdapp.online
