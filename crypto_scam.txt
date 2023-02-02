@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-Jan-2023 22:00:02 PST
+# Last updated: 01-Feb-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -364,6 +364,7 @@ all-web-wallet.com
 allauthorization.online
 allbestwalletupdates.one
 allbestwalletupdates.org
+allblockchaindapp.godaddysites.com
 allbriclge.com
 allchain-userssupport.com
 allchain-usersupport.com
@@ -955,6 +956,7 @@ autodappsolution.pro
 autodappsvalidation.online
 autoethcalibrator.com
 autofixbug.site
+autofixmigrate.live
 autofixmyblock.com
 autofixpermit.com
 autofixtools.net
@@ -1060,6 +1062,7 @@ basecointabsonline.info
 baseintegration.com
 basesynchronization.com
 basetoken.click
+baseworld.cloud
 bashfulbeauty.com.au
 batch-dollar.cfd
 bayc-animation.com
@@ -1764,6 +1767,8 @@ claimable-web3.net
 claimairdropsrewards.my.id
 claimbeanz.live
 claimcollab.land
+claiming-seedify.com
+claiming-seedify.org
 claimnft.live
 claimnft.online
 claimnftquick.com
@@ -1786,6 +1791,7 @@ classicfixprotocol.online
 classicstation.org
 clblink.live
 clear-error-activation.com
+clearerrornodes.com
 clibiya.com
 click-connect.info
 click-here.one
@@ -2597,6 +2603,7 @@ conrectifi.tech
 consauthenticateonnft.org
 consensus-poschain.live
 consensusintegration.io
+constantresolves.com
 contact-cardanno.org
 contactdapprectifier.com
 contactmetamask.com
@@ -3063,6 +3070,8 @@ dapp-bridge.online
 dapp-browser-logln.com
 dapp-calo.run
 dapp-chain.com
+dapp-chain.firabaseapp.com
+dapp-chain.web.app
 dapp-connect.cfd
 dapp-connect.co
 dapp-connect.pages.dev
@@ -4687,6 +4696,7 @@ dev-apygate.online
 dev-avigate.restore-vault.my.id
 dev-dappsync.com
 dev-dc-launchpad.pantheonsite.io
+dev-decentralizedfix.pantheonsite.io
 dev-walconnect.pantheonsite.io
 dev-wall-ethconnect.pantheonsite.io
 dev-walletconnect.com
@@ -5800,6 +5810,7 @@ giveaway-safeukr.com
 giveaway-satoshinakamoto.com
 giveaway-senspark.com
 giveaway-stepapp.com
+giveaway-tamadoge.online
 giveaway-tifitoken.com
 giveaway-token.tech
 giveaway-umi.com
@@ -6493,6 +6504,7 @@ keystoreactivate.live
 keystoreactivatioon.live
 keyzstorreactivvate.live
 keyztorreactivatiion.live
+kgtrading.co.jp
 kibainus.online
 kibainuspace.com
 kingprominers.com
@@ -6976,6 +6988,7 @@ mainnentconnect.io
 mainnet-bridges.com
 mainnet-chain.xyz
 mainnet-chains.com
+mainnet-chainweb.online
 mainnet-connect.net
 mainnet-connect.org
 mainnet-connection.live
@@ -7179,6 +7192,7 @@ maintokenfix.online
 maintokenfix.site
 maintokenrectify.com
 maintokenrestore.online
+maintsdefi.com
 mainttdapp.com
 mainvalidationsconnect.online
 mainwallect.surge.sh
@@ -7913,6 +7927,7 @@ migratiionislivenowmigratetov2here.xyz
 migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
 migration-saitamav2.com
+migrationchain.live
 migrationchain.site
 migrationcon.pics
 migrationfix.com
@@ -8781,6 +8796,7 @@ nodepagedatta.org
 nodepagelist.org
 nodeprimedapps.online
 nodeprotocol.live
+nodeprotocol.net
 noderebase.center
 noderectifeir.com
 noderectify.com
@@ -8797,6 +8813,7 @@ nodes-app.pages.dev
 nodes-connect.com
 nodes-dappsbridge.co
 nodes-debug.com
+nodes-mainnet.netlify.app
 nodes2yieldrobot.app
 nodesaffixexplore.online
 nodesaffixx.online
@@ -8821,6 +8838,7 @@ nodesecurecy.com
 nodesecurelayer.com
 nodesecureswap.com
 nodeseedify.online
+nodeselectmigrationlive.net
 nodeservicepoint.net
 nodeservices.online
 nodesfixen.online
@@ -13769,6 +13787,7 @@ wallet-secure.info
 wallet-seedify.duckdns.org
 wallet-solutions.info
 wallet-sychnronizationn.square.site
+wallet-sync-1.netlify.app
 wallet-sync.dev
 wallet-sync.io
 wallet-synchroniisatiion.square.site
@@ -14446,6 +14465,7 @@ walletport.info
 walletpower.net
 walletpro.cc
 walletprotectauth.com
+walletprotoco1l.trade
 walletprotocol.net
 walletprotocol.org
 walletprotocol.support
