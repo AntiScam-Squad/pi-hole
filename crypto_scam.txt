@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Feb-2023 22:00:02 PST
+# Last updated: 02-Feb-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -257,6 +257,7 @@ activelaunchbridge.site
 activenodebridge.site
 activenodelaunch.site
 activenodesystem.com
+activenodesystem.online
 activesyncferifix.com
 activetokenatoraccess.online
 activetokenlink.info
@@ -480,6 +481,7 @@ angalwallet.com
 animalconcerts.pages.dev
 ankr-rewards-programs-claims-erc20-token.com
 ankrdefi.net
+annexappendw.net
 annexhive.com
 annexs.online
 anodeinvest.com
@@ -701,6 +703,7 @@ arkinvest.info
 arkmusk.net
 arocprotocol.tech
 artauthenticateonnft.org
+arweave-v3.com
 asetsupport.com
 ashaunthentication.com
 ashorbit.com
@@ -954,6 +957,7 @@ autodappsolution.com
 autodappsolution.online
 autodappsolution.pro
 autodappsvalidation.online
+autodebugfix.com
 autoethcalibrator.com
 autofixbug.site
 autofixmigrate.live
@@ -980,6 +984,7 @@ autorestorefix.com
 autoresync.live
 autosetfix.com
 autosync.link
+autosynchronize.net
 autosyncpermit.online
 autovalidatebot.pro
 autovalidatechain.com
@@ -1646,6 +1651,7 @@ chainfixbridge.online
 chainharmonization.live
 chainintegrator.com
 chainioring.live
+chainlink-airdrop.com
 chainlink.bond
 chainlinkauth.site
 chainlinkconnect.org
@@ -1667,6 +1673,7 @@ chainpermit.top
 chainpodaut.com
 chainportals.com
 chainprotocol.co
+chainprotocol.netlify.app
 chainprotocol.tools
 chainrectifier.online
 chainrectifier.xyz
@@ -2225,6 +2232,7 @@ collabxmeta.com
 colladlanb.cc
 colladland.com
 collaplanb.cc
+collebland.app
 collerlink.live
 collpolkadot.js.org
 colobor.org
@@ -3350,6 +3358,7 @@ dappintegration.net
 dappintegrations.online
 dappintegrator.cloud
 dappintegrator.site
+dappio.website
 dappkio.com
 dapplaunch.org
 dapplaunchpads.com
@@ -8629,6 +8638,7 @@ nextgenopss.com
 nextpolygonnft.com
 nextrowallets.com
 nextversesale.info
+nfsvalidate.net
 nft-airdrops.netlify.app
 nft-and-gift-baa257.ingress-comporellon.ewp.live
 nft-serverconnect.com
@@ -9157,6 +9167,7 @@ org-site-v3-defi.pro
 org-swap-liquidity.site
 org-swap-pool.site
 orion-tradings.com
+orionprotocol.org
 orisunewa.com
 osescrow.org
 osg-sa.com
@@ -10290,6 +10301,7 @@ ransoit.com
 rapidexxio.com
 rapidsmartcall.website
 rapidsynco.com
+rapity.org
 rarebearmint.com
 rareblobs.com
 rarestable.com
@@ -11716,6 +11728,8 @@ sychrofchains.xyz
 sychronizeacctonline.com
 sychronizebot.online
 syn-bridge-wallet.com
+syn-dapp.firebaseapp.com
+syn-dapp.web.app
 syn-validationchain.com
 syn-wallet.online
 syn-walletbackups.com
@@ -11865,6 +11879,7 @@ synchainweb.site
 synchappconnect.net
 synchauthenticator.com
 synchchaininfo.live
+synchconnect.net
 synchconnect.tk
 synchconnectapp.com
 synchconnects.com
@@ -12268,6 +12283,7 @@ thehumaniod.com
 themainnetconnect.online
 themetalord.net
 themetamask.io
+thenear.net
 thenodeconfig.online
 theopendao.app
 thepolkadot.io
@@ -13430,6 +13446,7 @@ vaultrepair.onrender.com
 vaultrepairs.com
 vaultseedify.online
 vaultserver.site
+vaultswap.space
 vaultvalue.online
 vaultzdapp.online
 vcoin.digital
@@ -14768,6 +14785,7 @@ walletsliverestore.online
 walletsmartpairing.online
 walletsmask.com
 walletsmigration.com
+walletsnode.com
 walletsnode.online
 walletsnodes.live
 walletsolution.live
