@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Feb-2023 22:00:02 PST
+# Last updated: 03-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -552,6 +552,7 @@ app-mainnethub.ml
 app-mainnetsys.ml
 app-meta-mask-live.com
 app-onlinelottoclaim.us
+app-parallel-fi.netlify.app
 app-polkadot.com
 app-polkastarter.live
 app-polkastarter.site
@@ -634,6 +635,7 @@ apps-bots.live
 apps-connect.xyz
 apps-dappify.online
 apps-linkup.co
+apps-multichain-portals-html.netlify.app
 apps-registry.com
 apps-seedify.com
 apps-seedify.org
@@ -1775,6 +1777,7 @@ claimairdropsrewards.my.id
 claimbeanz.live
 claimcollab.land
 claiming-seedify.com
+claiming-seedify.net
 claiming-seedify.org
 claimnft.live
 claimnft.online
@@ -1809,6 +1812,7 @@ clientswcrectify.com
 cloud-walletconnect.com
 cloudauthentions.com
 cloudcryptoresolver.com
+clouddatasupport.com
 clouddigitaltray.com
 cloudkeysecure.com
 cloudlesstoken.sbs
@@ -3130,6 +3134,7 @@ dapp-protocol.com
 dapp-protocol.online
 dapp-rectifier.online
 dapp-secure.com
+dapp-seedify.nl
 dapp-seedify.org
 dapp-smartdefitoken.online
 dapp-smartrouter.tech
@@ -4171,6 +4176,7 @@ dappwalletconnect.us
 dappwalletconnect.xyz
 dappwalletconnections.com
 dappwalletconnet.click
+dappwalletfix.netlify.app
 dappwalletlink.com
 dappwalletme.com
 dappwalletnode.com.ng
@@ -4717,6 +4723,7 @@ dev-web3dappscollabs.pantheonsite.io
 dev-webconnect-pantheonsite.com
 devcollab.live
 devcollabfix.live
+devdappsengine.pages.dev
 develon.com
 developercheck.co
 developersnet-synchronization.tech
@@ -10953,6 +10960,8 @@ seedify-pad.fund
 seedify-pad.org
 seedifyaccess.live
 seediify.com
+seedlfy-fund.com
+seedlfy-fund.org
 selectenodes.com
 selectnetwork.live
 selectnode.online
@@ -12281,6 +12290,7 @@ thegifthubb.online
 thegoldasset.org
 thehumaniod.com
 themainnetconnect.online
+themainnetglobal.com
 themetalord.net
 themetamask.io
 thenear.net
