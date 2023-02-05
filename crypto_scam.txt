@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Feb-2023 22:00:01 PST
+# Last updated: 04-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -108,6 +108,7 @@
 4523544325432.bar
 4dot.net
 4ever-photo.com
+4lifeconstructions.com.au
 4vvuniswap.top
 5-253-84-133.plesk.page
 5gfixbox.com
@@ -393,6 +394,7 @@ alldappschains.com
 alldappsconnection.com
 alldefiwallet.com
 alldigitalwalletapp.com
+alliancebridge.live
 alliancebridgeprotocol.com
 alliancebridgeprotocol.info
 allinone-connect.com
@@ -836,6 +838,7 @@ authdappfiixeeedaauutthdaappp.weebly.com
 authdapps-connect.org
 authdapps.live
 authdappsync.com
+authdaps.com
 authdapsync.com
 authdsappsfixed.000webhostapp.com
 authdsappsfixed.com
@@ -928,6 +931,7 @@ auto-dapprectify.com
 auto-digitalconnect.com
 auto-easyconnect.com
 auto-interexchange.com
+auto-migrate.live
 auto-pass.net
 auto-servicedapps.online
 auto-sync.net
@@ -1484,6 +1488,7 @@ bridgeportconnecticut.net
 bridgeprotect.xyz
 bridgeprotocol.link
 bridgeprotocol.site
+bridgeprotocolapp.site
 bridgeprotocolfix.net
 bridgeprotocols.com
 bridgerouter.info
@@ -4495,6 +4500,7 @@ defibot-command.online
 defibridgelive.online
 defibridgesync.com
 defibug.buzz
+defibugfix.com
 defichain-solutions.com
 defichainalert.net
 defichainfix.surge.sh
@@ -6385,6 +6391,7 @@ inter-links.live
 interapps.xyz
 interconnect-optimize.com
 interconnectnode.online
+interconnectserver.com
 interdapps.com
 interdapps.tech
 interfaceapi.co
@@ -6642,6 +6649,7 @@ launchpads-dapps.com
 launchpads.finance
 launchpads.herokuapp.com
 launchpadv2.com
+launchpadvalidator.com
 launchpath.online
 launchpool.live
 launchvalidator.co
@@ -6917,6 +6925,7 @@ main-panel.net
 main-rectifysync.online
 main-sync.com
 main-tool.info
+main-vault-decentralized.live
 main-walletconnet.org
 mainaffix-sync.com
 mainaffixrectify.com
@@ -7344,6 +7353,7 @@ metablazeapp.com
 metablazetoken.site
 metablockchaiin.me
 metabridge-connect.com
+metabridger-wallet.com
 metabridgewallet-connect.com
 metaceware.net
 metachain.support
@@ -8018,6 +8028,7 @@ minttripsters.com
 mintvalidatetd.online
 mintvalidation.com
 mintwagger.com
+mintwallet.netlify.app
 mintwalletvalidator.net
 miracletradefx.com
 mirrordappz.com
@@ -8774,6 +8785,7 @@ nodeauthy.space
 nodebasin.com
 nodeblockchain-lab.com
 nodebridge.xyz
+nodebridgeapp.site
 nodebridges.com
 nodecertify.com
 nodechain.live
@@ -8891,6 +8903,7 @@ nodesvaults.online
 nodesverification.com
 nodesverification.net
 nodesyieldrobot.app
+nodesyieldrobot.com
 nodesync.live
 nodesynced.com
 nodesyncs.com
@@ -9791,6 +9804,7 @@ polkadots.me
 polkadots.network
 polkadots.nl
 polkadots.sites.revsense.com
+polkadots.space
 polkadotsconnect.com
 polkadotsnetwork.com
 polkadotstake.live
@@ -10945,6 +10959,7 @@ securewalletsynchronize.com
 securewalletvalidation.org
 securewalletvalidation.xyz
 securewalletvalidator.cf
+secureweb3.site
 securewebsync.com
 securifywalletsync.com
 security-metamask.com
@@ -11256,6 +11271,7 @@ smartfixr.com
 smartfixsoilutiondapps.website
 smartindex-connect.live
 smartindex-hub.com
+smartindex-protocol.online
 smartindexhubs1.online
 smartlaunchapp.org
 smartlaunchweb.com
@@ -11507,10 +11523,12 @@ stake-eth.org
 stake-ether.org
 stakebrntoken.com
 stakedapps.online
+stakemigrat6373783282.live
 staketoken.space
 staking-eth.org
 staking-ether.org
 stakingdex.online
+stakingmigrate899897878.live
 stampdesk.link
 standard.medium.com.ru
 standardcryptotraders.com
@@ -14348,6 +14366,7 @@ walletdotsolutions.site
 walletdrawer.com
 wallete.net
 walleteconnect.live
+walletefex.xyz
 walletencrypt.net
 walletencrypt.online
 walletencrypts.com
