@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Feb-2023 22:00:01 PST
+# Last updated: 05-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3141,6 +3141,8 @@ dapp-rectifier.online
 dapp-secure.com
 dapp-seedify.nl
 dapp-seedify.org
+dapp-seedlfy.com
+dapp-seedlfy.org
 dapp-smartdefitoken.online
 dapp-smartrouter.tech
 dapp-solution.web.app
