@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Feb-2023 22:00:01 PST
+# Last updated: 06-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -11800,6 +11800,7 @@ sync-pass.com
 sync-portal.online
 sync-portfolio.com
 sync-protectionlink.online
+sync-protocol.net
 sync-protocols.com
 sync-rectificationconnect.co
 sync-rectificationerrors.org
