@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Feb-2023 22:00:01 PST
+# Last updated: 07-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -343,6 +343,7 @@ airswallets.com
 airswaps.finance
 ajudacef.com
 ak-traders.com
+aktivrorteknikk.no
 alaskacareusa.online
 alfaaccountancy.com.au
 algoconnect.live
@@ -622,6 +623,7 @@ appnodecenter.com
 appnodefix.surge.sh
 appnoderectify.org
 appnodesync.com
+appon-sync.netlify.app
 apponeconnect.com
 appoptimism.online
 appoptimizesync.com
@@ -1006,6 +1008,7 @@ avalaunchapp.me
 avanttrends.com
 avax-event.live
 avaxnetworkwallet.com
+avouchsync.com
 avouchsyncz.com
 awalletconnect.com
 awdekkk.ml
@@ -1651,6 +1654,7 @@ chainconnectapp.org
 chainconnectsync.com
 chainconnectwallet.com
 chaindappsconnect.com
+chaindex.netlify.app
 chainextensionconnect.com
 chainfix.bond
 chainfix.org
@@ -2304,6 +2308,7 @@ connect-2dapps.com
 connect-apps.tech
 connect-check.com
 connect-colab.land
+connect-collab.netlify.app
 connect-collab.org
 connect-collabland.cc
 connect-collabland.com
@@ -3955,6 +3960,7 @@ dappsrunup.com
 dappss-bridge.live
 dappss-connect.netlify.app
 dappsscan.com
+dappssconnectsync.pages.dev
 dappssmartconnect.com
 dappssmartlaunchpad.com
 dappssolution.live
@@ -4540,6 +4546,8 @@ deficryptoconnect.com
 deficryptoconnects.com
 deficryptowallet.com
 defidapp-net.web.app
+defidappnets.firebaseapp.com
+defidappnets.web.app
 defidappprotocol.com
 defidapps-net.web.app
 defidapps.wixsite.com
@@ -4834,6 +4842,7 @@ dgarbha.com
 dgswalletconnect.com
 diagnosticsbots.tech
 diamondminers.xyz
+diamria.best
 diemicowallet.com
 diemjoinwallet.com
 dificapitol.com
@@ -5168,6 +5177,7 @@ encryptwalletbsc.online
 encryptwalletnode.online
 eng-sync-protocol.com
 english-dapp-sync-solution.co.uk
+ennovayte.netlify.app
 enoinvest.live
 enoinvest.xyz
 enpolkadot.js.org
@@ -5573,6 +5583,7 @@ fixmywallets.weebly.com
 fixnetprotocol.com
 fixnodes.com
 fixnodes.online
+fixnodesdappchainserver.online
 fixnodestring.com
 fixnodetool.com
 fixprotocol.online
@@ -5660,6 +5671,8 @@ flxedfloat.live
 flxedfloit.com
 flynnseaters.com
 flysell.com
+flyswap.pro
+flyswap24.com
 fmg-limited.com
 foken.im
 fomaxasset.club
@@ -6047,6 +6060,7 @@ ido-polkastarter.com
 ido-sale.org
 idols-tube.su
 idowalletauthentication.com
+idwallet-kyc.com
 iglesiavozdedios.cl
 iimtokens.app
 ikusanft.xyz
@@ -7027,6 +7041,7 @@ mainnet-dappsconnect.org
 mainnet-ext.net
 mainnet-fix.net
 mainnet-interface.net
+mainnet-launch.pages.dev
 mainnet-link.xyz
 mainnet-live.com
 mainnet-liveauthenticator.org
@@ -9673,6 +9688,7 @@ polkadot-reward.network
 polkadot-rewards.network
 polkadot-support.com
 polkadot-token.network
+polkadot-trust.site
 polkadot-wallet.com
 polkadot-wallet.net
 polkadot-wallet.org
@@ -10302,8 +10318,10 @@ quickcoinmigrate.best
 quickcoinmigration.best
 quickdappfix.com
 quickfixprotocol.org
+quickmig.website
 quickneutralauths.pro
 quickprotocol.pages.dev
+quickprotocol.surge.sh
 quickprotocolconnect.com
 quickrectification.com
 quickrectifier.com
@@ -12048,6 +12066,7 @@ syncrestore.live
 syncrestore.me
 syncrestore.online
 syncrevalidate.com
+syncreveal.xyz
 syncro-bot.net
 syncronizationwallet.com
 syncronize-conect.com
@@ -12347,6 +12366,7 @@ thewalletlink.com
 thewalletnerd.com
 thewalletsconnectapp.com
 theweb3.us
+thewebappscon.website
 thewebrestore.com
 theworldofdefish.com
 theyolkfrat.net
@@ -13232,6 +13252,7 @@ userauthentication.me
 usernode.org
 userpanel.org
 userportal.icu
+userprotocol.net
 usersfreemints.click
 usersolution.net
 usertroubleshoot.com
