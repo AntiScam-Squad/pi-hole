@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Feb-2023 22:00:01 PST
+# Last updated: 10-Feb-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1013,6 +1013,7 @@ avalaunchapp.me
 avanttrends.com
 avax-event.live
 avaxnetworkwallet.com
+avouchdapps.com
 avouchsync.com
 avouchsyncz.com
 awalletconnect.com
@@ -1324,6 +1325,7 @@ blockchainconnect.tk
 blockchaindapps.co
 blockchaindapps.io
 blockchainexplorer.store
+blockchainfix.xyz
 blockchainfixer.netlify.app
 blockchainfreeairdropcoin.com
 blockchainhub.online
@@ -2585,6 +2587,7 @@ connectwallet-kucoin.gq
 connectwallet-kucoin.ml
 connectwallet-vault.firebaseapp.com
 connectwallet-vault.web.app
+connectwallet.42web.io
 connectwallet.co.in
 connectwallet.digital
 connectwallet.ipq.co
@@ -3106,6 +3109,7 @@ daplatform.one
 dapmainconnectbott.org
 dapmainnet.com
 dapnodeconnect.com
+dapp-acact.com
 dapp-acts.com
 dapp-authentikator.xyz
 dapp-brdg.firebaseapp.com
@@ -4405,6 +4409,7 @@ decentralized-protocol.info
 decentralized-protocol.live
 decentralized-syncprotocol.live
 decentralized-tools.org
+decentralizedapplications.site
 decentralizedchain-support.net
 decentralizedchain.co
 decentralizedchain.live
@@ -5487,6 +5492,7 @@ finessejobs.info
 finetexinvestment.com
 finras.info
 finupdrop.com
+finxedfloat.com
 firmware-config.net
 firmwareaccess.app
 fix-02.serveuser.com
@@ -5548,6 +5554,7 @@ fixedappweb.com
 fixedcoinwallets.com
 fixedconnects.live
 fixeddappscom.com
+fixedfbloat.com
 fixedfịoat.com
 fixedfl0af.com
 fixedfleat.com
@@ -5559,6 +5566,7 @@ fixedfloat.cfd
 fixedfloat.ch
 fixedflȯat.com
 fixèdfloat.com
+fîxedfloat.com
 fixedfloat.in.net
 fixedfloat.ltd
 fixedfloat.mom
@@ -5571,6 +5579,8 @@ fixedfloathome.xyz
 fixedfloati.com
 fixedfloatmirror.com
 fixedfloatswap.xyz
+fixedflorat.com
+fixedflovat.com
 fixedfoat.org
 fixedfout.com
 fixedissues.org
@@ -6641,6 +6651,7 @@ krakenlongp.live
 krakentokencrypto.website
 krowfund.network
 kryptconnect.com
+kryptconnect.xyz
 kryptoconnect-support.com
 kryptoconnect.live
 kryptoconnectsupport.com
@@ -6815,6 +6826,7 @@ live-applink.in.net
 live-dapp.surge.sh
 live-ico.com
 live-link.live
+live-protocol.com
 live-securevalidator.net
 live-walletaffix.com
 live.assetsrestoreapp.com
@@ -8722,6 +8734,7 @@ nextgenopss.com
 nextpolygonnft.com
 nextrowallets.com
 nextversesale.info
+nexusbridgeplatform.website
 nfsvalidate.net
 nft-airdrops.netlify.app
 nft-and-gift-baa257.ingress-comporellon.ewp.live
@@ -12918,6 +12931,7 @@ trustkonect.com
 trustledgerchains.com
 trustliveaid.online
 trustnewswalletshare.com
+trustpad-bnb.com
 trustpad-cdn.net
 trustpad-christmas.net
 trustpad-community.com
@@ -13695,6 +13709,7 @@ w-resolution-mainnet.online
 w-validate.info
 w-validation.com
 w.centralized-securefix.live
+w.metasploits.online
 w.nftservers.repl.co
 w3c-sync.live
 w3c-validation.live
@@ -15654,6 +15669,7 @@ xn--banco-9bb.com
 xn--blancer-8va.finance
 xn--boredapeyachtcub-nqc.com
 xn--eth-mxer-xkb.com
+xn--fixdfloat-23a.com
 xn--fixedflat-msd.com
 xn--fixedfloat-hj3e.com
 xn--meamask-orb.com
