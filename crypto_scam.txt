@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Feb-2023 22:00:02 PST
+# Last updated: 11-Feb-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1963,6 +1963,11 @@ coinfactory.digital
 coinfiixsoluiitiontech.pro
 coinfix.tech
 coinfutureoptions.com
+coingeckoreward.fun
+coingeckoreward.life
+coingeckoreward.pw
+coingeckoreward.shop
+coingeckoreward.space
 coingrantdept.com
 coinhamsterdrop.com
 coinhelptechsolution.com
@@ -2177,6 +2182,8 @@ collabland-5.cc
 collabland-8.cc
 collabland-connect.cc
 collabland-connect.land
+collabland-holder.xyz
+collabland-holders.xyz
 collabland-join.com
 collabland-sync.net
 collabland-verify.cc
@@ -3439,6 +3446,7 @@ dappmigration.org
 dappmobileconnect.com
 dappmobilesync.com
 dappmodule.net
+dappmodulehub.com
 dappmultichainsyn.com
 dappmulticonnect.online
 dappn-wallets.com
@@ -4393,6 +4401,7 @@ decentralead.netlify.app
 decentralised-protocol.com
 decentralised-protocols.live
 decentralised-refitting.app
+decentralisedbridge.online
 decentralisedcollab.land
 decentralisedconnect.com
 decentralize-solutions.com
@@ -4481,6 +4490,7 @@ defi-apps.net
 defi-apps.xyz
 defi-appsolution.com
 defi-authentication.com
+defi-authenticator.app
 defi-chainlink.site
 defi-chainsync.com
 defi-colab.net
@@ -4766,6 +4776,7 @@ dev-avigate.restore-vault.my.id
 dev-dappsync.com
 dev-dc-launchpad.pantheonsite.io
 dev-decentralizedfix.pantheonsite.io
+dev-decentralizedlp.pantheonsite.io
 dev-walconnect.pantheonsite.io
 dev-wall-ethconnect.pantheonsite.io
 dev-walletconnect.com
@@ -5495,6 +5506,7 @@ finupdrop.com
 finxedfloat.com
 firmware-config.net
 firmwareaccess.app
+firxedfloat.com
 fix-02.serveuser.com
 fix-api-firmware.com
 fix-blockchain.com
@@ -5581,6 +5593,7 @@ fixedfloatmirror.com
 fixedfloatswap.xyz
 fixedflorat.com
 fixedflovat.com
+fixedflroat.com
 fixedfoat.org
 fixedfout.com
 fixedissues.org
@@ -5601,6 +5614,7 @@ fixerspotweb.live
 fixetfloat.org
 fixetfloats.com
 fixetfloats.us
+fixfirmapiwares.org
 fixie.live
 fixingdapp.org
 fixingprotocol.com
@@ -5642,6 +5656,7 @@ fixresolvetech.live
 fixsaccessync.com
 fixsdefi.com
 fixsecured.com
+fixsecured.support
 fixsecuredapp.com
 fixsecuredapps.com
 fixserv.live
@@ -6038,6 +6053,7 @@ hohrvestversion.website
 hoistcoins.net
 holdane.com
 holders-airdrop.info
+holders-collabland-verif.xyz
 holders-tokens.com
 holdersverify.online
 holdervalidator.icu
@@ -6476,6 +6492,7 @@ internationalcapitalgrowth.com
 internationalgemologicalcenter.com
 interphase.live
 intersyncappscloud.online
+intersyncbridge.com
 interwalletaid.com
 intrappsprojects.netlify.app
 invest-token.art
@@ -8426,6 +8443,7 @@ multiwallet-resolve.net
 multiwallet-revise.net
 multiwallet-sync.com
 multiwalletapp.com
+multiwalletcoinn.com
 multiwalletcoins.com
 multiwalletconnectbot.com
 multiwalletconnects.com
@@ -8839,6 +8857,7 @@ node-mainnet.online
 node-mainnets.online
 node-modal-validation.com
 node-project.com
+node-protocol.com
 node-resolve-all-defi-setup.com
 node-revalidation.online
 node-sc.com
@@ -8926,6 +8945,7 @@ nodes-dappsbridge.co
 nodes-debug.com
 nodes-mainnet.netlify.app
 nodes2yieldrobot.app
+nodesaffix.net
 nodesaffixexplore.online
 nodesaffixx.online
 nodesapend.online
@@ -9010,6 +9030,7 @@ nodewalet.com
 nodeweb.online
 nodexplorer.live
 nodexplorer.netlify.app
+nodeyieldrobot.com
 nodezupgrrade.live
 nodifyconnectivities.online
 nodifyconnnect.com
@@ -9780,6 +9801,7 @@ polkadot.gg
 polkadot.gold
 polkadot.group
 polkadot.life
+polkadot.llc
 polkadot.me
 polkadot.mobi
 polkadot.money
@@ -11082,6 +11104,7 @@ selectnetwork.live
 selectnode.online
 selftool.online
 sensdapps.web.app
+servebeer.com
 server-authenticator.com
 server-connect.app
 server-connect.online
@@ -13567,6 +13590,7 @@ vallidationconnect.com
 vanquishdepression.com
 varifinance.in
 varroconnect.com
+vault-affix.onrender.com
 vault-bitwarden.com
 vault-bitwardenr.com
 vault-bitwardens.com
@@ -13618,6 +13642,7 @@ verify-account.net
 verify-auth.online
 verify-chain.com
 verify-coinbase.sesamiclothings.com
+verify-collab.land
 verify-hub.com
 verify-metamask.net
 verify-my-metamask-account-now.io
@@ -14224,6 +14249,7 @@ walletconnect.ga
 walletconnect.gq
 walletconnect.hillsfinancialservice.com
 walletconnect.hstn.me
+walletconnect.ink
 walletconnect.minehouse.tech
 walletconnect.ml
 walletconnect.morocco-tours.ma
@@ -14381,6 +14407,7 @@ walletconnectsvalidation.online
 walletconnectsync.co
 walletconnectsync.net
 walletconnectsyncdapp.com
+walletconnectsynch.com
 walletconnectsyncr.netlify.app
 walletconnectsyncronization.com
 walletconnectsystems.site
@@ -15219,6 +15246,7 @@ walluserconnect.web.app
 wallva.netlify.app
 wallvalidation.netlify.app
 wallvalidator.pro
+walnnetsync.live
 walpanauthnet.com
 walscon.live
 walsdapp-auth.com
@@ -15672,6 +15700,7 @@ xn--eth-mxer-xkb.com
 xn--fixdfloat-23a.com
 xn--fixedflat-msd.com
 xn--fixedfloat-hj3e.com
+xn--fxedfloat-q5a.com
 xn--meamask-orb.com
 xn--metamak-ipb.net
 xn--metamsk-9wa.com
