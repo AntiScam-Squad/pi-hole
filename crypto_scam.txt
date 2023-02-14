@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Feb-2023 22:00:02 PST
+# Last updated: 13-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1460,6 +1460,7 @@ bpads7670x9334a0274e0f2037801aa5ff0c4df3830e31a6755.xyz
 bpolkadot.js.org
 branchwallets.com
 brandyourdomian.com
+braves.cloud
 brdcryptowallet.com
 brdsupportlive.com
 breederdao-sales.com
@@ -3228,6 +3229,7 @@ dapp-web3fixtool-secured.com
 dapp-web3fixtool.com
 dapp2.xyz
 dapp2022connect.web.app
+dapp247fix.live
 dapp3-usdc.xyz
 dapp3web.com
 dappaccess-activation.com
@@ -4424,6 +4426,7 @@ decentralized-connect.com
 decentralized-dapps.info
 decentralized-launchpad.com
 decentralized-mainnet.com
+decentralized-multichains.com
 decentralized-protocol.art
 decentralized-protocol.info
 decentralized-protocol.live
@@ -4532,6 +4535,7 @@ defi-offchainrects.com
 defi-pad.net
 defi-platform.net
 defi-portal.intecilab.com
+defi-protocol-live.click
 defi-protocol.icu
 defi-protocol.live
 defi-protocol.net
@@ -6707,6 +6711,7 @@ kusama.escobaw13.xyz
 kusama.fund
 kusama.us
 kusama.website
+kusamanetwork.org
 kusamapolkadot.com
 kusamapolkadot.js.org
 kusamastaking.com
@@ -6896,6 +6901,7 @@ liveintegratedwallets.com
 liveioapps.com
 livelymood.com
 livemints.events
+livenftmart.com
 livenode-sync.com
 livenodeactivation.com
 livenodeactivations.com
@@ -8723,6 +8729,7 @@ netsyncvalidator.com
 netwalletauth.com
 netwesternunit.com
 network-blockchain.cloud
+network-kusama.com
 network-tech.cc
 network-unlock.com
 networkbridgesvalidation.xyz
@@ -8830,6 +8837,7 @@ nfts-pro.net
 nftsappsecure.com
 nftscollabpads.site
 nftserverpad.com
+nftspace.market
 nftsproccesor.com
 nftsprof.com
 nftsupportmainnet.online
@@ -11053,6 +11061,7 @@ securenodechain.online
 securenodeconnect.com
 securenodefix.org
 securenodes.org
+securenodeswap.com
 secureprotocol.site
 securepublicchain.com
 securerectification.online
