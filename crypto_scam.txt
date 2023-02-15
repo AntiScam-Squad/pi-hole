@@ -1,12 +1,25 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Feb-2023 22:00:01 PST
+# Last updated: 14-Feb-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
+syn-dpps.web.app
+syn-dpps.firebaseapp.com
+defi-solutions.netlify.app
 0vvwvuniswap.top
 0vvwwuniswap.top
+nodeintegration.net
+app.nodeintegration.net
+apygate-sync.com
+dappsauthenticator.com
+multibridgechain.online
+clearconnect.us
+fixedfloat.re
+scanlabs.firebaseapp.com
+scanlabs.web.app
+we-change.online
 0vwwuniswap.top
 0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.xyz
 0x2f499c6da2c8784063bb7e0cb1c478687210cdbr615.xyz
@@ -131,6 +144,45 @@
 99defi.money
 9bitcoin.xyz
 9nvfgbdfhd.quest
+adaprotocols.com
+allmigrationsfix.digital
+app-mainaffix.com
+assetsecurityledgers.com
+captchavalidation.live
+chainslist.store
+click-collab.land
+coin-dapps-web.cloud
+colabsync-network.com
+connectwallettonftsmartbox1.cfd
+cosmo-official.org
+customersupport-desk.help
+daapbridge.info
+dappssync.netlify.app
+dexchainboard.com
+evmos-network.online
+flagnetworkfinance.com
+generalapproval.com
+monitisecreate.com
+node-data.com
+nodesvalidators.com
+node-sync.link
+pacificdapps.live
+proassetsledger.top
+projectswebmainnets.com
+protocol-connect.pages.dev
+rectnode.netlify.app
+rpcrectify.live
+smartbridge.online
+snowfallvalidationbridge.online
+sol-official.store
+sparrowvalidator.com
+syncssecured.com
+tokensyncernode.com
+trustedledgervault.com
+vodkya.netlify.app
+w3sector.com
+web3dapp.icu
+webguru.top
 9y7j.com
 a1drop-giveaway.online
 aaacryptnodes.online
@@ -5587,10 +5639,13 @@ fixeddappscom.com
 fixedfbloat.com
 fixedfịoat.com
 fixedfl0af.com
+fixedflaoat.us
 fixedfleat.com
 fixedfleat.net
 fixedfleot.com
+fixedflloat.us
 fixedfloact.com
+fixedfloadt.us
 fixedfloaf.net
 fixedfloat-swap.com
 fixedfloat.cfd
@@ -5601,6 +5656,7 @@ fîxedfloat.com
 fixedfloat.in.net
 fixedfloat.ltd
 fixedfloat.mom
+fíxedfloat.net
 fixedfloat.one
 fixedfloat.to
 fixedfloatchange.com
@@ -5611,6 +5667,7 @@ fixedfloati.com
 fixedfloatmirror.com
 fixedfloatswap.xyz
 fixedfloazt.com
+fixedfloiat.us
 fixedflorat.com
 fixedflovat.com
 fixedflroat.com
@@ -5623,6 +5680,7 @@ fixedmainnet.online
 fixedmoment.com
 fixedmoments.com
 fixedqfloat.com
+fixedrfloat.us
 fixedswaps.com
 fixedupallwalleterrors.org
 fixedzfloat.com
@@ -14185,6 +14243,7 @@ walletcnnt.site
 walletcoindapps.com
 walletcollection.online
 walletcomectcloud.com
+walletcon.abkanon.yunethosting.rs
 walletcon.online
 walletcon.today
 walletconct.co
@@ -15737,6 +15796,7 @@ xn--eth-mxer-xkb.com
 xn--fixdfloat-23a.com
 xn--fixedflat-msd.com
 xn--fixedfloat-hj3e.com
+xn--fxedfloat-g5a.net
 xn--fxedfloat-q5a.com
 xn--meamask-orb.com
 xn--metamak-ipb.net
