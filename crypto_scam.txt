@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Feb-2023 22:00:01 PST
+# Last updated: 16-Feb-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -334,6 +334,7 @@ air-sora.com
 airdrop-exodus10.com
 airdrop-phantom.app
 airdrop-vitalik.live
+airdrop-walletapp.pages.dev
 airdropcampaign-polkadot.network
 airdropcryptotoday.com
 airdropdefi.com
@@ -572,6 +573,7 @@ app-polkadot.com
 app-polkastarter.live
 app-polkastarter.site
 app-pro.org
+app-protocol.com
 app-quickprotocols.tech
 app-restore-wallets.com
 app-seedify.fund
@@ -1163,6 +1165,7 @@ bicgreationlive.best
 bifi.site
 bifrostsync.com
 bigboxpk.com
+bigeyesapp.xyz
 biggestlegaltradingsystem.co
 biggestminitrade.com
 billfold.help
@@ -1994,6 +1997,10 @@ coingeckoreward.life
 coingeckoreward.pw
 coingeckoreward.shop
 coingeckoreward.space
+coingeckorewards.fun
+coingeckorewards.life
+coingeckorewards.pw
+coingeckorewards.space
 coingrantdept.com
 coinhamsterdrop.com
 coinhelptechsolution.com
@@ -3568,6 +3575,7 @@ dapps-connect2syncs.com
 dapps-connector.com
 dapps-connector.net
 dapps-connector.pages.dev
+dapps-connects.herokuapp.com
 dapps-connects.live
 dapps-connectsync.com
 dapps-connectwallets.com
@@ -3659,6 +3667,7 @@ dapps-sync.com
 dapps-sync.net
 dapps-sync.site
 dapps-sync.xyz
+dapps-syncc.netlify.app
 dapps-syncconnect.digital
 dapps-synced.com
 dapps-synchronizelive.com
@@ -5662,6 +5671,7 @@ fixedflorat.com
 fixedflovat.com
 fixedflroat.com
 fixedfltoat.org
+fixedflzoat.net
 fixedfoat.org
 fixedfout.com
 fixedhfloat.org
@@ -5671,11 +5681,13 @@ fixedlfoat.org
 fixedmainnet.online
 fixedmoment.com
 fixedmoments.com
+fixednfloat.net
 fixedofloat.org
 fixedqfloat.com
 fixedrfloat.net
 fixedrfloat.us
 fixedswaps.com
+fixedtfloat.net
 fixedufloat.org
 fixedupallwalleterrors.org
 fixedvfloat.net
@@ -5684,6 +5696,8 @@ fixedzfloat.com
 fixemart.online
 fixencrypt.online
 fixendfloat.com
+fixendfloat.net
+fixerdfloat.net
 fixerextension.info
 fixernet.live
 fixerror.live
@@ -5692,10 +5706,12 @@ fixerspotweb.live
 fixetfloat.org
 fixetfloats.com
 fixetfloats.us
+fixevdfloat.net
 fixevdfloat.org
 fixezdfloat.com
 fixfirmapiwares.org
 fixie.live
+fixiedfloat.net
 fixingdapp.org
 fixingprotocol.com
 fixissuesnow.com
@@ -8459,6 +8475,7 @@ multidefichain.pro
 multidefichains.com
 multidefinetworks.live
 multidefiprotocols.com
+multidefisapp.info
 multidefisapp.live
 multidefiwallet.io
 multidevconnect.net
@@ -9223,6 +9240,7 @@ olympusdao-finance.online
 olympusdao.ca
 olympusdaos.app
 olympusdaos.net
+ominidefi.io
 omnidefi.io
 on-dapps.com
 onappswallsync.org
@@ -15505,6 +15523,7 @@ web3defiesdapps.live
 web3defiexplorer.com
 web3defiproject.com
 web3dexconnect.com
+web3fixsite.com
 web3fixtool.com
 web3helper.io
 web3host.online
@@ -15669,6 +15688,7 @@ websystem-interface.org
 webtokenaccess.com
 webtokenvalidations.com
 webtoks-syncs.cloud
+webtoolshub.netlify.app
 webtornadocash.com
 webunlockeer.com
 webussnetauthoriesmiigrratee.ink
