@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Feb-2023 22:00:02 PST
+# Last updated: 17-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -577,6 +577,7 @@ app-protocol.com
 app-quickprotocols.tech
 app-restore-wallets.com
 app-seedify.fund
+app-seedlfy.nl
 app-sync.net
 app-syncaffix.com
 app-synconline.com
@@ -1075,6 +1076,7 @@ bacpne.com
 badapplesiphonerepair.com
 bahamaslandnftmint.com
 baiancer.fi
+bakery-polkadot.org
 bakeryswap.live
 bakeryswaper.com
 bakeryswaps.com
@@ -1683,6 +1685,7 @@ chainbridge.app
 chainbridge.live
 chainbridgefactory.xyz
 chainbridgeinfo.xyz
+chainbridges.online
 chaincloudconnect.live
 chaincodperm.com
 chaincoin.epizy.com
@@ -1756,6 +1759,7 @@ chainswalletsdapp.com
 chainswap-ecomi.com
 chainsync.biz
 chainsync.club
+chainsync.live
 chainsync.netlify.app
 chainsync.online
 chainsync.org
@@ -1825,6 +1829,7 @@ claimable-web3.net
 claimairdropsrewards.my.id
 claimbeanz.live
 claimcollab.land
+claimes-seedify.org
 claiming-seedify.com
 claiming-seedify.net
 claiming-seedify.org
@@ -1899,6 +1904,7 @@ coin-base.org.cn
 coin-byte.com
 coin-claim.com
 coin-claims.com
+coin-conversion.com
 coin-daomaker.cloud
 coin-dapps-web.cloud
 coin-express.me
@@ -3221,6 +3227,7 @@ dapp-protocol.app
 dapp-protocol.com
 dapp-protocol.online
 dapp-rectifier.online
+dapp-rectify.netlify.app
 dapp-secure.com
 dapp-seedify.nl
 dapp-seedify.org
@@ -5314,6 +5321,7 @@ esmartchecker.website
 esp-defiswap.com
 espacev.sbs
 esstrovagancelmpdsolu.art
+estcacademy.com
 estravagancexydapps.homes
 estrovagancelmpdsolu.homes
 esychaindexxio.com
@@ -5521,6 +5529,7 @@ ferrum-network.site
 festive-knuth-9ba589.netlify.app
 fex-walletsec.com
 fiatfix.live
+ficxedfloat.org
 fidalix.com
 fidelity-pro.com
 fidelityttrust.com
@@ -5528,6 +5537,7 @@ fidelityttrust.online
 fido-trading-decrypting.herokuapp.com
 figa.ml
 fightagainstcriminal.com
+fiixedfloat.org
 filink-protocol.com
 filsfixmimas.com
 finalcoinmigratev2.financial
@@ -5562,6 +5572,8 @@ finxedfloat.com
 firmware-config.net
 firmwareaccess.app
 firxedfloat.com
+firxedfloat.net
+fivxedfloat.org
 fix-02.serveuser.com
 fix-api-firmware.com
 fix-blockchain.com
@@ -5635,6 +5647,7 @@ fixedfleat.net
 fixedfleoat.net
 fixedfleot.com
 fixedflloat.us
+fixedflo.at
 fixedfloaat.org
 fixedfloact.com
 fixedfloact.org
@@ -5674,6 +5687,7 @@ fixedfltoat.org
 fixedflzoat.net
 fixedfoat.org
 fixedfout.com
+fixedgfloat.org
 fixedhfloat.org
 fixedissues.org
 fixedlfoat.net
@@ -5737,6 +5751,7 @@ fixmytoken.com
 fixmytoken.info
 fixmytoken.live
 fixmywallets.weebly.com
+fixnedfloat.org
 fixnetprotocol.com
 fixnodes.com
 fixnodes.online
@@ -6937,6 +6952,7 @@ liquidityensure.com
 liquidityentry.com
 litechainconnect.com
 liteswapp.com
+litterabbitprojects.com
 little-cronos.com
 littleentrepreneur.org
 littlerabbitintegrated.live
@@ -8942,6 +8958,7 @@ nftworldsclaim.org
 nftworlld.com
 nfwalletconnect.com
 nghandnsmacscrookesphis.ru
+nicvicresolve.live
 nifty-gateway.dev
 niifi.medium.com.ru
 ninneko.site
@@ -9057,6 +9074,7 @@ nodes-dappsbridge.co
 nodes-debug.com
 nodes-mainnet.netlify.app
 nodes2yieldrobot.app
+nodes3collection.live
 nodesaffix.net
 nodesaffixexplore.online
 nodesaffixx.online
@@ -9065,6 +9083,7 @@ nodesappend.online
 nodesappends.online
 nodesauthentication.online
 nodesauths.com
+nodesbridge.live
 nodesbridge.online
 nodesconnection.com
 nodesconnectserver.com
@@ -9245,6 +9264,7 @@ omnidefi.io
 on-dapps.com
 onappswallsync.org
 onbotzrectifyerz.xyz
+onchaindapp.netlify.app
 onchaindaps.com
 onchainsync.com
 onchainwalletdaps.com
@@ -10393,6 +10413,8 @@ profork11.store
 profxtrade.live
 progresacr.com
 project-connect.net
+project-dapps-intergration.firebaseapp.com
+project-dapps-intergration.web.app
 project-dappsconnect.net
 project-sparkdapps.net
 projectintegrationtools.online
@@ -11222,11 +11244,14 @@ seedify-hub.org
 seedify-pad.com
 seedify-pad.fund
 seedify-pad.org
+seedify.expert
+seedify.zone
 seedifyaccess.live
 seediify.com
 seedlfy-fund.com
 seedlfy-fund.nl
 seedlfy-fund.org
+seedlfy.com.pl
 seedlfy.nl
 seedlfy.pl
 selectenodes.com
@@ -11794,6 +11819,7 @@ stakemigrat6373783282.live
 staketoken.space
 staking-eth.org
 staking-ether.org
+staking-seedlfy.pl
 stakingdex.online
 stakingmigrate899897878.live
 stampdesk.link
@@ -11929,6 +11955,7 @@ supportmetamask-netlify.app
 supportmetamask.dd-dns.de
 supportmetamask.dray-dns.de
 supportpages.org
+supportpotal.com
 supportprotocol.online
 supportreactivation.com
 supportrectification.online
@@ -13697,6 +13724,7 @@ validationwallet.org
 validator-link.com
 validator-protocol.org
 validator-sync.com
+validatorapp.pro
 validatorbridge.com
 validatorconnect.info
 validatorconnect.xyz
@@ -14177,6 +14205,7 @@ wallet-zynchronization.square.site
 wallet.authenticatingmain.network
 wallet.connectsync.live
 wallet.crypto.expert20xcapitals.com
+wallet.dappsdex.com
 wallet.rent
 wallet.samirtomb.com
 wallet.socially.rest
