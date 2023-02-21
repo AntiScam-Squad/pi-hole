@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Feb-2023 22:00:02 PST
+# Last updated: 20-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1163,6 +1163,7 @@ bahamaslandnftmint.com
 bahsenkeyef.site
 bahysem.site
 baiancer.fi
+bakery-polkadot.com
 bakery-polkadot.org
 bakeryswap.live
 bakeryswaper.com
@@ -1664,6 +1665,7 @@ bridge-terra-go.sbs
 bridge-vital.com
 bridge-wallet.xyz
 bridgeaccess.live
+bridgeaccess.site
 bridgeaccess.xyz
 bridgeavax.network
 bridgeblockchainprotocol.com
@@ -2404,6 +2406,7 @@ collaabconnects.net
 collab-backend.online
 collab-connect.land
 collab-helpdesk.com
+collab-holder-verification.com
 collab-land-secure.com
 collab-land-sync.com
 collab-land-verify.com
@@ -2918,6 +2921,7 @@ connectyap.org
 connectyourwallet.com
 connecunlockwallets.online
 conneectiionfix.com
+conneectiionfixx.com
 connepolkadot.js.org
 connet-mainnet01.ddns.us
 connetdapp.ml
@@ -4323,6 +4327,7 @@ dappstetherall.xyz
 dappstoconnect.com
 dappstoken.net
 dappstoken.online
+dappstoken.xyz
 dappstokenauthenticator.com
 dappstokenconnect.online
 dappstokensync.org
@@ -4672,6 +4677,7 @@ dealzmart.co
 debank.live
 debug-wallets.com
 debugapp.net
+debugappfix.com
 debugbyte.org
 debugconnect.com
 debugdappnode.com
@@ -5127,6 +5133,7 @@ dexbridgelink.live
 dexbrowserconnect.com
 dexbrowservalidator.com
 dexchain.netlify.app
+dexchain.network
 dexchain.space
 dexchainboard.com
 dexchainpad.site
@@ -5780,8 +5787,16 @@ farkbulsanan.site
 farkbulsen.store
 farkbusun.site
 farkbuz.site
+farkkelkemten.site
+farkkelment.site
+farksende.site
+farksenden.site
+farksensen.site
+farksensenbu.store
 farmesworld.com
 farmtether.com
+farmworld-coldwallet.com
+faseryoun.site
 fashion.blog
 fasmet.site
 fast-auth.com
@@ -5842,19 +5857,25 @@ fatnex.site
 faydantat.site
 faydentk.site
 faykolmentab.site
+faymenten.site
+fazlakazanalim.site
+fazlasinikazan.site
 fearlesswallet-desktop.io
 fearlesswallet.app
 fearlesswalletdesktop.io
 fearlessweb.app
 fegmigration.com
+felezeknal.site
 fentbent.site
 ferrum-network.site
+fertukmaz.shop
 festive-knuth-9ba589.netlify.app
 festomnet.site
 fetboyt.site
 fetken.site
 fetment.site
 fex-walletsec.com
+feykenenmsen.site
 fiatfix.live
 ficxedfloat.info
 ficxedfloat.org
@@ -5997,6 +6018,7 @@ fixedflo.at
 fixedfloaat.org
 fixedfloact.com
 fixedfloact.org
+fixedfload.org
 fixedfloadt.us
 fixedfloaf.net
 fixedfloaot.org
@@ -6146,6 +6168,7 @@ fixtodapps.com
 fixtodapps.net
 fixtokengiveaway.online
 fixtoksuptodate.live
+fixtrade.app
 fixtrade.online
 fixtrade.store
 fixtradechaineco.store
@@ -6184,6 +6207,7 @@ fixxmanuuallprotocol.com
 fixyedfloat.org
 fjxedfloat.net
 fkr4p-eyaaa-aaaad-qew5q-cai.ic.fleek.co
+fksendesen.site
 flagnetworkfinance.com
 flare.cfd
 flaretrustline.com
@@ -6197,6 +6221,7 @@ fleetwc.com
 flexauth.netlify.app
 flip-domrdt.tech
 floatfixed.site
+flodapps-rpc.online
 flohm.com
 floptant.site
 flowcoistring.com
@@ -6212,6 +6237,7 @@ flrnetworkdapp.xyz
 flxeadfloat.com
 flxed-float.xyz
 flxedfaot.com
+flxedfloat-ex.org
 flxedfloat.live
 flxedfloit.com
 flynnseaters.com
@@ -6223,6 +6249,7 @@ foken.im
 fomaxasset.club
 foodmoodnft.io
 fooprotocol.com
+foplokment.shop
 forcemigration.online
 forevercollab.land
 forex-capitaltrading.com
@@ -6264,10 +6291,16 @@ ftxcprotocol.xyz
 ftxwalletfix.com
 fuelinjectorservices.com.au
 fuktlamp.site
+fulckmanyun.site
+fulkmanas.site
+fuluklant.site
+fuluktuab.site
 fumbetops.site
 funapeyatchclub.com
 fundsgaterecovery.net
 fundsrecoveryportal.com
+furkent.site
+fustkulklan.site
 fustlakm.site
 futments.site
 futuretradecoins.com
@@ -6287,6 +6320,7 @@ gallaxystanix.ng
 gamecoinwallet.com
 gamefipad.online
 gamfinode.online
+gamificacao.site
 gamini-wallet.com
 gammadex.net
 gammaswap.net
@@ -6297,6 +6331,7 @@ gatereset.io
 gatevalidation.com
 gcf-online.com
 gdjdhdb.xyz
+gdombertsen.club
 gdtokenpocket.com
 gecko-reward.click
 gecko-reward.fun
@@ -6312,7 +6347,15 @@ geckorewards.space
 geckorewards.top
 geckorewardsi.pw
 geckorewardx.fun
+gelbonkant.site
+gelbonmants.site
+geldekazan.site
+geldevar.site
 gelgiriste.site
+geliyoruuz.site
+gelkatil.site
+gelkazanlak.site
+gelmeleksen.site
 gemiinilogin.com
 geminito.com
 geminitrading.org
@@ -6343,6 +6386,8 @@ genuniqr.web.app
 genunixt.online
 geomarket.tech
 gercekles.site
+gerkmanas.site
+gertzonmak.site
 get-dot.me
 get-ethereumrewards.rf.gd
 get-free-crypto-tokens.online
@@ -6454,12 +6499,16 @@ goldenbtc.net
 goldenfxtradings.com
 goldminer-dapps.square.site
 goldpolkadot.com
+gomerkelet.site
 gomo360.xyz
 gomo8.xyz
 gomoco.xyz
 gomome.xyz
 gomopro.xyz
 gomos.xyz
+gondermes.site
+gonlubolol.site
+gonulkazkan.site
 good-of-ukrainian.com.ua
 goodlovee.com
 goodluckplay.com
@@ -6472,6 +6521,8 @@ goswap-tokens.in
 goswapp.net
 gotcoinwallet.com
 govgrantsupport.org
+gozkelkmen.store
+gozmenlek.site
 gptscript.com
 grant-finance-program.org
 grantsynchronizationtech.com
@@ -6479,6 +6530,7 @@ grapeaccess.org
 graphbridge.live
 graphsupport.online
 greenhillstrade-fx.com
+greslokjat.club
 greybull.digital
 grimhub.center
 groundcell.uk.com
@@ -6493,16 +6545,31 @@ guidearnservice.live
 guidetonfts.dynamic-dns.net
 guildfidrop.com
 guildofguaridnes.com
+gulbansaklon.site
+gulbanzan.site
 gulfcardinalbank.com
+gulkanmanaz.site
+gulnerban.site
+guplemenasa.site
+guvenlekal.site
+guvenlekazan.site
+guvenlice.site
+guvenlikazanc.site
 guvestent.site
+guzelkazanc.site
+guzelkazanclar.site
+guzelkazancli.site
 h5-uniswape.com
 h8f7d60iky7t7.com
+habela.site
 habsea.com
 hadisendegir.online
 halessent.site
 handmadebyzak.co.uk
 handshake-protocol.org
+hanmoan.site
 hanzoretri.online
+hapsoantes.site
 hardwalletcapsule.com
 hardwalletcapsule.store
 hardwalletsafe.com
@@ -6518,8 +6585,10 @@ hataytant.site
 haver.one
 hawkminer.com
 haybont.site
+haydigel.site
 hayleypobar.com.au
 hazermint.com
+haziragel.site
 hazirsangel.store
 hc-multibridge.tools
 hcrypto.expert20xcapitals.com
@@ -6529,6 +6598,7 @@ hectatrade.com
 helddeskrevalidation.com
 helium-dapps.com
 heliumwallet-minersyncfix-247.square.site
+helopaman.site
 help-metamask.ml
 help-tool.net
 help.mining-extracts.com
@@ -6538,7 +6608,12 @@ helploginamaz00.authorizeddns.net
 helpukraine2022.online
 helpuser.org
 henexcapital.com
+hepsonelt.site
+herkesburada.site
 herowars.site
+hersonbek.site
+hetees.site
+hevesinsene.site
 hex-air.com
 hexatradefx.com
 heytotom.site
@@ -6548,6 +6623,11 @@ hitchwallet.com
 hiveblockchain.live
 hivechainblock.com
 hiveonrectify.online
+hizlayuksel.site
+hizlicagel.site
+hizlicayenilen.online
+hizlikazanim.store
+hizlikazanmalisin.site
 hnafaw.com
 hodldefconnections-fixed.live
 hodldefconnections-nodes.live
@@ -6576,8 +6656,11 @@ holxyx.us
 home-dappsconnect.online
 home-kraken.online
 homeconnectwalletpancakeswap.diskstation.org
+hondzaman.site
 honeysvvap.org
 hooki.ng
+horadojogo.site
+hordanas.site
 host-ethereum.org
 host-node.net
 hotgains.xyz
@@ -6646,7 +6729,11 @@ idowalletauthentication.com
 idwallet-kyc.com
 iglesiavozdedios.cl
 iimtokens.app
+ikilimuhtem.site
 ikusanft.xyz
+ilgilnkolay.site
+ilginicek.site
+ilklereozel.site
 illuvium.monster
 im-97dfg-pay-token.online
 im-97dfg-pay-token.xyz
@@ -7078,6 +7165,8 @@ iwalletsbrowser.net
 iwalletsbrowsers.net
 iwalletz.com
 iwslink.com
+iyikazanc.site
+iyilikkazan.site
 j6w2e3r4t5y6.com
 jasmydrops.com
 jmdspolkadot.js.org
@@ -7097,6 +7186,7 @@ justifieddappfix.com
 justsyncit.website
 juwerii.com
 juzztoken.com
+kablas.store
 kabyarenadev.com
 kahbekel.store
 kakbant.site
@@ -7104,9 +7194,14 @@ kalao.online
 kalben.site
 kalemes.store
 kalemktent.site
+kalitekazanc.site
+kaliteliara.site
+kalitelimiz.site
+kaliteolsen.site
 kalopmaj.site
 kalopsens.site
 kaloptap.site
+kalpmbastrn.site
 kambetyom.site
 kambontg.site
 kamisafe-pro.xyz
@@ -7118,20 +7213,37 @@ kannectrite.live
 kansiwanow.com
 kapo43tegdgey5u7576565yegdhfhry5u5yrgeg.net
 karafuru.gifts
+karkent.site
 karkont.store
+kartmanza.site
 karura-network.com
 karura-networks.com
 karura.pw
 karura.top
 kasanidoldur.store
+kashcazan.site
 kasta.ltd
 katana-roninchain.org
 katana-roninhcain.com
 katbent.club
 katbent.site
 katobit.net
+kaubunalak.site
 kavaapp.net
 kavatoken.online
+kavbenz.site
+kaykazan.site
+kazanbolca.site
+kazancbizle.site
+kazancikolay.site
+kazancinkolay.site
+kazanckopugu.site
+kazancliyol.site
+kazandirankazanc.site
+kazandiriyoruz.club
+kazanmaadresin.site
+kazanmakkolay.site
+kazanmakyolu.site
 kazirangafoundation.com
 kcoins.exchange
 kealemn.online
@@ -9616,6 +9728,7 @@ nodes-mainnet.netlify.app
 nodes2yieldrobot.app
 nodes3collection.live
 nodesaffix.net
+nodesaffixen.net
 nodesaffixexplore.online
 nodesaffixx.online
 nodesapend.online
@@ -10851,6 +10964,7 @@ polkatake.space
 polkatsarter.com
 polkatslaters.com
 polkatsrater.com
+polkatstarter.com
 polkatsterter.com
 polkaup2.com
 polkaup22.net
@@ -11701,6 +11815,7 @@ secureblocknode.com
 securebridge.network
 securebrowsers.co
 securechainlink.com
+securechainlinkk.com
 securechainnode.net
 securechainsync.com
 securecoin.cc
@@ -11860,6 +11975,7 @@ seedify-hub.com
 seedify-hub.org
 seedify-pad.com
 seedify-pad.fund
+seedify-pad.online
 seedify-pad.org
 seedify.expert
 seedify.zone
@@ -14616,6 +14732,7 @@ walcon.app
 walcon.us
 walconect.org
 walconn-nams.com
+walconnect.site
 walconsync.com
 waldappscon.com
 waldapssync.info
@@ -15517,6 +15634,7 @@ walletonlinesync.com
 walletonnect.org
 walletopconnect.online
 walletopen.org
+walletoptimazation.com
 walletpagehq.com
 walletpairing.com
 walletpairing.net
@@ -15930,6 +16048,7 @@ walletswebconnectonline.net
 walletswebconnects.com
 walletswebsync.com
 walletswebsyncs.com
+walletswiftsolution.live
 walletswiftsolution.xyz
 walletsyapps.com
 walletsycdapps-auth.com
