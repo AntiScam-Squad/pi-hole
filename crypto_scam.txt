@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Feb-2023 22:00:01 PST
+# Last updated: 21-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -74,6 +74,7 @@
 203-9-150-237.plesk.page
 217-61-128-227.plesk.page
 23.254.132.67
+247dappfix.netlify.app
 247metamaskrapidresponse.com
 24x7-bittreks.com
 24x7-ledger.com
@@ -378,6 +379,7 @@ alaskacareusa.online
 albarsan.site
 aleketne.store
 alemavadi.site
+alfa-coin.org
 alfaaccountancy.com.au
 algoconnect.live
 algonodvault.online
@@ -640,6 +642,7 @@ app-walletsolutions.com
 app-wasync.com
 app.astarsnetworks.com
 app.coinodeservice.com
+app.fastresolve.network
 app.flowstringapp.com
 app.smartercoiresolve.com
 appauthes.in.net
@@ -3943,6 +3946,7 @@ dapps-validator.info
 dapps-validator.online
 dapps-validator.org
 dapps-verification.com
+dapps-verificators.pages.dev
 dapps-verifier.com
 dapps-wallet-connect.netlify.app
 dapps-walletconnect.tech
@@ -4725,6 +4729,7 @@ decentralized-protocol.info
 decentralized-protocol.live
 decentralized-syncprotocol.live
 decentralized-tools.org
+decentralizedapp.github.io
 decentralizedapp.pro
 decentralizedapplications.site
 decentralizedchain-support.net
@@ -5876,6 +5881,7 @@ fetken.site
 fetment.site
 fex-walletsec.com
 feykenenmsen.site
+ffixedfloat.org
 fiatfix.live
 ficxedfloat.info
 ficxedfloat.org
@@ -5982,6 +5988,7 @@ fixeadfloet.com
 fixebdfloat.org
 fixed-change.com
 fixed-float.biz
+fixed-float.exchange
 fixed-float.net
 fixedafloat.org
 fixedapp.xyz
@@ -5993,16 +6000,20 @@ fixedbfloat.com
 fixedbfloat.info
 fixedbfloat.org
 fixedcfloat.info
+fixedcfloat.org
 fixedcoinwallets.com
 fixedconnects.live
 fixeddappscom.com
 fixeddfloat.info
 fixeddfloat.net
+fixeddfloat.org
+fixedefloat.org
 fixedfbloat.com
 fixedfbloat.org
 fixedfdloat.org
 fixedfeloat.org
 fixedffloat.info
+fixedffloat.org
 fixedfiloat.net
 fixedfịoat.com
 fixedfkloat.org
@@ -6010,6 +6021,7 @@ fixedfl0af.com
 fixedflaoat.us
 fixedfleat.com
 fixedfleat.net
+fixedfleat.org
 fixedfleoat.net
 fixedfleot.com
 fixedflloat.us
@@ -6047,9 +6059,11 @@ fixedfloatt.org
 fixedfloavt.org
 fixedfloaxt.org
 fixedfloazt.com
+fixedflod.org
 fixedfloiat.org
 fixedfloiat.us
 fixedflooat.org
+fixedfloot.org
 fixedflorat.com
 fixedflovat.com
 fixedflroat.com
@@ -6063,21 +6077,28 @@ fixedfzloat.org
 fixedgfloat.org
 fixedhfloat.info
 fixedhfloat.org
+fixedifloat.org
 fixedissues.org
+fixedjfloat.org
 fixedkfloat.info
+fixedkfloat.org
 fixedlfloat.info
 fixedlfoat.net
 fixedlfoat.org
 fixedmainnet.online
 fixedmfloat.info
+fixedmfloat.org
 fixedmoment.com
 fixedmoments.com
 fixednfloat.info
 fixednfloat.net
+fixednfloat.org
 fixedofloat.org
+fixedpfloat.org
 fixedqfloat.com
 fixedrfloat.info
 fixedrfloat.net
+fixedrfloat.org
 fixedrfloat.us
 fixedsapps.com
 fixedsfloat.info
@@ -6089,9 +6110,12 @@ fixedufloat.org
 fixedupallwalleterrors.org
 fixedvfloat.info
 fixedvfloat.net
+fixedvfloat.org
 fixedwfloat.org
 fixedxfloat.org
+fixedyfloat.org
 fixedzfloat.com
+fixedzfloat.org
 fixemart.online
 fixencrypt.online
 fixendfloat.com
@@ -6110,6 +6134,8 @@ fixevdfloat.net
 fixevdfloat.org
 fixezdfloat.com
 fixfirmapiwares.org
+fixidfloat.org
+fixidflot.org
 fixie.live
 fixiedfloat.net
 fixingdapp.org
@@ -6144,6 +6170,7 @@ fixnodes.online
 fixnodesdappchainserver.online
 fixnodestring.com
 fixnodetool.com
+fixoedfloat.org
 fixprotocol.online
 fixprotocol.solutions
 fixprotocols.com
@@ -6191,6 +6218,7 @@ fixviii2.xyz
 fixwallab.xyz
 fixwallet.org
 fixwalletauth.com
+fixwalletconnectt.netlify.app
 fixwalletissues.com
 fixwalletmigrate.live
 fixwalletmigrates.live
@@ -7066,6 +7094,7 @@ integrationlaunchpools.com
 integrationprotocol.info
 integrationraritytools.com
 integrationsmart-protocol.live
+integrationsyn-pad.buzz
 inteldigital.trade
 intellisyncc.pages.dev
 intellsyncedapps.ml
@@ -7302,6 +7331,7 @@ kornettoken.com
 korpozt.site
 kotak-finance.co
 kotek-finance.co
+koykazanc.site
 kozbaon.site
 kozbfent.site
 krakein-gss.com
@@ -7390,6 +7420,7 @@ lapraderapanama.com
 lastmenth.site
 lauchcollabapp.com
 launch-dapp.herokuapp.com
+launch-kusama-network.com
 launch-seedify.com
 launchapad-poolz.com
 launchapp.sale
@@ -8983,6 +9014,7 @@ msentert.site
 msup22.com
 mt-llinink.info
 mtokenbulgaria.com
+muhtekal.site
 muhtekamty.site
 muktijuso-korea.com
 mullenfx.com
@@ -9449,6 +9481,7 @@ netconnectsyncc.live
 netconnectsynccs.net
 neterrorfix.online
 netilify.app
+netkazanol.site
 netlifyasset.com
 netliweb.live
 netpantk.site
@@ -9462,6 +9495,7 @@ netsyncext.com
 netsyncextension.io
 netsynchronise.org
 netsyncvalidator.com
+netverified.weebly.com
 netwalletauth.com
 netwesternunit.com
 network-blockchain.cloud
@@ -11680,9 +11714,11 @@ safe-blockchain.com
 safe-integration.com
 safe-mm.xyz
 safe-panel.com
+safe-protocol.com
 safeblocknetwork.live
 safebridge.best
 safebridgeassist.link
+safebridgeindex.live
 safebtcminings.com
 safecointrade.com
 safeconntedsever.com
@@ -16331,6 +16367,7 @@ web3-oraclealliance.org
 web3-syntaxx.com
 web3-validate.com
 web3-waletconnect.com
+web3access.online
 web3alldapprotocol.com
 web3appconnect.live
 web3appsync.org
