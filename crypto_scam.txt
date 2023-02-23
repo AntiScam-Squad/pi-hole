@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Feb-2023 22:00:01 PST
+# Last updated: 22-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1168,6 +1168,7 @@ bahysem.site
 baiancer.fi
 bakery-polkadot.com
 bakery-polkadot.org
+bakeryswap-polkadot.org
 bakeryswap.live
 bakeryswaper.com
 bakeryswaps.com
@@ -1743,6 +1744,7 @@ bt-mining.com
 btc-tools.org
 btc2xbonus.site
 btcshizzle.000webhostapp.com
+bug-rectifier.top
 bugfixed.buzz
 bugifybridge.xyz
 buhrasez.site
@@ -1893,6 +1895,7 @@ ceykulanman.store
 cgmdirect.com.au
 chain-bridge.xyz
 chain-connect-protocol.square.site
+chain-connect.xyz
 chain-connects.com
 chain-integrator.link
 chain-interlink.com
@@ -2023,6 +2026,7 @@ chat-ronin.com
 chechwallet.online
 checkchain.site
 checkdapp.online
+checkpro.website
 checksview.bid
 checkveiw.com
 checkview.live
@@ -2925,6 +2929,7 @@ connectyourwallet.com
 connecunlockwallets.online
 conneectiionfix.com
 conneectiionfixx.com
+conneetiionfix.com
 connepolkadot.js.org
 connet-mainnet01.ddns.us
 connetdapp.ml
@@ -3156,6 +3161,7 @@ cryptobitinsurance.com
 cryptobot-ec6fd.web.app
 cryptobridge.eu
 cryptocardapp.xyz
+cryptoclaim.rf.gd
 cryptoconnect.best
 cryptoconnect.netlify.app
 cryptoconnect.tech
@@ -4585,6 +4591,7 @@ daps-join.site
 daps-protocol.com
 daps-solutionnet.com
 daps-sync.online
+daps-wallet.com
 daps-walletbotconnect.com
 dapsautovalidation.com
 dapsautovalidationnet.com
@@ -5895,6 +5902,7 @@ figa.ml
 fightagainstcriminal.com
 fiixedfloat.info
 fiixedfloat.org
+fikedfloat.org
 filink-protocol.com
 filsfixmimas.com
 filxedfloat.info
@@ -6134,6 +6142,7 @@ fixevdfloat.net
 fixevdfloat.org
 fixezdfloat.com
 fixfirmapiwares.org
+fixiapps.com
 fixidfloat.org
 fixidflot.org
 fixie.live
@@ -6266,6 +6275,8 @@ flxeadfloat.com
 flxed-float.xyz
 flxedfaot.com
 flxedfloat-ex.org
+flxedfloat-exchange.org
+flxedfloat.exchange
 flxedfloat.live
 flxedfloit.com
 flynnseaters.com
@@ -6480,6 +6491,7 @@ giveaway-payzpayments.com
 giveaway-pieme.com
 giveaway-pleasurecoin.com
 giveaway-polkadot.com
+giveaway-polkafoundry.com
 giveaway-safeukr.com
 giveaway-satoshinakamoto.com
 giveaway-senspark.com
@@ -6604,6 +6616,7 @@ hardwalletsafe.com
 hardwalletsafe.store
 hardwalletvault.com
 hardwalletvault.store
+harmonize-info.com
 harmonizedappsnetwork.online
 harmony-eco.systems
 harmony-ecosys.com
@@ -7813,6 +7826,7 @@ mainetscanrectify.com
 mainetscanresolve.com
 mainetsolution.com
 mainetsolutions.com
+mainetswift.net
 mainetsync.com
 mainetvalidationfix.netlify.app
 mainetvalidator.com
@@ -8144,6 +8158,7 @@ melektan.site
 melipro.pages.dev
 mellacenm.site
 mellerspl.site
+mellonfeased.000webhostapp.com
 meloluckyairdrop.com
 meltomk.site
 meltomosk.com
@@ -9060,6 +9075,7 @@ multibridgedapp.com
 multibridgedapps.com
 multibridgemint.com
 multibridgemints.pages.dev
+multibridgerwallets.com
 multibridgetok.com
 multibridgetoken.com
 multibridggedapps.com
@@ -9374,6 +9390,7 @@ mynodeswallet.online
 myoppense.net
 mypageaccess.com
 mypancakeswap.finance
+mypolkadotwallet.com
 myresolutionsapp.com
 myrestoration.info
 myrestoredapp.pages.dev
@@ -9517,6 +9534,7 @@ networkmatic.online
 networknodes.live
 networkplugdapp.com
 networkprotocol.live
+networkrectifiers.online
 networkrestoreauth.live
 networkrestoresync.live
 netxxx.us
@@ -9554,6 +9572,7 @@ nextgenopss.com
 nextpolygonnft.com
 nextrowallets.com
 nextversesale.info
+nexusbridge.website
 nexusbridgeplatform.website
 neybutmant.site
 neysham.site
@@ -10831,6 +10850,7 @@ polkaprojects-interface.online
 polkapromo.com
 polkaqstarter.com
 polkarare-sale.com
+polkarstarter.click
 polkarstarter.com
 polkartstater.com
 polkasatarteer.com
@@ -10850,6 +10870,7 @@ polkasltarter.com
 polkasot.js.org
 polkasrtarter.com
 polkasrtrarter.com
+polkasstarts.com
 polkastarder.fun
 polkastarfer.com
 polkastarler-app.com
@@ -10988,6 +11009,7 @@ polkastqrter.com
 polkastqrtter.com
 polkastrarter.com
 polkastrater.info
+polkasttartter.com
 polkasupport.netlify.app
 polkaswap.info
 polkaswap.js.org
@@ -12615,6 +12637,7 @@ stakemigrat6373783282.live
 staketoken.space
 staking-eth.org
 staking-ether.org
+staking-polkadot.com
 staking-seedlfy.online
 staking-seedlfy.pl
 stakingdex.online
@@ -12686,6 +12709,7 @@ strongblock.vip
 strongblocksapp.com
 strongeblocke.com
 subencrypt.com
+submergfix.com
 subpolkadot.js.org
 substantialerrorlogs.com
 substantiateerrorlog.com
@@ -13204,6 +13228,7 @@ syncwallet-dapp.com
 syncwallet.gq
 syncwallet.mywebcommunity.org
 syncwallet.square.site
+syncwallet.support
 syncwallet.tk
 syncwallet2dapps.com
 syncwalletcloud.online
@@ -14567,6 +14592,7 @@ validatordapps.info
 validatordappsuser.info
 validatordpps.kiev.ua
 validatorlive.com
+validatorlive.net
 validatornode.app
 validatornode.org
 validatorsecure.top
@@ -16695,6 +16721,7 @@ www-app22.link
 www-metamask.cam
 www-myetiherwallet.com
 www-nft-moonbirds.com
+www-polkastarler.com
 www-polkastartar.com
 www-ter-apps-tation.online
 wwweb3token.com
