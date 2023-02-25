@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-Feb-2023 22:00:01 PST
+# Last updated: 24-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -347,6 +347,7 @@ air-secured.org
 air-sora.com
 airdrop-exodus10.com
 airdrop-phantom.app
+airdrop-polkabridge.com
 airdrop-vitalik.live
 airdrop-walletapp.pages.dev
 airdropcampaign-polkadot.network
@@ -2160,6 +2161,7 @@ coin-restore.site
 coin-solution.herokuapp.com
 coin-solutions.cc
 coin-solutions.netlify.app
+coin-sync-web.xyz
 coinappconnect.live
 coinappprotocol.live
 coinationcryptoinsurance.us
@@ -2764,6 +2766,7 @@ connectintegration.live
 connection-bots.com
 connection-sync.com
 connectionaids.com
+connectionapproval.com
 connectionbase.xyz
 connectionbotsync.co
 connectioncollab.land
@@ -3579,6 +3582,7 @@ dappconfiguration.com
 dappconnect.finance
 dappconnect.io
 dappconnect.me
+dappconnect.online
 dappconnect.pro
 dappconnect.website
 dappconnectfix.com
@@ -3800,6 +3804,8 @@ dappreconfig.com
 dappreconnect.com
 dappreconnection.art
 dappreconnection.com
+dapprecovery.repair
+dapprecovery.support
 dapprectifier.com
 dapprectify.com
 dappregistration.online
@@ -5036,6 +5042,7 @@ defisyncauth.online
 defisynchronization.org
 defisynchronize.net
 defisyncprotocol.com
+defisyncrewards.com
 defisyncroniizednodess.com
 defisystempro.online
 defitoolprotocol.com
@@ -5640,6 +5647,7 @@ erroresolver.art
 errorfix.info
 errorsauthenticationconnect.com
 errorsrestoreonline.com
+errorssyncs.com
 erselya.site
 ertamlek.online
 escolopedia.homes
@@ -6052,6 +6060,8 @@ fixedfloact.org
 fixedfload.org
 fixedfloadt.us
 fixedfloaf.net
+fixedfloaft.org
+fixedfloagt.org
 fixedfloaot.org
 fixedfloart.org
 fixedfloat-swap.com
@@ -8811,6 +8821,7 @@ micropool-defi.live
 midappsintegration.online
 middika.store
 migrate-elongatetoken.com
+migrate-fegtoken.com
 migrate-safemoon.com
 migrateapp.live
 migratecoin.live
@@ -9274,6 +9285,7 @@ muskconnector.com
 muskdrops.space
 muskway.com
 muskx.space
+musloktan.site
 mustfadbet.site
 mustoplek.site
 mutbent.site
@@ -10851,6 +10863,7 @@ polkaestarter.com
 polkaevent.com
 polkaevent2.net
 polkafree.com
+polkafstarter.com
 polkagift.com
 polkagive.com
 polkagive14.net
@@ -11158,6 +11171,7 @@ primecevel.com
 primecoinsea.com
 primeprotocol.net
 privacy-wallet.online
+privatechain.dev
 privatemint.space
 privatesync.online
 prixtoconnect.com
@@ -14804,6 +14818,7 @@ waconlinkks.click
 waconnect.online
 waconsyn.online
 wadapconsyn.com
+wagmicollabland.com
 wagyuswap.exchange
 wagyuswap.finance
 wagyuswep.app
@@ -16716,6 +16731,7 @@ wllectvalldator.com
 wlltknvalidatorsprtal.online
 wlt-register.live
 wltconection.com
+woletconect.shop
 wonderland-dapps.com
 wonderland-dapps.org
 wonderlandapp.online
@@ -16928,6 +16944,7 @@ zapperwalletconnect.org
 zapplaunchpadlive.ru
 zapplaunchpads.live
 zapptsync.com
+zashfix.site
 zaxerthan.site
 zealous-multi.netlify.app
 zealtm.group
