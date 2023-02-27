@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Feb-2023 22:00:01 PST
+# Last updated: 26-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -855,6 +855,7 @@ assistedwebdapp.com
 associate-joejo.com
 astar.mba
 astbeys.site
+astr-event.site
 astracoldwallet.com
 astracryptoinvestment.ltd
 astrofxplus.com
@@ -3038,6 +3039,7 @@ corroboratehub.com
 cosmo-network.online
 cosmo-official.org
 cosmoioapp.com
+cosmosdrops.cloud
 cosmosintegration.com
 cosmoskldznft.com
 cosmostationio.online
@@ -7344,6 +7346,7 @@ kenbert.site
 kendribase.tools
 kepeyse.site
 keplr-app.net
+keplr-wallet.at
 keplr.online
 keplr.site
 kereves.site
@@ -10210,6 +10213,7 @@ osescrow.org
 osg-sa.com
 osilida.site
 oslopbet.site
+osmokro.org
 osmosis.app.runonflux.io
 osmosisdrop.com
 osynclive-nds.info
