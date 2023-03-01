@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Feb-2023 22:00:02 PST
+# Last updated: 28-Feb-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2449,6 +2449,7 @@ collab-verifyuser.com
 collab.inload.xyz
 collab.ioapps.info
 cọllab.land
+cọllạb.land
 collabactivation.com
 collabandd.cc
 collabapprove.digital
@@ -7571,6 +7572,7 @@ lidio.online
 lido-steking.com
 lido.fit
 lidofinetworks.com
+lifeishort.work.gd
 lightblockcalibrator.com
 lightchainio.live
 lightdapp.com
@@ -16886,6 +16888,7 @@ xn--banco-9bb.com
 xn--blancer-8va.finance
 xn--boredapeyachtcub-nqc.com
 xn--cllab-281b.land
+xn--cllb-7q5atl.land
 xn--eth-mxer-xkb.com
 xn--fixdfloat-23a.com
 xn--fixedflat-msd.com
