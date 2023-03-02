@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Feb-2023 22:00:01 PST
+# Last updated: 01-Mar-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -341,11 +341,13 @@ aiconn.live
 aiconne.com
 aiirdrop-claim.online
 aiirdrop-claimings.online
+aipadclaim.netlify.app
 air-drop-2022.pw
 air-drop-geko.pw
 air-drops.live
 air-secured.org
 air-sora.com
+airdrop-appconnect.pages.dev
 airdrop-exodus10.com
 airdrop-phantom.app
 airdrop-polkabridge.com
@@ -853,6 +855,8 @@ assisstedwebdapp.com
 assist-support.pages.dev
 assistedwebdapp.com
 associate-joejo.com
+astar-network-portal.com
+astar-network-portal.org
 astar.mba
 astbeys.site
 astr-event.site
@@ -1182,6 +1186,7 @@ bakeryswap-polkadot.com
 bakeryswap-polkadot.org
 bakeryswap.live
 bakeryswaper.com
+bakeryswaps-polkadot.org
 bakeryswaps.com
 baklonkatef.site
 baksumant.site
@@ -1569,6 +1574,7 @@ blocksindex.org
 blockstakweb3.com
 blockstationfixglitch.com
 blocksyncc.live
+blocksyncexplorer.pages.dev
 blocksynchronizer.com
 blocktokenrewards.tech
 blocktopia.co
@@ -2740,6 +2746,7 @@ connectdapps.website
 connectdappsminter.vercel.app
 connectdappsmove.com
 connectdappssync.pages.dev
+connectdappsvalidation.pages.dev
 connectdapptool.online
 connectdapssmart.com
 connectdexapp.com
@@ -4130,6 +4137,7 @@ dappscontract.tech
 dappscontracts.com
 dappscontrol.dedyn.io
 dappscorrect.hstn.me
+dappsct.com
 dappscycle.online
 dappsdatabaseactivation.com
 dappsdefi-sync.com
@@ -5618,6 +5626,7 @@ enconnect.online
 encrypt-connection.site
 encrypt-firmware.com
 encryptdapp27827hodler.com
+encrypted-node.com
 encrypted-walletconnect.com
 encryptedapps.site
 encryptednetworks.online
@@ -6793,6 +6802,7 @@ https-paxful.com
 https-uniswap.org
 https-walletconnect.com
 https-www-coinbase.cloudns.nz
+httpslink.com
 hubconnect.me
 hubfix.online
 hubnetworkfix.live
@@ -7107,6 +7117,7 @@ instantfix.live
 instantfix.net
 instantfix.org
 instantfixedfloat.com
+instantfixpanel.online
 instantlyconnectmywallet.com
 instantnodeconfig.com
 instantresolver.live
@@ -7489,6 +7500,7 @@ kwagh.click
 kyberswap.app
 kyberswep.com
 kyc-regulations.info
+kycdesk.fly.dev
 kycverify.info
 kyklo.us
 kylnetwork.com
@@ -9002,6 +9014,7 @@ mmetamaskloginn.webflow.io
 mmetamaskloginns.webflow.io
 mmfiinahse.com
 mmmetatkmmaeks.azurewebsites.net
+mmwebfix.com
 mmxcs.com
 mnemonicprotocols.online
 mnemonics-solutions.link
@@ -9446,6 +9459,7 @@ mydefinodes.net
 mydefisolution.com
 mydefiwalletconnect.com
 mydevsite.biz
+myecoconnect.biz
 myedefisolutions.com
 myeflherwallet.com
 myetehsrwallet.com
@@ -9916,6 +9930,7 @@ nodesmainnetdapp.com
 nodesmainnetdapps.com
 nodesmartconnect.com
 nodesmartconnect.live
+nodesmetrictech.digital
 nodesnetwork.live
 nodesocket.xyz
 nodesolutions.site
@@ -10654,6 +10669,8 @@ polka-crypto.com
 polka-dotnetwork.com
 polka-live.network
 polka-rare.com
+polka-star.com
+polka-startar.com
 polka-starter.info
 polka-starter.site
 polka-starters.com
@@ -11675,6 +11692,7 @@ resolveprotocol.live
 resolveprotocolapps.com
 resolveprotocols.online
 resolveprotocols.site
+resolver.network
 resolveractivation.com
 resolveregbinan.shop
 resolverjhfvhwdbwdg.info
@@ -12293,6 +12311,7 @@ slowniicnhcredityuiobenresolvnvderlast.site
 sltepn.space
 slunatoken.com
 slunatoken.online
+sluquiddecv.work.gd
 smarr.pics
 smarrfixssync.homes
 smarrrtttmiigrrattetech.homes
@@ -13318,6 +13337,7 @@ syncsonlinevalidates.com
 syncsrectifydata.com
 syncssecured.com
 syncsystem.org
+synctechfix.com
 syncterramoney.net
 syncthechains.xyz
 syncthesandboxgame.com
@@ -13716,6 +13736,7 @@ tokenconnects.cc
 tokenconnects.com
 tokenconnet.online
 tokencreate.online
+tokendappconnector.online
 tokendapprotocol.net
 tokendapps.io
 tokendapps.online
@@ -15172,6 +15193,7 @@ wallet-token.xyz
 wallet-trrezzor.io
 wallet-unlockthetatoken.org
 wallet-update.ml
+wallet-uphold-us.com
 wallet-validate.co
 wallet-validate.com
 wallet-validate.net
