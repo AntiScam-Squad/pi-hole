@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Mar-2023 22:00:02 PST
+# Last updated: 04-Mar-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -436,6 +436,7 @@ alldappsconnect.com
 alldappsconnection.com
 alldefiwallet.com
 alldigitalwalletapp.com
+alliancealbtfix.com
 alliancebridge.live
 alliancebridgeprotocol.com
 alliancebridgeprotocol.info
@@ -1094,6 +1095,7 @@ automaticwalletvalidation.com
 automigrate.live
 automigrates.com
 autonomouscryt.website
+autorectify.org
 autorectifywalletdap.com
 autorefitting-modification.com
 autorefix.site
@@ -3897,6 +3899,7 @@ dapps-connector.pages.dev
 dapps-connects.herokuapp.com
 dapps-connects.live
 dapps-connectsync.com
+dapps-connectwallet.online
 dapps-connectwallets.com
 dapps-crogecoin.com
 dapps-cycle.online
@@ -4587,6 +4590,7 @@ dappwallet-bridge.com
 dappwallet-con.square.site
 dappwallet-connect.com
 dappwallet-connect.org
+dappwallet-connect.site
 dappwallet-update.com
 dappwallet.rf.gd
 dappwallet.support
@@ -12884,6 +12888,7 @@ strongblock.vip
 strongblocksapp.com
 strongeblocke.com
 subencrypt.com
+subfirmixie.com
 submergfix.com
 subpolkadot.js.org
 substantialerrorlogs.com
@@ -16597,6 +16602,7 @@ web3-ethereum.org
 web3-fixtool-connect.live
 web3-mainnet.net
 web3-node.netlify.app
+web3-nodes.pages.dev
 web3-oraclealliance.org
 web3-syntaxx.com
 web3-validate.com
