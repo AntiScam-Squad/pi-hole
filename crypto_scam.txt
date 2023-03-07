@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Mar-2023 22:00:01 PST
+# Last updated: 06-Mar-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -308,6 +308,7 @@ affix-syncwallet.online
 affix-walletvalidator.online
 affixactivation.com
 affixactivation.org
+affixappendsw.net
 affixappsolution.com
 affixbrdge.online
 affixbridge.online
@@ -783,6 +784,7 @@ arnoktar.site
 arocprotocol.tech
 aroken.xyz
 artauthenticateonnft.org
+artsminter.com
 arweave-v3.com
 asacear.site
 asbath.store
@@ -1368,6 +1370,7 @@ binrectifier.site
 binsave.com
 binwolesx.com
 bio-scienit.com
+biogrowth.website
 bip39seedapp.com
 bip39seednodeserver.com
 bip39seedsnodeserver.online
@@ -1527,6 +1530,7 @@ blockchainexplorer.store
 blockchainfix.xyz
 blockchainfixer.netlify.app
 blockchainfreeairdropcoin.com
+blockchainhelpsdesk.com
 blockchainhub.online
 blockchainlabs.digital
 blockchainminingspace.com
@@ -1777,6 +1781,7 @@ btcshizzle.000webhostapp.com
 bug-rectifier.top
 bugfixed.buzz
 bugifybridge.xyz
+bugrectify.buzz
 buhrasez.site
 bulemntrek.club
 bulkametsen.site
@@ -2013,6 +2018,7 @@ chainslab.tech
 chainslist.store
 chainsmainnet.com
 chainsolution.net
+chainstakelinkdator.site
 chainstoken.com
 chainsupfix.com
 chainsupportextension.net
@@ -2790,6 +2796,7 @@ connectifydapps.online
 connectifyserver.net
 connectifywallets.com
 connecting-collab.land
+connecting-nftwalletsync.square.site
 connecting-wallets.online
 connectingallwallet.com
 connectingcoin.best
@@ -3067,6 +3074,7 @@ correctwallet.webflow.io
 correctwservice.com
 correectionnfix.com
 corriectionbot.co
+corroborate-web.net
 corroboratehub.com
 cosmo-network.online
 cosmo-official.org
@@ -4998,6 +5006,7 @@ defidappsnet.firebaseapp.com
 defidappsnet.web.app
 defidappsprotocol.online
 defidomain.io
+defidomainnetwork.io
 defiease.net
 defiencrypt.com
 defiencrypt.net
@@ -5586,6 +5595,7 @@ ecosystem-cronos.co
 ecosystemnode.pro
 ecosystemprotocol.org
 edbomen.site
+edgefixcontract.com
 edgerealfix.com
 edukacija.net
 efiprotocol.com
@@ -6161,6 +6171,7 @@ fixedfloati.com
 fixedfloatmirror.com
 fixedfloatswap.xyz
 fixedfloatt.org
+fixedfloatz.com
 fixedfloavt.org
 fixedfloaxt.org
 fixedfloazt.com
@@ -6406,6 +6417,7 @@ forex-capitaltrading.com
 forgefoxfinance.com
 fortexwallet.com
 forthmindas.online
+fortsgenerate.com
 fortswap.io
 forummaticnetwork.org
 forumsmatics.support
@@ -6838,6 +6850,7 @@ https-www-coinbase.cloudns.nz
 httpslink.com
 hubconnect.me
 hubfix.online
+hubfix.rf.gd
 hubnetworkfix.live
 hubnetworksfix.com
 hubsupport.rf.gd
@@ -7543,6 +7556,7 @@ labornyveri.com
 lacasadepapeltoken.org
 laconfianzacoop.com
 lakerssfirmnet.com
+laludeoloko.pics
 lampantb.site
 lampoant.site
 lampvest.site
@@ -7688,6 +7702,7 @@ liquidityensure.com
 liquidityentry.com
 litechainconnect.com
 liteswapp.com
+litterabbitproject.com
 litterabbitprojects.com
 little-cronos.com
 littleentrepreneur.org
@@ -7994,6 +8009,7 @@ mainnet-live.com
 mainnet-liveauthenticator.org
 mainnet-migrate.online
 mainnet-node.net
+mainnet-plx.online
 mainnet-polkadot.network
 mainnet-protocol.org
 mainnet-rpc.vercel.app
@@ -9903,6 +9919,7 @@ nodeinterface.flowex.online
 nodelify.live
 nodelink-select.co
 nodemainnet.com
+nodemainnet.site
 nodemainnetchain.com
 nodeminingpool.com
 nodemint.app
@@ -13025,6 +13042,7 @@ swiftfixprotocols.online
 swiftkeyswap.com
 swiftkeyswap.info
 swiftlyconnect.com
+swiftlycript.com
 swiftlyxcapital.com
 swiftnodesyncs.net
 swiftokensfixtools.help
@@ -15457,6 +15475,7 @@ walletconnect-help.com
 walletconnect-helpdesk.com
 walletconnect-home.com
 walletconnect-in.com
+walletconnect-inc.netlify.app
 walletconnect-live.org
 walletconnect-network.com
 walletconnect-network.live
@@ -15683,6 +15702,7 @@ walletconnectwe.duckdns.org
 walletconnectweb.com
 walletconnectweb.online
 walletconnectweb3.com
+walletconnectwg.tk
 walletconnectwl.com
 walletconnectz.biz
 walletconnet-networks.com
@@ -16525,6 +16545,7 @@ watodco.com
 wavesexchangeapp.com
 wb3dapp.com
 wbotsupport.glitch.me
+wbotsupports.glitch.me
 wbsbinan.com
 wc-connect.info
 wc-connect.live
@@ -16570,6 +16591,7 @@ wdappsconnect.000webhostapp.com
 wdapwallreceivecondapp.live
 wdsec6ure.com
 we-change.online
+weautocheck.com
 web-connectfn.cf
 web-d0e37.web.app
 web-dapps-bridge.online
@@ -16739,6 +16761,7 @@ webextension-interface.org
 webextensions.info
 webextensionsfix.tech
 webfirmwaresync.com
+webfixstores.com
 webflow.ink
 webflowconnect.info
 webflowreauth.xyz
