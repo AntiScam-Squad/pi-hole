@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Mar-2023 22:00:01 PST
+# Last updated: 07-Mar-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1198,6 +1198,7 @@ bakeryswaps-polkadot.com
 bakeryswaps-polkadot.org
 bakeryswaps.com
 baklonkatef.site
+bakryswap-polkadot.org
 baksumant.site
 balancer-fi.link
 balancer-flnance.com
@@ -1573,6 +1574,7 @@ blocknodesdomain.com
 blocknodespot.com
 blockofthetherstroubleshooting.com
 blockrepairer.com
+blockresets.com
 blocksaffinity.online
 blockscanfix.com
 blockschainexplorer.com
@@ -1704,6 +1706,7 @@ bridge-wallet.xyz
 bridgeaccess.live
 bridgeaccess.site
 bridgeaccess.xyz
+bridgeappsfix.net
 bridgeavax.network
 bridgeblockchainprotocol.com
 bridgeconect.com
@@ -3626,6 +3629,7 @@ dappbrowser.tools
 dappcenter.online
 dappchain.nl
 dappchainco.com
+dappchainextension.online
 dappchainlive.online
 dappchainpad.online
 dappchainsupport.com
@@ -8115,6 +8119,7 @@ mainnetservice.com
 mainnetsetup.org
 mainnetshub.app
 mainnetshub.com
+mainnetsnode.online
 mainnetsproject.com
 mainnetstools.online
 mainnetsupport.online
@@ -9269,6 +9274,7 @@ multichains-pro.com
 multichains-pro.net
 multichains-pro.org
 multichains.in
+multichains.net
 multichainserver.com
 multichainsynch.net
 multichainsynchronize.com
@@ -9626,6 +9632,7 @@ nalica.site
 nalogdigitals.com
 name-side.com
 nami-bridge.live
+nano-wallets.com
 naos.medium.com.ru
 nasa-2022.net
 naskizz.com
@@ -10894,6 +10901,7 @@ polkadotcash.digital
 polkadotcash.live
 polkadotcash.online
 polkadotcash.site
+polkadotcat.top
 polkadotceo.com
 polkadotchain.net
 polkadotclaim.live
@@ -15100,6 +15108,7 @@ wallects-connect.com
 wallectsrectify.netlify.app
 wallectsyncfix.com
 wallectsyncfixs.com
+walleetconnected.iceiy.com
 walleetconnnnect.xyz
 wallelconnetbridge.com
 wallelconnetregistry.com
