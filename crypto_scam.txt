@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Mar-2023 22:00:01 PST
+# Last updated: 09-Mar-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -839,6 +839,7 @@ assetrectification.dev
 assetrectification.io
 assetrectify.com
 assetrectify.network
+assetretrivaldapps.cloud
 assets-collab.land
 assets-verification.com
 assetsecuritybackup.com
@@ -1200,6 +1201,7 @@ bakeryswaps-polkadot.com
 bakeryswaps-polkadot.org
 bakeryswaps.com
 baklonkatef.site
+bakryswap-polkadot.com
 bakryswap-polkadot.org
 baksumant.site
 balancer-fi.link
@@ -6402,6 +6404,7 @@ flaskysnyc.com
 fleetwc.com
 flexauth.netlify.app
 flip-domrdt.tech
+flixedfloat.site
 floatfixed.site
 flodapp-rpc.online
 flodapps-rpc.online
@@ -6770,6 +6773,7 @@ harmonizedappsnetwork.online
 harmony-eco.systems
 harmony-ecosys.com
 hashbridge.org
+hashkitconnect.com
 hasmentes.site
 hataytant.site
 haver.one
@@ -9910,6 +9914,7 @@ nodeapend.online
 nodeapp.live
 nodeapp.netlify.app
 nodeapp.sbs
+nodeapplive.sbs
 nodeappradar.com
 nodeapps.live
 nodeappsbot.info
@@ -11062,6 +11067,7 @@ polkamon.co
 polkamood.com
 polkamstarter.com
 polkapool.live
+polkapot.network
 polkaprojects-interface.online
 polkapromo.com
 polkaqstarter.com
@@ -11236,6 +11242,7 @@ polkaswapwallet.com
 polkaswep.io
 polkaswitch.online
 polkatake.space
+polkatoken.network
 polkatsarter.com
 polkatslaters.com
 polkatsrater.com
