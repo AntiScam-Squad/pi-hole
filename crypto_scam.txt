@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Mar-2023 22:00:01 PST
+# Last updated: 11-Mar-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -573,6 +573,7 @@ apetokennft.link
 apexearner.com
 apexglobnftltd.com
 apexnetworks.site
+apexwallets.online
 api-blocksync.com
 api-interphrase.live
 api-link.com
@@ -2875,6 +2876,7 @@ connectmywallets.org
 connectnetwork.live
 connectnexa.com
 connectnode.ml
+connectnodeapp.live
 connectnodes.live
 connectnodesync.com
 connectnow.site
@@ -6107,6 +6109,7 @@ fixapizfirmwarez.com
 fixapp.site
 fixauth-support.live
 fixbase.net
+fixbugsnow.netlify.app
 fixcedfloat.org
 fixchainmigrate.live
 fixchainode.com
