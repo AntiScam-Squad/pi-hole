@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Mar-2023 22:00:02 PDT
+# Last updated: 13-Mar-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -544,6 +544,7 @@ animalconcerts.pages.dev
 ankr-rewards-programs-claims-erc20-token.com
 ankrdefi.net
 annastasia.site
+annexappend-affix.net
 annexappendw.net
 annexhive.com
 annexs.online
@@ -1207,6 +1208,7 @@ bakeryswaper.com
 bakeryswaps-polkadot.com
 bakeryswaps-polkadot.org
 bakeryswaps.com
+bakeryweb.online
 baklonkatef.site
 bakryswap-polkadot.com
 bakryswap-polkadot.org
@@ -2341,6 +2343,7 @@ coinnodesync.com
 coinpad-beta.com
 coinpad-next.com
 coinpad-x.com
+coinpad.netlify.app
 coinpasc.com
 coinpaste.finance
 coinpolkadot.com
@@ -3580,6 +3583,7 @@ dapp-protocol.online
 dapp-rectifier.online
 dapp-rectify.netlify.app
 dapp-rectify.vercel.app
+dapp-resolver.netlify.app
 dapp-secure.com
 dapp-seedify.nl
 dapp-seedify.org
@@ -5645,6 +5649,7 @@ ecosystemprotocol.org
 edbomen.site
 edgefixcontract.com
 edgerealfix.com
+edgerexploretxid.com
 edukacija.net
 efiprotocol.com
 efkeansen.site
@@ -6012,6 +6017,7 @@ fastsynchronization.com
 fastwebprotocol.com
 fatbunt.site
 fatnex.site
+fault-dapps.site
 faydantat.site
 faydentk.site
 faykolmentab.site
@@ -6446,6 +6452,7 @@ flowstringsnode.com
 flowtechlinks.com
 flowtoken.pro
 flowtoken.space
+flrmeshworkdapp.us
 flrnetworkdapp.xyz
 flxeadfloat.com
 flxed-float.xyz
@@ -7657,6 +7664,7 @@ launchpadvalidator.com
 launchpath.online
 launchpool.live
 launchvalidator.co
+launcpad-protocol.buzz
 laundapps-connect.us
 launnchh.netlify.app
 lcfy.org
@@ -12017,6 +12025,7 @@ sadbox.shop
 sadbox.site
 sadbox.store
 safe-blockchain.com
+safe-bridgeindex.live
 safe-integration.com
 safe-mm.xyz
 safe-panel.com
@@ -12904,6 +12913,7 @@ squaredefidapp.netlify.app
 ss-connn.netlify.app
 ssaidi.com
 ssvnetwork.guard.ac
+stable-algorithm.buzz
 stablefixprotocol.online
 stablefund.live
 stablefund.net
