@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Mar-2023 22:00:02 PDT
+# Last updated: 14-Mar-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -847,10 +847,12 @@ assetrectification.dev
 assetrectification.io
 assetrectify.com
 assetrectify.network
+assetrectify.site
 assetretrivaldapps.cloud
 assets-collab.land
 assets-verification.com
 assetsecuritybackup.com
+assetsecuritybackups.com
 assetsecurityledgers.com
 assetsfixsolution.com
 assetsledgercsv.com
@@ -1212,6 +1214,7 @@ bakeryweb.online
 baklonkatef.site
 bakryswap-polkadot.com
 bakryswap-polkadot.org
+bakryswaps-polkadot.com
 bakryswaps-polkadot.org
 baksumant.site
 balancer-fi.link
@@ -1240,6 +1243,7 @@ bankdapps.com
 banking2sec.com
 bankk-11.cf
 banktoken.co
+baptsswapmigrate.buzz
 basariliolun.site
 basariliolunuz.site
 basecointabsonline.info
@@ -1249,6 +1253,7 @@ basesynchronization.com
 basetoken.click
 baseworld.cloud
 bashfulbeauty.com.au
+basic-indexpad.buzz
 basmantr.info
 basudcu.shop
 batch-dollar.cfd
@@ -1294,6 +1299,8 @@ best-air-drop.pw
 best-blog.top
 best-coin.org
 best-restore.com
+best-seedify.com
+best-seedify.org
 bestantx.site
 bestappfix.com
 bestbridge.live
@@ -1851,6 +1858,7 @@ cachetool.net
 cafcaft.site
 cake-defi.net
 cake-token.in
+cakeconnect.cfd
 cakedefi-dfi-cstage.com
 cakewalletassist.tips
 cakkement.site
@@ -2121,6 +2129,7 @@ claim-rewards.netlify.app
 claim-seedify.com
 claim-seedify.fund
 claim-seedify.org
+claim-seedilfy.pl
 claim-web3.net
 claimable-web3.net
 claimairdropsrewards.my.id
@@ -5420,6 +5429,7 @@ digitalpro-tools.com
 digitalrectification.com
 digitalsafewallets.com
 digitalsmart-pad.buzz
+digitalsmartpad.buzz
 digitalsynchub.space
 digitalsynconline.online
 digitalsyncwallets.live
@@ -5665,6 +5675,7 @@ elcrpytovalidate.online
 eldeaem.site
 electronicwallet.world
 electrum-web-wallet.com
+elepadlaunch.webflow.io
 elitecryptoassets.com
 elitefidelitytrade.com
 eliteprotrade.xyz
@@ -6032,8 +6043,11 @@ fegmigration.com
 fegmigration.live
 fegmigration.online
 fegmigration.org
+fegmigrations.live
 fegmigrator.live
+fegrectifyissue.buzz
 fegrectifyissue.live
+fegsmartsolution.buzz
 fegstokens.com
 fegtokens.org
 felezeknal.site
@@ -6472,6 +6486,7 @@ fomaxasset.club
 foodmoodnft.io
 fooprotocol.com
 foplokment.shop
+forcemigration.buzz
 forcemigration.online
 forevercollab.land
 forex-capitaltrading.com
@@ -6542,6 +6557,8 @@ galaxy-dapinx.store
 galaxygoggle.fund
 gallaxystanix.ng
 gamecoinwallet.com
+gamefi-seedify.com.pl
+gamefi-seedify.pl
 gamefipad.online
 gamefl-seedify.com
 gamfinode.online
@@ -6756,6 +6773,7 @@ grantsynchronizationtech.com
 grapeaccess.org
 graphbridge.live
 graphsupport.online
+gravitative-discrep.netlify.app
 greenhillstrade-fx.com
 greslokjat.club
 greybull.digital
@@ -6764,6 +6782,8 @@ groundcell.uk.com
 groundiobridge.live
 groupauthorization.com
 grouphelpcaptchabot.online
+grouponearning.online
+grovev2transistion.buzz
 guaranteebinarytrade.com
 guaranteedinvestmentfund.org
 guarded-bypass.com
@@ -7779,6 +7799,8 @@ live-ico.com
 live-link.live
 live-protocol.com
 live-securevalidator.net
+live-seedify.com
+live-seedify.org
 live-walletaffix.com
 live.assetsrestoreapp.com
 liveactivationwallet.com
@@ -7964,6 +7986,8 @@ main-network-bridge.com
 main-onchain.online
 main-panel.net
 main-rectifysync.online
+main-seedify.com.pl
+main-seedify.pl
 main-sync.com
 main-tool.info
 main-vault-decentralized.live
@@ -8039,6 +8063,7 @@ mainetscanresolve.com
 mainetsolution.com
 mainetsolutions.com
 mainetswift.net
+mainetswitch.online
 mainetsync.com
 mainetvalidationfix.netlify.app
 mainetvalidator.com
@@ -9703,6 +9728,7 @@ mzkont.site
 nahidharbourontario.com
 nalica.site
 nalogdigitals.com
+name-seedify.pl
 name-side.com
 nami-bridge.live
 nano-wallets.com
@@ -10049,6 +10075,7 @@ nodesbridge.live
 nodesbridge.online
 nodesconnection.com
 nodesconnectserver.com
+nodesdapp.online
 nodesdapp247.com
 nodesdapp247.net
 nodesdappnet.com
@@ -10362,6 +10389,7 @@ oppolkadot.js.org
 optimaffix.online
 optimaffix.tech
 optimal-protocol.buzz
+optimal-smartnet.buzz
 optimalcointrade.com
 optimalfixall.com
 optìmìsm.net
@@ -10438,6 +10466,7 @@ pacific-scrubland-57738.herokuapp.com
 pacificdapps.live
 pafcarta.site
 paflattim.site
+page-seedify.com.pl
 pageconnects.link
 pagesyncapp.online
 paketen.site
@@ -11510,6 +11539,7 @@ protocolreg.space
 protocolschainsconnect.online
 protocolset.space
 protocolsfix.app
+protocolsmart-pad.buzz
 protocolsresolute.xyz
 protocolsync.online
 protocolsync.site
@@ -12230,6 +12260,7 @@ securedintegration.com
 securedinterphase.online
 securedlivenode.com
 securednodechain.com
+securednodeconnect.online
 securedpro.network
 securedprotocol.xyz
 securedsoluitiontec.xyz
@@ -12429,6 +12460,7 @@ shibatokengo.sbs
 shibnobi-migration.com
 shibswaap.com
 shibutoken.site
+shido-solution.buzz
 shielded-chain.com
 shiibaswap.org
 shinainutoken.com
@@ -12459,6 +12491,7 @@ simpleswapx.com
 sinceredoge-bonus.online
 singapore-ref.com
 sinogoldlimited.com
+site-seedify.pl
 sitewideconnect.pages.dev
 skdnbekejsgejsjidodhebejosiduxhenwksppdocjdjeowpsmd.site
 skyassetnft.com
@@ -12505,6 +12538,7 @@ smart-switchs.live
 smart-synchronization.com
 smart-syncronization.com
 smart-vaultdefence.live
+smart-webcoiresolve.buzz
 smartaffixs-protocol.live
 smartaffixs-resolution.online
 smartappconnect.com
@@ -12914,6 +12948,7 @@ ss-connn.netlify.app
 ssaidi.com
 ssvnetwork.guard.ac
 stable-algorithm.buzz
+stable-algorithm.com
 stablefixprotocol.online
 stablefund.live
 stablefund.net
@@ -13511,6 +13546,8 @@ syncsolution.pro
 syncsonlinevalidates.com
 syncsrectifydata.com
 syncssecured.com
+syncsubsupport.firebaseapp.com
+syncsubsupport.web.app
 syncsystem.org
 synctechfix.com
 syncterramoney.net
@@ -15590,6 +15627,7 @@ walletconnect-dapps.tk
 walletconnect-dapps.top
 walletconnect-defiswapbridge.com
 walletconnect-defiwallet.app
+walletconnect-ecosystem.com
 walletconnect-exo.netlify.app
 walletconnect-help.com
 walletconnect-helpdesk.com
@@ -16137,6 +16175,7 @@ wallets-bot.com
 wallets-bridge.net
 wallets-check.com
 wallets-collab.land
+wallets-connect-server.netlify.app
 wallets-connect.app
 wallets-connect.co
 wallets-connect.herokuapp.com
