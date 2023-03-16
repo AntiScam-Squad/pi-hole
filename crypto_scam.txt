@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Mar-2023 22:00:01 PDT
+# Last updated: 15-Mar-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2115,6 +2115,7 @@ cidappwa.org
 cipherdatanet.com
 cirdonsmail.store
 cititoken.io
+citizenbankonline111.moneyhome.biz
 claim-airdrop-bep20-tokens.com
 claim-ape.land
 claim-bayc.xyz
@@ -11734,6 +11735,7 @@ rectification-process.com
 rectificationbot.online
 rectificationchainlink.com
 rectificationconnectservices.com
+rectificationdex.xyz
 rectificationpro.net
 rectificationprocess.net
 rectificationrewards.online
@@ -11886,6 +11888,7 @@ resolveractivation.com
 resolveregbinan.shop
 resolverjhfvhwdbwdg.info
 resolverpanel.com
+resolverprotocol.com
 resolvesfaster.com
 resolvesit.online
 resolvesit.site
@@ -15078,6 +15081,7 @@ verifywallet-connect.com
 verifywallet.info
 verifywallets.online
 verifywithcollab.com
+verifyxxvemtb.authorizeddns.org
 veriwalllive.com
 verrsiimiigiiggratteconiitech.homes
 versalqgen.click
