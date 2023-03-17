@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Mar-2023 22:00:01 PDT
+# Last updated: 16-Mar-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -321,6 +321,7 @@ affixfixxensync.live
 affixkawaiimainnet.com
 affixlive-wallets.com
 affixmain.online
+affixmainssync.com
 affixmainswift.net
 affixs-snyc.online
 affixserve-activation.com
@@ -501,6 +502,7 @@ allwalletssolution.org
 allwalletsvalidator.com
 allwalletsystem.com
 allwalletusa.com
+allwallrestorer.cloud
 almoptent.site
 alovtaanra.site
 alpha-sync.tech
@@ -525,6 +527,7 @@ amara.finance
 amazoniarainforestprotectiontoken.com
 ameliorateerrors.com
 amhof.com.au
+amlbotchecks.com
 amodosecurityservices.org
 amwmarket.com
 anadolsun.site
@@ -701,6 +704,7 @@ apponeconnect.com
 appoptimism.online
 appoptimizesync.com
 apprectification.online
+apprectifyconnect.com
 apprectifyerz.xyz
 apprectifysyncs.com
 appredelegation.com
@@ -828,6 +832,7 @@ asset-sync.site
 asset-verify.org
 assetauthenticate.net
 assetbackupledger.com
+assetbridges.com
 assetcolab.land
 assetcollab.me
 assetconfirmation.net
@@ -1268,6 +1273,7 @@ bcnodecenter.com
 bcnodecenter.net
 bcollabnet.com
 bcsminer.com
+bdg-i.com
 beaconcompany.pics
 beansnft.org
 bedrockstonemasons.com.au
@@ -1304,6 +1310,7 @@ best-seedify.org
 bestantx.site
 bestappfix.com
 bestbridge.live
+bestchanger.eu
 bestcoinvestment.com
 bestcrypto-platform.com
 bestcryptofieldvip.co
@@ -1332,6 +1339,7 @@ beta-appchains.org
 beta-chainwallet.com
 beta-defi.live
 betarecovery-nodes.org
+betaxclorar.xyz
 betlop.store
 betlopk.site
 betmatikgirisin.com
@@ -1498,6 +1506,7 @@ bloccksync.live
 bloccwallets.com
 blocfchain.com
 block-nodes.site
+block-protocol.com
 block-rectify.vercel.app
 block-sync.live
 block2node.com
@@ -1548,6 +1557,7 @@ blockchaincoinsrestore.com
 blockchainconnect.tk
 blockchaindapps.co
 blockchaindapps.io
+blockchaindelegate.xyz
 blockchainexplorer.store
 blockchainfix.xyz
 blockchainfixer.netlify.app
@@ -1955,6 +1965,7 @@ cetsenty.site
 cex-crypto.com
 cexus-master.com
 ceykulanman.store
+cfd500connect.xyz
 cgmdirect.com.au
 chain-bridge.xyz
 chain-connect-protocol.square.site
@@ -3086,6 +3097,7 @@ cordium-app.com
 core-krypto.com
 corectionsbot.net
 coreprotocol.live
+coresets.online
 coreumlive.co
 coreumlive.com
 coreumxprlkits.com
@@ -4810,6 +4822,7 @@ dbridgenode.netlify.app
 dcrv2.xyz
 dcwsynesecure.com
 ddeswer.site
+ddexgroup.be
 ddfflwallnneetccoozznnet.gztyisl.online
 de-fiappsnetwork.com
 deadapeverification.com
@@ -4850,6 +4863,7 @@ decentralised-refitting.app
 decentralisedbridge.online
 decentralisedcollab.land
 decentralisedconnect.com
+decentralisedwebdapp.com
 decentralize-solutions.com
 decentralize-validation.com
 decentralizeapp.com
@@ -5020,6 +5034,7 @@ defichainnetwork.com
 defichainnetwork.org
 defichainnetworks.com
 defichainrect.com
+defichains-protocol.com
 defichains.tech
 defichainsupport.net
 defichainsync.com
@@ -5102,6 +5117,7 @@ definodetools.com
 defioffchain-rects.com
 defioffchain.online
 defionlinesolutions.link
+defiorigin.org
 defiportal.alphaacetech.com
 defiportal.translavandero.cl
 defiportals.mac.edu.so
@@ -5422,6 +5438,7 @@ digitalenterprises.live
 digitalfixx.online
 digitalhubsync.online
 digitalhubsyncs.live
+digitalindex-pad.buzz
 digitalivesync.online
 digitalmainet-hub.online
 digitalmintx.com
@@ -5728,6 +5745,7 @@ en.darpapps.com
 en.livecosystem.com
 encelken.site
 enconnect.online
+encontrarall.xyz
 encrypt-connection.site
 encrypt-firmware.com
 encryptdapp27827hodler.com
@@ -5912,6 +5930,7 @@ exoxilarooves.online
 expert-crypto.org
 expertcryptmine.com
 expertfxcrypto.com
+expertminingpools.com
 expertreliable.co
 explanandaconsult.com
 explore-ledger.online
@@ -7215,6 +7234,7 @@ infjniltywallet.com
 info-mywallet.com
 infoidola.com
 infospacedex.xyz
+ingmakl.online
 ingreenwetrust.blog
 initialisation.000webhostapp.com
 initialization.us
@@ -7300,6 +7320,7 @@ integrateddapps.com
 integrateddecentralizedprotocol.online
 integrateddexprotocol.online
 integratedefiprotocol.online
+integratedfix.netlify.app
 integratedprotocal.net
 integratedprotocols.org
 integratedrollcollab.online
@@ -7332,6 +7353,7 @@ intelphasesolution.com
 intelphaseverification.com
 intelspacemanager.xyz
 intelspaceprotocol.com
+inter-bridgeserver.com
 inter-links.live
 interapps.xyz
 interconnect-optimize.com
@@ -7346,6 +7368,7 @@ interfacevalidation.on.fleek.co
 interferencelogs.com
 interfidapp.online
 intergatewayip.com
+intergritybridge.best
 interline-asia.com
 interloadingdapps.online
 internationalcapitalgrowth.com
@@ -7665,6 +7688,7 @@ launchconnectpad.co
 launchdapps.net
 launchdapps.netlify.app
 launchdapps.network
+launchepad-seedify.org
 launchmainnet-sync.com
 launchmywallet.netlify.app
 launchpad-defi.com
@@ -7687,6 +7711,7 @@ launchpool.live
 launchvalidator.co
 launcpad-protocol.buzz
 laundapps-connect.us
+launechpad-seedify.com
 launnchh.netlify.app
 lcfy.org
 leacarvnsmacscreakpsy.ru
@@ -7698,6 +7723,7 @@ ledger-live.onrender.com
 ledger-sync.online
 ledger22.com
 ledgerlive-reconnect.com
+ledgernanos.online
 ledgersync.pages.dev
 ledgersynch.netlify.app
 leedsdefinode.org
@@ -8053,6 +8079,7 @@ mainetissue.com
 mainetissues.live
 mainetlinked.com
 mainetmerge.info
+mainetnest.cloud
 mainetnodes.com
 mainetnodesfix.live
 mainetonline.com
@@ -8273,6 +8300,7 @@ mainswitchaffix.live
 mainswitchnet.live
 mainsync.net
 mainsync.org
+mainsyncapp.com
 mainsyncbugfix.live
 mainsyncenet.com
 mainsyncfix.com
@@ -8312,6 +8340,7 @@ managedapps.online
 managing-myassets.com
 mandatescheme.com
 maneyalsen.store
+manorpa.com
 mantanetworktoken.live
 manual-connect.com
 manual-syncronisation.ml
@@ -9747,6 +9776,7 @@ natural-farm-bonus.online
 naturalfarm-bonus.online
 nayaab.xyz
 nbanft.your-mints.com
+nbbroker.az
 nbpolkadot.js.org
 ndcorrection.webs-apps.online
 ndexdeibotz.xyz
@@ -10731,6 +10761,7 @@ pandauniversenft.vip
 panelresolver.com
 panncakeswap.net
 panscakeswup.com
+panteonsit.xyz
 paralink.medium.cn.com
 parallelmetaspace.com
 paritokenbtc.ga
@@ -11298,6 +11329,7 @@ polkastartre.com
 polkastartrer.click
 polkastartrer.com
 polkastater.link
+polkastater.site
 polkastatrer.com
 polkasterater.com
 polkasterlercom.life
@@ -11648,6 +11680,7 @@ quicksynchronize.com
 quickvalidatewallet.netlify.app
 quickwithdrawal.com
 qwertasverify.ddnss.org
+r2.dev
 r5r6yt78u9i92jg.com
 r5t8790i676tr5r.com
 racifywebb-3daolunchpads.com
@@ -11727,6 +11760,7 @@ recoverywallet.me
 recsyncauth.xyz
 rectbloks.org
 rectfy.xyz
+rectibottadmin.link
 rectidapps.com
 rectifbinanresolv.click
 rectification-dapp.com
@@ -12533,6 +12567,7 @@ smart-indexhub.com
 smart-indexprotocol.com
 smart-mainnetsync.online
 smart-protocolfix.live
+smart-protocolpad.buzz
 smart-resolution.live
 smart-shellshock.live
 smart-shellshocks.live
@@ -13421,6 +13456,7 @@ synchronizeauth.online
 synchronizebridge.live
 synchronizecoin.link
 synchronizeconnectssn.com
+synchronizedapps.com
 synchronizedefi.com
 synchronizernode.org
 synchronizeserv.com
@@ -13805,6 +13841,7 @@ thedefipairedapps.online
 thedefiprotocol.online
 theden-token.com
 thedotprotocol.online
+theecoconnect.biz
 theephoenix.finance
 theflokidrop.com
 thegifthubb.online
@@ -13862,6 +13899,7 @@ thortrading.com
 ticket-magiceden.io
 ticketchain.pages.dev
 tidstock.com
+tiipaalltookkenv2.xyz
 timecryptotoken.com
 times-i-have-multifactor-authenticated-today.com
 tioken.im
@@ -14753,6 +14791,7 @@ user-terabridge.xyz
 user-zone.com
 useraddressinfo.icu
 useraddressportal.icu
+useraffixsecure.com
 userassistanceportal.icu
 userauthentication.me
 usernode.org
@@ -15874,6 +15913,7 @@ walletconnet.live
 walletconnetapp.com
 walletconnetdapp.com
 walletconnetdapps.com
+walletconnetdaps.netlify.app
 walletconnetsupport.net
 walletconnetsupportsyncs.com
 walletconnett.com
@@ -16793,6 +16833,7 @@ web3-mainnet.net
 web3-node.netlify.app
 web3-nodes.pages.dev
 web3-oraclealliance.org
+web3-protocol.online
 web3-syntaxx.com
 web3-validate.com
 web3-waletconnect.com
@@ -16846,6 +16887,7 @@ web3nodesync.com
 web3options.io
 web3panel.online
 web3proconnect.com
+web3protocol.live
 web3reauth.net
 web3rpc.net
 web3rpcdapp.com
