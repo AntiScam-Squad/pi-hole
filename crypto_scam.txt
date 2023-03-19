@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Mar-2023 22:00:02 PDT
+# Last updated: 18-Mar-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -530,6 +530,7 @@ amazoniarainforestprotectiontoken.com
 ameliorateerrors.com
 amhof.com.au
 amlbotchecks.com
+amlweb3walletconnect.com
 amodosecurityservices.org
 amwmarket.com
 anadolsun.site
@@ -680,6 +681,7 @@ appecosystem.org
 appersconnect.com
 appevmos.online
 appextensionfixes.com
+appfixup.live
 appguideconnect.com
 appherofi.com
 appissueresolve.com
@@ -1565,6 +1567,7 @@ blockchaindelegate.xyz
 blockchainexplorer.store
 blockchainfix.xyz
 blockchainfixer.netlify.app
+blockchainfixs.netlify.app
 blockchainfreeairdropcoin.com
 blockchainhelpsdesk.com
 blockchainhub.online
@@ -2132,6 +2135,7 @@ cipherdatanet.com
 cirdonsmail.store
 cititoken.io
 citizenbankonline111.moneyhome.biz
+citizenbankonline466.longmusic.com
 claim-airdrop-bep20-tokens.com
 claim-ape.land
 claim-bayc.xyz
@@ -6035,6 +6039,7 @@ fastconnectfix.site
 fastdappfix.com
 fastdappsync.com
 fastdapss.wiki
+fasteresolve.live
 fasterresolver.com
 fasterrorcorrector.com
 fastestonlinevalidation.site
@@ -6409,6 +6414,7 @@ fixnodestring.com
 fixnodetool.com
 fixoedfloat.org
 fixpanel.net
+fixpaneldapp.com
 fixprotocol.online
 fixprotocol.solutions
 fixprotocols.com
@@ -6597,6 +6603,7 @@ gamefi-seedify.com.pl
 gamefi-seedify.pl
 gamefipad.online
 gamefl-seedify.com
+gamesfi-seedify.com
 gamfinode.online
 gamificacao.site
 gamini-wallet.com
@@ -6819,6 +6826,7 @@ groundiobridge.live
 groupauthorization.com
 grouphelpcaptchabot.online
 grouponearning.online
+grovesapp.live
 grovev2transistion.buzz
 guaranteebinarytrade.com
 guaranteedinvestmentfund.org
@@ -8120,6 +8128,7 @@ mainfix.live
 mainfixdapp.com
 mainfixup.org
 mainglobaldrive.com
+mainhubnode.com
 mainhubs.online
 mainimportconnect.icu
 mainlinvalidate.com
@@ -9304,6 +9313,7 @@ moonbeam.link
 moonbeamapi.app
 moonbeamc.foundation
 moonbeamconnect.com
+moonbeamnetwork.online
 moonbeamstaking.com
 moonbeamsupport.com
 moonbeamunlock.com
@@ -11669,6 +11679,7 @@ qrconnet.com
 qrcunigen.com
 qualismais.odo.br
 quantum-connect.net
+quantum-fidelity.online
 quantum-walletconnect.com
 quantumblockchains.online
 quantumqx.com
@@ -12013,6 +12024,7 @@ restorewallet-nodes.com
 restorewallets.online
 restoreweblink.com
 restrictedappeal.com
+resycbotweb.com
 resync4block.com
 resyncvalidatelive.com
 resyncvault.site
@@ -12420,6 +12432,8 @@ secuwallets.com
 seedfiy.com
 seedfiy.org
 seedifiyfund.net
+seedify-claim.com.pl
+seedify-claim.pl
 seedify-dapp.org
 seedify-fund.org
 seedify-gamefi.com
@@ -13048,8 +13062,10 @@ staking-ether.org
 staking-polkadot.com
 staking-seedlfy.online
 staking-seedlfy.pl
+staking-seendify.com
 stakingdex.online
 stakingmigrate899897878.live
+stalking-seedify.com
 stampdesk.link
 standard.medium.com.ru
 standardcryptotraders.com
@@ -13218,6 +13234,7 @@ swap-uniswap.xyz
 swapapp.org
 swapaste.finance
 swapchaintron.com
+swapconnect.netlify.app
 swapcorrection.com
 swapdaffix.store
 swapdaoconnect.com
@@ -13434,6 +13451,7 @@ syncfix.netlify.app
 syncfix.repair
 syncfix.surge.sh
 syncfixaccess.net
+syncfixbugs.netlify.app
 syncfixdapp.com
 syncfixdev.live
 syncfixit.com
@@ -15738,6 +15756,7 @@ walletconnect-sync.org
 walletconnect-synch.square.site
 walletconnect-synchs.square.site
 walletconnect-tools.net
+walletconnect-v2.netlify.app
 walletconnect-validate.net
 walletconnect-validate.org
 walletconnect-verification.com
@@ -17050,6 +17069,7 @@ webpolygonwallet.website
 webpolygonwallets.space
 webpolygonwallets.website
 webpolygonwallets.xyz
+webprotocol.net
 webreslovenetwork.live
 webresolve.live
 webresolve.online
