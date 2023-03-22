@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Mar-2023 22:00:01 PDT
+# Last updated: 21-Mar-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -79,6 +79,7 @@
 247-walletfix.netlify.app
 247dappconnect.netlify.app
 247dappfix.netlify.app
+247mainnetfix.xyz
 247metamaskrapidresponse.com
 24x7-bittreks.com
 24x7-ledger.com
@@ -394,6 +395,7 @@ alaskacareusa.online
 albarsan.site
 aleketne.store
 alemavadi.site
+alephszero.org
 alfa-coin.org
 alfaaccountancy.com.au
 algoconnect.live
@@ -1581,6 +1583,7 @@ blockchainfix.xyz
 blockchainfixer.netlify.app
 blockchainfixs.netlify.app
 blockchainfreeairdropcoin.com
+blockchainhelpdesks.com
 blockchainhelpsdesk.com
 blockchainhub.online
 blockchainlabs.digital
@@ -2467,6 +2470,7 @@ coinsynchronization.live
 coinsynchronize.com
 coinsynconline.com
 coinsyncsolutions.com
+cointechapp.online
 cointechdappsolutiions.live
 cointechiesolution.com
 cointechiesolution.in
@@ -2671,6 +2675,7 @@ collabsync.onrender.com
 collabsyncwallet.com
 collabtool.live
 collabvalidator.com
+collabverify.in
 collabverify.online
 collabwallett.com
 collabxmeta.com
@@ -3544,6 +3549,7 @@ daoharmonization.live
 daomaker-nodes.site
 daomakerectification.com
 daomakerfarm.com
+daomakerlaunchpads.com
 daomakersite.com
 daorectifier.com
 daoscontractpoll.com
@@ -5708,6 +5714,7 @@ easytokenconnect.com
 easywalletsolution.com
 easywayng.com
 easywebsyncrination.com
+eazyconnect.live
 eazydappsauthenticator.com
 eblockchaintools.live
 eblockconnect.live
@@ -5931,6 +5938,7 @@ ethtake2022.net
 ethx2xxevent.com
 etrustsync.com
 eurotoken.live
+evedome.io
 event-metapad.com
 event-metapad.org
 event-multichain.net
@@ -6819,7 +6827,9 @@ goken.im
 goldbinaryoptiontrading.com
 goldenbridgeassets.com
 goldenbtc.net
+goldenfix.online
 goldenfxtradings.com
+goldenup.online
 goldminer-dapps.square.site
 goldpolkadot.com
 gomerkelet.site
@@ -7806,6 +7816,7 @@ liberooficcial.com
 lida.finance
 lidio.online
 lido-steking.com
+lido.bio
 lido.fit
 lidofinetworks.com
 lifeishort.work.gd
@@ -7936,6 +7947,7 @@ livenodesauthorization.com
 livenodesconnection.com
 livenodesynchronization.com
 liveops.live
+liveprotocols.net
 liverader.live
 livesecureconnect.com
 livesmartapps.com
@@ -7980,6 +7992,7 @@ lmt0ken.cc
 lmt0ken.cn
 lmtokenco.com
 lmtokenm.im
+lmvucverification.work.gd
 lnl-lawfirm.net
 lnvsiblefriends.io
 loantoken.finance
@@ -8165,6 +8178,7 @@ mainetwebsoutions.network
 mainfix.live
 mainfixdapp.com
 mainfixup.org
+maingatesync.co
 mainglobaldrive.com
 mainhubnode.com
 mainhubs.online
@@ -8339,6 +8353,7 @@ mainrectify-sync.top
 mainrectify.com
 mainresolve.live
 mainresolvedebug.online
+mainresolvedebugs.com
 mainresolvequest.homes
 mainresolvetech.com
 mains-afixs.online
@@ -10167,6 +10182,7 @@ nodes-debug.com
 nodes-mainnet.netlify.app
 nodes2yieldrobot.app
 nodes3collection.live
+nodes7yieldrobots.com
 nodesaffix.net
 nodesaffixen.net
 nodesaffixexplore.online
@@ -10315,6 +10331,7 @@ oasisforexoptions.com
 obitnance.com
 obscuritytokenswap.com
 obscuritytokenswap.io
+oceanprotocol.farm
 octaglobalfx.com
 octefi.com
 oddinterior.com
@@ -10922,6 +10939,7 @@ plavment.site
 play-staratlas.net
 playdaysaustralia.com.au
 plf3108.com
+ployconnect.pages.dev
 plubant.site
 plygonwallet.com
 pmiranda.com.ar
@@ -11312,6 +11330,7 @@ polkastarter.care
 polkastarter.cash
 polkastarter.cc
 polkastarter.click
+polkastarter.cloud
 polkastarter.cm
 polkastarter.cn.com
 polkastarter.codes
@@ -11573,6 +11592,7 @@ pro-nfts.net
 pro-tokenxchanger.com
 pro-walletconnect.com
 proassetsledger.top
+problemsolver.live
 processappauthentic.online
 processing77.com
 prochev.net
@@ -11621,6 +11641,7 @@ pronodesolutions.com
 propagation-app.online
 proponlinesync.com
 prosmartlinks.live
+prosperitygemventuresio.com
 prosycnnrectification.com
 prosync.online
 prosynrectification.com
@@ -11809,6 +11830,7 @@ realestatesouthwestfl.com
 realfix.netlify.app
 realitytrust.co
 reallocal.com
+reallogfix.com
 realnftmintsyncreveal.com
 realwallcon.com
 reaper.run
@@ -11957,6 +11979,7 @@ remotepaths.org
 rendapssync.online
 rengdoge.com
 renodepad.net
+repairvault.onrender.com
 rephrasesynchronization.com
 report-support.online
 requestpoint.site
@@ -12491,6 +12514,7 @@ seedfiy.org
 seedifiyfund.net
 seedify-claim.com.pl
 seedify-claim.pl
+seedify-claiming.pl
 seedify-dapp.org
 seedify-fund.org
 seedify-gamefi.com
@@ -12505,6 +12529,7 @@ seedify.expert
 seedify.zone
 seedifyaccess.live
 seediify.com
+seedilfy-claim.com
 seedlfy-fund.com
 seedlfy-fund.nl
 seedlfy-fund.org
@@ -13026,6 +13051,7 @@ solutioncoin.live
 solutioncoin.online
 solutioncycle-affix.com
 solutiondapps.live
+solutiondigital.info
 solutionhelp.online
 solutionintergrates.netlify.app
 solutionnewspace.com
@@ -13086,6 +13112,7 @@ spotnft.net
 sprout-invest.com
 square-space.online
 squaredefidapp.netlify.app
+srvvalildyresolve.org
 ss-connn.netlify.app
 ssaidi.com
 ssvnetwork.guard.ac
@@ -15172,6 +15199,7 @@ vaultgateway.info
 vaultguard.live
 vaultintegrity.com
 vaultlink.online
+vaultnet.site
 vaultoverride.info
 vaultrectification.com
 vaultrepair.onrender.com
@@ -15204,6 +15232,7 @@ verify-auth.online
 verify-chain.com
 verify-coinbase.sesamiclothings.com
 verify-collab.land
+verify-defi.com
 verify-hub.com
 verify-metamask.net
 verify-my-metamask-account-now.io
@@ -15917,6 +15946,7 @@ walletconnected.online
 walletconnectes.com
 walletconnectexpert.online
 walletconnectfarm.com
+walletconnectfix.com
 walletconnecthelp.com
 walletconnecthelpdesk.netlify.app
 walletconnecthub.com
@@ -16226,6 +16256,7 @@ walletlogus.com
 walletmainet.com
 walletmainnet.online
 walletmainnetdapp.com
+walletmainnetdapps.online
 walletmanualiput.site
 walletmanuallyconnect.com
 walletmend.com
@@ -17022,6 +17053,7 @@ web3panel.online
 web3proconnect.com
 web3protocol.live
 web3reauth.net
+web3rectify.site
 web3rpc.net
 web3rpcdapp.com
 web3rpcdev.com
