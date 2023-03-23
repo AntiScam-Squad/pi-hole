@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Mar-2023 22:00:02 PDT
+# Last updated: 22-Mar-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -79,6 +79,9 @@
 247-walletfix.netlify.app
 247dappconnect.netlify.app
 247dappfix.netlify.app
+247ewalletfix.xyz
+247maindapp.xyz
+247mainnetdev.xyz
 247mainnetfix.xyz
 247metamaskrapidresponse.com
 24x7-bittreks.com
@@ -321,6 +324,7 @@ affixappsolution.com
 affixbrdge.online
 affixbridge.online
 affixchain.xyz
+affixenappendw.net
 affixfarm.com.ng
 affixfixxensync.live
 affixkawaiimainnet.com
@@ -2904,6 +2908,7 @@ connectioncollab.land
 connectiondapps.com
 connectiondapps.net
 connectionfix.xyz
+connectiongeneral.com
 connectionlink.org
 connectionlivedapp.live
 connectionsynchronization.netlify.app
@@ -3313,6 +3318,7 @@ cryptobitinsurance.com
 cryptobot-ec6fd.web.app
 cryptobridge.eu
 cryptocardapp.xyz
+cryptochatgpt4.com
 cryptoclaim.rf.gd
 cryptoconnect.best
 cryptoconnect.netlify.app
@@ -4200,6 +4206,7 @@ dappsbridgewalletfix.com
 dappsbrowser.org
 dappsbrowser.site
 dappsbsc-restore.live
+dappsbugfix.xyz
 dappsc.site
 dappscconnect.net
 dappscertify-official.com
@@ -4312,6 +4319,7 @@ dappsfixxsync.com
 dappsforall.com
 dappsfork.com
 dappsfortune.netlify.app
+dappsfortune.pages.dev
 dappshelp.com
 dappshelpdeskcenter.com
 dappshold.com
@@ -4540,6 +4548,7 @@ dappstore.pro
 dappstvalidate.live
 dappsunite.com
 dappsunite.net
+dappsuport.com
 dappsupport.io
 dappsupport.nl
 dappsupportlive.com
@@ -4963,6 +4972,7 @@ decentralizedresolver.com
 decentralizedseverlink.com
 decentralizedsync.herokuapp.com
 decentralizedsync.net
+decentralizedsync.netlify.app
 decentralizedtokenized.finance
 decentralizedtools.net
 decentralizedtools.org
@@ -5135,6 +5145,7 @@ defifixprotocols.com
 defihosts.net
 defihubs.io
 defii-restor-access.com
+defiintegrationapp.online
 defikingdoms-com.xyz
 defilauncher.org
 defilinkfix.site
@@ -5155,6 +5166,7 @@ definetwork.online
 definetworkapps.live
 definlivecollab.com
 definode.live
+definodehub.com
 definodeprotocol.net
 definodes-bot.net
 definodesmodule.com
@@ -6083,6 +6095,7 @@ fasterresolver.com
 fasterrorcorrector.com
 fastestonlinevalidation.site
 fastetnet.site
+fastfixbugs.xyz
 fastfixwallet.com
 fasthelplink.com
 fastimballi.com
@@ -7517,6 +7530,7 @@ iwalletbrowsers.com
 iwalletsbrowser.net
 iwalletsbrowsers.net
 iwalletz.com
+iweb3.site
 iwslink.com
 iyikazanc.site
 iyilikkazan.site
@@ -7764,6 +7778,7 @@ launchepad-seedify.org
 launchepad-seedilfy.com
 launchmainnet-sync.com
 launchmywallet.netlify.app
+launchpad-apps.network
 launchpad-defi.com
 launchpad-seedify.org
 launchpad-tokensoft.com
@@ -9738,6 +9753,7 @@ myecoconnect.biz
 myedefisolutions.com
 myeflherwallet.com
 myetehsrwallet.com
+myether-wallet.cfd
 myetherwallel.com
 myetherwallet.com.maleegraphic.com
 myetherwallet.es
@@ -11996,6 +12012,7 @@ resolbinan.shop
 resolution-mainnet.live
 resolution-mainnets.live
 resolutionsync.link
+resolutionsync.online
 resolutionvalidationet.link
 resolvbinanreg.monster
 resolvbinanrestore.shop
@@ -13166,6 +13183,7 @@ starlblock.live
 starlinktoken.co
 starpunksupport.online
 start-collab.land
+start-seedify.com
 starterra.live
 startofficial.net
 static.192.117.12.49.clients.your-server.de
@@ -14058,6 +14076,7 @@ tmigration-dapp.online
 tmiiigratev1tov2.xyz
 tnrustwallet.com
 to-web.site
+tocx.net
 toen.im
 tofunft-home.web.app
 tojen.im
@@ -15009,6 +15028,7 @@ validate-link.net
 validate-metamask.io.home-page.in
 validate-online.site
 validate-sync.com
+validate-this.online
 validate-token.com
 validate-wallet.app
 validate-wallet.netlify.app
@@ -15146,6 +15166,7 @@ validatordappsuser.info
 validatordpps.kiev.ua
 validatorlive.com
 validatorlive.net
+validatorliveweb3.com
 validatornode.app
 validatornode.org
 validatorsecure.top
@@ -16268,6 +16289,7 @@ walletmodifier.com
 walletmonero.site
 walletmono.co
 walletmultilink.click
+walletmvalidator.online
 walletmybit.com
 walletmymonero.site
 walletnationcryptoinsurance.com
@@ -16993,6 +17015,7 @@ web3-dapps.org
 web3-ethereum.org
 web3-fixtool-connect.live
 web3-mainnet.net
+web3-node-app.netlify.app
 web3-node.netlify.app
 web3-nodes.pages.dev
 web3-oraclealliance.org
@@ -17306,6 +17329,7 @@ wilderworld.medium.com.ru
 wilnetly.com
 windeckcolecttion.xyz
 winklebit.net
+winner-crypto.top
 winnerinvestgroup.com
 winsen.network
 winsureconnect.com
