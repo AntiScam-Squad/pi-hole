@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Mar-2023 22:00:01 PDT
+# Last updated: 23-Mar-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1224,6 +1224,8 @@ backyardcompanyio.best
 bacpne.com
 badapplesiphonerepair.com
 baffare.site
+bafybeide4unrcmuocz27bnhwauktb3eal6bnkctmyolhqz27qeuhfjn7ta.ipfs.dweb.link
+bafybeiduschaqs6m3jl4qp2yi3dhrrrt5te7b5gjo4aj5ew7fxa7kkjr2y.ipfs.dweb.link
 bahamaslandnftmint.com
 bahsenkeyef.site
 bahysem.site
@@ -13101,6 +13103,7 @@ solwatchesnft.info
 sorares.store
 sotana-network.com
 sotkant.site
+soulart.hu
 sourcefixapp.com
 sourcevalidations.net
 southpacificmissions.org
@@ -13184,6 +13187,7 @@ starlinktoken.co
 starpunksupport.online
 start-collab.land
 start-seedify.com
+start-seedify.org
 starterra.live
 startofficial.net
 static.192.117.12.49.clients.your-server.de
@@ -13559,6 +13563,7 @@ syncfix.surge.sh
 syncfixaccess.net
 syncfixbugs.netlify.app
 syncfixdapp.com
+syncfixdapps.xyz
 syncfixdev.live
 syncfixit.com
 synch-connect.com
