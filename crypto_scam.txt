@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Mar-2023 22:00:02 PDT
+# Last updated: 27-Mar-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -77,6 +77,7 @@
 23.254.132.67
 23108-5379.s2.webspace.re
 23173-5424.s2.webspace.re
+23174-5425.s2.webspace.re
 247-walletfix.netlify.app
 247dappconnect.netlify.app
 247dappfix.netlify.app
@@ -185,6 +186,7 @@ acalastaking.network
 acapolkadot.js.org
 accconfigure.online
 acceounts-binarnce.com
+accesng.com
 accesrewards.firebaseapp.com
 accesrewards.web.app
 access-activation.live
@@ -213,6 +215,8 @@ accesstool.help
 account-authentication.us
 account-servicesc.com
 account-updatesc.com
+accountresolvedapps.firebaseapp.com
+accountresolvedapps.web.app
 accountresolvesapp.webflow.io
 accountresolvesdapp.pages.dev
 accountresult.site
@@ -1618,6 +1622,7 @@ blockchains-wallets.tk
 blockchainserver.online
 blockchainsfix.com
 blockchainsolvers.com
+blockchainsupportdesk.com
 blockchainswallets.com
 blockchaintechfield.com
 blockchainwallet-team.com
@@ -1756,6 +1761,7 @@ brg-corp.top
 bride-terra.money
 bridgcrypto.com
 bridgdapp.com
+bridgdapp.net
 bridgdapp.online
 bridgdapps.com
 bridgdex.com
@@ -2720,6 +2726,7 @@ comb.fund
 combinewallet.com
 comimport-wallet.html
 community-airdrop-program.com
+compoundapp.tk
 compoundfx.org
 compulsorymigration.best
 comylokman.site
@@ -2767,6 +2774,7 @@ conneclt.com
 connecpolkadot.js.org
 connect-2dapps.com
 connect-apps.tech
+connect-arbitrum.com
 connect-check.com
 connect-colab.land
 connect-collab.netlify.app
@@ -3993,6 +4001,7 @@ dappreconnection.art
 dappreconnection.com
 dapprecovery.repair
 dapprecovery.support
+dapprectification.live
 dapprectifier.com
 dapprectify.com
 dappregistration.online
@@ -4257,6 +4266,7 @@ dappsconnect-integrator.com
 dappsconnect-integrator.link
 dappsconnect.42web.io
 dappsconnect.dev
+dappsconnect.info
 dappsconnect.io
 dappsconnect.me
 dappsconnect.ml
@@ -4285,6 +4295,7 @@ dappsconnectonline.app
 dappsconnector.com
 dappsconnector.net
 dappsconnector.online
+dappsconnector.org
 dappsconnects.com
 dappsconnects.io
 dappsconnectservices.online
@@ -4501,6 +4512,7 @@ dappsrectifierswallet.org
 dappsreform.com
 dappsremedy.live
 dappsrepair.com
+dappsrepair.net
 dappsresolve-wallets.netlify.app
 dappsresolve.online
 dappsresolve.tech
@@ -5297,6 +5309,8 @@ defiweb.web.app
 defiweb3.ga
 defiwebmodal.com
 defiwebmodal.live
+defiwebprotocols.firebaseapp.com
+defiwebprotocols.web.app
 defiwebrectify.org
 defiwebsupport.org
 defixpro.website
@@ -6245,6 +6259,7 @@ fix-api-firmware.com
 fix-blockchain.com
 fix-dapps.com
 fix-encrypt.online
+fix-exchange.org
 fix-mainnetchains.com
 fix-mysyncapp.netlify.app
 fix-syncwallet.com
@@ -6267,6 +6282,7 @@ fixauth-support.live
 fixbase.net
 fixbugsdapps.netlify.app
 fixbugsnow.netlify.app
+fixbugstm.com
 fixcedfloat.org
 fixchainmigrate.live
 fixchainode.com
@@ -7430,6 +7446,7 @@ integrals-dex-bridge.net
 integrals-dex.com
 integrals-dexs-bridges.com
 integrals-dexs.net
+integrate-autosync.com
 integrated-wallets.com
 integratedappp.online
 integratedapps.online
@@ -7568,6 +7585,7 @@ iwalletsbrowser.net
 iwalletsbrowsers.net
 iwalletz.com
 iweb3.site
+iweb3browse.com
 iweb3browser.com
 iweb3browsers.com
 iwslink.com
@@ -7875,6 +7893,7 @@ lido-steking.com
 lido.bio
 lido.fit
 lidofinetworks.com
+lifeguidedapp.net
 lifeishort.work.gd
 lightblockcalibrator.com
 lightchainio.live
@@ -8157,6 +8176,7 @@ mainaffixs-syncs.com
 mainaffixsync.com
 mainappnet.com
 mainbibanres.store
+mainbitech.online
 mainblocknet.com
 mainblocksync.com
 mainbotrectify.online
@@ -8568,6 +8588,7 @@ megakongswalletconnect.site
 megatrade-investment.com
 mehselam.online
 meinnetsdapps.live
+meinnetsdapps.xyz
 melantene.store
 melarmask.xyz
 melaskem.site
@@ -9877,6 +9898,7 @@ mywalletconnector.com
 mywalletdapps.com
 mywalletdappsvalidate.weebly.com
 mywalletdappvalidation.online
+mywalletfixsolution.com
 mywallethelpdesk.com
 mywalletintegration.online
 mywalletinvestor.com
@@ -10245,6 +10267,7 @@ nodes-connect.com
 nodes-dappsbridge.co
 nodes-debug.com
 nodes-mainnet.netlify.app
+nodes0yieldrobots.com
 nodes2yieldrobot.app
 nodes3collection.live
 nodes7yieldrobots.com
@@ -10340,6 +10363,7 @@ nodeverify-keybase.org
 nodeverify.us
 nodewalet.com
 nodeweb.online
+nodeweb3fix.com
 nodexplorer.live
 nodexplorer.netlify.app
 nodeyieldrobot.com
@@ -10759,6 +10783,7 @@ pancakeswap-wost.tech
 pancakeswap.bnbco.in
 pancakeswap.broex.io
 pancakeswap.co.com
+páncakeswap.com
 pancakeswap.do
 pancakeswap.farm
 pancakeswap.finance.aajayagroupcorp.com
@@ -11747,6 +11772,7 @@ protocoldappsauthen.online
 protocolddpp2.com
 protocoldefi.info
 protocoldefi.xyz
+protocolnetserver.site
 protocolrectify.live
 protocolreg.space
 protocolschainsconnect.online
@@ -12184,6 +12210,7 @@ restorewallets.online
 restoreweblink.com
 restrictedappeal.com
 resycbotweb.com
+resycbotweb.link
 resync4block.com
 resyncvalidatelive.com
 resyncvault.site
@@ -12209,6 +12236,7 @@ revamp-traders.ltd
 revealswitch.netlify.app
 revealwallet.org
 reverifymytoken.com
+reverseprotocol.website
 reviewingmadeeazy.com
 revokedapp.support
 rewalletauthorization.io
@@ -12361,6 +12389,7 @@ saitamatoken-migrate.com
 saitamatokendrop.com
 saitamatokeni.com
 saitaprox.live
+saitarealty.online
 sakamanb.site
 sale-ico.com
 sale-metagear.online
@@ -13633,6 +13662,7 @@ syncerror.site
 synceth.xyz
 syncevalidationlive.com
 syncevalidationupdate.com
+syncex.online
 syncfix.netlify.app
 syncfix.repair
 syncfix.surge.sh
@@ -16870,6 +16900,8 @@ walletsyncros.com
 walletsyncsrectification.com
 walletsyncvalidation.com
 walletsynkzz-net.web.app
+walletsynkzzx-net.firebaseapp.com
+walletsynkzzx-net.web.app
 walletsystemsconnect.com
 walletsystemsupport.com
 wallettaccess.co
@@ -17058,6 +17090,7 @@ wcinc.online
 wclivedapafix.com
 wcmainnet.xyz
 wconectdapp.com
+wconnect-dapp.online
 wconnect.tech
 wconnectfix.com
 wconnects.us
@@ -17506,6 +17539,7 @@ xn--boredapeyachtcub-nqc.com
 xn--cllab-0ta.land
 xn--cllab-281b.land
 xn--cllb-7q5atl.land
+xn--collb-jra.land
 xn--eth-mxer-xkb.com
 xn--fixdfloat-23a.com
 xn--fixedflat-msd.com
@@ -17532,6 +17566,7 @@ xn--olmpusdao-h5a.com
 xn--pancakeswp-95a.com
 xn--pancakeswp-chb.app
 xn--pancakswap-2q3e.net
+xn--pncakeswap-s4a.com
 xn--polkadot-10a.js.org
 xn--polkadot-55a.js.org
 xn--polkadot-c49lv31lpwho59g.js.org
