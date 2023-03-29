@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Mar-2023 22:00:01 PDT
+# Last updated: 28-Mar-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1155,6 +1155,7 @@ autorepairnodetoken.com
 autorestore.xyz
 autorestorefix.com
 autoresync.live
+autos-migrates.live
 autosetfix.com
 autoswapgallery.tech
 autosync.link
@@ -2224,7 +2225,9 @@ clblink.live
 clear-error-activation.com
 clearconnect.us
 clearerrornodes.com
+clearlinking.us
 clibiya.com
+clibonanode-select.dev
 click-collab.land
 click-connect.info
 click-here.one
@@ -3537,6 +3540,7 @@ cyclopsagconnect.pro
 cyclopsvalidate.live
 cyncollabnet.com
 cyrptsync.net
+d-launchpad.com
 d-proapps.com
 d204d0yj5l0zmy.amplifyapp.com
 daapauthentication.com
@@ -3894,6 +3898,7 @@ dappfixed.com
 dappfixedconnect.net
 dappfixen.online
 dappfixerror.com
+dappfixess.netlify.app
 dappfixing.app
 dappfixing.com
 dappfixings.app
@@ -5733,6 +5738,7 @@ e-chain.netlify.app
 e-connectservices.online
 e-cryptchains.com
 e-nodevalidator.netlify.app
+e-nodify.netlify.app
 e-trust.io
 e-walletconnect.ai
 e-walletconnect.co
@@ -6133,6 +6139,7 @@ fastcoiner.com
 fastcoinsolutiion.click
 fastconnectfix.site
 fastdappfix.com
+fastdappfix.onrender.com
 fastdappsync.com
 fastdapss.wiki
 fasteresolve.live
@@ -6278,6 +6285,7 @@ fixapifirmware.com
 fixapifirmwarez.com
 fixapizfirmwarez.com
 fixapp.site
+fixasset.netlify.app
 fixauth-support.live
 fixbase.net
 fixbugsdapps.netlify.app
@@ -13680,6 +13688,7 @@ synchainweb.site
 synchappconnect.net
 synchauthenticator.com
 synchautomigrate.live
+synchautosmigrate.live
 synchchaininfo.live
 synchconnect.net
 synchconnect.tk
@@ -16487,6 +16496,7 @@ walletrefresh.net
 walletrefund.com
 walletreinforce.com
 walletremotechecker.com
+walletreporting.com
 walletresolution.com
 walletresolution.top
 walletresolveissue.com
@@ -16856,6 +16866,7 @@ walletswebsync.com
 walletswebsyncs.com
 walletswiftsolution.live
 walletswiftsolution.xyz
+walletswiftsolutions.live
 walletsyapps.com
 walletsycdapps-auth.com
 walletsyn-validation.com
@@ -17311,6 +17322,7 @@ webnetly.live
 webnetsauth.pages.dev
 webnodeaccess.com
 webnodefix.com
+webnoderesolve.com
 webnodeserver.tech
 webnodestring.com
 webnodesynchronization.com
