@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Mar-2023 22:00:01 PDT
+# Last updated: 30-Mar-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -899,6 +899,7 @@ assetsledgercv.com
 assetsledgersecv.com
 assetslegdersecure.com
 assetsnetworkledger.net
+assetspair.com
 assetsrectify.com
 assetsrestore.org
 assetssecuritybackup.com
@@ -1477,6 +1478,7 @@ bitconnect.xfiniitycare.online
 bitconnecthub.com
 bitcountry.org
 bitcryptowallets.com
+bitcypo-dapp.netlify.app
 bitdroprectify.online
 bitdrops.online
 bitdropsreward.tech
@@ -7617,6 +7619,7 @@ iweb3browsers.com
 iwslink.com
 iyikazanc.site
 iyilikkazan.site
+izieth.com
 j6w2e3r4t5y6.com
 jasmydrops.com
 jmdspolkadot.js.org
@@ -15459,6 +15462,7 @@ vicpromo.com
 victoriavrr.com
 videoair.xyz
 vilexauthentication.xyz
+vinafollow.com
 vint2verseprotocol.website
 vintagelinkage.info
 vintagemyetherwallet.com
