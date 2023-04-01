@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Mar-2023 22:00:02 PDT
+# Last updated: 31-Mar-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2379,6 +2379,7 @@ coinfiixsoluiitiontech.pro
 coinfix.tech
 coinfixsolution.online
 coinfixup.live
+coinfixup.online
 coinfutureoptions.com
 coingeckoreward.fun
 coingeckoreward.life
@@ -7616,6 +7617,7 @@ iweb3.site
 iweb3browse.com
 iweb3browser.com
 iweb3browsers.com
+iweb3node.com
 iwslink.com
 iyikazanc.site
 iyilikkazan.site
@@ -9547,6 +9549,7 @@ multi-signatures.com
 multi-sync-wc.online
 multi-wc-sync.online
 multiaidprogram.com
+multiaidprotocol.com
 multialignfix.com
 multialignfix.site
 multiblock-defipad.com
@@ -11752,6 +11755,7 @@ project-dapps-intergration.firebaseapp.com
 project-dapps-intergration.web.app
 project-dappsconnect.net
 project-sparkdapps.net
+projectfixup.live
 projectintegrationtools.online
 projectmainets.xyz
 projectmainn.com
@@ -12667,6 +12671,7 @@ securitytokensipo.com
 secuwallets.com
 seedfiy.com
 seedfiy.org
+seedfly.org
 seedifiyfund.net
 seedify-claim.com.pl
 seedify-claim.pl
@@ -12686,6 +12691,8 @@ seedify.zone
 seedifyaccess.live
 seediify.com
 seedilfy-claim.com
+seedilfy.com
+seedilfy.org
 seedlfy-fund.com
 seedlfy-fund.nl
 seedlfy-fund.org
@@ -13303,6 +13310,7 @@ stakedapps.online
 stakefx.online
 stakemigrat6373783282.live
 staketoken.space
+stakilng-seedify.org
 staking-chainlink.online
 staking-eth.org
 staking-ether.org
@@ -17754,6 +17762,7 @@ zilochain.com
 zinotiger.com
 zipwallet.net
 zksynchronize.help
+zksyncv1.com
 zogiiobridge.live
 zonefix.net
 zooltoken.io
