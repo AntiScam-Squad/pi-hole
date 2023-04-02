@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-Mar-2023 22:00:01 PDT
+# Last updated: 01-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -645,6 +645,7 @@ app-dappsify.online
 app-delegation.net
 app-erty.online
 app-ethpadnetwork.com
+app-flaredelegate.net
 app-lido.finance
 app-live.org
 app-magiceden-app.ml
@@ -3442,6 +3443,7 @@ cryptosecurefx.com
 cryptosecurityapp.net
 cryptosfix.webflow.io
 cryptoslivechats.com
+cryptosnacks.io
 cryptosolutionz.com
 cryptossdapps.webflow.io
 cryptosupport-base.com
@@ -3590,6 +3592,7 @@ dalledexlink.live
 damloptant.site
 dampent.site
 damsbit.com
+dao-seedify.org
 daoapprestore.com
 daobridgescore.tech
 daochains.site
@@ -4790,6 +4793,7 @@ dappwalletconnections.com
 dappwalletconnet.click
 dappwalletextension.com
 dappwalletfix.netlify.app
+dappwalletfixs.netlify.app
 dappwalletlink.com
 dappwalletme.com
 dappwalletnode.com.ng
@@ -6847,6 +6851,7 @@ ghbzz.com
 giftclaim.buzz
 giftcollab.land
 giftconnerz.buzz
+gilowcrypto.com
 ginxappsolutionsdev.live
 girbakalim.site
 girislersaglam.store
@@ -6923,6 +6928,7 @@ goldenbridgeassets.com
 goldenbtc.net
 goldenfix.online
 goldenfxtradings.com
+goldenpump.website
 goldenup.online
 goldminer-dapps.square.site
 goldpolkadot.com
@@ -7617,6 +7623,7 @@ iweb3.site
 iweb3browse.com
 iweb3browser.com
 iweb3browsers.com
+iweb3browsers.net
 iweb3node.com
 iwslink.com
 iyikazanc.site
@@ -8172,6 +8179,7 @@ m-imtokem.net
 m26securiter.info
 maaima.com
 macfot.online
+macmiral.000webhostapp.com
 mad-meerkatcompensation.live
 maesara.com
 maestrocointek.com
@@ -8406,6 +8414,7 @@ mainnetnodes.com
 mainnetnodesapp.com
 mainnetnodetools.com
 mainnetnow.com
+mainnetoncfix.netlify.app
 mainnetonline.info
 mainnetprotocol.co
 mainnetprotocol.live
@@ -9638,6 +9647,7 @@ multidapp-mainnet.com
 multidappbridge.com
 multidappchain.net
 multidappconnect.com
+multidappconnect.netlify.app
 multidappconnect.xyz
 multidapprevap.com
 multidapps-mainnet.com
@@ -9695,6 +9705,7 @@ multipad-pro.net
 multipad-pro.org
 multipad-x.com
 multipledapps.com
+multiscreensite.com
 multiserverfix.net
 multistalk.online
 multistalkexecute.tech
@@ -11782,6 +11793,7 @@ promvalidator.online
 pronodesolutions.com
 propagation-app.online
 proponlinesync.com
+proshiift.live
 prosmartlinks.live
 prosperitygemventuresio.com
 prosycnnrectification.com
@@ -12157,6 +12169,7 @@ resolve7858yr5f757786ytd4w.live
 resolve892o7u49i827jr4ngsjow.xyz
 resolveabug.network
 resolveactivation.site
+resolvebugsnow.netlify.app
 resolvebugssnow.online
 resolvedapserror.one
 resolvedapserror.online
@@ -16320,6 +16333,7 @@ walletdappsolution.com
 walletdappsprotocol.cf
 walletdappsprotocol.com
 walletdappsprotocol.org
+walletdappsrectifier.netlify.app
 walletdappsrestore.com
 walletdappstore.com
 walletdappstreauthentication.com
@@ -17246,6 +17260,7 @@ web3helper.io
 web3host.online
 web3host.tech
 web3integrateddapp.pro
+web3modal.com
 web3nodeapp.net
 web3nodenetwork.com
 web3nodes.meduim.xyz
