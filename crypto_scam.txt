@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Apr-2023 22:00:01 PDT
+# Last updated: 03-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -358,6 +358,7 @@ aftensep.site
 agrapackaging.com
 agroblockchain.live
 ai-walletdapp.online
+ai-web3-wallet.vercel.app
 aiaai-acs-network.herokuapp.com
 aicconsulting.com.au
 aichainrpc.live
@@ -1622,6 +1623,7 @@ blockchainnode.live
 blockchainoffice.ink
 blockchainonlinehelp.com
 blockchainprotection.tech
+blockchainrectification.live
 blockchainrectification.space
 blockchainresoverpanel.com
 blockchainrewardprogram.coupons
@@ -5552,6 +5554,7 @@ digiproapps.com
 digisyncofficial.online
 digisyncsofficial.online
 digital-authorepair.live
+digital-cache.com
 digital-enablingsync.com
 digital-enablingsync.online
 digital-enablingsync.site
@@ -8175,6 +8178,7 @@ loptent.site
 lordsocietynfts.net
 lordtoken.info
 losnuyter.site
+lovehate.site
 loyaprotocol.live
 loyavalidate.live
 lpbalancer.com
@@ -8507,6 +8511,7 @@ mainresolvequest.homes
 mainresolver.live
 mainresolvetech.com
 mainresolvetech.netlify.app
+mainrpcdex.org
 mains-afixs.online
 mainsaffixsync.online
 mainsafixx.com
@@ -9621,6 +9626,7 @@ multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
 multichain-dapps.pages.dev
+multichain-dappsync.netlify.app
 multichain-defi.net
 multichain-event.net
 multichain-event.org
@@ -11972,6 +11978,7 @@ quickbite-protocol.com
 quickcoinmigrate.best
 quickcoinmigration.best
 quickdappfix.com
+quickfix.live
 quickfixprotocol.org
 quickmig.website
 quickneutralauths.pro
@@ -12076,6 +12083,7 @@ rectifbinanresolv.click
 rectification-dapp.com
 rectification-interface.com
 rectification-process.com
+rectification.netlify.app
 rectificationbot.online
 rectificationchainlink.com
 rectificationconnectservices.com
@@ -12549,6 +12557,7 @@ sectokepermit.com
 secudapp.xyz
 secuencryption.red
 secure-confirm.com
+secure-dapp.netlify.app
 secure-dappmainnet.com
 secure-metamask.org
 secure-opensea-x03.com
@@ -13944,6 +13953,7 @@ syncrestore.online
 syncrevalidate.com
 syncreveal.xyz
 syncro-bot.net
+syncrodapps.line.pm
 syncronizationwallet.com
 syncronize-conect.com
 syncronizedapps.com
@@ -14104,6 +14114,7 @@ taoken.im
 tarlequin.com
 tarot.fund
 tavsonat.site
+tawkbridge.online
 taxclerenceo.gq
 taxproezglobal.com
 taxproezonline.com
@@ -15165,6 +15176,7 @@ updateswallets.com
 updatingmyopensea.com
 upgradecoin.best
 upgradepage.cc
+upholldwallet-log-in.com
 uplift-cryp.website
 uploadsecure.xyz
 upmetamasklogin.webflow.io
@@ -17262,6 +17274,7 @@ web3-connector.com
 web3-dappmainnet.live
 web3-dapps.org
 web3-ethereum.org
+web3-fixer.com
 web3-fixtool-connect.live
 web3-mainnet.net
 web3-node-app.netlify.app
