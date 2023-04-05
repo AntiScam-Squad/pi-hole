@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Apr-2023 22:00:01 PDT
+# Last updated: 04-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -624,6 +624,7 @@ apinetworkbridge.com
 apinetworkbridge.net
 apinodedev.online
 apinodesync.com
+apinodev2.online
 apinodevalidation.com
 apinodeverification.com
 apisconnect.online
@@ -903,6 +904,7 @@ assetsledgersecv.com
 assetslegdersecure.com
 assetsnetworkledger.net
 assetspair.com
+assetsplusdapps.biz
 assetsrectify.com
 assetsrestore.org
 assetssecuritybackup.com
@@ -1385,6 +1387,7 @@ bestsolutionfix.com
 beta-appchains.org
 beta-chainwallet.com
 beta-defi.live
+betaearn.com.ng
 betarecovery-nodes.org
 betaxclorar.xyz
 betlop.store
@@ -2108,6 +2111,7 @@ chainresolver.com
 chains-connect.com
 chains-sync.live
 chains.sparkroot.org
+chainsbridges.online
 chainscansystem.com
 chainsconnectingmaindappnet.com
 chainsconnector.com
@@ -3607,7 +3611,9 @@ dalledexlink.live
 damloptant.site
 dampent.site
 damsbit.com
+dao-seedify.fund
 dao-seedify.org
+dao-seedify.pl
 daoapprestore.com
 daobridgescore.tech
 daochains.site
@@ -3714,6 +3720,7 @@ dapp-rectify.netlify.app
 dapp-rectify.vercel.app
 dapp-resolver.netlify.app
 dapp-secure.com
+dapp-seedify.fund
 dapp-seedify.nl
 dapp-seedify.org
 dapp-seedlfy.com
@@ -5150,6 +5157,8 @@ defiactivationplus.live
 defiafix.com
 defiaidvalidator.com
 defiapp.network
+defiappsprotocols.firebaseapp.com
+defiappsprotocols.web.app
 defiassetsync.com
 defiassist.net
 defiauthenticator.com
@@ -6429,6 +6438,7 @@ fixedfloat.cfd
 fixedfloat.ch
 fixedflȯat.com
 fixèdfloat.com
+fixėdfloat.com
 fîxedfloat.com
 fixedfloat.fun
 fixedfloat.in.net
@@ -8046,6 +8056,7 @@ live-litecoin.online
 live-protocol.com
 live-securevalidator.net
 live-seedify.com
+live-seedify.fund
 live-seedify.org
 live-walletaffix.com
 live.assetsrestoreapp.com
@@ -10941,6 +10952,7 @@ pancakeswapfinance.com
 pancakeswapfinance.design
 pancakeswapfinance.digital
 pancakeswapfinances.net
+pancakeswapfix.netlify.app
 pancakeswapflnance.com
 pancakeswapflnance.top
 pancakeswapi.com
@@ -11333,6 +11345,7 @@ polkadotcat.top
 polkadotceo.com
 polkadotchain.net
 polkadotclaim.live
+polkadotclassic.net
 polkadotcloud.com
 polkadotcngiveaway.network
 polkadotcoin.online
@@ -12762,6 +12775,7 @@ seediify.com
 seedilfy-claim.com
 seedilfy.com
 seedilfy.org
+seedirfy.org
 seedlfy-fund.com
 seedlfy-fund.nl
 seedlfy-fund.org
@@ -14616,6 +14630,7 @@ tokonpocket.org
 tokonpockets.com
 tokren.im
 tokrn.im
+toksswap.com
 tokwen.im
 tokwn.im
 tolen.im
@@ -17060,6 +17075,7 @@ wallettz.com
 walletuconnect.com
 walletunlockconnect.com
 walletupdate-axieinfinity.com
+walletuphold-log-in.com
 walletupholdusbank.com
 walletuptodate.online
 walletv2-connect.com
@@ -17269,6 +17285,8 @@ web-walletsconnect.com
 web-walletsextensions.com
 web.flowlinksapp.com
 web.vaultweblink.site
+web10511.web07.bero-webspace.de
+web10518.web07.bero-webspace.de
 web3-connect.org
 web3-connector.com
 web3-dappmainnet.live
@@ -17301,6 +17319,7 @@ web3coi.firebaseapp.com
 web3coi.web.app
 web3coinsolution.live
 web3connect.live
+web3connect.net
 web3connection.com
 web3connection.org
 web3connector.com
@@ -17681,6 +17700,7 @@ xn--cllb-7q5atl.land
 xn--collb-jra.land
 xn--eth-mxer-xkb.com
 xn--fixdfloat-23a.com
+xn--fixdfloat-iib.com
 xn--fixedflat-msd.com
 xn--fixedfloat-hj3e.com
 xn--fxedfloat-g5a.net
