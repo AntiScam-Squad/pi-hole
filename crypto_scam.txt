@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Apr-2023 22:00:02 PDT
+# Last updated: 06-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5431,6 +5431,7 @@ dev-dappsync.com
 dev-dc-launchpad.pantheonsite.io
 dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
+dev-launchpadmultiversex.com
 dev-polkaapp.pantheonsite.io
 dev-walconnect.pantheonsite.io
 dev-wall-ethconnect.pantheonsite.io
@@ -10694,6 +10695,7 @@ openscrypt.com
 opensea-activate.net
 opensea-nft-offers.com
 opensea-nft-wallet.com
+opensea-pro.com
 opensea-tool.com
 opensea-user-reward.netlify.app
 opensea-verificationprocess.com
