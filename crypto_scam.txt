@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Apr-2023 22:00:02 PDT
+# Last updated: 07-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -375,6 +375,7 @@ air-secured.org
 air-sora.com
 airdrop-appconnect.pages.dev
 airdrop-exodus10.com
+airdrop-hunter-polkadot.chainflip.xyz
 airdrop-phantom.app
 airdrop-polkabridge.com
 airdrop-vitalik.live
@@ -419,6 +420,7 @@ algorandnode.online
 algorealmofficial.com
 algowallet.app
 aliancrypto.com
+aliaskusa.org
 alienheroesworld.io
 alignprotocol.net
 alignprotocol.online
@@ -2235,6 +2237,7 @@ claimpolkadot.org
 claimpresaletokens.live
 claims-aave.com
 claims-seedify.fund
+claims-seedify.net
 claimstation.online
 claimsyn.com
 claimtokenauth.com
@@ -6121,6 +6124,7 @@ explanandaconsult.com
 explore-cardano.org
 explore-ledger.online
 explore-opensese.com
+exploreboardsync.com
 exploreopensea.com
 explorer-rust.vercel.app
 explorerprotocol.live
@@ -6183,6 +6187,7 @@ fasmet.site
 fast-auth.com
 fast-autheswallet.org
 fast-dapp.site
+fast-fixnow.live
 fast-tool.info
 fast-wallet-fix.xyz
 fast-walletconnect.com
@@ -6216,6 +6221,7 @@ fasterrorcorrector.com
 fastestonlinevalidation.site
 fastetnet.site
 fastfixbugs.xyz
+fastfixnow.live
 fastfixwallet.com
 fasthelplink.com
 fastimballi.com
@@ -6234,6 +6240,7 @@ fastservicetrack.com
 fastsmartsolution.netlify.app
 fastsms.com.ng
 fastsolutionsapp.com
+fastsynchfix.live
 fastsynchronization.com
 fastwebprotocol.com
 fatbunt.site
@@ -7066,6 +7073,7 @@ hardwalletsafe.store
 hardwalletvault.com
 hardwalletvault.store
 harmonize-info.com
+harmonize-web.net
 harmonizedappsnetwork.online
 harmony-eco.systems
 harmony-ecosys.com
@@ -7672,10 +7680,12 @@ iwalletsbrowser.net
 iwalletsbrowsers.net
 iwalletz.com
 iweb3.site
+iweb3access.net
 iweb3browse.com
 iweb3browser.com
 iweb3browsers.com
 iweb3browsers.net
+iweb3connect.net
 iweb3node.com
 iwslink.com
 iyikazanc.site
@@ -10903,6 +10913,7 @@ pancakeswap-vs4.com
 pancakeswap-wost.tech
 pancakeswap.bnbco.in
 pancakeswap.broex.io
+pancakeswap.chethiya-kusal.me
 pancakeswap.co.com
 páncakeswap.com
 pancakeswap.do
@@ -11523,6 +11534,7 @@ polkasrtrarter.com
 polkasstarts.com
 polkastarder.fun
 polkastarfer.com
+polkastariler.com
 polkastarler-app.com
 polkastartar.live
 polkastartars.live
@@ -11622,6 +11634,7 @@ polkastarter.trade
 polkastarter.us.org
 polkastarter.vision
 polkastarter.watch
+polkastarter.web3claimer.com
 polkastarter.website
 polkastarter.world
 polkastarter.ws
@@ -12150,6 +12163,7 @@ rectifyassets.com
 rectifyatomicwallet.com
 rectifybinan.quest
 rectifycavity.top
+rectifycenter.net
 rectifyconn.site
 rectifyconnect.com
 rectifyconns.site
@@ -12774,6 +12788,7 @@ secuwallets.com
 seedfiy.com
 seedfiy.org
 seedfly.org
+seedifiy.org
 seedifiyfund.net
 seedify-claim.com.pl
 seedify-claim.pl
@@ -13324,6 +13339,7 @@ solutioncoin.io
 solutioncoin.live
 solutioncoin.online
 solutioncycle-affix.com
+solutiondappnetwork.net
 solutiondapps.live
 solutiondigital.info
 solutionhelp.online
