@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Apr-2023 22:00:02 PDT
+# Last updated: 08-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -15534,6 +15534,7 @@ vaultzdapp.online
 vcoin.digital
 vechainthewallet.org
 vee-friends-collab.land
+vela-exchange.tech
 veleksupant.site
 vempire-ddao-rewards-claims-erc20-token.my.id
 vercelexchange.com
