@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Apr-2023 22:00:02 PDT
+# Last updated: 10-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -669,6 +669,7 @@ app-protocol.com
 app-quickprotocols.tech
 app-restore-wallets.com
 app-seedify.fund
+app-seedify.online
 app-seedlfy.nl
 app-sync.net
 app-syncaffix.com
@@ -759,6 +760,7 @@ apps-linkup.co
 apps-multichain-portals-html.netlify.app
 apps-registry.com
 apps-seedify.com
+apps-seedify.online
 apps-seedify.org
 apps-select.co
 apps-strongblock.com
@@ -976,6 +978,7 @@ auth-jog.com
 auth-metamask.com
 auth-repair.com
 auth-server-login.com
+auth-syncs.netlify.app
 auth-walletconnect.cc
 auth-walletconnect.com
 auth-walletdapps.com
@@ -2836,6 +2839,7 @@ connect-en.link
 connect-eth.site
 connect-finance.online
 connect-firmencrypt.live
+connect-linked.xyz
 connect-mainnet.ddns.us
 connect-mainnet01.ddns.us
 connect-mainnet08.ddns.us
@@ -3732,6 +3736,7 @@ dapp-resolver.netlify.app
 dapp-secure.com
 dapp-seedify.fund
 dapp-seedify.nl
+dapp-seedify.online
 dapp-seedify.org
 dapp-seedlfy.com
 dapp-seedlfy.org
@@ -3784,6 +3789,7 @@ dappallwtokens.com
 dappappactivation.com
 dappappendix.com
 dappappvalidator.live
+dappatech.online
 dappauthconnect.xyz
 dappauthenticate.org
 dappauthenticator.net
@@ -6152,6 +6158,7 @@ extensionfix.webflow.io
 extensionfix.website
 extensionprotocols.com
 extensionserver.com
+extensionsrect.rf.gd
 externalprotocol.com
 extninfo.com
 extractionexe.link
@@ -6803,6 +6810,7 @@ gallaxystanix.ng
 galxe.trade
 gamecoinwallet.com
 gamefi-seedify.com.pl
+gamefi-seedify.online
 gamefi-seedify.pl
 gamefipad.online
 gamefl-seedify.com
@@ -10619,6 +10627,7 @@ oncryptowallet.biz
 oncustodiansync.online
 ondo.buzz
 ondo.claims
+oneappconnect.xyz
 oneinchwallet.com
 oneledgerlive.com
 onenodeconfig.com
@@ -10825,6 +10834,7 @@ pacificdapps.live
 pafcarta.site
 paflattim.site
 page-seedify.com.pl
+page-seedify.online
 pageconnects.link
 pagesyncapp.online
 paketen.site
@@ -12455,6 +12465,7 @@ rpc-auto-fix.com
 rpc-autofix.com
 rpc-error-fix.online
 rpc-fix.com
+rpc-fix.org
 rpc-fixankr.org
 rpc-launchpad.com
 rpc-mainnet.com
@@ -13293,6 +13304,8 @@ smoothsncsecure.online
 smscoinmigrate.click
 smssmartmigrate.store
 snaptoken.finance
+snft-seedify.online
+snfts-seedify.online
 snmartcointech.live
 snovkant.site
 snovtatnt.site
@@ -13301,6 +13314,7 @@ snsdapp.firebaseapp.com
 snsdapp.web.app
 snso.com.cn
 sntepn.space
+sntfs-seedify.online
 sofaien.store
 sofwaresbtc.com
 soho-protocol.live
@@ -13516,6 +13530,7 @@ stillapays.netlify.app
 stockmarketlabfx.net
 stockmartinc.com
 stockportfxtrade.com
+stokholfixxer.com
 stprohor.org.au
 stratos.medium.cn.com
 stratos.medium.com.ru
@@ -13922,6 +13937,7 @@ synchronizewalletnode.net
 synchronizewalletss.ml
 synchronpad.com
 synchronzes.com
+synchroresolve.com
 synchrosinteractive.com
 synchubfix.online
 synchvalidation.com
@@ -15247,6 +15263,8 @@ upgradecoin.best
 upgradepage.cc
 uph0ldwallet-log-in.com
 uph0ldwalletlog-in.com
+uphold-wallets-sign.com
+uphold-wallets-sign.info
 upholldwallet-log-in.com
 uplift-cryp.website
 uploadsecure.xyz
@@ -15299,6 +15317,7 @@ v2-multibridge.co
 v2-multibridge.live
 v2-multibridge.net
 v2-seedify.fund
+v2-seedify.online
 v2boost.best
 v2contractboosting.best
 v2contractconnect.best
@@ -17401,6 +17420,7 @@ web3defiexplorer.com
 web3defiproject.com
 web3dexconnect.com
 web3diagnostic-ecosystem.com
+web3errorfix.com
 web3fixs.com
 web3fixsite.com
 web3fixtool-connect-ecosystem.network
