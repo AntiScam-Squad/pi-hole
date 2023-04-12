@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Apr-2023 22:00:02 PDT
+# Last updated: 11-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4929,6 +4929,7 @@ darpicsols.com
 darpscentralsfix.com
 darpstech.network
 darpsupfix.com
+darptradetech.pro
 dashboard-metamask.com
 dashboard-online.me
 dasnetsync.com
@@ -6166,6 +6167,7 @@ exxplorerprotocol.online
 ez24exchange.fun
 ezbent.site
 ezua.com
+f1xfloat.bio
 f7ftb98uihy878t67r.com
 f8w2e3r4t5y6.com
 fabulousmayor850.wixsite.com
@@ -7708,6 +7710,8 @@ iyilikkazan.site
 izieth.com
 j6w2e3r4t5y6.com
 jasmydrops.com
+jewel-seedify.com
+jewel-seedify.org
 jmdspolkadot.js.org
 joejoassociate.com
 join.launchdrops.net
@@ -11071,6 +11075,7 @@ pancakeswoap-fust.com
 pancakeswoap-invest.com
 pancakeswoap-market.com
 pancakeswop.network
+pancakeswp.cloud
 pancakeswp.info
 pancakeswp.market
 pancakeswpwebs.finance
@@ -13174,6 +13179,7 @@ smartindex-hub.com
 smartindex-pad.buzz
 smartindex-protocol.online
 smartindexhubs1.online
+smartinucoin.xyz
 smartlaunchapp.org
 smartlaunchweb.com
 smartlinkrectifier.info
@@ -13668,6 +13674,7 @@ swftprowalletsync.site
 swift-syncs.live
 swift-walletconnect.com
 swiftaffix.com
+swiftappendsw.net
 swiftappsfixed.com
 swiftcargoes.com
 swiftconnectdapp.com
