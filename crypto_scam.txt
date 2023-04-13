@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Apr-2023 22:00:01 PDT
+# Last updated: 12-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2689,6 +2689,7 @@ collablandq.cc
 collablandro.cc
 collablands.co
 collablands.ga
+collablands.net
 collablands.org
 collablands.xyz
 collablandsecuredconnect.com
@@ -6357,6 +6358,7 @@ fix-encrypt.online
 fix-exchange.org
 fix-mainnetchains.com
 fix-mysyncapp.netlify.app
+fix-rpc.com
 fix-syncwallet.com
 fix-trix.com
 fix-wallets.com
@@ -17443,6 +17445,7 @@ web3nodes.meduim.xyz
 web3nodes.org
 web3nodesprotocol.com
 web3nodesync.com
+web3officegpt.com
 web3options.io
 web3panel.online
 web3proconnect.com
