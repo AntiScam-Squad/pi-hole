@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Apr-2023 22:00:01 PDT
+# Last updated: 13-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -228,6 +228,7 @@ accountsresolvecenter.webflow.io
 accountsvalidator.com
 accountsvalidator.net
 accountsynchronization.pages.dev
+accounttsolutionfixx.netlify.app
 accountvalidation.in
 accountvalidation.pages.dev
 accountvalidationpage.com
@@ -609,6 +610,7 @@ apexglobnftltd.com
 apexnetworks.site
 apexwallets.online
 api-blocksync.com
+api-collab-system.tech
 api-interphrase.live
 api-link.com
 api-pancakeswap.com
@@ -1920,6 +1922,7 @@ bustman.site
 buterinevent.com
 buy-bigeyes.com
 buy-bigeyes.live
+buy-lovehateinu.org
 buy-tamadoge.live
 buymetamint.com
 buywalletwebbronline.xyz
@@ -8639,6 +8642,7 @@ mandatescheme.com
 maneyalsen.store
 manorpa.com
 mantanetworktoken.live
+mantratech01.com
 manual-connect.com
 manual-syncronisation.ml
 manualbridgetools.com
@@ -10115,6 +10119,7 @@ netanask-wallet.live
 netassetfix.com
 netbentq.site
 netbosth.site
+netbridgepro.com
 netconnectsyncc.com
 netconnectsyncc.live
 netconnectsynccs.net
@@ -12248,6 +12253,7 @@ refund.mutanthapeprime.io
 regainaccess-to-dashboard.top
 registrybridge.com
 registryconnector.com
+reinitiate.space
 reinstatewallet.com
 reintegrationconnect.com
 reintegrationconnects.com
@@ -12472,6 +12478,7 @@ rpc-auto-fix.com
 rpc-autofix.com
 rpc-error-fix.online
 rpc-fix.com
+rpc-fix.net
 rpc-fix.org
 rpc-fixankr.org
 rpc-launchpad.com
@@ -12933,6 +12940,7 @@ shibatoken-x2.com
 shibatokenfaucet.xyz
 shibatokengo.sbs
 shibnobi-migration.com
+shiboriginalvision.live
 shibswaap.com
 shibutoken.site
 shido-solution.buzz
@@ -12964,6 +12972,7 @@ silverlinebank.org
 silvertechsolutions.net
 simauner.site
 simpleswapx.com
+simpulluttilhity.com
 sinceredoge-bonus.online
 singapore-ref.com
 sinogoldlimited.com
@@ -13386,6 +13395,7 @@ solutionscointec.xyz
 solutionsite.xyz
 solutionsnycwal.link
 solutionstracks.com
+solutionsync.net
 solutionwalletapp.com
 solutionwalls.com
 solutionwhales.com
@@ -14776,6 +14786,7 @@ tradingcoinsolution.space
 tradingdappnodes.com
 tradingdappsnode.com
 tradings-view-meta.club
+tradingsignaldirectlt.com
 tradingsignalsdirectlt.com
 tradingsignalsdirectltd.com
 trainlife.online
@@ -16462,6 +16473,7 @@ walletcsonnecthub.com
 walletdapconnect.com
 walletdapp-validate.com
 walletdapp.ml
+walletdapp.netlify.app
 walletdapp.online
 walletdappapi.com
 walletdappauthenticator.com
@@ -17302,6 +17314,7 @@ wb3dapp.com
 wbotsupport.glitch.me
 wbotsupports.glitch.me
 wbsbinan.com
+wc-chain.pages.dev
 wc-connect.info
 wc-connect.live
 wc-connect.site
