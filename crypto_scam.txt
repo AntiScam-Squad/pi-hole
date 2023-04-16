@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Apr-2023 22:00:01 PDT
+# Last updated: 15-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4139,6 +4139,7 @@ dapps-encryptoken.pages.dev
 dapps-ether.org
 dapps-ethereum.org
 dapps-ethereum2.org
+dapps-etherscan.io
 dapps-fix.com
 dapps-fixes.tech
 dapps-fixing.com
@@ -11940,6 +11941,8 @@ profxtrade.live
 progresacr.com
 project-connect.net
 project-dapps-auth-web.app
+project-dapps-auth.firebaseapp.com
+project-dapps-auth.web.app
 project-dapps-authentication.firebaseapp.com
 project-dapps-authentication.web.app
 project-dapps-intergration.firebaseapp.com
