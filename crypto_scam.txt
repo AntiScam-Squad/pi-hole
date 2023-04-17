@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Apr-2023 22:00:01 PDT
+# Last updated: 16-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -549,6 +549,7 @@ altsupport.tools
 altuantas.site
 alwaysdata.net
 alwaysnode.com
+amalgamation-info.com
 amankaster.site
 amara.finance
 amazoniarainforestprotectiontoken.com
@@ -1692,9 +1693,13 @@ blockschainssuppt.site
 blockschainstools.live
 blockschaintool.live
 blockschaintools.live
+blocksdapps.firebaseapp.com
+blocksdapps.web.app
 blocksindex.org
 blockstakweb3.com
 blockstationfixglitch.com
+blocksync.firebaseapp.com
+blocksync.web.app
 blocksyncc.live
 blocksyncexplorer.pages.dev
 blocksynchronizer.com
@@ -3846,6 +3851,7 @@ dappclassic.xyz
 dappcoindefionline.net
 dappcoinsmigrate.ink
 dappcon.online
+dappconect.netlify.app
 dappconfiguration.com
 dappconnect.finance
 dappconnect.io
@@ -5047,6 +5053,8 @@ decentralisedwebdapp.com
 decentralize-solutions.com
 decentralize-validation.com
 decentralizeapp.com
+decentralized-2fauth.firebaseapp.com
+decentralized-2fauth.web.app
 decentralized-chain-protocol.live
 decentralized-chains.com
 decentralized-connect.com
@@ -6343,6 +6351,7 @@ finalcoinmigratev2.financial
 finance-airdrop.cf
 finance-airdrop.gq
 finance-airdrop.info
+finance-bitcoinlegend.netlify.app
 finance-chain-liquidity.site
 finance-claim-reward-stake.site
 finance-earn-pools.site
@@ -7003,6 +7012,9 @@ gladevalidate.live
 glenholdings.com
 glitchdapp.live
 global-bittrex-on.com
+global-seedify.com
+global-seedify.online
+global-seedify.org
 global-trustexpert.com
 globalapps.site
 globalconnectsynch.org
@@ -11038,6 +11050,7 @@ pancakeswap8.com
 pancakeswapbot.org
 pancakeswapc.finance
 pancakeswapcism.com
+pancakeswapconnect.netlify.app
 pancakeswapdapp.net
 pancakeswapdesign.com
 pancakeswape.finance
@@ -17464,6 +17477,7 @@ web.vaultweblink.site
 web10511.web07.bero-webspace.de
 web10518.web07.bero-webspace.de
 web10585.web07.bero-webspace.de
+web10613.web07.bero-webspace.de
 web3-connect.org
 web3-connector.com
 web3-dappmainnet.live
