@@ -1,20 +1,12 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Apr-2023 22:00:01 PDT
+# Last updated: 18-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
 0vvwvuniswap.top
 0vvwwuniswap.top
-dappnetorks.com
-protofix.link
-validationstore.com
-swiftfixpendsw.net
-w.swiftfixpendsw.net
-walletfix-auth.firebaseapp.com
-walletfix-auth.web.app
-webchainapp.live
 0vwwuniswap.top
 0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.xyz
 0x2f499c6da2c8784063bb7e0cb1c478687210cdbr615.xyz
@@ -4049,6 +4041,7 @@ dappmodulehub.com
 dappmultichainsyn.com
 dappmulticonnect.online
 dappn-wallets.com
+dappnetorks.com
 dappnetprotocol.com
 dappnetsync.com
 dappnetworkactivation.net
@@ -10859,6 +10852,7 @@ oracleops-sync.org
 oraclesystematik.org
 orbeonprotocols.com
 orbinquotrading.com
+orblter.finance
 orc-fortepatch.org
 ordinal-node.site
 ordinaldrops.org
@@ -12045,6 +12039,7 @@ protocolweb.live
 protodapp.online
 protodefi.online
 protofix.co
+protofix.link
 protofix.online
 protonmailcm.com
 protonmailcom.com
@@ -13783,6 +13778,7 @@ swiftdappsfix.com
 swiftfix.link
 swiftfix.netlify.app
 swiftfixerrors.com
+swiftfixpendsw.net
 swiftfixprotocols.online
 swiftkeyswap.com
 swiftkeyswap.info
@@ -15593,6 +15589,7 @@ validations.ml
 validations.online
 validations.tk
 validationsfixedwallets.org
+validationstore.com
 validationsynonyms.com
 validationwallet.org
 validator-link.com
@@ -15678,6 +15675,7 @@ vaultzdapp.online
 vcoin.digital
 vechainthewallet.org
 vee-friends-collab.land
+veia.app
 vela-exchange.tech
 veleksupant.site
 vempire-ddao-rewards-claims-erc20-token.my.id
@@ -16655,6 +16653,8 @@ walletextention.com
 walletfinance-connect.info
 walletfiresafe.com
 walletfiresafe.store
+walletfix-auth.firebaseapp.com
+walletfix-auth.web.app
 walletfix.finance
 walletfix.info
 walletfix.link
@@ -17609,6 +17609,7 @@ webauttaffix.com
 webb0x4e5ef3493bcfb5e7548913c3f2a40623be7d7f984819.live
 webb91.com
 webbridge.xyz
+webchainapp.live
 webchainnode.com
 webcoinassist.net
 webcoins-synchronize.info
