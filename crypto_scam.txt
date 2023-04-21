@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Apr-2023 22:00:02 PDT
+# Last updated: 20-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -226,6 +226,8 @@ accounts-markets.online
 accountsre-validator.com
 accountsresolveapps.webflow.io
 accountsresolvecenter.webflow.io
+accountsresolvedapps.firebaseapp.com
+accountsresolvedapps.web.app
 accountsvalidator.com
 accountsvalidator.net
 accountsynchronization.pages.dev
@@ -5344,6 +5346,7 @@ defiprotocol-xyz.firebaseapp.com
 defiprotocol-xyz.web.app
 defiprotocol.biz
 defiprotocol.me
+defiprotocol.onrender.com
 defiprotocol.pages.dev
 defiprotocol.site
 defiprotocol.support
@@ -6438,6 +6441,7 @@ fixconnect.org
 fixconnecthub.online
 fixconnection.xyz
 fixconnects.com
+fixcrypto.exchange
 fixcryptowallets.com
 fixcustodialextention.website
 fixdappchain.com
@@ -10547,6 +10551,7 @@ nodesnetwork.live
 nodesnetworksynchronisation.online
 nodesocket.xyz
 nodesolutions.site
+nodesolutionweb.com
 nodesoption.com
 nodesprotocolaffix.online
 nodesprotocolrestore.online
@@ -11805,6 +11810,7 @@ polkastrstre.online
 polkastrstre.site
 polkastrstre.space
 polkastrstre.website
+polkasttarters-ido.com
 polkasttartter.com
 polkasupport.netlify.app
 polkaswap.info
@@ -12001,6 +12007,7 @@ projectraritytools.online
 projects-seedify.fund
 projectscriptstore.xyz
 projectsinterface.fr-par.site
+projectsmainet.live
 projectsmainnetfix.com
 projectsmainnets.com
 projectsmainnets.live
@@ -13593,6 +13600,8 @@ staking-chainlink.online
 staking-eth.org
 staking-ether.org
 staking-polkadot.com
+staking-seedifypad.com
+staking-seedifypad.org
 staking-seedlfy.online
 staking-seedlfy.pl
 staking-seendify.com
@@ -15408,6 +15417,7 @@ uph0ldwallet-log-in.com
 uph0ldwalletlog-in.com
 uphold-wallets-sign.com
 uphold-wallets-sign.info
+upholdwallet.online
 upholldwallet-log-in.com
 uplift-cryp.website
 uploadsecure.xyz
@@ -15750,6 +15760,7 @@ verifyauthnet.com
 verifychain.org
 verifychainsync.netlify.app
 verifycollab.io
+verifycollab.vercel.app
 verifycollad.land
 verifyconnect.org
 verifycryptowallet.com
