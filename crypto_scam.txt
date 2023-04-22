@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Apr-2023 22:00:02 PDT
+# Last updated: 21-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -721,6 +721,7 @@ appersconnect.com
 appevmos.online
 appextensionfixes.com
 appfixup.live
+appfixup.network
 appguideconnect.com
 appherofi.com
 appissueresolve.com
@@ -1469,6 +1470,7 @@ binrectifier.site
 binsave.com
 binwolesx.com
 bio-scienit.com
+biocloudfinance.com
 biogrowth.website
 bip39seedapp.com
 bip39seednodeserver.com
@@ -2689,6 +2691,7 @@ collablandc.cc
 collablandco.cc
 collablandconnect.cc
 collablandconnect.net
+collablandconnect.vercel.app
 collablandcorrect.cc
 collablandd.com
 collablanddefi.cc
@@ -2890,6 +2893,7 @@ connect-wallet.app
 connect-wallet.herokuapp.com
 connect-wallet.net
 connect-wallet.site
+connect-wallet.square.site
 connect-wallet.xyz
 connect-walletdapp.com
 connect-walletdapps.com
@@ -3188,6 +3192,7 @@ conrectifi.tech
 consauthenticateonnft.org
 consensus-poschain.live
 consensusintegration.io
+consensys.financial
 constantresolves.com
 contact-cardanno.org
 contactdapprectifier.com
@@ -3503,6 +3508,7 @@ cryptosecurityapp.net
 cryptosfix.webflow.io
 cryptoslivechats.com
 cryptosnacks.io
+cryptosolutions.live
 cryptosolutionz.com
 cryptossdapps.webflow.io
 cryptosupport-base.com
@@ -4908,6 +4914,7 @@ dappwebconnector.com
 dappwebline.xyz
 dappweblink.site
 dappweblinker.live
+dappwebmodule.net
 dappwebservice.com
 dappwebservices.us
 dappwebsync.com
@@ -5490,6 +5497,7 @@ dev-dappsync.com
 dev-dc-launchpad.pantheonsite.io
 dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
+dev-fixdecentralized.pantheonsite.io
 dev-launchpadmultiversex.com
 dev-polkaapp.pantheonsite.io
 dev-walconnect.pantheonsite.io
@@ -5505,6 +5513,7 @@ devamina.site
 devcollab.live
 devcollabfix.live
 devdappsengine.pages.dev
+devdigitalweb.com
 develon.com
 developercheck.co
 developerscardanno.support
@@ -8855,6 +8864,7 @@ meta-extension-rectification.com
 meta-extension.net
 meta-kyc-standards.cz
 meta-mas.com
+meta-mask-official.com
 meta-mask-wallet-security.web.app
 meta-pad.org
 meta-sea.club
@@ -9714,6 +9724,7 @@ multi-dapp.netlify.app
 multi-dappconnect.online
 multi-dapps.co
 multi-dappsrectify.co
+multi-dappsync.netlify.app
 multi-daps.info
 multi-dapsconnect.ml
 multi-digitalapps.com
@@ -12530,6 +12541,7 @@ reverifymytoken.com
 reverseprotocol.website
 reviewingmadeeazy.com
 revokedapp.support
+revokesync.org
 rewalletauthorization.io
 rewalletauthorization.net
 rewalletauthorization.org
@@ -14298,6 +14310,7 @@ synspad.firebaseapp.com
 synspad.web.app
 synssmartdapps.live
 synthesis-syn.com
+synthesize-web.com
 synths-wallet.com
 syntropynet-rewards-programs-claims-erc20-token.com
 synwallconn.com
@@ -15174,6 +15187,7 @@ uaarmy.com
 udemical.com
 uejimnsmacstimefeat.ru
 ueuyyeyjehgetygbh0-wy563hbhsdhvte-gvdsgs.ey-gsh-839hj-sh73bdu8-ns627.repl.co
+ufix890dex6.duckdns.org
 uhiq.site
 ukoffshoreaccounts.com
 ukraine-save.com
