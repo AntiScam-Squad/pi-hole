@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Apr-2023 22:00:01 PDT
+# Last updated: 22-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -381,6 +381,7 @@ air-sora.com
 airdrop-appconnect.pages.dev
 airdrop-exodus10.com
 airdrop-hunter-polkadot.chainflip.xyz
+airdrop-live.xyz
 airdrop-phantom.app
 airdrop-polkabridge.com
 airdrop-vitalik.live
@@ -4354,6 +4355,7 @@ dappscloud.online
 dappscnet.online
 dappscoin.live
 dappscoin.net
+dappscoinconnect.pages.dev
 dappscoins.com
 dappscolabblands.com
 dappscon.square.site
@@ -6254,6 +6256,7 @@ farmworld-coldwallet.com
 faseryoun.site
 fashion.blog
 fasmet.site
+fast-airdrops.com
 fast-auth.com
 fast-autheswallet.org
 fast-dapp.site
@@ -8894,6 +8897,7 @@ metadappsfixer.live
 metadataresolve.com
 metadatavalidation.com
 metadownload.site
+metadropcoinfree.com
 metadynamics.online
 metaextension.online
 metaextension.org
@@ -15001,6 +15005,7 @@ trustbots.support
 trustclaim.net
 trustconnectdapps.com
 trustconnectdapps.online
+trustconnectuser.com
 trustcwallet.com
 trustdapp.art
 trustdappconnect.com
@@ -17853,6 +17858,7 @@ whalepad.net
 whitcex.com
 whitcoinex.net
 whitcoinpro.net
+whitelist-airdop.com
 whitelist-network.com
 whitelist-reg.click
 whitelist-slot.com
