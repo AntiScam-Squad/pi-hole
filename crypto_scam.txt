@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-Apr-2023 22:00:02 PDT
+# Last updated: 24-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -618,6 +618,7 @@ apexnetworks.site
 apexwallets.online
 api-blocksync.com
 api-collab-system.tech
+api-collab-verify.vercel.app
 api-interphrase.live
 api-link.com
 api-pancakeswap.com
@@ -3780,6 +3781,7 @@ dapp-protocol.online
 dapp-rectifier.online
 dapp-rectify.netlify.app
 dapp-rectify.vercel.app
+dapp-refix.netlify.app
 dapp-resolver.netlify.app
 dapp-secure.com
 dapp-seedify.fund
@@ -5096,6 +5098,7 @@ decentralized-2fauth.web.app
 decentralized-chain-protocol.live
 decentralized-chains.com
 decentralized-connect.com
+decentralized-dapp.live
 decentralized-dapps.info
 decentralized-launchpad.com
 decentralized-mainnet.com
@@ -5104,6 +5107,7 @@ decentralized-network.site
 decentralized-protocol.art
 decentralized-protocol.info
 decentralized-protocol.live
+decentralized-protocol.tech
 decentralized-refitting.site
 decentralized-syncprotocol.live
 decentralized-tools.org
@@ -6475,6 +6479,7 @@ fixconnect.org
 fixconnecthub.online
 fixconnection.xyz
 fixconnects.com
+fixcrypto.biz
 fixcrypto.exchange
 fixcryptowallets.com
 fixcustodialextention.website
@@ -10614,6 +10619,7 @@ nodesnetwork.live
 nodesnetworksynchronisation.online
 nodesocket.xyz
 nodesolutions.site
+nodesolutionsweb.site
 nodesolutionweb.com
 nodesoption.com
 nodesprotocolaffix.online
@@ -12307,6 +12313,7 @@ reauthenticatewebsfirm.com
 reauthentication.online
 reauthenticator.tech
 reboot-sync.com
+rec-dappresolve.netlify.app
 recconectyours.live
 receive-a1drop-stake.online
 receive-a1drop.online
@@ -12497,6 +12504,7 @@ resolvelink.org
 resolvemainacc.online
 resolvemainwallet.xyz
 resolvemaster.live
+resolvenodes.com
 resolveportal.online
 resolveprocess.com
 resolveprotocol.com
@@ -13561,6 +13569,7 @@ solaniumdefi.online
 solariscapital.online
 soldiernodecorrection.com
 soldrops.org
+solfixs.online
 solid-fiesta.vercel.app
 solidfix.cc
 solidfix.live
@@ -14204,6 +14213,7 @@ synclivewallets.online
 syncmain-rectify.com
 syncmainaffixs.com
 syncmainnet-defi.online
+syncmainnet-validator.online
 syncmainnet.net
 syncmainnetwork.com
 syncmainrectify.com
@@ -14305,6 +14315,8 @@ syncsolution.pro
 syncsonlinevalidates.com
 syncsrectifydata.com
 syncssecured.com
+syncsub-support.firebaseapp.com
+syncsub-support.web.app
 syncsubsupport.firebaseapp.com
 syncsubsupport.web.app
 syncsystem.org
@@ -15286,6 +15298,7 @@ ultimatelyagfdytreuuinmkssew.xyz
 ultimative-bank.com
 ultragamingdrops.com
 ultragrgen.buzz
+ultraprotocol.xyz
 ultrasync-beta.com
 umbrelnodes.com
 unbn.online
@@ -15516,10 +15529,13 @@ updateswallets.com
 updatingmyopensea.com
 upgradecoin.best
 upgradepage.cc
+uph0ldl0gincardwallet.com
 uph0ldwallet-log-in.com
 uph0ldwalletlog-in.com
 uphold-wallets-sign.com
 uphold-wallets-sign.info
+upholds-wallett.com
+upholdverifywallet.com
 upholdwallet.online
 upholldwallet-log-in.com
 uplift-cryp.website
@@ -15573,6 +15589,7 @@ v2-gamingshiba.netlify.app
 v2-multibridge.co
 v2-multibridge.live
 v2-multibridge.net
+v2-safuu.com
 v2-seedify.fund
 v2-seedify.online
 v2-seedify.website
@@ -16245,6 +16262,7 @@ wallet-token.xyz
 wallet-trrezzor.io
 wallet-unlockthetatoken.org
 wallet-update.ml
+wallet-uphold-log.com
 wallet-uphold-us.com
 wallet-validate.co
 wallet-validate.com
