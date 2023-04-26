@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Apr-2023 22:00:01 PDT
+# Last updated: 25-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -82,6 +82,7 @@
 247dappconnect.netlify.app
 247dappfix.netlify.app
 247ewalletfix.xyz
+247maindapp.pages.dev
 247maindapp.xyz
 247mainnetdev.xyz
 247mainnetfix.xyz
@@ -630,6 +631,7 @@ apibridgnetwork.org
 apichainz.online
 apicolab.land
 apiconnectd.com
+apierrorvalidator.onrender.com
 apifirmwareswap.com
 apikucoinconnect.com
 apinetworkbridge.com
@@ -710,6 +712,7 @@ app.astarsnetworks.com
 app.coinodeservice.com
 app.fastresolve.network
 app.flowstringapp.com
+app.multiservicechain.com
 app.smartercoiresolve.com
 appauthes.in.net
 appautobugfix.net
@@ -5776,6 +5779,7 @@ dodoswitch.com
 doekrestas.site
 dogclinicaveterinaria.it
 doge-swap.net
+dogeceo.live
 dogecoin-22.com
 dogecryptowallet.com
 dogrukazanc.site
@@ -6287,6 +6291,7 @@ fast-autheswallet.org
 fast-dapp.site
 fast-fixnow.live
 fast-tool.info
+fast-tool.net
 fast-wallet-fix.xyz
 fast-walletconnect.com
 fastappsolutions.com
@@ -13126,6 +13131,7 @@ set-protocol.space
 set-routerfix.tech
 set-routerpro.xyz
 setting-dapp.services
+setupclaims.online
 setyonk.site
 severauthenticator.com
 sevgesec.site
@@ -14553,6 +14559,7 @@ tewrrra.money
 thantipe.site
 the-bridgechain.com
 the-bscminereum.com
+the-nftssecure.com
 the-thetatoken.org
 the-trust-project.com
 theapps.datapps.xyz
@@ -16779,6 +16786,8 @@ walletdappsprotocol.com
 walletdappsprotocol.org
 walletdappsrectifier.netlify.app
 walletdappsrestore.com
+walletdappssync.firebaseapp.com
+walletdappssync.web.app
 walletdappstore.com
 walletdappstreauthentication.com
 walletdappsvalidate.com
@@ -16829,6 +16838,8 @@ walletfiresafe.com
 walletfiresafe.store
 walletfix-auth.firebaseapp.com
 walletfix-auth.web.app
+walletfix-pro.firebaseapp.com
+walletfix-pro.web.app
 walletfix.finance
 walletfix.info
 walletfix.link
