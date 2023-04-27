@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Apr-2023 22:00:01 PDT
+# Last updated: 26-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1194,6 +1194,7 @@ autosetfix.com
 autoswapgallery.tech
 autosync.link
 autosynchronize.net
+autosynchronizes.org
 autosyncpermit.online
 autosyncrec.com
 autovalidateblockchain.live
@@ -15891,6 +15892,7 @@ verifycollab.io
 verifycollab.vercel.app
 verifycollad.land
 verifyconnect.org
+verifyconnect.vercel.app
 verifycryptowallet.com
 verifydapps.com
 verifydappsnow.com
