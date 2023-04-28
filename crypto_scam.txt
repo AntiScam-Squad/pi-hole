@@ -1,10 +1,11 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Apr-2023 22:00:01 PDT
+# Last updated: 27-Apr-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
+09sync00.duckdns.org
 0vvwvuniswap.top
 0vvwwuniswap.top
 0vwwuniswap.top
@@ -222,6 +223,8 @@ accountresolvedapps.firebaseapp.com
 accountresolvedapps.web.app
 accountresolvesapp.webflow.io
 accountresolvesdapp.pages.dev
+accountresolvesdapps.firebaseapp.com
+accountresolvesdapps.web.app
 accountresult.site
 accounts-markets.online
 accountsre-validator.com
@@ -2031,6 +2034,7 @@ caskouluk.site
 castereal.site
 castlestrade.com
 casyer.site
+cateenaterequestlnk.com
 cavcas.site
 cavnmenty.site
 ccl-pancakeswop.com
@@ -3131,6 +3135,7 @@ connectvalidateit.com
 connectvalidatetoken.online
 connectvalidator.info
 connectverification.com
+connectverification.vercel.app
 connectwalet.com
 connectwaletrectify.info
 connectwallcttdapps.com
@@ -4058,6 +4063,7 @@ dappmainnet.net
 dappmainnet.org
 dappmainnet.space
 dappmainnet.tech
+dappmainnetrestore.com
 dappmainnets.online
 dappmanager.io
 dappmaster.xyz
@@ -8327,7 +8333,9 @@ login-blockchaln.com.exploire-menu.com
 login-metamaskweb.com
 login-poigylon.technology
 login-secured.ng
+login-uphold-wallet.com
 login-wallet.top
+loginupholdwallet.com
 loginwalletconect.square.site
 logmainnetconnect.online
 logprotocol.space
@@ -9755,6 +9763,7 @@ mowett.xyz
 mozik.medium.com.ru
 mpsienaantifrode.com
 msentert.site
+mstreamconnect.com
 msup22.com
 mt-llinink.info
 mtokenbulgaria.com
@@ -9919,6 +9928,7 @@ multifixchains.online
 multifixed.center
 multifunctional.tools
 multifunctionaltools.com
+multifunctionaltools.online
 multihexa.pw
 multihexa.ws
 multiibridgedapps.com
@@ -10545,6 +10555,7 @@ nodelify.live
 nodelink-select.co
 nodelive.sbs
 nodemainnet.com
+nodemainnet.live
 nodemainnet.site
 nodemainnetchain.com
 nodeminingpool.com
@@ -12006,6 +12017,7 @@ ppolkadot.js.org
 pradtorchainx.org.ng
 prayersave.com
 prcivnote.com
+pre-sale.live
 precmint.xyz
 prefertoken.com
 premint-submit.xyz
@@ -12099,6 +12111,7 @@ projectsquickfix.com
 projectswebmainnets.com
 projectswebsmainnet.com
 projectwebmainnets.com
+promtfix.net
 promvalidator.online
 pronodesolutions.com
 propagation-app.online
@@ -12379,6 +12392,7 @@ rectify-apps.com
 rectify-dapps.com
 rectify-issuefix.buzz
 rectify-metaspace.com
+rectify-noder.epizy.com
 rectify-portfolio.online
 rectify-smartprotocol.live
 rectify-wallet.com
@@ -15588,6 +15602,7 @@ utfxtrading.com
 utokenwallet.xyz
 uuniggen.buzz
 uwallet.com
+uwjo929yuwjknsuiui2o9.info
 uyjm9i.com
 uykusman.site
 v1.mathrepair.live
@@ -17180,6 +17195,7 @@ walletsconnectauth.com
 walletsconnectdap.co
 walletsconnectdapp.com
 walletsconnectdapps.net
+walletsconnectdapps.netlify.app
 walletsconnectdaps.org
 walletsconnecte.org
 walletsconnected.com
@@ -17246,6 +17262,7 @@ walletsdefi.com
 walletsdemo.netlify.app
 walletsecural.com
 walletsecure.app
+walletsecure.live
 walletsecured.online
 walletsecureonline.com
 walletsecureonline.org
@@ -17456,6 +17473,7 @@ walletuconnect.com
 walletunlockconnect.com
 walletupdate-axieinfinity.com
 walletuphold-log-in.com
+walletupholdlogin.com
 walletupholdusbank.com
 walletuptodate.online
 walletv2-connect.com
