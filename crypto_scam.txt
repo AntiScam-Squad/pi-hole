@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Apr-2023 22:00:02 PDT
+# Last updated: 29-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2322,6 +2322,8 @@ cloudsmartconnect.org
 cloudupconnect.com
 clover-dapps.site
 club-apps.org
+club-seedify.com
+club-seedify.org
 cluyut.site
 clwallet.online
 cmcmarketpro.com
@@ -2674,6 +2676,7 @@ collabconecting.com
 collabconnect.land
 collabconnect.surge.sh
 collabconnection.live
+collabconnection.vercel.app
 collabconnectverify.vercel.app
 collabconnectwallet.com
 collabconnectwallets.com
