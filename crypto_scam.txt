@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Apr-2023 22:00:01 PDT
+# Last updated: 30-Apr-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5191,6 +5191,7 @@ decentralizedweps.com
 decentralizefix.com
 decentralizenetworkinterface.com
 decentralizesync.com
+decentralizetools.site
 decentralizewallets.com
 decentralnodemultichaindapp.online
 decentralpro.surge.sh
@@ -5356,6 +5357,7 @@ defihosts.net
 defihubs.io
 defii-restor-access.com
 defiintegrationapp.online
+defijump.live
 defikingdoms-com.xyz
 defilauncher.org
 defilinkfix.site
@@ -7248,6 +7250,7 @@ help7070-support22.cc
 helpdeskcoinvalidaton.com
 helpfixconnect.com
 helploginamaz00.authorizeddns.net
+helpstorepro.com
 helpukraine2022.online
 helpuser.org
 henexcapital.com
@@ -7858,6 +7861,7 @@ jovensacademy.com
 jpolkadot.js.org
 juicy-opikeses.org.ua
 julianar.site
+junidenuy.info
 junonetwork.net
 justconn.online
 justifieddappfix.com
@@ -8351,6 +8355,7 @@ login-metamaskweb.com
 login-poigylon.technology
 login-secured.ng
 login-uphold-wallet.com
+login-wallet-uphold.com
 login-wallet.top
 loginupholdwallet.com
 loginwalletconect.square.site
@@ -10584,6 +10589,7 @@ nodepageconnect.com
 nodepagedatta.org
 nodepagelist.org
 nodeprimedapps.online
+nodeprojectinterface.live
 nodeprotocol.live
 nodeprotocol.net
 nodequickfix.com
@@ -11294,6 +11300,7 @@ pancaketoken.com
 pancaketransfer.com
 pancaketransfer.finance
 pancakewalletswap.finance
+pancakewapp.com
 pancakexcahange.com
 pancakkeswap.info
 pancakleswap.network
@@ -11369,6 +11376,7 @@ permanent-skyna.com
 pernimt.com
 personalwallets.xyz
 perstbek.store
+petbinanop.online
 petpont.site
 petrcennan.shop
 pexacrypto.com
@@ -12460,6 +12468,7 @@ rectifytokens.online
 rectifytools.com
 rectifyv2finance.com
 rectifyvalidation.xyz
+rectifywallet.xyz
 rectifywalletdapps.com
 rectifywebwallet.com
 rectinodes.org
@@ -15584,6 +15593,7 @@ upgradepage.cc
 uph0ldl0gincardwallet.com
 uph0ldwallet-log-in.com
 uph0ldwalletlog-in.com
+uphold-wallet.cyou
 uphold-wallets-sign.com
 uphold-wallets-sign.info
 upholds-wallett.com
