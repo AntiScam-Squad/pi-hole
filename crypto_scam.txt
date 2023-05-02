@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Apr-2023 22:00:01 PDT
+# Last updated: 01-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4054,6 +4054,7 @@ dappintegration.support
 dappintegrations.online
 dappintegrator.cloud
 dappintegrator.site
+dappinterface.online
 dappio.website
 dappkio.com
 dapplaunch.org
@@ -6936,6 +6937,7 @@ gamecoinwallet.com
 gamefi-seedify.com.pl
 gamefi-seedify.online
 gamefi-seedify.pl
+gamefi-seedify.website
 gamefipad.online
 gamefl-seedify.com
 gamesfi-seedify.com
@@ -10649,6 +10651,7 @@ nodeseedify.online
 nodeselectmigrationlive.net
 nodeservicepoint.net
 nodeservices.online
+nodesfix.live
 nodesfixen.online
 nodeslab.net
 nodeslinker.com
@@ -12583,6 +12586,7 @@ resolvetrx.live
 resolvewallet.co
 resolvewalletauth.com
 resolveweb3mint.com
+resolvewebapperrors.online
 resolvewebmint.com
 resolvingmainserver.pro
 restartcoinwallet.com
@@ -13096,10 +13100,12 @@ seedify-global.com
 seedify-global.org
 seedify-hub.com
 seedify-hub.org
+seedify-launchpad.website
 seedify-pad.com
 seedify-pad.fund
 seedify-pad.online
 seedify-pad.org
+seedify-page.website
 seedify.expert
 seedify.zone
 seedifyaccess.live
@@ -16033,6 +16039,7 @@ w-rectify.com
 w-resolution-mainnet.online
 w-validate.info
 w-validation.com
+w.affixappendtw.net
 w.centralized-securefix.live
 w.metasploits.online
 w.nftservers.repl.co
@@ -17861,6 +17868,7 @@ webb91.com
 webbridge.xyz
 webchainapp.live
 webchainnode.com
+webchainrectify.live
 webcheckprotocol.com
 webcoinassist.net
 webcoins-synchronize.info
