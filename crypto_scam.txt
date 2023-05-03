@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-May-2023 22:00:02 PDT
+# Last updated: 02-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -390,6 +390,7 @@ airdrop-phantom.app
 airdrop-polkabridge.com
 airdrop-vitalik.live
 airdrop-walletapp.pages.dev
+airdrop-zksynsc.com
 airdropcampaign-polkadot.network
 airdropcryptotoday.com
 airdropdefi.com
@@ -5883,6 +5884,7 @@ drhg.xyz
 dripbot-command.online
 drivez.info
 drklt5.us
+droidapp.cloud
 drop-luckyblockc.com
 drop-rewards.com
 dropcake.finance
@@ -9979,6 +9981,7 @@ multipad-pro.com
 multipad-pro.net
 multipad-pro.org
 multipad-x.com
+multipannel.site
 multipledapps.com
 multiscreensite.com
 multiserverfix.net
@@ -12300,6 +12303,7 @@ quickprotocol.surge.sh
 quickprotocolconnect.com
 quickrectification.com
 quickrectifier.com
+quickrectifier.vercel.app
 quicksumfxi.com
 quicksync.online
 quicksync.pages.dev
@@ -12357,6 +12361,7 @@ reallocal.com
 reallogfix.com
 realnftmintsyncreveal.com
 realwallcon.com
+realyork.online
 reaper.run
 reaunthenticator.com
 reauthenticate-wallet.com
@@ -13699,6 +13704,7 @@ space-seedify.com
 space-seedify.org
 spacedev.live
 spaceknight.online
+spaceshuttles.top
 spacesynfx.com
 spacextoken-protocol.co
 spacsea.com
