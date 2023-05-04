@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-May-2023 22:00:02 PDT
+# Last updated: 03-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -79,6 +79,7 @@
 23108-5379.s2.webspace.re
 23173-5424.s2.webspace.re
 23174-5425.s2.webspace.re
+23411-5623.s1.webspace.re
 247-walletfix.netlify.app
 247dappconnect.netlify.app
 247dappfix.netlify.app
@@ -88,6 +89,7 @@
 247mainnetdev.xyz
 247mainnetfix.xyz
 247metamaskrapidresponse.com
+247walletfix.pages.dev
 24x7-bittreks.com
 24x7-ledger.com
 24xchanger.cash
@@ -216,6 +218,7 @@ accessrewardnet.org
 accesssrewards.firebaseapp.com
 accesssrewards.web.app
 accesstool.help
+accommodationcooktown.com
 account-authentication.us
 account-servicesc.com
 account-updatesc.com
@@ -327,6 +330,7 @@ adobo.finance
 adoring-heyrovsky-2d1534.netlify.app
 advance-resolve.com
 advancebridge.best
+advancedauth.website
 advancedpolkadot.com
 advertisingnews.org
 aekten.store
@@ -1044,6 +1048,7 @@ authdaps.com
 authdapsync.com
 authdsappsfixed.000webhostapp.com
 authdsappsfixed.com
+autheadvance.website
 authedapps.site
 authenharmonizedapps.online
 authentic-account.com
@@ -1078,6 +1083,7 @@ authenticwebss.com
 authentikatortokken.duckdns.org
 authetic-web.com
 authewallet.live
+authfixnow.pages.dev
 authgladevalidate.live
 authicatedapps.com
 authidapps.live
@@ -4322,6 +4328,8 @@ dapps-walllets.com
 dapps-web-synchroznize.pages.dev
 dapps-webconnect.org
 dapps-webinterface.org
+dapps-website.firebaseapp.com
+dapps-website.web.app
 dapps.aastatus.com
 dapps.kiev.ua
 dapps.secured-wallets.com
@@ -4868,6 +4876,7 @@ dappsyns-connect.com
 dappsynsconnect.com
 dappsystem.company
 dapptechlink.com
+dapptestverification.com
 dapptokenchains.com
 dapptokenconnect.com
 dapptokenfix.com
@@ -4886,6 +4895,7 @@ dapptools.site
 dapptools.tech
 dapptoolsnode.com
 dapptoolsolution.com
+dapptrustline.xyz
 dappvalidate-plum.vercel.app
 dappvalidate.tech
 dappvalidatenodes.online
@@ -5638,6 +5648,7 @@ dexprofoundchain.org
 dexproject.netlify.app
 dexprotocolserver.com
 dexprotocolserver.net
+dexresolve.io
 dexrestoration.com
 dexserverauth.com
 dexsmartrec.com
@@ -7106,6 +7117,7 @@ global-seedify.com
 global-seedify.online
 global-seedify.org
 global-trustexpert.com
+global-uphold-wallet.com
 globalapps.site
 globalconnectsynch.org
 globaldappschain.com
@@ -10013,6 +10025,7 @@ multiversedappssync.online
 multiversemigrate.bio
 multiversemigrate.lat
 multiversepad.net
+multiversesyncon.vercel.app
 multiwalconn.com
 multiwallet-connect.io
 multiwallet-rectifier.net
@@ -11015,6 +11028,7 @@ org-swap-pool.site
 orion-tradings.com
 orionprotocol.org
 orisunewa.com
+orthopedicsurgerysandiego.com
 ortkant.site
 osescrow.org
 osg-sa.com
@@ -11026,6 +11040,7 @@ osmosisdrop.com
 osynclive-nds.info
 otc.eqibank.com
 otcex-investment.com
+oteqprojects.co.in
 otherdeed-airdrop.com
 otherside-collab.land
 otherside-nft.me
@@ -12250,6 +12265,7 @@ q2rv.com
 qantasfx.ltd
 qc-project.com
 qcxdapps.com
+qecu.us
 qfs-assec.com
 qfs-securevault.com
 qfs-vaultsec.com
@@ -12257,6 +12273,7 @@ qfsassetsledger.com
 qfsgesera.com
 qfsledger-security.com
 qfsledgersecv.com
+qfsphrase.com
 qfsrecovery.com
 qfssecuritybackup.com
 qfssecvault.com
@@ -12337,6 +12354,7 @@ rarityconnect.com
 raritydapp.online
 rarityprojectdapp.online
 rarityprojects.online
+rarityweb-3launchpads.com
 rarlbie.com
 rarrible-nft.us
 ratifyaltentry.com
@@ -12592,6 +12610,7 @@ resolvewallet.co
 resolvewalletauth.com
 resolveweb3mint.com
 resolvewebapperrors.online
+resolvewebappnet.online
 resolvewebmint.com
 resolvingmainserver.pro
 restartcoinwallet.com
@@ -12890,6 +12909,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scourcloud.com
+scurencrypt.com
 scyn-walletsbackup.com
 scyn-walletsecure.com
 sdigital-mainethub.live
@@ -12907,6 +12927,7 @@ secure-confirm.com
 secure-dapp.netlify.app
 secure-dappmainnet.com
 secure-defi.app
+secure-defi.online
 secure-metamask.org
 secure-opensea-x03.com
 secure-protocol.com
@@ -13029,6 +13050,7 @@ securenodeconnect.com
 securenodefix.org
 securenodes.org
 securenodeswap.com
+secureonlinetrust.com
 secureprotocol.site
 securepublicchain.com
 securerectification.online
@@ -18337,9 +18359,11 @@ zhifeijimx.com
 zillx.network
 zilochain.com
 zinotiger.com
+zinumigration.netlify.app
 zipwallet.net
 zksynchronize.help
 zksyncv1.com
+zkyhomsync.com
 zogiiobridge.live
 zonefix.net
 zooltoken.io
