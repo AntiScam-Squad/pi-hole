@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-May-2023 22:00:02 PDT
+# Last updated: 05-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1004,6 +1004,7 @@ auth-dapps.net
 auth-defi.live
 auth-jog.com
 auth-metamask.com
+auth-rectify.netlify.app
 auth-repair.com
 auth-server-login.com
 auth-syncs.netlify.app
@@ -6232,6 +6233,7 @@ ewest.com.au
 exalica.ba
 excelbuy-connect.net
 excelhalonft.net
+exchange-coin.net
 exchange-fixedfloat.com
 exchangeconnect.art
 exchangerapp.net
@@ -6509,6 +6511,7 @@ fixapifirmware.com
 fixapifirmwarez.com
 fixapizfirmwarez.com
 fixapp.site
+fixapps.site
 fixasset.netlify.app
 fixauth-support.live
 fixbase.net
@@ -10402,6 +10405,7 @@ next-metapad.com
 next-metapad.net
 next-metapad.org
 nextgenopss.com
+nextlevelcontract.com
 nextpolygonnft.com
 nextrowallets.com
 nextversesale.info
@@ -10851,6 +10855,7 @@ onappswallsync.org
 onbotzrectifyerz.xyz
 onchaindapp.netlify.app
 onchaindaps.com
+onchainsolutions.space
 onchainsync.com
 onchainwalletdaps.com
 oncryptowallet.biz
@@ -12136,6 +12141,7 @@ project-dapps-intergration.firebaseapp.com
 project-dapps-intergration.web.app
 project-dappsconnect.net
 project-sparkdapps.net
+projectdataserver.com
 projectdojocoinmigration.ink
 projectfixup.live
 projectintegrationtools.online
@@ -12185,6 +12191,7 @@ protocol-syncc.com
 protocol-tool.com
 protocol-verify.info
 protocolapps.web.app
+protocolbank.money
 protocolchains.xyz
 protocolconnect.site
 protocolconnect.xyz
@@ -12424,6 +12431,7 @@ rectidapps.com
 rectifbinanresolv.click
 rectification-dapp.com
 rectification-interface.com
+rectification-permit.netlify.app
 rectification-process.com
 rectification.netlify.app
 rectificationbot.online
@@ -13276,6 +13284,7 @@ simplewhitelisting.co
 simpulluttilhity.com
 sinceredoge-bonus.online
 singapore-ref.com
+singularitynetwork.net
 sinogoldlimited.com
 site-seedify.pl
 sitewideconnect.pages.dev
@@ -13865,6 +13874,7 @@ stokholfixxer.com
 stprohor.org.au
 stratos.medium.cn.com
 stratos.medium.com.ru
+streamlink-way.info
 streamtokenswap.com
 stringacess-activation.live
 strongblock.vip
@@ -17782,6 +17792,7 @@ web3-fixtool-connect.live
 web3-mainnet.net
 web3-node-app.netlify.app
 web3-node.netlify.app
+web3-node.pages.dev
 web3-nodes.pages.dev
 web3-oraclealliance.org
 web3-protocol.online
@@ -17964,6 +17975,7 @@ webmintresolve.com
 webnetly.live
 webnetsauth.pages.dev
 webnodeaccess.com
+webnodeauthenticator.com
 webnodefix.com
 webnoderesolve.com
 webnodeserver.tech
