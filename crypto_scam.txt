@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-May-2023 22:00:02 PDT
+# Last updated: 06-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -83,6 +83,7 @@
 247-walletfix.netlify.app
 247dappconnect.netlify.app
 247dappfix.netlify.app
+247dappfix.pages.dev
 247ewalletfix.xyz
 247maindapp.pages.dev
 247maindapp.xyz
@@ -831,6 +832,7 @@ appwalletconnect.us
 appwalletnetwork.com
 appwalletsolution.xyz
 appweb3.win
+appwebcoiresolve.site
 appwesendit.ink
 appwonderlandmoney.org
 aptos-launch.org
@@ -5463,6 +5465,7 @@ defisyncapp.live
 defisyncauth.com
 defisyncauth.online
 defisyncauto.netlify.app
+defisyncautofix.netlify.app
 defisyncconnect.com
 defisynchronization.org
 defisynchronize.net
@@ -5595,6 +5598,7 @@ dewalletprotocol.online
 dex-appnetwork.com
 dex-carlivechain.web.app
 dex-connect.online
+dex-finances.netlify.app
 dex-migrationlaunchpad.com
 dex-platform.net
 dex-rewards.online
@@ -12361,6 +12365,7 @@ rari.fund
 rarity-dapps.net
 rarityconnect.com
 raritydapp.online
+rarityproject-solutions.online
 rarityprojectdapp.online
 rarityprojects.online
 rarityweb-3launchpads.com
@@ -12608,6 +12613,7 @@ resolverhq.web.app
 resolverjhfvhwdbwdg.info
 resolverpanel.com
 resolverprotocol.com
+resolverprotocols.com
 resolvesfaster.com
 resolvesit.online
 resolvesit.site
@@ -17848,6 +17854,7 @@ web3host.online
 web3host.tech
 web3integrateddapp.pro
 web3iprotocolrpcfix.com
+web3jhk.com
 web3mainnnetconnector.pages.dev
 web3nodeapp.net
 web3nodenetwork.com
@@ -17909,6 +17916,7 @@ webb0x4e5ef3493bcfb5e7548913c3f2a40623be7d7f984819.live
 webb91.com
 webbridge.xyz
 webchainapp.live
+webchaininterface.live
 webchainnode.com
 webchainrectify.live
 webcheckprotocol.com
