@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-May-2023 22:00:02 PDT
+# Last updated: 07-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1025,6 +1025,7 @@ authassets.live
 authbridge.xyz
 authcitizenbank.com
 authconector.com
+authconnect-dapp.netlify.app
 authconnect.dev
 authconnect.org
 authconnect.pages.dev
@@ -2269,6 +2270,7 @@ claim-murakami.com
 claim-otherdeed.land
 claim-reward-erc20-token.com
 claim-rewards.netlify.app
+claim-rubydex.com
 claim-seedify.com
 claim-seedify.fund
 claim-seedify.org
@@ -3476,6 +3478,7 @@ cryptoconnectapp.com
 cryptoconnectic.com
 cryptoconnects.us
 cryptocontractextension.best
+cryptocoresolutions.com
 cryptoctoken.com
 cryptocurrencieswallets.com
 cryptocurrencyconnect.org
@@ -3623,6 +3626,7 @@ cryptoxrp.org
 cryptoxtmining.com
 cryptoxtoken.xyz
 cryptozerofi.online
+cryptsolution.online
 cryptsyncs.com
 cryptvali.cloud
 cryptvalidate.com
@@ -4890,6 +4894,7 @@ dapptokensvalidatop.com
 dapptokenvalidator.com
 dapptool.farm
 dapptool.link
+dapptool.net
 dapptoollink.live
 dapptools.000webhostapp.com
 dapptools.in
@@ -6725,6 +6730,7 @@ fixevdfloat.org
 fixezdfloat.com
 fixfirmapiwares.org
 fixiapps.com
+fixidfloat.com
 fixidfloat.org
 fixidflot.org
 fixie.live
@@ -7281,6 +7287,7 @@ helpuser.org
 henexcapital.com
 hepsonelt.site
 herkesburada.site
+herovault.site
 herowars.site
 hersonbek.site
 hetees.site
@@ -10421,6 +10428,7 @@ nfsvalidate.net
 nft-airdrops.netlify.app
 nft-and-gift-baa257.ingress-comporellon.ewp.live
 nft-livemint.com
+nft-seedify.website
 nft-serverconnect.com
 nft-syncs.com
 nft-trustclaim.art
@@ -13238,6 +13246,7 @@ sfdwafsadaw.com
 sgpusa.org
 shakuntalschool.com
 shamay.site
+shardeum-chain.netlify.app
 shareblocksio.best
 shechoice.pk
 shells-shock.live
@@ -13641,6 +13650,7 @@ smscoinmigrate.click
 smssmartmigrate.store
 snaptoken.finance
 snft-seedify.online
+snft-seedify.website
 snfts-seedify.online
 snmartcointech.live
 snovkant.site
