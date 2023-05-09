@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-May-2023 22:00:01 PDT
+# Last updated: 08-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -958,6 +958,7 @@ astar-network-wallet.com
 astar.mba
 astarnetwork-about.com
 astbeys.site
+astepforwardnv.com
 astr-event.site
 astracoldwallet.com
 astracryptoinvestment.ltd
@@ -2184,6 +2185,7 @@ chainserverconnect.org
 chainservernode.org
 chainset.space
 chainsfixedmaindappnet.com
+chainslab.net
 chainslab.tech
 chainslist.store
 chainsmainnet.com
@@ -4669,6 +4671,7 @@ dappsreconnect.org
 dappsreconnects.com
 dappsrecovery.support
 dappsrectification.net
+dappsrectification.netlify.app
 dappsrectifications.com
 dappsrectifications.site
 dappsrectifier.com
@@ -8391,6 +8394,7 @@ login-wallet-uphold.com
 login-wallet.top
 loginupholdwallet.com
 loginwalletconect.square.site
+loginwalletsuphold.com
 logmainnetconnect.online
 logprotocol.space
 logwalletconnect.online
@@ -9994,6 +9998,7 @@ multiminers-bridge.live
 multimintbridge.com
 multimintsbridge.com
 multinetworkinterface.com
+multinetworks-xchange.com
 multinext.online
 multinode.info
 multinode.live
@@ -15206,6 +15211,7 @@ trusrtwallets.net
 trusrtwallets.org
 trussettings.com
 trust-connectwallet.org
+trust-contact.com
 trust-cryptofreetokens.co
 trust-exmo.com
 trust-exmo.ru
@@ -15656,6 +15662,7 @@ upgradepage.cc
 uph0ldl0gincardwallet.com
 uph0ldwallet-log-in.com
 uph0ldwalletlog-in.com
+uphold-log-wallet.com
 uphold-wallet.cyou
 uphold-wallets-sign.com
 uphold-wallets-sign.info
