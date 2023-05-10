@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-May-2023 22:00:01 PDT
+# Last updated: 09-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -754,6 +754,7 @@ applyvalidate.online
 appmainets.com
 appmainnetexplorer.online
 appmainnetserver.com
+appmainnetservers.com
 appmainnetservers.net
 appmainnetverify.com
 appmainrectify.com
@@ -2489,6 +2490,7 @@ coinkzt.com
 coinlee.live
 coinlinker.org
 coinlinker.pro
+coinmainnetinterface.live
 coinmarket.herokuapp.com
 coinmarketswap.me
 coinmarketwalletsync.com
@@ -9894,6 +9896,7 @@ multichain-dappsync.netlify.app
 multichain-defi.net
 multichain-event.net
 multichain-event.org
+multichain-mainnetprotocol.netlify.app
 multichain-meta.com
 multichain-meta.org
 multichain-next.com
@@ -9916,6 +9919,7 @@ multichains-connect.com
 multichains-pro.com
 multichains-pro.net
 multichains-pro.org
+multichains-tools.live
 multichains.in
 multichains.net
 multichainserver.com
@@ -17350,6 +17354,7 @@ walletsconnetdapp.com
 walletsconnets.site
 walletsconnets.us
 walletsconnetsync.info
+walletsconnnect.pages.dev
 walletsconnnected.net
 walletsdapp.app
 walletsdapp.info
