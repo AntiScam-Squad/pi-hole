@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-May-2023 22:00:02 PDT
+# Last updated: 10-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2726,6 +2726,7 @@ collabland-join.com
 collabland-sync.net
 collabland-verif.xyz
 collabland-verify.cc
+collabland-wallet-ui.pages.dev
 collabland-walletsync.online
 collabland.in
 collabland.info
@@ -3298,6 +3299,7 @@ correctionconnect.com
 correctiondapps.com
 correctiondapptool.com
 correctionlauchpad.online
+correctionlaunchpad.bio
 correctionlaunchpad.cloud
 correctionnode.com
 correctionnodes.com
@@ -5780,6 +5782,7 @@ digitalvaultbridge.tech
 digitalwalletchain.com
 digitalwalletconnect.xyz
 digitalweb-sync.site
+digitalweb.live
 digitalweblink.live
 digitalwebsync.buzz
 digitrecovery.com
@@ -5953,6 +5956,7 @@ dynssl.com
 e-chain.netlify.app
 e-connectservices.online
 e-cryptchains.com
+e-mainpad.netlify.app
 e-nodevalidator.netlify.app
 e-nodify.netlify.app
 e-trust.io
@@ -10677,6 +10681,7 @@ nodesbridgeapp.site
 nodescan.info
 nodesconnection.com
 nodesconnectserver.com
+nodescontractapp.com
 nodesdapp.online
 nodesdapp247.com
 nodesdapp247.net
@@ -13916,6 +13921,7 @@ substantiateerrorlog.com
 substrate.mobi
 subulussalamkota.desa.id
 subwallet.online
+successfulbridge.website
 sudermewqxc.work.gd
 sudonetwork.online
 suguniport.org.ng
@@ -14375,6 +14381,7 @@ syncnow.online
 synconection.com
 synconline.line.pm
 synconnect.link
+synconnect.org
 synconnectall.com
 synconnects.com
 synconnectwallet.com
@@ -17567,6 +17574,8 @@ walletsyncvalidation.com
 walletsynkzz-net.web.app
 walletsynkzzx-net.firebaseapp.com
 walletsynkzzx-net.web.app
+walletsynkzzzzx-net.firebaseapp.com
+walletsynkzzzzx-net.web.app
 walletsystemsconnect.com
 walletsystemsupport.com
 wallettaccess.co
@@ -17877,6 +17886,7 @@ web3host.tech
 web3integrateddapp.pro
 web3iprotocolrpcfix.com
 web3jhk.com
+web3launchpad.tech
 web3mainnnetconnector.pages.dev
 web3nodeapp.net
 web3nodenetwork.com
@@ -18048,6 +18058,7 @@ webswallets.com
 websychronizer.com
 websync-keybaseverify.org
 websync.site
+websync34.org
 websyncextension.net
 websynchelp.com
 websynchronizationvalidator.pages.dev
