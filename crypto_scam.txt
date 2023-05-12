@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-May-2023 22:00:01 PDT
+# Last updated: 11-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2270,6 +2270,7 @@ claim-boredape.land
 claim-collab.land
 claim-mnlth.com
 claim-murakami.com
+claim-orbeonprotocol.com
 claim-otherdeed.land
 claim-reward-erc20-token.com
 claim-rewards.netlify.app
@@ -2596,6 +2597,7 @@ coinsynchronization.live
 coinsynchronize.com
 coinsynconline.com
 coinsyncsolutions.com
+cointbute.org
 cointechapp.online
 cointechdappsolutiions.live
 cointechiesolution.com
@@ -3405,6 +3407,7 @@ cryptnftswallet.com
 cryptnftwallet.com
 cryptnode.tech
 crypto-booster.biz
+crypto-box.exchange
 crypto-chain.net
 crypto-coin-airdrop.online
 crypto-connect.live
@@ -10072,6 +10075,7 @@ multiwalletconnectbot.com
 multiwalletconnects.com
 multiwalletlab.com
 multiwalletsconnect.com
+multiwalletsolution.net
 multiwalletvalidation.com
 multiwalletverifier.com
 multiwallfix.com
@@ -11322,6 +11326,7 @@ pancakeswapverify.com
 pancakeswapvv.com
 pancakeswapwallet.com
 pancakeswapwallet.info
+pancakeswapwallet.pages.dev
 pancakeswapwalletsonline.net
 pancakeswapwalletsvalidation.finance
 pancakeswapwear.com
@@ -12385,6 +12390,7 @@ rareblobs.com
 rarestable.com
 rari.fund
 rarity-dapps.net
+raritycoinsolution.site
 rarityconnect.com
 raritydapp.online
 rarityproject-solutions.online
@@ -14553,6 +14559,7 @@ synwalletsdapp.ml
 synwalletsol.com
 synwalletvalidation.com
 synxserv.com
+syschain-matic.co
 sysconnects.ml
 sysnconnectinfo.online
 systematicalreserver.com
@@ -16425,6 +16432,7 @@ wallet-validator.tech
 wallet-validator.xyz
 wallet-validatordappsync.net
 wallet-validators.com
+wallet-verify.org
 wallet-viva.com
 wallet-walletconnect.com
 wallet-web1.firebaseapp.com
