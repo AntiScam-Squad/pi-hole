@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-May-2023 22:00:01 PDT
+# Last updated: 13-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -231,6 +231,8 @@ accountresolvesdapps.firebaseapp.com
 accountresolvesdapps.web.app
 accountresult.site
 accounts-markets.online
+accountsdappsfixing.firebaseapp.com
+accountsdappsfixing.web.app
 accountsre-validator.com
 accountsresolveapps.webflow.io
 accountsresolvecenter.webflow.io
@@ -2094,6 +2096,7 @@ ceykulanman.store
 cfd500connect.xyz
 cgmdirect.com.au
 chain-bridge.xyz
+chain-claim.buzz
 chain-connect-protocol.square.site
 chain-connect.xyz
 chain-connects.com
@@ -2654,6 +2657,7 @@ colablanddefi.info
 colablandhelp.com
 colablland.com
 colablond.cc
+colabot-network.com
 colabpath.org
 colabsync-network.com
 colabsync.online
@@ -3245,6 +3249,7 @@ consauthenticateonnft.org
 consensus-poschain.live
 consensusintegration.io
 consensys.financial
+consnodeglobal.site
 constantresolves.com
 contact-cardanno.org
 contactdapprectifier.com
@@ -10386,6 +10391,7 @@ networkchainid.com
 networkcrypt.com
 networkdaap.com
 networkdebug.net
+networkingnode.site
 networklabs.digital
 networklabs.online
 networkmatic.online
@@ -10638,6 +10644,7 @@ nodeminingpool.com
 nodemint.app
 nodeorbit.live
 nodeorbit.online
+nodepad-shm.netlify.app
 nodepageconnect.com
 nodepagedatta.org
 nodepagelist.org
@@ -14027,6 +14034,7 @@ swapconnect.netlify.app
 swapcorrection.com
 swapdaffix.store
 swapdaoconnect.com
+swapfactor.website
 swapgull.com
 swaplibra.com
 swaplit.online
@@ -15047,6 +15055,7 @@ tokensofficial.com
 tokensoultion.com
 tokenspace.finance
 tokensprojectrarity.com
+tokensprojectsrarity.site
 tokensprotocol.live
 tokensprotocols.com
 tokensprotocolservices.com
@@ -15690,6 +15699,8 @@ upholds-wallett.com
 upholdverifywallet.com
 upholdwallet.online
 upholldwallet-log-in.com
+uplhold-wallet-login.com
+uplhold-wallet.com
 uplift-cryp.website
 uploadsecure.xyz
 upmetamasklogin.webflow.io
@@ -16419,6 +16430,7 @@ wallet-unlockthetatoken.org
 wallet-update.ml
 wallet-uphold-log.com
 wallet-uphold-us.com
+wallet-uplhold.com
 wallet-validate.co
 wallet-validate.com
 wallet-validate.net
