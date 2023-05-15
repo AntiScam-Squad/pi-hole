@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-May-2023 22:00:01 PDT
+# Last updated: 14-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2672,6 +2672,7 @@ collab-holder-verification.com
 collab-land-secure.com
 collab-land-sync.com
 collab-land-verify.com
+collab-land.co
 collab-land.eu
 collab-landhelpdesk.com
 collab-lands.cf
@@ -13926,6 +13927,8 @@ strongblocksapp.com
 strongeblocke.com
 sub-support.firebaseapp.com
 sub-support.web.app
+sub-supports.firebaseapp.com
+sub-supports.web.app
 subencrypt.com
 subfirmixie.com
 submergfix.com
