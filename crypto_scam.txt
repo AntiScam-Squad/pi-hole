@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-May-2023 22:00:01 PDT
+# Last updated: 17-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1031,6 +1031,7 @@ authassets.icu
 authassets.live
 authbridge.xyz
 authcitizenbank.com
+authcollablands.live
 authconector.com
 authconnect-dapp.netlify.app
 authconnect.dev
@@ -4916,6 +4917,7 @@ dappsynmainnet.com
 dappsyns-connect.com
 dappsynsconnect.com
 dappsystem.company
+dapptechfix.netlify.app
 dapptechlink.com
 dapptest.site
 dapptestverification.com
@@ -5670,6 +5672,7 @@ dexconnections.tools
 dexconnectpost.net
 dexconnectposts.com
 dexconnectrectify.com
+dexconnects.online
 dexconnectswebs.com
 dexconnectswork.com
 dexconnectverify.com
@@ -11699,6 +11702,7 @@ polkadot.poker
 polkadot.promo
 polkadot.pw
 polkadot.rentals
+polkadot.run
 polkadot.shop
 polkadot.site
 polkadot.trade
@@ -15524,6 +15528,7 @@ uejimnsmacstimefeat.ru
 ueuyyeyjehgetygbh0-wy563hbhsdhvte-gvdsgs.ey-gsh-839hj-sh73bdu8-ns627.repl.co
 ufix890dex6.duckdns.org
 uhiq.site
+uidappsfix.live
 ukoffshoreaccounts.com
 ukraine-save.com
 ukratoken.com
@@ -16726,6 +16731,7 @@ walletconnect-helpdesk.com
 walletconnect-home.com
 walletconnect-in.com
 walletconnect-inc.netlify.app
+walletconnect-kappa.vercel.app
 walletconnect-live.org
 walletconnect-network.com
 walletconnect-network.live
@@ -17143,6 +17149,7 @@ walletlinkapp.net
 walletlinkauthentications.com
 walletlinkconnect.com
 walletlinkdapps.com
+walletlinkdapps.netlify.app
 walletlinker.online
 walletlinker.tech
 walletlinking.web.app
@@ -18437,6 +18444,7 @@ xslim.org
 xslit.org
 xtoken.win
 xtokenvalidator.com
+xtremeliquidex.website
 xtrememinners.com
 xtztoken.site
 xvyhelpdeskiosolution.homes
