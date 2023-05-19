@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-May-2023 22:00:01 PDT
+# Last updated: 18-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -450,6 +450,7 @@ all-daps.com
 all-in-one-access.com
 all-in-one-sync.com
 all-in-oneconnect.com
+all-nodes-staking.com
 all-token-wallet.com
 all-web-wallet.com
 allauthorization.online
@@ -516,6 +517,7 @@ allnodes-chain.com
 allnodes-chains.com
 allnodes-rpc.com
 allnodes-rpcs.com
+allnodes-staking.com
 allnodesapp.com
 allnodesapps.com
 allnodeschains.com
@@ -1117,6 +1119,7 @@ authorizecontract.best
 authorizedefi.network
 authorizedwallonapp.net
 authorizemywall.net
+authorizenets.com
 authproceed.online
 authprogrammingrebrandwsxdswd.xyz
 authprotocol.com
@@ -1221,6 +1224,7 @@ autosynchronizes.org
 autosyncpermit.online
 autosyncrec.com
 autovalidateblockchain.live
+autovalidateblockchain.pages.dev
 autovalidatebot.pro
 autovalidatechain.com
 autovalidateconections.online
@@ -1928,6 +1932,7 @@ bscnodeconnect.net
 bscpad.in
 bscscangateway.com
 bscscansystem.com
+bscsmartfix.live
 bscsystemrestore.com
 bscwalletconnect.com
 bsmartconnect.net
@@ -2214,6 +2219,7 @@ chainsync.live
 chainsync.netlify.app
 chainsync.online
 chainsync.org
+chainsync.pages.dev
 chainsync.site
 chainsyncapi.netlify.app
 chainsyncfix.surge.sh
@@ -3793,7 +3799,9 @@ dapp-connect.cfd
 dapp-connect.co
 dapp-connect.pages.dev
 dapp-connects.com
+dapp-connects.firebaseapp.com
 dapp-connects.herokuapp.com
+dapp-connects.web.app
 dapp-connectwallet.com
 dapp-connet-web3fixtool.com
 dapp-crogecoin.com
@@ -4205,6 +4213,7 @@ dapps-access.net
 dapps-access.online
 dapps-accesstool.com
 dapps-activate.net
+dapps-activate.web.app
 dapps-activator.com
 dapps-activator.net
 dapps-activewallet.com
@@ -6765,6 +6774,7 @@ fixerextension.info
 fixernet.live
 fixerror.live
 fixerrordapps.netlify.app
+fixerrors-dapp.rf.gd
 fixerrors.org
 fixerrorsapp.live
 fixerspotweb.live
@@ -10353,6 +10363,7 @@ mywalletvalidation.online
 mywalletvalidator.com
 mywallgate.com
 mywallrecov.com
+myweb3-dapp-pages-dev.netlify.app
 mywhtereallet.com
 myx-cp4.xyz
 myx-cp5.xyz
@@ -10473,6 +10484,7 @@ newbeaconbridge.online
 newbornhomevisit.com
 newbridge-vra.website
 newcontract-migration.best
+newdapp-link.netlify.app
 newdent.al
 newdoor.netlify.app
 newfixingmanager.com
@@ -10688,6 +10700,7 @@ nodemainnet.com
 nodemainnet.live
 nodemainnet.site
 nodemainnetchain.com
+nodemiccer.com
 nodeminingpool.com
 nodemint.app
 nodenetwork.site
@@ -10979,6 +10992,7 @@ onlinecryptobonus.org
 onlinedapppsrestore.com
 onlinedapps-tool.online
 onlinedapps.online
+onlinedappschain.rf.gd
 onlineearnconnect.xyz
 onlinehelp-sync.ml
 onlinehelpsync.com
@@ -11080,6 +11094,7 @@ optimalcointrade.com
 optimaldapps.online
 optimalfixall.com
 optimalprotocol-pad.buzz
+optimalsmartprotocol.buzz
 optìmìsm.net
 optimismconn.site
 optimizeconnectprocess.online
@@ -13879,6 +13894,7 @@ springbridge.website
 sprout-invest.com
 square-space.online
 squaredefidapp.netlify.app
+squarevault.site
 srvvalildyresolve.org
 ss-connn.netlify.app
 ssaidi.com
@@ -14089,6 +14105,7 @@ surfixnetwork.org
 surgefix.link
 surgicalmedical.net
 sushi-v3.app
+sushiswap-server.netlify.app
 sushiswapp.net
 sushiswoqe.com
 sutlantk.site
@@ -14268,6 +14285,7 @@ syncandvalidateapps.online
 syncapp.online
 syncappconnect.com
 syncappencryptconnect.ru
+syncappnode.com
 syncapps.live
 syncappwallet.site
 syncauthenticate.netlify.app
@@ -16073,6 +16091,7 @@ vaultfix.live
 vaultftconnectserver.com
 vaultgateway.info
 vaultguard.live
+vaulthero.site
 vaultintegrity.com
 vaultlink.online
 vaultnet.site
@@ -17124,6 +17143,7 @@ walletidvalidator.online
 walletify.xyz
 walletimports.com
 walletinconnect.org
+walletinstantfix.org
 walletintegration.webflow.io
 walletintegrationapp.com
 walletintegrator.com
@@ -17315,6 +17335,7 @@ wallets-connects.link
 wallets-connet.com
 wallets-dapp.netlify.app
 wallets-dapp.online
+wallets-dapps.webflow.io
 wallets-dappsinterface.org
 wallets-dappsvalidate.com
 wallets-dappsvalidate.weebly.com
@@ -18036,6 +18057,7 @@ web3tabs.surge.sh
 web3validate.com
 web3validate.netlify.app
 web3validator.online
+web3versekit.com
 web3wallet-conenect.com
 web3wallet.gq
 web3wallet.live
@@ -18278,6 +18300,7 @@ wikirobottokenrectify.online
 wilcoxgamboa-insurranceagency.cf
 wilderworld.medium.com.ru
 wilnetly.com
+wiltonoption.network
 windeckcolecttion.xyz
 winklebit.net
 winner-crypto.top
@@ -18318,6 +18341,7 @@ wrappedpolkadot.com
 ws-fix.com
 ws-unicollab.land
 wsync.link
+wsync.pro
 wsyncvault.com
 wtnnws.com
 wtullet.com
