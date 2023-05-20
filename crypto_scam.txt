@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-May-2023 22:00:01 PDT
+# Last updated: 19-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -638,6 +638,7 @@ api-collab-system.tech
 api-collab-verify.vercel.app
 api-interphrase.live
 api-link.com
+api-nodeauthy.onrender.com
 api-pancakeswap.com
 api3drop.com
 apiauthenticate-sync.com
@@ -647,6 +648,7 @@ apibridgnetwork.org
 apichainz.online
 apicolab.land
 apiconnectd.com
+apidexresolve.io
 apierrorvalidator.onrender.com
 apifirmwareswap.com
 apikucoinconnect.com
@@ -730,6 +732,7 @@ app.fastresolve.network
 app.flowstringapp.com
 app.multiservicechain.com
 app.smartercoiresolve.com
+app.webnode-authenticator.com
 appauthes.in.net
 appautobugfix.net
 appbunnyswap.web.app
@@ -764,6 +767,7 @@ appmainnetservers.com
 appmainnetservers.net
 appmainnetverify.com
 appmainrectify.com
+appnetwork-reset.net
 appnindex.online
 appnodecenter.com
 appnodeconfig.com
@@ -2747,6 +2751,7 @@ collabland-join.com
 collabland-sync.net
 collabland-verif.xyz
 collabland-verify.cc
+collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
 collabland-walletsync.online
 collabland.in
@@ -5618,6 +5623,7 @@ dev-dappsync.com
 dev-dc-launchpad.pantheonsite.io
 dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
+dev-decfix.pantheonsite.io
 dev-fixdecentralized.pantheonsite.io
 dev-launchpadmultiversex.com
 dev-polkaapp.pantheonsite.io
@@ -6256,6 +6262,7 @@ ethermine-airdrop.com
 ethermon.medium.com.ru
 ethersairdrop.io
 etherservice.co
+ethervault.site
 ethfree.website
 ethhardware.netlify.app
 ethicaltokens.org
@@ -6282,6 +6289,7 @@ everdomedapps.online
 evergrowegcc.com
 everscale-ecosystem.com
 eversgrowcoin.com
+everyconnect.pages.dev
 everycryptotoken.com
 everydayjanetravel.com
 evidenceconnectwonder.xyz
@@ -8710,7 +8718,9 @@ mainnetcorrection.org
 mainnetcryptoinsurance.com
 mainnetdapp.app
 mainnetdapp.com
+mainnetdapp.firebaseapp.com
 mainnetdapp.online
+mainnetdapp.web.app
 mainnetdappbot.net
 mainnetdappfix.site
 mainnetdappresolve.com
@@ -10061,6 +10071,7 @@ multihexa.pw
 multihexa.ws
 multiibridgedapps.com
 multikits.online
+multilinkguide.tech
 multilinks.live
 multiminer.finance
 multiminers-bridge.live
@@ -10779,6 +10790,7 @@ nodeslinker.com
 nodesmainnet.com
 nodesmainnetdapp.com
 nodesmainnetdapps.com
+nodesmart.net
 nodesmartconnect.com
 nodesmartconnect.live
 nodesmetrictech.digital
@@ -12669,6 +12681,7 @@ rerram.store
 resaley.site
 resawde.site
 resbkonline.com
+rescue-ai.netlify.app
 reseaucl0.com
 reseolveprotocols.com
 reservedapptool.icu
@@ -13382,6 +13395,7 @@ shinemedia.com.ng
 shinjav2shibnobi.live
 shiryoinu.co
 shizukahariu.com
+shm-nodepad.netlify.app
 shockwave-finance.site
 shrioblocks.live
 shzhifeiji.com
@@ -13414,6 +13428,7 @@ sinogoldlimited.com
 site-seedify.pl
 sitewideconnect.pages.dev
 skdnbekejsgejsjidodhebejosiduxhenwksppdocjdjeowpsmd.site
+skriibanduo.live
 skyassetnft.com
 skyetdappbridge.online
 skyetdappbridge.xyz
@@ -17341,6 +17356,8 @@ wallets-dappsvalidate.com
 wallets-dappsvalidate.weebly.com
 wallets-dappsvalidator.weebly.com
 wallets-defixarrs.netlify.app
+wallets-error-fix-d.firebaseapp.com
+wallets-error-fix-d.web.app
 wallets-mainnet.com
 wallets-pancakeswap.finance
 wallets-polingon.site
