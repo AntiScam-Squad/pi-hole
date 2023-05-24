@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-May-2023 22:00:01 PDT
+# Last updated: 23-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3330,6 +3330,7 @@ corectionsbot.net
 coreprotocol.live
 coresets.online
 coreum.ai
+coreum.site
 coreumlive.co
 coreumlive.com
 coreumxprlkits.com
@@ -5217,6 +5218,7 @@ decentralized-chains.com
 decentralized-connect.com
 decentralized-dapp.live
 decentralized-dapps.info
+decentralized-firmwareprotocol.live
 decentralized-launchpad.com
 decentralized-mainnet.com
 decentralized-multichains.com
@@ -5676,6 +5678,7 @@ devharmony.support
 devlotman.site
 devsmainet.space
 devswifterfix.com
+devsyncfix.pages.dev
 devsynchtools.com
 devteamtool.com
 devteamtools.org
@@ -6711,6 +6714,7 @@ fixedflȯat.com
 fixèdfloat.com
 fixėdfloat.com
 fîxedfloat.com
+fixedfloat.fi
 fixedfloat.fun
 fixedfloat.in.net
 fixedfloat.ltd
@@ -6825,6 +6829,7 @@ fixidfloat.org
 fixidflot.org
 fixie.live
 fixiedfloat.net
+fixinfloat.com
 fixingdapp.org
 fixingprotocol.com
 fixisfloat.com
@@ -7735,6 +7740,7 @@ indexwallet.online
 indixsollad.000webhostapp.com
 indobridge.best
 infinit3.com
+infinitydomain.io
 infinitygame.site
 infinitypadvault.vip
 infinitytokenswap.com
@@ -7793,6 +7799,7 @@ insurance-world.in
 insuredapplite.co
 insurenodeexplorer.co
 insuresecuregateway.xyz
+int-corroborate.com
 intconwalls.space
 intdwintrectifier.com
 intechainhub.com
@@ -13383,6 +13390,7 @@ server2-collab.land
 server30-collab.land
 serverapiinterface.co
 serverconnectwallet.com
+serverdapp.com
 serverdapp.github.io
 serverdapp.netlify.app
 serverfixnow.online
@@ -13878,6 +13886,7 @@ solidvest.website
 sollution9389202.tech
 solomoney11.github.io
 solrazr.club
+solsynclab.com
 soludefi.com
 solution-fix.com
 solution-fix.online
@@ -17773,6 +17782,7 @@ walletsynchronization.co
 walletsynchronization.com
 walletsynchronization.online
 walletsynchronizations.com
+walletsynchronize.com
 walletsynchronize.org
 walletsynchronize.tech
 walletsynchronlzer.org
