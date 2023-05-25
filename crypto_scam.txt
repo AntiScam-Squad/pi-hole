@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-May-2023 22:00:01 PDT
+# Last updated: 24-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1355,6 +1355,7 @@ bancor-dashboard.network
 bancor-eth.com
 bancor-token.com
 bancor-vip.com
+band-syncdapp.net
 bandarbolanews.com
 bankdapps.com
 banking2sec.com
@@ -2517,7 +2518,9 @@ coinkzt.com
 coinlee.live
 coinlinker.org
 coinlinker.pro
+coinmainnetinterface.firebaseapp.com
 coinmainnetinterface.live
+coinmainnetinterface.web.app
 coinmarket.herokuapp.com
 coinmarketswap.me
 coinmarketwalletsync.com
@@ -3698,6 +3701,7 @@ curve-fi.shop
 curve-fi.site
 curve-fi.store
 curve-reward.fi
+curverexchange.com
 custodiahull.com
 customdappinterface.cloud
 customdefiresolve.com
@@ -3712,6 +3716,7 @@ cyber-tools.xyz
 cyberassetsbackup.com
 cyberconnect-event.com
 cybercurrencywallet.net
+cyberexchange.biz
 cyberfi-tech-rewards-programs-claims-erc20-token.com
 cycleconn.online
 cyclicmainnet.vercel.app
@@ -5393,6 +5398,7 @@ defibugfix.com
 defichain-solutions.com
 defichainalert.net
 defichainfix.surge.sh
+defichainhub.com
 defichainnet.online
 defichainnetwork.com
 defichainnetwork.org
@@ -6487,6 +6493,7 @@ fastsolutionsapp.com
 fastsynchfix.live
 fastsynchronization.com
 fastwebprotocol.com
+fastxcoin.exchange
 fatbunt.site
 fatnex.site
 fault-dapps.site
@@ -7175,6 +7182,7 @@ giftclaim.buzz
 giftcollab.land
 giftconnerz.buzz
 gilowcrypto.com
+gingercrypto.exchange
 ginxappsolutionsdev.live
 girbakalim.site
 girislersaglam.store
@@ -8951,6 +8959,7 @@ mantratech01.com
 manual-connect.com
 manual-syncronisation.ml
 manualbridgetools.com
+manualchainresolve.io
 manualchainsychnorize.site
 manualconnect.com
 manualcoonectsysnode.com
@@ -11564,6 +11573,7 @@ pelhamconnect.live
 pelisgoogledrive.net
 pemyomy.site
 penaber.site
+pepebonus.org
 pepeclaimsapp.com
 pepecoin.vip
 peralesam.online
@@ -15881,6 +15891,7 @@ uph0ldl0gincardwallet.com
 uph0ldwallet-log-in.com
 uph0ldwalletlog-in.com
 uphold-log-wallet.com
+uphold-login-wallet-login.com
 uphold-wallet.cyou
 uphold-wallets-sign.com
 uphold-wallets-sign.info
