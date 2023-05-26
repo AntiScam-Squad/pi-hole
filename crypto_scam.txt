@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-May-2023 22:00:01 PDT
+# Last updated: 25-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1133,6 +1133,7 @@ authproceed.online
 authprogrammingrebrandwsxdswd.xyz
 authprotocol.com
 authprotocol.net
+authrectify.pages.dev
 authrepair.online
 authresolve.com
 authrestoreaccess.help
@@ -3683,6 +3684,7 @@ cryptoxtmining.com
 cryptoxtoken.xyz
 cryptozerofi.online
 cryptsolution.online
+cryptsolutions.digital
 cryptsyncs.com
 cryptvali.cloud
 cryptvalidate.com
@@ -5477,6 +5479,7 @@ defimetasynchs.com
 defimigrationsync.com
 defimintsync.com
 defimintverification.io
+defimodifyautofix.netlify.app
 defimultiexpressfix.com
 definedsync-webapp.live
 definetwork.live
@@ -6289,6 +6292,7 @@ ethereumbomb.space
 ethereumclassicwallet.com
 ethereumcoldwallet.de
 ethereumhardwarewallet.de
+ethereumkusama.com
 ethereummoneytoken.com
 ethereumrestore.com
 ethermine-airdrop.com
@@ -11671,6 +11675,7 @@ polkabridge-giveaway.com
 polkabridge.xyz
 polkabridgegive.org
 polkaceo.com
+polkaclassic.finance
 polkacoinbonus.com
 polkacompetition.network
 polkacrypto.com
@@ -14054,6 +14059,8 @@ static.192.117.12.49.clients.your-server.de
 status-wallet.com
 status-wallets.com
 stellardebug.com
+stellernetworkfix.digital
+stellernetworksync.digital
 stemcon.xyz
 stenp.shop
 step-app.live
