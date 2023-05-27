@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-May-2023 22:00:02 PDT
+# Last updated: 26-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -12223,6 +12223,7 @@ pooswapfinance.web.app
 porkexverse.com
 portal-aster-network.com
 portal-aster.com
+portal-astra-network.pages.dev
 portal-crosschaindefi.net
 portal-networkastar.com
 portal.astar-network.cn.com
