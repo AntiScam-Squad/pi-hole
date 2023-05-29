@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-May-2023 22:00:02 PDT
+# Last updated: 28-May-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -518,6 +518,7 @@ allnodes-chain.com
 allnodes-chains.com
 allnodes-rpc.com
 allnodes-rpcs.com
+allnodes-stake.com
 allnodes-staking.com
 allnodesapp.com
 allnodesapps.com
@@ -745,6 +746,7 @@ appconnectsync.org
 appcorepage.live
 appdaaps.com
 appdefisnet.online
+appdex.netlify.app
 appdirectsync.co
 appecosystem.org
 appersconnect.com
@@ -1421,6 +1423,7 @@ besnmatn.site
 best-air-drop.pw
 best-blog.top
 best-coin.org
+best-exchanger.online
 best-restore.com
 best-seedify.com
 best-seedify.org
@@ -2827,6 +2830,7 @@ collablandwallets.xyz
 collablandx.cc
 collablandy.cc
 collablandz.live
+collablannd.com
 collablanod.cc
 collablanp.cc
 collablawd.cc
@@ -3312,6 +3316,7 @@ contractnodepage.com
 contractprotocol.net
 contractresolves.network
 contractsfix.com
+contractsresolve.com
 contractsync.icu
 contractsync.net
 contractsync.top
@@ -3446,6 +3451,7 @@ crypsupportmainnet.online
 crypt-unified.top
 cryptafarm.com
 cryptcronodes.com
+cryptechsolutions.digital
 cryptexprofit.com
 cryptflag.com
 cryptgrowx.com
@@ -5339,6 +5345,7 @@ defi-dao.org
 defi-dapp-resolution.org
 defi-dapps-resolution.org
 defi-dexvalidate.com
+defi-finances.netlify.app
 defi-function.app
 defi-go.me
 defi-integrated.com
@@ -5659,6 +5666,7 @@ dev-dc-launchpad.pantheonsite.io
 dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
 dev-decfix.pantheonsite.io
+dev-decfixer.pantheonsite.io
 dev-fixdecentralized.pantheonsite.io
 dev-launchpadmultiversex.com
 dev-polkaapp.pantheonsite.io
@@ -5863,6 +5871,7 @@ digitalsyncwallets.live
 digitaltokenrewards.tech
 digitaltokenstorage.com
 digitaltokenswap.me
+digitaltoolbox.live
 digitaltrademarket.com
 digitaltvsydney.com.au
 digitalvaultbridge.tech
@@ -7422,6 +7431,7 @@ hodldefconnections-fixed.live
 hodldefconnections-nodes.live
 hodldefvalidation-nodes.live
 hodlersencrypt11172789code.com
+hodlit.rf.gd
 hodlnetscan.com
 hodlnetware.com
 hodlonline.live
@@ -11889,6 +11899,7 @@ polkadotpro.live
 polkadotprotoken.online
 polkadotpublishing.com
 polkadotr.js.org
+polkadotreward.org
 polkadotrewards.network
 polkadotrewards.totensparebnk.com
 polkadots-airdrop.com
@@ -18248,6 +18259,7 @@ webextension-interface.org
 webextensions.info
 webextensionsfix.tech
 webfirmwaresync.com
+webfixpage.com
 webfixstores.com
 webflow.ink
 webflowconnect.info
