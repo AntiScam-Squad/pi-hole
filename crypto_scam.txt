@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-May-2023 22:00:01 PDT
+# Last updated: 30-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -416,6 +416,7 @@ airesolution.live
 airplop.link
 airswallets.com
 airswaps.finance
+aismartfix.com
 aitradingcrypto.xyz
 ajudacef.com
 ak-traders.com
@@ -10809,6 +10810,7 @@ nodeconnections.com
 nodeconnectons.com
 nodeconnectschain.herokuapp.com
 nodecore.app
+nodecorrects.kwaratech.com
 nodedapp.netlify.app
 nodedapps.online
 nodedappsnet.com
