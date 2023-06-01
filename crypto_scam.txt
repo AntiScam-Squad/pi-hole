@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-May-2023 22:00:01 PDT
+# Last updated: 31-May-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -779,6 +779,7 @@ appmainnetservers.net
 appmainnetverify.com
 appmainrectify.com
 appnetwork-reset.net
+appnetworkaudit.net
 appnindex.online
 appnodecenter.com
 appnodeconfig.com
@@ -2400,6 +2401,7 @@ cnftescrow.com
 cnhind-com.cf
 cnnectwallet.onrender.com
 co-tradex.com
+coalescecenter.com
 cobridge-myauth.com
 cocc.homes
 cocc.pics
@@ -4419,6 +4421,7 @@ dapps-validation.online
 dapps-validation.org
 dapps-validation.tech
 dapps-validations.com
+dapps-validator.com
 dapps-validator.info
 dapps-validator.online
 dapps-validator.org
@@ -6433,6 +6436,7 @@ expreses.digital
 expressnetinterface.com
 expressprivacyfixr.com
 expressprivatedelivery.com
+exriminamuv.live
 extension-metamask.com.homehubstudy.com
 extension-metamask.com.hustlernation254.com
 extension-metamask.com.rstebet.co.id
@@ -11092,6 +11096,7 @@ olympusdaos.net
 omaylokt.site
 ominidefi.io
 omnidefi.io
+on-blockchain.com
 on-dapps.com
 onappswallsync.org
 onbotzrectifyerz.xyz
@@ -11866,6 +11871,7 @@ polkadot.rentals
 polkadot.run
 polkadot.shop
 polkadot.site
+polkadot.support
 polkadot.trade
 polkadot.us.com
 polkadot.whitelist-web3.com
@@ -14913,6 +14919,7 @@ technicalvalidator.pw
 techsmainapp.com
 techsolutionagent.com
 techsuportter.000webhostapp.com
+techsupportdesk.info
 techvantageapps.com
 teddybearsquad.org
 teddybearsquads.com
