@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-May-2023 22:00:01 PDT
+# Last updated: 01-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2313,6 +2313,7 @@ claim-dapp.netlify.app
 claim-digitoadsworld.pages.dev
 claim-mnlth.com
 claim-murakami.com
+claim-orbeon.cloud
 claim-orbeonprotocol.com
 claim-otherdeed.land
 claim-renq.cloud
@@ -3855,6 +3856,7 @@ dapp-comdex-ecosystem.com
 dapp-connect.cfd
 dapp-connect.co
 dapp-connect.pages.dev
+dapp-connects-web.com
 dapp-connects.com
 dapp-connects.firebaseapp.com
 dapp-connects.herokuapp.com
@@ -5717,6 +5719,7 @@ dev-wcerrorfixertool.pantheonsite.io
 dev-web3dappscollabs.pantheonsite.io
 dev-webconnect-pantheonsite.com
 devamina.site
+devcolab.live
 devcollab.live
 devcollabfix.live
 devdappsengine.pages.dev
@@ -8488,6 +8491,7 @@ livegive-away.vip
 liveintegratedwallets.com
 liveioapps.com
 livelymood.com
+livemerge.pages.dev
 livemints.events
 livenftmart.com
 livenode-sync.com
@@ -9059,6 +9063,7 @@ manualwalletinterface.com
 manualwalletrestore.com
 manyfaces.net.au
 marketplaceaxinfinity.club
+markets-options.com
 markphills.xyz
 marlin-rewards-programs-claims-erc20-token.com
 marsele.store
@@ -9761,6 +9766,7 @@ micropool-defi.co
 micropool-defi.live
 midappsintegration.online
 middika.store
+migcom.online
 migquickio.website
 migrate-elongatetoken.com
 migrate-feg.com
@@ -16303,6 +16309,7 @@ vaultrepair.onrender.com
 vaultrepairs.com
 vaultseedify.online
 vaultserver.site
+vaultset.tech
 vaultswap.space
 vaultvalue.online
 vaultzdapp.online
