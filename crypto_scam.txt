@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Jun-2023 22:00:02 PDT
+# Last updated: 02-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5761,6 +5761,7 @@ dexchain.network
 dexchain.space
 dexchainboard.com
 dexchainpad.site
+dexchainresolve.io
 dexchainsync.com
 dexcloudlink.com
 dexcolab.land
@@ -6400,6 +6401,7 @@ exchange-coin.net
 exchange-fixedfloat.com
 exchangeconnect.art
 exchangerapp.net
+exchangestore.store
 exchangewllt.com
 exchangezoid.com
 exchangs.info
@@ -14405,6 +14407,7 @@ sync-2.serveuser.com
 sync-access.com
 sync-app.net
 sync-auth.netlify.app
+sync-blockchain.tech
 sync-blockchain.uk
 sync-chain.tech
 sync-clubnft.com
@@ -14442,6 +14445,7 @@ sync-portal.online
 sync-portfolio.com
 sync-protectionlink.online
 sync-protocol.net
+sync-protocol.tech
 sync-protocol.xyz
 sync-protocols.com
 sync-rectificationconnect.co
