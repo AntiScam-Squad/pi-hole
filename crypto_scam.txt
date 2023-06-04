@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Jun-2023 22:00:02 PDT
+# Last updated: 03-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -339,6 +339,7 @@ advancedauth.website
 advancedpolkadot.com
 advertisingnews.org
 aekten.store
+aesencryption.co
 afakanla.site
 affirmationdesk.link
 affix-gap.live
@@ -1318,6 +1319,7 @@ backend-dapps.net
 backendreactiveqr.live
 backeryswap.net
 backupencrypt.com
+backupledgerbond.com
 backyardcompanyio.best
 bacpne.com
 badapplesiphonerepair.com
@@ -2882,6 +2884,7 @@ collabsync.onrender.com
 collabsyncwallet.com
 collabtool.live
 collabvalidator.com
+collabverification.com
 collabverify.in
 collabverify.online
 collabwallett.com
@@ -5268,6 +5271,8 @@ decentralized-dapps.info
 decentralized-firmwareprotocol.live
 decentralized-launchpad.com
 decentralized-mainnet.com
+decentralized-mainnet.firebaseapp.com
+decentralized-mainnet.web.app
 decentralized-multichains.com
 decentralized-network.site
 decentralized-protocol.art
@@ -6565,6 +6570,7 @@ faykolmentab.site
 faymenten.site
 fazlakazanalim.site
 fazlasinikazan.site
+fcbackup.com
 fearlesswallet-desktop.io
 fearlesswallet.app
 fearlesswalletdesktop.io
@@ -7229,6 +7235,7 @@ geth-ethereum.org
 getitfixeds.xyz
 getmetamask.com
 getmoneroapp.com
+getmoneroapp.net
 getmusk.top
 getnetwork.digital
 getpancakeswap.com
@@ -9885,6 +9892,7 @@ mintwalletvalidator.net
 miracletradefx.com
 mirrordappz.com
 mitlycon.online
+mixinrtfsword.online
 mixwallet.org
 mkpgamerectifiers.pro
 mlerges.site
@@ -10934,6 +10942,7 @@ nodesmainnetdapps.com
 nodesmart.net
 nodesmartconnect.com
 nodesmartconnect.live
+nodesmartfixing.online
 nodesmetrictech.digital
 nodesnetwork.live
 nodesnetworksynchronisation.online
@@ -12412,6 +12421,7 @@ project-dapps-intergration.firebaseapp.com
 project-dapps-intergration.web.app
 project-dappsconnect.net
 project-sparkdapps.net
+projectauthverify.site
 projectdataserver.com
 projectdojocoinmigration.ink
 projectfixup.live
@@ -12560,6 +12570,7 @@ qfsledger-security.com
 qfsledgersecv.com
 qfsphrase.com
 qfsrecovery.com
+qfssecure.com
 qfssecuritybackup.com
 qfssecvault.com
 qfstpconnect.io
@@ -13024,6 +13035,7 @@ riskofsuspension-metamask.io
 riteaid-tek.com
 riteserviceapp.com
 riyalprotocol.xyz
+robinhood-cryptos.online
 robonomicsrewards.com
 robothelps.org
 robotmoney.net
@@ -14677,6 +14689,7 @@ syncmywallet.me
 syncmywallets.online
 syncndefi.line.pm
 syncnet.online
+syncnetsolutions.digital
 syncnetwork.pages.dev
 syncnetworks.org
 syncnftslink.live
@@ -15357,6 +15370,7 @@ tokensmainnet.online
 tokensofficial.com
 tokensoultion.com
 tokenspace.finance
+tokensproject.site
 tokensprojectrarity.com
 tokensprojectsrarity.site
 tokensprotocol.live
@@ -15693,6 +15707,7 @@ trustwalletion.com
 trustwalletl.com
 trustwalletlive.com
 trustwalletnetworks.online
+trustwalletoff.easy.co
 trustwalletrewardcenter.xyz
 trustwallets-connect.ru
 trustwallets.onl
@@ -16318,6 +16333,7 @@ vaultswap.space
 vaultvalue.online
 vaultzdapp.online
 vcoin.digital
+vcrypconndex.website
 vechainthewallet.org
 vee-friends-collab.land
 veia.app
