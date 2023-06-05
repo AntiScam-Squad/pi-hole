@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Jun-2023 22:00:02 PDT
+# Last updated: 04-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -58,6 +58,7 @@
 193-111-31-88.plesk.page
 194-127-193-110.plesk.page
 1chaincrypto.com
+1cryptowallet.net
 1inch-connect.com
 1inch-network.net
 1inch-wallet.org
@@ -2799,6 +2800,7 @@ collabland.in
 collabland.info
 collabland.io
 collabland.ml
+collabland.tech
 collablandapp.net
 collablandc.cc
 collablandco.cc
@@ -2865,6 +2867,7 @@ collabnet.online
 collabnodeconnect.com
 collabo-nft.com
 collaborationland.cc
+collaboratorpancakeswap.com
 collabrated.land
 collabreconnect.xyz
 collabrectification.online
@@ -6948,6 +6951,7 @@ fixprotocol.online
 fixprotocol.solutions
 fixprotocols.com
 fixprotocols.org
+fixpulse.net
 fixresolvepro.com
 fixresolvetech.live
 fixsaccessync.com
@@ -13470,6 +13474,7 @@ seedlfy-fund.org
 seedlfy.com.pl
 seedlfy.nl
 seedlfy.pl
+seedlify.website
 sefirialem.site
 sehrkort.club
 seklenter.site
