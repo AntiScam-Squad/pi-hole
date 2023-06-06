@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Jun-2023 22:00:01 PDT
+# Last updated: 05-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -703,6 +703,7 @@ app-mainnetsys.ml
 app-meta-mask-live.com
 app-multisync.net
 app-onlinelottoclaim.us
+app-pacncakeswaapp.tech
 app-parallel-fi.netlify.app
 app-polkadot.com
 app-polkastarter.live
@@ -1923,6 +1924,7 @@ bridgeprotocol.site
 bridgeprotocolapp.site
 bridgeprotocolfix.net
 bridgeprotocols.com
+bridgepulsechain.live
 bridgepulsechains.com
 bridgerouter.info
 bridges-link.online
@@ -5452,6 +5454,7 @@ defichain-solutions.com
 defichainalert.net
 defichainfix.surge.sh
 defichainhub.com
+defichaininterface.com
 defichainnet.online
 defichainnetwork.com
 defichainnetwork.org
@@ -8868,6 +8871,7 @@ mainnetdefi.net
 mainnetdev.live
 mainnetdev.site
 mainnetextension.com
+mainnetextension.live
 mainnetextension.net
 mainnetfix.net
 mainnethost.com
@@ -14554,6 +14558,7 @@ syncdecentralised.online
 syncdefinodes.com
 syncdefiprotocol.com
 syncdefiwallet.co
+syncdefixn.line.pm
 syncdeftools.com
 syncdev.online
 syncdirect.info
