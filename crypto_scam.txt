@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Jun-2023 22:00:01 PDT
+# Last updated: 11-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1128,6 +1128,7 @@ authgladevalidate.live
 authicatedapps.com
 authidapps.live
 authlogin-coinbaseinfo.com
+authmainnetconnect.live
 authminweb.live
 authnetworks-tech.cc
 authnodes.network
@@ -18236,6 +18237,8 @@ wdsec6ure.com
 we-change.online
 weautocheck.com
 web-astarnetwork.com
+web-blocknodes-online.com
+web-blocksfix-online.com
 web-connectfn.cf
 web-d0e37.web.app
 web-dappbridge.online
