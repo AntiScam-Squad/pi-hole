@@ -1,12 +1,27 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Jun-2023 22:00:02 PDT
+# Last updated: 12-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
 09sync00.duckdns.org
 0vvwvuniswap.top
+autolinking.xyz
+cryptowhite24.com
+defiappsprotocol.firebaseapp.com
+defiappsprotocol.web.app
+linkifyauto.xyz
+multilinkguide.site
+multistalks.click
+projectweblink.com
+rangevalidator.firebaseapp.com
+rangevalidator.web.app
+sledgerbackup.com
+spxmap.cc
+violet-wallet.com
+walletrectifyer.netlify.app
+web3dapps.org
 0vvwwuniswap.top
 0vwwuniswap.top
 0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.xyz
@@ -6788,6 +6803,7 @@ fixedffloat.info
 fixedffloat.org
 fixedfiloat.net
 fixedfiloat.network
+fixedfioad.com
 fixedfịoat.com
 fixedfkloat.org
 fixedfl0af.com
@@ -13515,6 +13531,7 @@ seedify.expert
 seedify.vercel.app
 seedify.zone
 seedifyaccess.live
+seedifyfund.live
 seedifyfund.net
 seedifypad.website
 seediify.com
@@ -13664,6 +13681,7 @@ singularitynetwork.net
 sinogoldlimited.com
 site-seedify.pl
 sitewideconnect.pages.dev
+siyabongaeheri.live
 skdnbekejsgejsjidodhebejosiduxhenwksppdocjdjeowpsmd.site
 skriibanduo.live
 skyassetnft.com
@@ -16413,6 +16431,7 @@ vee-friends-collab.land
 veia.app
 vela-exchange.tech
 veleksupant.site
+veltexverse.website
 vempire-ddao-rewards-claims-erc20-token.my.id
 vercelexchange.com
 verifewallt.xyz
@@ -18586,6 +18605,7 @@ webwclive.site
 webworkconnect.site
 wed3.pro
 weddappsreconnect.pages.dev
+weigroopusaeb.live
 wel-net.online
 welcome-dapp.com
 welivemugrate.online
