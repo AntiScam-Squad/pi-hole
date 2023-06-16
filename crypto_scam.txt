@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Jun-2023 22:00:02 PDT
+# Last updated: 15-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -691,6 +691,7 @@ app-biswap.exchange
 app-biuswap.org
 app-bogged.finance
 app-cefinet.online
+app-claim.finance
 app-collab.land
 app-connect2syncs.com
 app-dappsify.online
@@ -1479,6 +1480,7 @@ bestpad-beta.org
 bestpad-pro.com
 bestsecuregate.com
 bestsolutionfix.com
+bestswap-crypto.com
 beta-appchains.org
 beta-chainwallet.com
 beta-defi.live
@@ -2716,6 +2718,7 @@ coinwalletsactivations.com
 coinwalletsolution.vercel.app
 coinxconnect.com
 coinxpaddrop.com
+coinzhash.com
 coinzipp.com
 coiodent.website
 coirecoinsmartsolution.xyz
@@ -2812,6 +2815,7 @@ collabland-holders.xyz
 collabland-join.com
 collabland-join.vercel.app
 collabland-sync.net
+collabland-user.vercel.app
 collabland-verif.xyz
 collabland-verification-user.vercel.app
 collabland-verification.vercel.app
@@ -5899,6 +5903,7 @@ dgswalletconnect.com
 diagnosticsbots.tech
 diamondminers.xyz
 diamria.best
+diceflows.com
 diemicowallet.com
 diemjoinwallet.com
 dificapitol.com
@@ -6077,6 +6082,7 @@ dotmoovs.medium.cn.com
 dotn.finance
 dotpadio.live
 dotprotocol.online
+dotreward.org
 dotrustyapps.com
 dotsea.app
 dotverify.live
@@ -6165,6 +6171,7 @@ easy-protocol.com
 easy-walt.com
 easyblockauthenticator.com
 easychainconnect.com
+easycryptoexchange.net
 easydappsfix.com
 easydappsync.com
 easyhelpbots-connect.com
@@ -8439,6 +8446,7 @@ lezconnectwalle.com
 liberooficcial.com
 lida.finance
 lidio.online
+lido-finance.pro
 lido-steking.com
 lido.bio
 lido.fit
@@ -14609,6 +14617,7 @@ syncaffixsmain.com
 syncairdropscloud.com
 syncalldapp.com
 syncalldapps.net
+syncalldapps.pro
 syncandvalidateapps.online
 syncapp.online
 syncappconnect.com
