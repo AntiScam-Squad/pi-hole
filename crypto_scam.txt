@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Jun-2023 22:00:02 PDT
+# Last updated: 16-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -694,6 +694,7 @@ app-cefinet.online
 app-claim.finance
 app-collab.land
 app-connect2syncs.com
+app-dappsagregator.netlify.app
 app-dappsify.online
 app-dappsintegrator.netlify.app
 app-delegation.net
@@ -2828,6 +2829,7 @@ collabland.info
 collabland.io
 collabland.ml
 collabland.tech
+collabland.wiki
 collablandapp.net
 collablandc.cc
 collablandco.cc
@@ -3637,6 +3639,7 @@ cryptolaunchpad.cc
 cryptolead.org
 cryptolightinvestment.com
 cryptoline.solutions
+cryptolink-portfolio.com
 cryptolink.live
 cryptoliquidityx.com
 cryptoliveconnect.com
@@ -5796,6 +5799,7 @@ dewalletprotocol.online
 dex-appnetwork.com
 dex-carlivechain.web.app
 dex-connect.online
+dex-dapps.surge.sh
 dex-finances.netlify.app
 dex-migrationlaunchpad.com
 dex-platform.net
@@ -6357,6 +6361,7 @@ escolopedia.homes
 esfomen.com
 eskotm.store
 esmartchecker.com
+esmartchecker.netlify.app
 esmartchecker.website
 esmemona.site
 esp-defiswap.com
@@ -6396,6 +6401,7 @@ ethdapp97.xyz
 ether-gifts.com
 etherblockscan.com
 etherbunny.mintbuy.me
+etherdigital.cloud
 etherdropio.com
 ethereum-ksm.com
 ethereum2dapps.com
@@ -6725,6 +6731,7 @@ fix-mainnetchains.com
 fix-mysyncapp.netlify.app
 fix-nodebug.pages.dev
 fix-rpc.com
+fix-sync.pages.dev
 fix-syncwallet.com
 fix-trix.com
 fix-wallets.com
@@ -6815,6 +6822,7 @@ fixedfiloat.net
 fixedfiloat.network
 fixedfioad.com
 fixedfịoat.com
+fixedfioot.com
 fixedfkloat.org
 fixedfl0af.com
 fixedflaoat.us
@@ -8331,6 +8339,7 @@ kusama-network.org
 kusama-networks.com
 kusama-polkadot.com
 kusama-wallet.com
+kusama-wallet.site
 kusama.escobaw13.xyz
 kusama.fund
 kusama.us
@@ -8867,6 +8876,7 @@ mainnet-dappsconnect.com
 mainnet-dappsconnect.org
 mainnet-ext.net
 mainnet-fix.net
+mainnet-helpdesk.xyz
 mainnet-interface.net
 mainnet-launch.pages.dev
 mainnet-link.xyz
@@ -11794,6 +11804,7 @@ pintuwallet.net
 piyasanineniyisi.online
 pizazy.com
 pizwallet.com
+pjvibes.github.io
 plaatshierjelink.com
 platformfixingwebiste.com
 platformfixingwebsite.com
@@ -13658,6 +13669,7 @@ shamay.site
 shardeum-chain.netlify.app
 shareblocksio.best
 shechoice.pk
+shehubfrcig-iou.website
 shells-shock.live
 sherotech.xyz
 shiba-token.live
