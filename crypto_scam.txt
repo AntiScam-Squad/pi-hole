@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Jun-2023 22:00:01 PDT
+# Last updated: 19-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -859,6 +859,7 @@ appsync.ga
 appsyncc.org
 appsyncpage.com
 appsyncpage.live
+appsyncrectify.com
 apptokens.xyz
 apptokensvalidator.com
 apptool.org
@@ -1817,6 +1818,8 @@ bloctroubleshot.online
 blokcloud.online
 bloklaunchpads.com
 blokmania.xyz
+bloknonc.firebaseapp.com
+bloknonc.web.app
 blokpadapp.online
 bloksync.online
 bloktract.firebaseapp.com
@@ -3220,6 +3223,7 @@ connectoe.netlify.app
 connectorapp.online
 connectorlogs.pages.dev
 connectplugdapp.xyz
+connectportal-en.com
 connectpro.online
 connectprotocol.live
 connectprotocol.network
@@ -5237,6 +5241,7 @@ darp.pics
 darpicsols.com
 darpnetwork.com
 darpscentralsfix.com
+darpsonlinehelp.com
 darpstech.network
 darpsupfix.com
 darptradetech.pro
@@ -6122,6 +6127,7 @@ dotpadio.live
 dotprotocol.online
 dotreward.org
 dotrustyapps.com
+dotsatoshi.co.uk
 dotsea.app
 dotverify.live
 dotxbep.com
@@ -6859,6 +6865,7 @@ fixedfdloat.org
 fixedfeloat.org
 fixedffloat.info
 fixedffloat.org
+fixedfiaot.com
 fixedfiloat.net
 fixedfiloat.network
 fixedfioad.com
@@ -10219,6 +10226,7 @@ multi-signatures.com
 multi-solveresolution.com
 multi-sync-wc.online
 multi-wc-sync.online
+multi-webs.network
 multiaidprogram.com
 multiaidprotocol.com
 multialignfix.com
@@ -11511,6 +11519,7 @@ paflattim.site
 page-seedify.com.pl
 page-seedify.online
 pageconnects.link
+pageslc.me
 pagesyncapp.online
 paketen.site
 palaninyeri.site
@@ -12438,6 +12447,7 @@ pollkastarter.com
 pollkostarter.com
 polmenter.site
 polofinix.com
+polongomes.com
 polowallet.xyz
 polpenter.club
 polpenter.site
@@ -15970,6 +15980,7 @@ turstwallet.club
 turtkant.site
 turvida.pt
 turvqweb.online
+tusdstaking.com
 tuskanter.site
 tutmantx.online
 tutment.site
