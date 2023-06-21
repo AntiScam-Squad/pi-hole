@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Jun-2023 22:00:01 PDT
+# Last updated: 20-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -11661,6 +11661,7 @@ pancakeswapbot.org
 pancakeswapc.finance
 pancakeswapcism.com
 pancakeswapconnect.netlify.app
+pancakeswapconnect.pages.dev
 pancakeswapdapp.net
 pancakeswapdesign.com
 pancakeswape.finance
