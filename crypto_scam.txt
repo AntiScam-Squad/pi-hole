@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Jun-2023 22:00:01 PDT
+# Last updated: 21-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1289,6 +1289,7 @@ avouch-autosync.org
 avouch-sync.info
 avouchdapps.com
 avouchsync.com
+avouchsync.net
 avouchsyncz.com
 awalletconnect.com
 awdekkk.ml
@@ -1900,6 +1901,7 @@ brdcryptowallet.com
 brdsupportlive.com
 breederdao-sales.com
 breezexed.live
+brendswap.com
 brg-corp.top
 bride-terra.money
 bridgcrypto.com
@@ -2410,6 +2412,7 @@ click-collab.land
 click-connect.info
 click-here.one
 click2claim.link
+clickhere.blog
 clickqrprotocol.com
 clicltocollab.com
 clienta.pages.dev
@@ -2732,6 +2735,7 @@ coinwalletreport.com
 coinwallets.xyz
 coinwalletsactivations.com
 coinwalletsolution.vercel.app
+coinwave.online
 coinxconnect.com
 coinxpaddrop.com
 coinzhash.com
@@ -2781,6 +2785,7 @@ collab-tools.live
 collab-validator.com
 collab-verifier.netlify.app
 collab-verifyuser.com
+collab.host
 collab.inload.xyz
 collab.ioapps.info
 colläb.land
@@ -3391,6 +3396,7 @@ contractmigration.live
 contractnetwork.live
 contractnodepage.com
 contractprotocol.net
+contractresolver.com
 contractresolves.network
 contractsfix.com
 contractsresolve.com
@@ -3419,6 +3425,7 @@ coreum.ai
 coreum.site
 coreumlive.co
 coreumlive.com
+coreumm.com
 coreumxprlkits.com
 corewallet.icu
 correctbot.com
@@ -3608,6 +3615,7 @@ cryptobext.com
 cryptobitinsurance.com
 cryptobot-ec6fd.web.app
 cryptobridge.eu
+cryptobunny.tech
 cryptocardapp.xyz
 cryptochatgpt4.com
 cryptoclaim.rf.gd
@@ -3766,6 +3774,7 @@ cryptowalletvault.com
 cryptowalletvault.store
 cryptowallsconnet.com
 cryptoweek.ru
+cryptowhite.online
 cryptowhite24.com
 cryptoxrp.org
 cryptoxtmining.com
@@ -6906,6 +6915,7 @@ fixèdfloat.com
 fixėdfloat.com
 fîxedfloat.com
 fixedfloat.fi
+fixedfloat.finance
 fixedfloat.fun
 fixedfloat.in.net
 fixedfloat.ltd
@@ -11272,6 +11282,7 @@ okex.net.cn
 okexevent.live
 okx-app.cn
 okxcwallet.com
+okxe-web3.com
 ollab.land
 olympusadao.financial
 olympusdao-finance.online
@@ -13225,6 +13236,7 @@ rewardtoken.info
 rewebsyn.net
 rewebsyn.org
 richquack.io
+richquack.live
 rifasaltasorte.com.br
 rightinvestmentcrypto.com
 ringchainio.live
@@ -13808,6 +13820,7 @@ singularity-net.vercel.app
 singularitydao-ai.com
 singularitynetwork.net
 sinogoldlimited.com
+sintrdantx.website
 site-seedify.pl
 sitewideconnect.pages.dev
 siyabongaeheri.live
@@ -15127,6 +15140,7 @@ systemdappresolve.live
 systemdappsresolve.live
 systemfold.help
 systemicerrfix.com
+systemintegrate.pages.dev
 systemnodeautorepair.com
 systemnoderesolve.com
 systemrectificationdapp.site
@@ -18678,6 +18692,7 @@ webpolygonwallets.space
 webpolygonwallets.website
 webpolygonwallets.xyz
 webprotocol.net
+webrectifiers-en.com
 webreslovenetwork.live
 webresolve.live
 webresolve.online
