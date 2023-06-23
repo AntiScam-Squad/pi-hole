@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Jun-2023 22:00:01 PDT
+# Last updated: 22-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2011,6 +2011,7 @@ btc-tools.org
 btc2xbonus.site
 btcshizzle.000webhostapp.com
 bug-rectifier.top
+bug-rectifiers.com
 bugfixed.buzz
 bugifybridge.xyz
 bugrectify.buzz
@@ -2223,6 +2224,7 @@ chainlinkauth.site
 chainlinkconnect.org
 chainlinkdap.com
 chainlinkdex.online
+chainlinknow.net
 chainlinkpads.com
 chainlinkrewardauthy.com
 chainlinkvalidation.com
@@ -2792,6 +2794,7 @@ colläb.land
 cóllab.land
 cọllab.land
 cọllạb.land
+collab.rest
 collabactivation.com
 collabandd.cc
 collabapprove.digital
@@ -2841,6 +2844,7 @@ collabland-verif.xyz
 collabland-verification-user.vercel.app
 collabland-verification.vercel.app
 collabland-verify.cc
+collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
 collabland-walletsync.online
@@ -5358,6 +5362,7 @@ decentralized-chains.com
 decentralized-connect.com
 decentralized-dapp.live
 decentralized-dapps.info
+decentralized-firmware-protocol.live
 decentralized-firmwareprotocol.live
 decentralized-launchpad.com
 decentralized-mainnet.com
@@ -8478,6 +8483,7 @@ launchpad.sync-synapse.network
 launchpadapy.online
 launchpadchains.com
 launchpadnode.online
+launchpads-apps.network
 launchpads-dapps.com
 launchpads-web.network
 launchpads.finance
@@ -10227,6 +10233,7 @@ multi-entitychainfix.com
 multi-entitychains.com
 multi-kit.online
 multi-kits.io
+multi-launchs.network
 multi-networksolutions.live
 multi-prodapps.com
 multi-rectifier.com
@@ -10283,6 +10290,7 @@ multichain-pro.org
 multichain-protocolkit.netlify.app
 multichain-rectify.com
 multichain-sync.com
+multichain-web3.uno
 multichain-x.com
 multichainassetscon.net
 multichaincnet.online
@@ -11509,6 +11517,7 @@ othiersidemeta-refund.xyz
 otken.im
 outbridge-labs.live
 outerring-bonus.online
+outrightchain.live
 outrightchain.site
 ouyi-tweb3.com
 ouyi-web3.com
@@ -13916,6 +13925,7 @@ smartcoinresolvetec.live
 smartcoinrmigrate.online
 smartcoins.world
 smartcoinscapital.com
+smartcoinsinu.online
 smartcoinsoilutiion.live
 smartcoinsolution.xyz
 smartcoinsolutions.net
