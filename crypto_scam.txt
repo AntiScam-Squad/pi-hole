@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Jun-2023 22:00:02 PDT
+# Last updated: 23-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -570,6 +570,7 @@ alpha-sync.tech
 alphabeta-cyclicmigrate.netlify.app
 alphacap-defi.xyz
 alphacapital-defi.xyz
+alphadexmarkets.com
 alphaearning.com
 alphasynch.online
 alphawalletconnect.com
@@ -936,6 +937,7 @@ asnemasts.site
 asotplatform.com
 aspentg.site
 asperaks.site
+assestsgloballedger.com
 asset-collab.land
 asset-connect.org
 asset-sync.site
@@ -1097,6 +1099,7 @@ authdapps.live
 authdappsync.com
 authdaps.com
 authdapsync.com
+authdex.netlify.app
 authdsappsfixed.000webhostapp.com
 authdsappsfixed.com
 autheadvance.website
@@ -2483,6 +2486,7 @@ coin-solution.herokuapp.com
 coin-solutions.cc
 coin-solutions.netlify.app
 coin-sync-web.xyz
+coin24coin.net
 coinappconnect.live
 coinappprotocol.live
 coinapptech.online
@@ -2540,6 +2544,7 @@ coinbasewallets-up.com
 coinbasewallets.com
 coinbasewalletsecure.com
 coinbebit.com
+coinbell.net
 coincash-exchange.com
 coincellerpro.site
 coincirlcle.com
@@ -2556,6 +2561,7 @@ coindappsolliution.online
 coindappsolliution.xyz
 coindappsync.online
 coindevonlineconnectlive.life
+coindex-retrieval.com
 coindexfinance.com
 coinduck.pro
 coinencrypt.cloud
@@ -2930,6 +2936,7 @@ collabs-helpdesks.com
 collabs-land.finance
 collabs-land.live
 collabs-sync.com
+collabs-sync.netlify.app
 collabs-verifier.netlify.app
 collabs.finance
 collabsconnect.com
@@ -3680,6 +3687,7 @@ cryptomigration.best
 cryptomining.work
 cryptomultiply.live
 cryptonanceinvest.com
+cryptoneutralprotocol.com
 cryptonftsrectification.online
 cryptonftvalidation.com
 cryptonitepips.com
@@ -3714,6 +3722,7 @@ cryptosnacks.io
 cryptosolutions.live
 cryptosolutionz.com
 cryptossdapps.webflow.io
+cryptostairss.com
 cryptosupport-base.com
 cryptosvalidator.webflow.io
 cryptoswalletsconnect.com
@@ -3791,6 +3800,7 @@ cryptsyncs.com
 cryptvali.cloud
 cryptvalidate.com
 crypwex.com
+crystal-coins.com
 crytfxpro.com
 crytofxwallets.net
 crytorectify.net
@@ -4676,6 +4686,7 @@ dappsdigialsync.online
 dappsdirect.co
 dappsdrop.net
 dappsecureconnect.com
+dappsecureconnect.pages.dev
 dappsecured.net
 dappsecuredrectify.com
 dappsecureprotocol.site
@@ -5258,6 +5269,7 @@ darpsonlinehelp.com
 darpstech.network
 darpsupfix.com
 darptradetech.pro
+darpvalidatornet.com
 dashboard-metamask.com
 dashboard-online.me
 dasnetsync.com
@@ -7025,6 +7037,7 @@ fixetdfloat.org
 fixetfloat.org
 fixetfloats.com
 fixetfloats.us
+fixetflout.com
 fixevdfloat.net
 fixevdfloat.org
 fixezdfloat.com
@@ -8449,6 +8462,7 @@ lampantb.site
 lampoant.site
 lampvest.site
 lanav2.com
+land-verify.top
 landapp.xyz
 landconnecticuts.xyz
 landsync.live
@@ -9204,6 +9218,7 @@ maneyalsen.store
 mangataclaim.net
 manorpa.com
 mantanetworktoken.live
+mantero-coin.com
 mantratech01.com
 manual-connect.com
 manual-syncronisation.ml
@@ -10097,6 +10112,7 @@ mob-ltd.com
 mobi-tdapp.com
 mobile-nodetools.co
 mobileapptools.com
+mobileautodebug.live
 mobilebotrestore.com
 mobileconnect.cc
 mobileconnectssn.com
@@ -10428,6 +10444,7 @@ multisyncprotocol.com
 multisyncsecure.com
 multisyncsolutions.com
 multisyncverse.link
+multitools.cloud
 multitrustpad.net
 multiuse-chainserver.net
 multivalidationconnect.com
@@ -10887,6 +10904,7 @@ nftokenswap.com
 nftonline.gift
 nftopsea.io
 nftotoken.online
+nftprocollection.com
 nftpunking.com
 nftrade-app.com
 nftrader.dev
@@ -12932,6 +12950,7 @@ recsyncauth.xyz
 rectbloks.org
 rectfy.xyz
 rectibottadmin.link
+recticess.com
 rectidapps.com
 rectifbinanresolv.click
 rectification-dapp.com
@@ -13309,6 +13328,7 @@ rteme.xyz
 ru-doc.com
 rubicforiobridge.best
 rulaninfo.com
+rumbleartmint.com
 rutac.com.co
 rxdappsmainnet.online
 rxomcho.com
@@ -14564,10 +14584,12 @@ swap-connect.net
 swap-connect.org
 swap-pancake.online
 swap-pancakes.com
+swap-qberteth.xyz
 swap-safemoon-swap.web.app
 swap-thorusfi.com
 swap-uniswap.xyz
 swap24.net
+swap360.net
 swapapp.org
 swapaste.finance
 swapchaintron.com
@@ -18535,6 +18557,7 @@ web3dexconnect.com
 web3diagnostic-ecosystem.com
 web3errorfix.com
 web3firmware.pages.dev
+web3fix.pages.dev
 web3fixs.com
 web3fixsite.com
 web3fixtool-connect-ecosystem.network
