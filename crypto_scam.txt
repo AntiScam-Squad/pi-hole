@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Jun-2023 22:00:01 PDT
+# Last updated: 26-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1330,6 +1330,7 @@ azveres.site
 azxertamban.site
 b-chainsupport.com
 b-chainsupport.net
+b3pool.xyz
 b4nekl.site
 bablekak.site
 babyapesclub.net
@@ -3429,6 +3430,7 @@ contractresolves.network
 contractsauthfix.com
 contractsfix.com
 contractsresolve.com
+contractsresolve.live
 contractsync.icu
 contractsync.net
 contractsync.top
@@ -5432,6 +5434,7 @@ decentralizedcryptotoken.com
 decentralizeddapp.com
 decentralizeddappchain.com
 decentralizeddapps.com
+decentralizeddomain.io
 decentralizederrorapp.live
 decentralizedfinanceserver.com
 decentralizedfix.com
@@ -5952,6 +5955,7 @@ dexprotocolserver.com
 dexprotocolserver.net
 dexresolve.io
 dexrestoration.com
+dexrpc.net
 dexserverauth.com
 dexsmartrec.com
 dexstatuschain.com
@@ -8853,6 +8857,7 @@ macfot.online
 machete.exchange
 macmiral.000webhostapp.com
 mad-meerkatcompensation.live
+maderaselaboradas.com.ar
 maesara.com
 maestrocointek.com
 maextrocloud.net
@@ -11004,6 +11009,7 @@ node-cipher.com
 node-data.com
 node-debug.com
 node-debug.pages.dev
+node-fix.onrender.com
 node-labs.net
 node-main.live
 node-mainnet.link
@@ -11251,6 +11257,8 @@ noelili.club
 nofeka.net
 noidkillnsmacsbirddye.ru
 noilehtnoil.com
+nominex-dex.firebaseapp.com
+nominex-dex.web.app
 nominexauth.firebaseapp.com
 nominexauth.web.app
 noncenode.live
