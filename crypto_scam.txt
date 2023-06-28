@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Jun-2023 22:00:02 PDT
+# Last updated: 27-Jun-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2800,6 +2800,7 @@ collab-land-verify.com
 collab-land.co
 collab-land.eu
 collab-land.info
+collab-land.pw
 collab-land.top
 collab-landhelpdesk.com
 collab-lands.cf
@@ -4339,6 +4340,7 @@ dappnodes.host
 dappnodetools.online
 dappnodevalidator.com
 dappnodevalidator.online
+dappnodez.com
 dappocket.com
 dappofficeretify.online
 dapponline.live
@@ -11052,6 +11054,7 @@ nodeauthenticate.org
 nodeauthorization.online
 nodeauthy.space
 nodebasin.com
+nodeblock.net
 nodeblockchain-lab.com
 nodebridge.site
 nodebridge.xyz
@@ -11062,6 +11065,7 @@ nodebridges.com
 nodecertify.com
 nodechain.live
 nodechain.me
+nodechain.net
 nodechainapp.com
 nodechainetwork.online
 nodechainnetwork.online
@@ -11888,6 +11892,7 @@ paseh.site
 pasklam.site
 pass-yela.com
 passsolve.xyz
+pataxchain.com
 patkonth.site
 paulatierney.com
 paulgoldhunter.com
@@ -15241,6 +15246,7 @@ takeypro.com
 takment.site
 takmponmant.site
 takwwsas.site
+talisman-wallet.com
 talismanwallet.com
 tamaadoge.net
 tankast.site
