@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Jun-2023 22:00:01 PDT
+# Last updated: 29-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -828,6 +828,7 @@ approve-collab.land
 approved-networks.live
 approved-ntworks.live
 apps-bots.live
+apps-chainbridge-portals-html-ukl.vercel.app
 apps-connect.xyz
 apps-dappify.online
 apps-linkup.co
@@ -2813,6 +2814,7 @@ collab-land.eu
 collab-land.info
 collab-land.pw
 collab-land.top
+collab-land.wiki
 collab-landhelpdesk.com
 collab-lands.cf
 collab-landweb3.com
@@ -3647,6 +3649,7 @@ cryptoairdrops.tk
 cryptoairdropsystem.com
 cryptoanalysers.com
 cryptoantminer.org
+cryptoapponline.com
 cryptoappresolve.com
 cryptoappsauthenticator.support
 cryptoardrop.com
@@ -5107,6 +5110,7 @@ dappsync-extensions.com
 dappsync.gq
 dappsync.io
 dappsync.live
+dappsync.net
 dappsync.nl
 dappsync.surge.sh
 dappsync.tk
@@ -16460,6 +16464,7 @@ userportal.icu
 userprotocol.net
 usersfreemints.click
 usersolution.net
+usertech.org
 usertool.org
 usertroubleshoot.com
 uservalidationdapp.info
