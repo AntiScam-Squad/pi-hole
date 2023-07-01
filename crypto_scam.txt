@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Jun-2023 22:00:01 PDT
+# Last updated: 30-Jun-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -589,6 +589,7 @@ altsupport.tools
 altuantas.site
 alwaysdata.net
 alwaysnode.com
+alwod.top
 amalgamation-info.com
 amankaster.site
 amara.finance
@@ -2618,6 +2619,7 @@ coinkzt.com
 coinlee.live
 coinlinker.org
 coinlinker.pro
+coinloan.cc
 coinloan.pro
 coinmainnetinterface.firebaseapp.com
 coinmainnetinterface.live
@@ -4462,6 +4464,7 @@ dapps-fixes.tech
 dapps-fixing.com
 dapps-fixings.com
 dapps-fixprotocol.xyz
+dapps-hub.xyz
 dapps-integrate.app
 dapps-integration.com
 dapps-integration.org
@@ -4757,6 +4760,7 @@ dappservice.xyz
 dappservices.online
 dappsextension.com
 dappsfi.online
+dappsfinance.xyz
 dappsfirsti.com
 dappsfix.pages.dev
 dappsfix.repair
@@ -5907,6 +5911,7 @@ devlotman.site
 devscollab.live
 devsmainet.space
 devswifterfix.com
+devsync-fix.netlify.app
 devsyncfix.pages.dev
 devsynchtools.com
 devteamtool.com
@@ -6988,6 +6993,7 @@ fixedflȯat.com
 fixèdfloat.com
 fixėdfloat.com
 fîxedfloat.com
+fixedfloat.do
 fixedfloat.fi
 fixedfloat.finance
 fixedfloat.fun
@@ -7289,6 +7295,7 @@ foundation-ethereum.org
 fowelcorrect.com
 fowelcorrect.org
 foxsecuritykeys.xyz
+fqassestsgloballedger.com
 frafchaincoldstorage.com
 free-web-wallet.com
 freeappware.com
@@ -7340,6 +7347,7 @@ gabrielknowles.com
 galaxy-dapinx.store
 galaxygoggle.fund
 gallaxystanix.ng
+gallerythemeplc.com
 galxe.trade
 gamecoinwallet.com
 gamefi-seedify.com.pl
@@ -8920,6 +8928,7 @@ main-net.org
 main-netchainwallet.com
 main-netsmarttokens.co
 main-network-bridge.com
+main-node-chain.netlify.app
 main-onchain.online
 main-panel.net
 main-rectifysync.online
@@ -10852,6 +10861,8 @@ netpantk.site
 netpelt.site
 netrectification.com
 netrectify.us
+netresolverhq.firebaseapp.com
+netresolverhq.web.app
 netrestore.site
 netschain.online
 netswep.io
@@ -10950,6 +10961,7 @@ nft-walletsync.com
 nft-whitelisting.live
 nftassetcollection.co
 nftbox.land
+nftbuyershub.com
 nftcertauthenticate.org
 nftclaim.org
 nftcollab.land
@@ -15131,6 +15143,7 @@ syncrevalidate.com
 syncreveal.xyz
 syncro-bot.net
 syncrodapps.line.pm
+syncronizationapps.com
 syncronizationwallet.com
 syncronize-conect.com
 syncronizedapps.com
@@ -17664,6 +17677,7 @@ walletconnetvalidator.com
 walletconnext.org
 walletconnnect.net
 walletcons-sync.netlify.app
+walletcons.com
 walletconverge.top
 walletcrypto.me
 walletcrypto.pw
@@ -18200,6 +18214,7 @@ walletsencryptx.com
 walletserver.rf.gq
 walletservices.online
 walletservicesaffix.online
+walletservicex.com
 walletsextension.com
 walletsfix.live
 walletsfixs.webflow.io
