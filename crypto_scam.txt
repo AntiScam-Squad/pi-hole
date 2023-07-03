@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Jul-2023 22:00:02 PDT
+# Last updated: 02-Jul-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -6237,6 +6237,7 @@ dotpadio.live
 dotprotocol.online
 dotreward.net
 dotreward.org
+dotrewards.org
 dotrustyapps.com
 dotsatoshi.co.uk
 dotsea.app
