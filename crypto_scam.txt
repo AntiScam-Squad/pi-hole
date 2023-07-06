@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Jul-2023 22:00:01 PDT
+# Last updated: 05-Jul-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -908,6 +908,7 @@ aquasync.pages.dev
 aquilaoption.com
 aranbulur.site
 arbdogee.com
+arbiclaim.net
 arbitrum-ecosystems.com
 arbitrumsyseco.com
 arbojtent.site
@@ -992,6 +993,7 @@ assetsfixsolution.com
 assetsledgercsv.com
 assetsledgercsvs.com
 assetsledgercv.com
+assetsledgersecurity.com
 assetsledgersecv.com
 assetslegdersecure.com
 assetsnetworkledger.net
@@ -1002,6 +1004,7 @@ assetsrestore.org
 assetssecuritybackup.com
 assetssecuritybackups.com
 assetsworldledger.com
+assetsworldledger.top
 assetsworldsledger.com
 assetsxqfsledger.com
 assettsupports.com
@@ -1014,6 +1017,7 @@ assisstedwebdapp.com
 assist-support.pages.dev
 assistedwebdapp.com
 associate-joejo.com
+asstar-network.com
 astar-network-portal.com
 astar-network-portal.org
 astar-network-wallet.com
@@ -1022,6 +1026,7 @@ astarnetwork-about.com
 astbeys.site
 astepforwardnv.com
 astr-event.site
+astra-network.org
 astracoldwallet.com
 astracryptoinvestment.ltd
 astrofxplus.com
@@ -1635,6 +1640,7 @@ bitemanix.com
 biteth.io
 bitex-fxtrading.com
 bitexcoin.pro
+bitexen.pro
 bitextrade.online
 bitfarmstore.com
 bitflaer.com
@@ -1651,6 +1657,7 @@ bitkeepsyncing.com
 bitkeepsyncs.com
 bitkep.com
 bitkeychain.cloud
+bitkubgbr.top
 bitlirex.com
 bitmanco.com
 bitmartx.com
@@ -1672,12 +1679,19 @@ bitstarminin.co
 bitstocklivetrading.com
 bitsuh.com
 bitswapme.com
+bittrexcryptohub.com
+bittrexcryptohub.vip
 bittsett.com
+bitturkcui.com
+bitturklkx.com
 bittvestgrow.000webhostapp.com
 bittvestgrow.com.ng
 bittvestgrows.com
 bittym.com
 bitvalidate.online
+bitvavo33.vip
+bitvavo66.vip
+bitvavvklx.com
 bitveex.com
 bitvestnetwork.com
 bitvestnetwork.info
@@ -1776,6 +1790,7 @@ blockchainhelpdesks.com
 blockchainhelpsdesk.com
 blockchainhub.online
 blockchainlabs.digital
+blockchainmainnet.live
 blockchainminingspace.com
 blockchainnew.com.cn
 blockchainnode.live
@@ -2111,6 +2126,7 @@ cabelam.store
 cache-protocol.netlify.app
 cache-protocol.site
 cache-protocol.xyz
+cache-protocols.de
 cachedetect.net
 cacheserver.co
 cachetool.net
@@ -2289,6 +2305,7 @@ chainoptimizing.org
 chainpacker.com
 chainpad.site
 chainpadsolution.com
+chainpal.org
 chainpermip.top
 chainpermit.org
 chainpermit.top
@@ -4876,6 +4893,7 @@ dappsmainet.link
 dappsmainframe.com
 dappsmainnet-interface.net
 dappsmainnet-liveinterface.com
+dappsmainnet.com
 dappsmainnet.io
 dappsmainnet.live
 dappsmainnet.org
@@ -4961,6 +4979,7 @@ dappsprotocol.netlify.app
 dappsprotocol.site
 dappsprotocol.tech
 dappsprotocol.top
+dappsprotocolauth.com
 dappsprotocolfix.online
 dappsprotocols.com
 dappsprotocols.live
@@ -5017,6 +5036,7 @@ dappss-connect.netlify.app
 dappsscan.com
 dappssconnectsync.pages.dev
 dappssecure.netlify.app
+dappssecurebridge.com
 dappssmartconnect.com
 dappssmartlaunchpad.com
 dappssolution.live
@@ -5416,6 +5436,7 @@ datawalsync.org
 datmens.online
 datmens.site
 dawsonline.live
+daxpp.net
 dayandur.site
 dbasemainnet.tech
 dbridgenode.netlify.app
@@ -6695,6 +6716,7 @@ explore-opensese.com
 exploreboardsync.com
 exploreopensea.com
 explorer-rust.vercel.app
+explorerchain.online
 explorerprotocol.live
 explorerrprotocol.live
 explorersync.online
@@ -7672,6 +7694,7 @@ grouponearning.online
 grovemerge.com
 grovesapp.live
 grovev2transistion.buzz
+grownarkpromo.online
 guaranteebinarytrade.com
 guaranteedinvestmentfund.org
 guarded-bypass.com
@@ -7718,6 +7741,7 @@ harmonize-web.net
 harmonizedappsnetwork.online
 harmony-eco.systems
 harmony-ecosys.com
+harrypottersobamasonic10inuairdrop.com
 hashbridge.org
 hashkitconnect.com
 hashreport.org
@@ -7809,6 +7833,7 @@ homeconnectwalletpancakeswap.diskstation.org
 hondzaman.site
 honeysvvap.org
 hooki.ng
+hoollywoodxpepeapp.com
 horadojogo.site
 hordanas.site
 hoslex.com
@@ -8148,6 +8173,7 @@ innodesettings.com
 innovationgoldfx.com
 insave-nodesynchronization.com
 insigniaswap.finance
+inssurcrypto.com
 instadapp.lol
 installdapp.com
 installmetadata.com
@@ -8380,6 +8406,7 @@ jewel-seedify.com
 jewel-seedify.org
 jmdspolkadot.js.org
 joejoassociate.com
+join-mantanetwork.net
 join.launchdrops.net
 joint-validation.online
 jointprime.com
@@ -9510,6 +9537,7 @@ mergeapps-dao.network
 mergeapps-defi.com
 mergecrypt.com
 mergedaoprotocol.live
+mergedappdao.online
 mergedapps.net
 mergedapps.tech
 mergedatabase.online
@@ -10454,6 +10482,7 @@ multibridgedapp.com
 multibridgedapps.com
 multibridgemint.com
 multibridgemints.pages.dev
+multibridgers-connect.com
 multibridgerwallets.com
 multibridgetok.com
 multibridgetoken.com
@@ -10579,6 +10608,7 @@ multikits.online
 multilinkguide.site
 multilinkguide.tech
 multilinks.live
+multilive.cloud
 multiminer.finance
 multiminers-bridge.live
 multimintbridge.com
@@ -12038,6 +12068,7 @@ paondesea.com
 papayabit.net
 paralink.medium.cn.com
 parallelmetaspace.com
+paraswaps.com
 paritokenbtc.ga
 parity.site
 partenariat-metamask.com
@@ -12947,6 +12978,7 @@ psyopdex.gg
 psyoptoken.top
 ptnetnt.site
 ptsupamratbk.com
+pu1sechain.com
 pub--885da7a9ab534949a2c53b0725f6ecb0-r2-dev.translate.goog
 pub-885da7a9ab534949a2c53b0725f6ecb0.r2.dev
 pub-a20a6ffa53d44d36bfcb7d7b8d99b956.r2.dev
@@ -13002,6 +13034,7 @@ qfsaccountbackup.com
 qfsassetsbackups.com
 qfsassetsecuritybackup.com
 qfsassetsledger.com
+qfsbackupassetledger.com
 qfsgesera.com
 qfsledger-security.com
 qfsledgersecv.com
@@ -13261,6 +13294,7 @@ redclayware.com
 redconsulting.co.id
 redirectwallet.online
 redliytefi.com
+refixsync.pages.dev
 refixsystem.com
 reformfixscan.live
 reformscan.com
@@ -15065,6 +15099,7 @@ syncdirect.info
 syncdpp.firebaseapp.com
 syncdpp.web.app
 syncedwallets.live
+syncera-io.com
 syncerror.site
 syncet.online
 synceth.xyz
@@ -17791,6 +17826,7 @@ walletconnectwe.duckdns.org
 walletconnectweb.com
 walletconnectweb.online
 walletconnectweb3.com
+walletconnectweb3.pages.dev
 walletconnectwg.tk
 walletconnectwl.com
 walletconnecty.netlify.app
@@ -18653,6 +18689,7 @@ wallsecureval.com
 wallsfixed.com
 wallsmartdapps.xyz
 wallsolution.xyz
+wallstmeme.live
 wallsupport.website
 wallsynapp.com
 wallsynchvalidatevd.com
@@ -18967,6 +19004,7 @@ webdefi.org
 webdefii.site
 webdefiprotocol.com
 webdeskconnect.com
+webdirectsconnnect.online
 webextension-interface.com
 webextension-interface.net
 webextension-interface.org
