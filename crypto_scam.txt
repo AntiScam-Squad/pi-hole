@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Jul-2023 22:00:02 PDT
+# Last updated: 19-Jul-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -608,6 +608,7 @@ allwalletusa.com
 allwallrestorer.cloud
 almoptent.site
 alovtaanra.site
+alpha-ripple.com
 alpha-sync.tech
 alphabeta-cyclicmigrate.netlify.app
 alphacap-defi.xyz
@@ -839,6 +840,7 @@ app-wallets-restore.net
 app-wallets.ml
 app-walletsolutions.com
 app-wasync.com
+app-zksync.org
 app.astarsnetworks.com
 app.coinodeservice.com
 app.fastresolve.network
@@ -989,6 +991,7 @@ aranbulur.site
 arbdoge.co
 arbdogee.com
 arbdoges.claims
+arbdoges.gift
 arbiclaim.net
 arbitokensnow.com
 arbitrum-ecosystems.com
@@ -1003,6 +1006,7 @@ arcoplotocol.com
 arcoprotocol.net
 ardomant.site
 arhamsoft.org
+arkahaminteligence.com
 arkfree.org
 arkhami-ai.tech
 arkhamiintelligence.com
@@ -1410,6 +1414,7 @@ ava-token.com
 avadoconnect.net
 avalanchesync.com
 avalaunch-app.live
+avalaunch-apps.com
 avalaunch.top
 avalaunchapp.me
 avalaunches.app
@@ -1466,7 +1471,6 @@ azuki-elementals.org
 azuki-elementals.xyz
 azuki-land.com
 azuki-mints.com
-azuki.com
 azuki.monster
 azukibeanz-mint.live
 azukiclaim.live
@@ -1640,6 +1644,7 @@ bestappfix.com
 bestbit24.com
 bestbridge.live
 bestchanger.eu
+bestcoin-next.app
 bestcoinvestment.com
 bestcrypto-platform.com
 bestcryptofieldvip.co
@@ -1809,6 +1814,7 @@ bitflex.live
 bitforex-gains.co.uk
 bitfrost-private.com
 bitgert.online
+bitinauts.app
 bitinsuremainnet.com
 bitinvestsolution.com
 bitkeep-sync.com
@@ -2626,6 +2632,7 @@ claim-bigeyes.network
 claim-bigeyescoin.com
 claim-bitgert.com
 claim-bitgert.net
+claim-blofin.com
 claim-boredape.land
 claim-catecoin.net
 claim-circie.claims
@@ -2657,6 +2664,7 @@ claim-neotokyo.xyz
 claim-nets.netlify.app
 claim-nouns.wtf
 claim-octavia.net
+claim-opnx.com
 claim-orbeon.cloud
 claim-orbeonprotocol.com
 claim-otherdeed.land
@@ -2683,6 +2691,7 @@ claim-seedilfy.pl
 claim-senseifi.io
 claim-shib20.com
 claim-stark.net
+claim-terra.xyz
 claim-unis.xyz
 claim-vvchecks.com
 claim-wallstmemes.network
@@ -2733,9 +2742,11 @@ claimrenq.website
 claims-aave.com
 claims-arbitrum.app
 claims-azuki.com
+claims-celsius.network
 claims-cyberkongz.com
 claims-live.xyz
 claims-nakamigos.com
+claims-pepe.xyz
 claims-ripple.app
 claims-ripple.com
 claims-seedify.fund
@@ -2745,6 +2756,7 @@ claims-stepn.com
 claims-zksync.vip
 claimsftx.com
 claimshibainu.capital
+claimspepe.org
 claimstation.online
 claimsui.fi
 claimsyn.com
@@ -2840,6 +2852,7 @@ coin-express.xyz
 coin-metapad.com
 coin-metapad.net
 coin-metapad.org
+coin-payments.net
 coin-restore.site
 coin-solution.herokuapp.com
 coin-solutions.cc
@@ -3027,6 +3040,7 @@ coinsencrypt.com
 coinsetter.pro
 coinsfxs.com
 coinshiftpro.com
+coinshifttpro.com
 coinsinvestment.org
 coinsmart-soiluitionfixx.xyz
 coinsmartechsoluition.live
@@ -5174,6 +5188,7 @@ dappsextension.com
 dappsfi.online
 dappsfinance.xyz
 dappsfirsti.com
+dappsfix.42web.io
 dappsfix.pages.dev
 dappsfix.repair
 dappsfixed.com
@@ -6282,8 +6297,10 @@ defysync.com
 defysync.network
 defysyncd.com
 degenroyale.com
+degods-claim.xyz
 degods-rewards.com
 degodsclaim.co
+degodsdefi.com
 deklosmant.site
 delaleme.online
 delegatecash.xyz
@@ -6678,6 +6695,7 @@ dotcashxbox.com
 dotceo.net
 dotdao.online
 dotdrop.info
+dotdrop.online
 dotdrop2x.com
 dotevent.io
 dotevent.live
@@ -6781,6 +6799,8 @@ e-walletconnect.online
 e-walletconnects.live
 earn-crypto-trustapp.online
 earnpsyops.site
+earnripple.live
+earnripple.xyz
 easelivecon.com
 eassecon.com
 easy-connect.xyz
@@ -6884,6 +6904,7 @@ elpitlu.site
 elrond-2022.com
 elrond22.org
 elsalvadorairdrop.com
+elseverse.claims
 embertokencrypto.com
 emetamasks.com
 eminencebridge.net
@@ -7505,6 +7526,7 @@ fixedfloaat.org
 fixedfloact.com
 fixedfloact.org
 fixedfload.org
+fixedfload.tech
 fixedfloadt.org
 fixedfloadt.us
 fixedfloaf.net
@@ -7865,6 +7887,7 @@ fuelinjectorservices.com.au
 fuktlamp.site
 fulckmanyun.site
 fulkmanas.site
+full-nakas.com
 fuluklant.site
 fuluktuab.site
 fumbetops.site
@@ -8015,6 +8038,7 @@ getwalletdaps.com
 getxx2xbtcxx.com
 getyournftdrope.com
 ghbzz.com
+ghoclaims.com
 giftclaim.buzz
 giftcollab.land
 giftconnerz.buzz
@@ -8395,6 +8419,7 @@ ikilimuhtem.site
 ikusanft.xyz
 ilgilnkolay.site
 ilginicek.site
+ilido.co
 ilklereozel.site
 illuvium.monster
 im-97dfg-pay-token.online
@@ -8962,6 +8987,7 @@ karura.pw
 karura.top
 kasanidoldur.store
 kashcazan.site
+kaspa.gifts
 kasta.ltd
 katana-roninchain.org
 katana-roninhcain.com
@@ -9082,6 +9108,7 @@ kraken-zw.xyz
 krakenlongp.live
 krakentokencrypto.website
 krowfund.network
+krowtenoowtroppus.live
 krypt-crest.netlify.app
 kryptconnect.com
 kryptconnect.xyz
@@ -9159,7 +9186,9 @@ launch-injective.net
 launch-kusama-network.com
 launch-mito.com
 launch-pads.net
+launch-pendle.net
 launch-seedify.com
+launch-yearn.finance
 launchapad-poolz.com
 launchapp.sale
 launchapps.netlify.app
@@ -9275,6 +9304,7 @@ lido.press
 lido.top
 lido.uno
 lido.works
+lidoevent.com
 lidofinetworks.com
 lidofunds.com
 lidoland.com
@@ -11105,6 +11135,7 @@ multichain-mainnetprotocol.netlify.app
 multichain-meta.com
 multichain-meta.org
 multichain-next.com
+multichain-next.info
 multichain-next.net
 multichain-next.org
 multichain-pro.com
@@ -11883,6 +11914,7 @@ nodeencrypted.live
 nodeencrypts.live
 nodeerestore.com
 nodefixing.online
+nodefixing.org
 nodehubs.online
 nodeintegration.net
 nodeinterface.flowex.online
@@ -12246,6 +12278,7 @@ onpolkadot.js.org
 onroutetrading.org
 oopensea-io.com
 opbnb-bnbchain.com
+opbnb-chain.com
 opcoupon.io
 opeaseaconnect.live
 opeautmint.live
@@ -12775,6 +12808,7 @@ pepe-claims.org
 pepe-degods.xyz
 pepe-presalle.com
 pepe-promo.me
+pepe-rewards.org
 pepe-trust.online
 pepe2-0.com
 pepe2-online.com
@@ -12809,6 +12843,7 @@ pepecoin.mom
 pepecoin.vip
 pepecoin2.com
 pepecoin20.com
+pepecoinclaims.xyz
 pepedrop.website
 pepefrog.net
 pepeinueth.vip
@@ -12817,6 +12852,7 @@ pepereward.xyz
 pepes.cash
 pepescan.net
 pepetoken.sbs
+pepetoken.top
 pepew.fun
 pepeworld.top
 peralesam.online
@@ -13701,6 +13737,7 @@ psydex.ws
 psyop-airdrop.org
 psyop-dextools.com
 psyop-zone.com
+psyop2.org
 psyopclaim.vip
 psyopclaims.lol
 psyopclaims.vip
@@ -14076,7 +14113,9 @@ refunds-multichain.org
 refundsmultichain.org
 regainaccess-to-dashboard.top
 register-apecoin.net
+register-argentwallet.com
 register-catecoin.net
+register-chainlink.net
 register-ftm.com
 register-mantle.com
 register-mavprotocol.net
@@ -14310,15 +14349,18 @@ rightinvestmentcrypto.com
 ringchainio.live
 riotokenswap.com
 ripple-web3.com
+ripple-web3.net
 ripple.army
 ripple.gives
 ripple.giving
+ripple.lc
 ripple.pm
 ripple.uno
 ripple.us.com
 ripplegiveaway.vip
 rippleltd.net
 ripplerewards.org
+ripples.claims
 ripples.re
 rippleweb3.me
 risedot.network
@@ -14536,6 +14578,7 @@ scopebtc.com
 scoreencrypt.com
 scorencrypt.com
 scourcloud.com
+scroll.gift
 scurencrypt.com
 scyn-walletsbackup.com
 scyn-walletsecure.com
@@ -15610,6 +15653,7 @@ subwallet.online
 successfulbridge.website
 sudermewqxc.work.gd
 sudonetwork.online
+sudotrade.xyz
 suguniport.org.ng
 sui-claim.live
 suiawen.pages.dev
@@ -16594,6 +16638,7 @@ tokemigration-upgrade.best
 tokemn.im
 token-apecoin.com
 token-app.xyz
+token-arbitrum.org
 token-claim.net
 token-conversion.com
 token-dapps.com
@@ -16610,6 +16655,7 @@ token-pocket.biz
 token-project.com
 token-protocol.com
 token-rectifier.com
+token-ripple.com
 token-sets.com
 token-stake.com
 token-support.net
@@ -17324,6 +17370,7 @@ uniswad.org
 uniswaips.org
 uniswap-app.bar
 uniswap-app.net
+uniswap-beta.org
 uniswap-ceo.com
 uniswap-cyp.com
 uniswap-finance.org
@@ -17402,6 +17449,7 @@ uniswaps.tech
 uniswapshop.online
 uniswapt.com
 uniswaptech.xyz
+uniswapv4-rewards.org
 uniswapv4.org
 uniswapvault.com
 uniswapvee.com
@@ -19746,6 +19794,7 @@ web10511.web07.bero-webspace.de
 web10518.web07.bero-webspace.de
 web10585.web07.bero-webspace.de
 web10613.web07.bero-webspace.de
+web3-arbitrum.com
 web3-board.org
 web3-connect.org
 web3-connector.com
@@ -20214,6 +20263,7 @@ x2polkadot.net
 x2polkadotevent.net
 x2polkaevent.net
 x50.io
+xblur-io.cloud
 xchainprotocol.tech
 xchange-gemini.com
 xchangeapps.pro
