@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Jul-2023 22:00:02 PDT
+# Last updated: 25-Jul-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -735,6 +735,7 @@ apecoins.gl
 apecointokens.com
 apeconnect.site
 apedaodrop.com
+apedrop.net
 apegifterclaim.com
 apelandtoken.xyz
 apemax.net
@@ -812,6 +813,7 @@ app-erty.online
 app-ethpadnetwork.com
 app-flaredelegate.net
 app-honeypot.com
+app-lido.fi
 app-lido.finance
 app-live.org
 app-magiceden-app.ml
@@ -996,6 +998,7 @@ appwesendit.ink
 appwonderlandmoney.org
 aptos-launch.org
 aptosfound.org
+aptosfoundation.gift
 aptosıabs.com
 aptoslab-dappstool.xyz
 apygate-sync.com
@@ -2508,6 +2511,7 @@ chainbridge.live
 chainbridgefactory.xyz
 chainbridgeinfo.xyz
 chainbridges.online
+chainbugsfix.pages.dev
 chaincloudconnect.live
 chaincodperm.com
 chaincoin.epizy.com
@@ -2589,6 +2593,7 @@ chainset.space
 chainsfixedmaindappnet.com
 chainslab.net
 chainslab.tech
+chainslink.org
 chainslist.store
 chainsmainnet.com
 chainsolution.net
@@ -3249,6 +3254,7 @@ collab-holder-verification.com
 collab-land-api-verify.vercel.app
 collab-land-secure.com
 collab-land-sync.com
+collab-land-verification.github.io
 collab-land-verify.com
 collab-land.co
 collab-land.eu
@@ -3459,6 +3465,7 @@ compensation-multichain.com
 compound-defi.app
 compound-protocol.app
 compoundapp.tk
+compoundfin.com
 compoundfx.org
 compulsorymigration.best
 comylokman.site
@@ -6699,6 +6706,7 @@ distribution-ftm.org
 distribution-hamsterswap.com
 distribution-multichain.com
 distribution-multichain.org
+distribution-ripple.com
 distribution-worldcoin.com
 distributions-ftm.com
 distributions-ftm.network
@@ -6944,6 +6952,7 @@ efretem.store
 eglencesine.site
 eglenceyegel.site
 eheroapp.feibanana.com.br
+eigenlayer.tech
 eips-ethereum.org
 elaktram.online
 elcrpytovalidate.online
@@ -7066,6 +7075,8 @@ enter-chainlink.xyz
 enter-decentraland.org
 enter-goldera.net
 enter-indexcoop.net
+enter-lens.xyz
+enter-mantle.xyz
 enter-optimism.xyz
 enter-sui.net
 enter-thorchain.net
@@ -7434,6 +7445,7 @@ fetment.site
 fex-walletsec.com
 feykenenmsen.site
 ffixedfloat.org
+fflxedfload.com
 fflxedfloat.com
 fiatfix.live
 fibreaccessnetwork.com
@@ -7469,6 +7481,7 @@ finance-chain-liquidity.site
 finance-claim-reward-stake.site
 finance-earn-pools.site
 finance-earn-trade.site
+finance-lido.fi
 finance-liquidity-swap-v2.site
 finance-liquidity.quest
 finance-pancakeswap.go-to.in.net
@@ -8781,6 +8794,7 @@ initiatewalletconnection.com
 initiialize.000webhostapp.com
 inj-airdrops.com
 injective.claims
+injective.gifts
 inmtoken.top
 innhouse.team
 innodesettings.com
@@ -9398,6 +9412,7 @@ lezconnectwalle.com
 liberooficcial.com
 lida.finance
 lidio.online
+lido-app.pro
 lido-fiance.com
 lido-fin.com
 lido-finance.pro
@@ -14982,6 +14997,7 @@ seedfiy.com
 seedfiy.org
 seedfiy.website
 seedfly.org
+seedifay.fun
 seedifiy.org
 seedifiy.website
 seedifiyfund.net
