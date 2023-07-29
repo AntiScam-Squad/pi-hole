@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Jul-2023 22:00:02 PDT
+# Last updated: 28-Jul-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -7638,6 +7638,7 @@ fixedffloat.org
 fixedfiaot.com
 fixedfiloat.net
 fixedfiloat.network
+fixedfiloat.org
 fixedfioad.com
 fixedfịoat.com
 fixedfiood.com
@@ -9077,6 +9078,7 @@ join-mutichain.com
 join-pancakeswap.com
 join-pepe2.com
 join-pudgypenguins.xyz
+join-rocketpool.com
 join-safemoon.net
 join-sui.net
 join-uniswap.net
@@ -13253,6 +13255,7 @@ polkadot-pro.xyz
 polkadot-promo.info
 polkadot-promo.net
 polkadot-q86nz68f.js.org
+polkadot-qr-code.com
 polkadot-reward.network
 polkadot-rewards.network
 polkadot-staking.com
@@ -14621,6 +14624,7 @@ rocketpoal.com
 rocketpool-stake.com
 rocketpool-staking.com
 rocketpool.com.de
+rocketpool.trade
 rocketspace.online
 rockeycouriers.com
 rogercursapflow-tool.website
