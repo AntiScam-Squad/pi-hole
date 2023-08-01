@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Jul-2023 22:00:02 PDT
+# Last updated: 31-Jul-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1071,6 +1071,7 @@ arnoktar.site
 arocprotocol.tech
 aroken.xyz
 artauthenticateonnft.org
+artblocks.city
 artsminter.com
 arweave-v3.com
 asacear.site
@@ -1310,6 +1311,7 @@ authenticwebss.com
 authentikatortokken.duckdns.org
 authetic-web.com
 authewallet.live
+authfastwalletconnect.top
 authfix.pages.dev
 authfixnow.pages.dev
 authgladevalidate.live
@@ -3176,6 +3178,7 @@ coinsupport.app
 coinsupportlive.com
 coinsupports.live
 coinsvortexnft.com
+coinswaplab.com
 coinswipe.top
 coinswp.exchange
 coinsync.online
@@ -3281,6 +3284,7 @@ collab-land.wiki
 collab-land.win
 collab-landhelpdesk.com
 collab-lands.cf
+collab-lands.com
 collab-lands.site
 collab-lands.top
 collab-lands.xyz
@@ -3348,6 +3352,7 @@ collabland-verif.xyz
 collabland-verification-connect.vercel.app
 collabland-verification-user.vercel.app
 collabland-verification.vercel.app
+collabland-verify-assets.vercel.app
 collabland-verify.cc
 collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
@@ -4508,6 +4513,7 @@ dapp-comdex-ecosystem.com
 dapp-connect.cfd
 dapp-connect.co
 dapp-connect.pages.dev
+dapp-connect.vercel.app
 dapp-connects-web.com
 dapp-connects.com
 dapp-connects.firebaseapp.com
@@ -7012,6 +7018,7 @@ elementals-claim.com
 elementalsazuki.com
 elementalsazuki.xyz
 elepadlaunch.webflow.io
+eligibility-uniswap.org
 elitecryptoassets.com
 elitefidelitytrade.com
 eliteprotrade.xyz
@@ -7122,6 +7129,7 @@ enter-chainlink.net
 enter-chainlink.xyz
 enter-decentraland.org
 enter-goldera.net
+enter-hex.com
 enter-indexcoop.net
 enter-lens.xyz
 enter-mantle.xyz
@@ -7249,6 +7257,7 @@ eurotoken.live
 evalidboot.com
 evedome.io
 event-apecoin.xyz
+event-bitgert.com
 event-layerzero.network
 event-lido.fi
 event-metapad.com
@@ -7258,6 +7267,7 @@ event-multichain.org
 events-apecoin.com
 events-lido.fi
 events-movr3x.com
+events-worldcoin.org
 everdomedapps.online
 evergrowegcc.com
 everscale-ecosystem.com
@@ -7685,6 +7695,7 @@ fixedfleat.org
 fixedfleoat.net
 fixedfleot.com
 fixedfliot.com
+fixedflloat.net
 fixedflloat.us
 fixedflmoat.org
 fixedflo.at
@@ -7717,7 +7728,9 @@ fixedfloat.fi
 fixedfloat.finance
 fixedfloat.fun
 fixedfloat.in.net
+fixedfloat.la
 fixedfloat.ltd
+fixedfloat.marketing
 fixedfloat.mom
 fíxedfloat.net
 fixedfloat.one
@@ -7740,6 +7753,7 @@ fixedflod.org
 fixedfloiat.org
 fixedfloiat.us
 fixedflooat.org
+fixedfloot.cloud
 fixedfloot.org
 fixedfloot.tech
 fixedflorat.com
@@ -8592,7 +8606,9 @@ ido-sale.org
 idols-tube.su
 idowalletauthentication.com
 idwallet-kyc.com
+ifixedfloat.com
 iglesiavozdedios.cl
+igloos-pudgypenguins.com
 iimtokens.app
 ikilimuhtem.site
 ikusanft.xyz
@@ -9108,6 +9124,7 @@ join-babydogecoin.net
 join-badgerdao.net
 join-chain.link
 join-ftm.net
+join-injective.com
 join-lidofinance.com
 join-mantanetwork.net
 join-mantle.net
@@ -9364,6 +9381,8 @@ lampantb.site
 lampoant.site
 lampvest.site
 lanav2.com
+land-connect.github.io
+land-verify.com
 land-verify.top
 landapp.xyz
 landconnecticuts.xyz
@@ -9455,6 +9474,7 @@ ledger-fix.solutions
 ledger-live.onrender.com
 ledger-sync.online
 ledger-zksnyc.com
+ledger-zksync.com
 ledger22.com
 ledgercommunity.online
 ledgerlive-reconnect.com
@@ -9814,6 +9834,7 @@ lunchdapps.netlify.app
 lunotradingcompany.com
 luntoken.xyz
 luplepts.site
+lybra-fi.network
 lydiahelps.com
 lynodes.com
 lyredcsez.site
@@ -9888,6 +9909,7 @@ maincollabdirects.com
 mainconnectedwallet.com
 mainconnectify.com
 mainconnectionbot.co
+mainconnectrectify.com
 mainconnectrectstore.online
 mainconnectwallet.xyz
 maincorrectionbot.com
@@ -12778,6 +12800,7 @@ pancakeswap-finance-airdrop.rf.gd
 pancakeswap-finance-claim.site
 pancakeswap-finance-liquidity-pool.site
 pancakeswap-finance-swap-liquidity-v2.site
+pancakeswap-finance-v2.org
 pancakeswap-finance.live
 pancakeswap-finance.pages.dev
 pancakeswap-finance.toorakcentral.com
@@ -12948,6 +12971,7 @@ pancakesweap-trade.com
 pancakeswep-exchange.com
 pancakeswep-holding.com
 pancakeswep.info
+pancakeswep.live
 pancakeswep2.com
 pancakeswip-earn.com
 pancakeswithpurpose.com
@@ -13767,6 +13791,7 @@ polygonprotocolvalidations.com
 polygontechnology.pro
 polygonweb.space
 polygos-tecnology.live
+pond0x.gift
 ponkacesvvap-finance.com
 ponkacesvvop-finance.com
 ponkaceswap-api.com
@@ -13958,6 +13983,7 @@ protocol-connect.pages.dev
 protocol-defi.com
 protocol-defi.site
 protocol-fix.org
+protocol-lido.fi
 protocol-sync.live
 protocol-syncc.com
 protocol-tool.com
@@ -14052,6 +14078,7 @@ publicdefinetwork.com
 publicdevappstools.com
 pudgy-metaverse.com
 pudgypengiuns.co
+pudgypenguins.claims
 pudgypengunis.com
 pulpapt.site
 pulsebridgex.info
@@ -14125,6 +14152,7 @@ qrauth.live
 qrconnect.xyz
 qrconnet.com
 qrcunigen.com
+quai.claims
 qualismais.odo.br
 quantum-connect.net
 quantum-fidelity.online
@@ -15981,6 +16009,7 @@ sudonetwork.online
 sudotrade.xyz
 suguniport.org.ng
 sui-claim.live
+sui-network-wl.com
 suiawen.pages.dev
 suiclaims.com
 suit-trazorr.io
@@ -17980,6 +18009,7 @@ v2shinjanobi.org
 v2tokenbridge.live
 v2tokenmigration.live
 v2tokenswitch.live
+v3-pancakeswap.finance
 v3-seedify.fund
 v3-uniswap-token.im
 v3-withdraw.quest
@@ -20195,6 +20225,7 @@ web3-usdc.xyz
 web3-validate.com
 web3-waletconnect.com
 web3-walletconnect.com
+web3-worldcoin.com
 web3access.online
 web3alldapprotocol.com
 web3appconnect.live
@@ -20600,11 +20631,15 @@ wor.unaux.com
 workerscompensationappealboard.com
 workonminworld.com
 worldassestsledger.com
+worldcoin-airdrop.top
+worldcoin.gifts
 worldcoin.si
+worldcoıns.xyz
 worldeternalsonline.com
 worldiscoveryperu.com
 worldwalletconnect.com
 worldwdehost.jp
+worldx-coin.com
 wowamw.com
 wpolkadot.js.org
 wpolkadot.network
@@ -20635,6 +20670,7 @@ wwwpolkadot.js.org
 wwwverificationmetamask.com
 wx-nodeconnectap.com
 wxlivec.top
+x-worldcoin.space
 x0384-open-sea-recover.com
 x2polkadot.net
 x2polkadotevent.net
@@ -20765,6 +20801,7 @@ xtrememinners.com
 xtztoken.site
 xvidparty.com
 xvyhelpdeskiosolution.homes
+xworldcoln.com
 xx0x2fdc2aec4bad85a06d87c8248716a5dedd647074.live
 xxxcinnexxt.online
 xxxpolietrayxyz.homes
@@ -20856,6 +20893,7 @@ zerionwallet.com
 zero-swap.site
 zextsupports.com
 zhifeijimx.com
+zigzag.gifts
 zillx.network
 zilochain.com
 zinnx.com
