@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Aug-2023 22:00:02 PDT
+# Last updated: 02-Aug-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -722,6 +722,7 @@ apecoin.land
 apecoin.plus
 apecoin.red
 apecoin.team
+apecoinaird-technology.com
 apecoinclaim.in
 apecoinclaimer.com
 apecoinconnect.com
@@ -2563,6 +2564,7 @@ chainlinkpads.com
 chainlinkrewardauthy.com
 chainlinkrpcerrrors.buzz
 chainlinks.finance
+chainlinks.gift
 chainlinkvalidation.com
 chainlist-rpc.org
 chainmatrixlink.xyz
@@ -3297,6 +3299,7 @@ collab-lands.top
 collab-lands.xyz
 collab-landweb3.com
 collab-link.online
+collab-secure.com
 collab-tools.live
 collab-validator.com
 collab-verifier.netlify.app
@@ -4376,6 +4379,7 @@ currency-connect.com
 currency-developer-crypto.xyz
 currentcontract.best
 currentcrypto.ca
+curve-claims.org
 curve-fi.live
 curve-fi.shop
 curve-fi.site
@@ -6760,6 +6764,7 @@ discordrectify.com
 disgextension.com
 diskstation.eu
 disputemask.com
+distribute-hex.com
 distribution-aptoslabs.net
 distribution-arkhamintelligence.com
 distribution-bald.com
@@ -7827,6 +7832,7 @@ fixedtfloat.net
 fixedufloat.info
 fixedufloat.org
 fixedupallwalleterrors.org
+fixedupwallet.epizy.com
 fixedvfloat.info
 fixedvfloat.net
 fixedvfloat.org
@@ -8114,6 +8120,7 @@ galaxy-dapinx.store
 galaxygoggle.fund
 gallaxystanix.ng
 gallerythemeplc.com
+galxe-airdropclaim.com
 galxe.trade
 game-pudgypenguins.com
 game-pudgypenguins.net
@@ -8719,6 +8726,7 @@ importreviewer.online
 importrewards.com
 importrewards.org
 importsauthapp.com
+importsmartconnects.netlify.app
 importsmartdappsvalidators.netlify.app
 importsnode.com
 importsvalidator.live
@@ -11105,6 +11113,7 @@ migratiionislivenowmigratetov2here.xyz
 migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
 migration-biswap.org
+migration-dappsmultichain.live
 migration-paalai.xyz
 migration-saitamav2.com
 migrationchain.live
@@ -11148,9 +11157,11 @@ miningspa.cloud
 mininings.com
 minioncoin.website
 minipepe-claim.com
+minipepe.fun
 minipepe.fund
 minipepe.one
 minipepe.top
+minipepes.org
 minmaxswap.online
 mint-azuki-now.live
 mint-bit.net
@@ -11445,9 +11456,11 @@ multichaincnet.online
 multichainconnect.org
 multichainconnections.org
 multichaindapp.network
+multichaindappsconnect.com
 multichainprotocol.com
 multichainrefunds.com
 multichainregistry.co
+multichainresolvedapp.com
 multichains-connect.com
 multichains-pro.com
 multichains-pro.net
@@ -12138,6 +12151,7 @@ node-mainnet.online
 node-mainnets.online
 node-modal-validation.com
 node-multichaindapps.xyz
+node-multiverse.all-chains.xy
 node-orbit.pages.dev
 node-project.com
 node-protocol.com
@@ -13125,6 +13139,7 @@ pepe-airdrop.ink
 pepe-billionaire.com
 pepe-claims.org
 pepe-degods.xyz
+pepe-kid.fun
 pepe-presalle.com
 pepe-promo.me
 pepe-rewards.org
@@ -13164,6 +13179,7 @@ pepecoin.co
 pepecoin.mom
 pepecoin.vip
 pepecoin2.com
+pepecoin2.tech
 pepecoin20.com
 pepecoinclaims.xyz
 pepedrop.website
@@ -15537,6 +15553,7 @@ smartconnectwallet.net
 smartconnectx.com
 smartconsult.digital
 smartcontractauth.com
+smartcontractdapps.website
 smartcontractexecutor.com
 smartcontractsvalidation.com
 smartcontractsynchronization.live
@@ -20226,6 +20243,7 @@ web-wallet-connect.com
 web-walletconnectapp.com
 web-walletsconnect.com
 web-walletsextensions.com
+web-zksync.icu
 web.flowlinksapp.com
 web.vaultweblink.site
 web10511.web07.bero-webspace.de
