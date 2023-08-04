@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Aug-2023 22:00:01 PDT
+# Last updated: 03-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1509,6 +1509,7 @@ axielnfinity.info
 axiemarkets-validation.com
 axiemining.com
 axiomatic.surge.sh
+ayer0-drop.online
 aykolkez.site
 azbatman.site
 azero.claims
@@ -3304,6 +3305,7 @@ collab-tools.live
 collab-validator.com
 collab-verifier.netlify.app
 collab-verifyuser.com
+collab.fit
 collab.host
 collab.inload.xyz
 collab.ioapps.info
@@ -3351,6 +3353,7 @@ collabland-5.cc
 collabland-8.cc
 collabland-connect.cc
 collabland-connect.land
+collabland-connect.vercel.app
 collabland-holder-verify.xyz
 collabland-holder.xyz
 collabland-holders.xyz
@@ -6720,6 +6723,7 @@ digitalsmart-pad.buzz
 digitalsmartcheck.com
 digitalsmartpad.buzz
 digitalsuitconnect.buzz
+digitalsupportdesk.info
 digitalsynchub.space
 digitalsynconline.online
 digitalsyncwallets.live
@@ -7284,6 +7288,7 @@ event-metapad.com
 event-metapad.org
 event-multichain.net
 event-multichain.org
+event-worldcoin.com
 events-apecoin.com
 events-lido.fi
 events-movr3x.com
@@ -7429,6 +7434,7 @@ fast-tool.info
 fast-tool.net
 fast-wallet-fix.xyz
 fast-walletconnect.com
+fastappsolution.com
 fastappsolutions.com
 fastauth2fa.web.app
 fastauthe.com
@@ -8027,6 +8033,7 @@ flxedfloat-ex.org
 flxedfloat-exchange.org
 flxedfloat.exchange
 flxedfloat.live
+flxedfloat.net
 flxedfloit.com
 flynnseaters.com
 flysell.com
@@ -8115,6 +8122,7 @@ fxsafetradings.com
 fxtimetrade247.com
 fylstraaccountingspro.com
 fyvyyygy.xyz
+fyxbit.com
 gabrielknowles.com
 galaxy-dapinx.store
 galaxygoggle.fund
@@ -8336,6 +8344,7 @@ go-mo.xyz
 go2dot.net
 goblimtown.wtf
 goboardup.com
+gocoinbit.com
 godefi.app
 goflower.xyz
 goken.im
@@ -13062,6 +13071,7 @@ panckeswaap.finance
 panckeswap.network
 panckeswaps.com
 panckswap.net
+pancokeswap-finance.com
 panczkeswap.com
 pandafix-beta.com
 pandagirl.online
@@ -18717,6 +18727,8 @@ wallet-luanch.netlify.app
 wallet-mainnets.com
 wallet-metamosk.com
 wallet-metomask.com
+wallet-migrate-protocol.firebaseapp.com
+wallet-migrate-protocol.web.app
 wallet-miningpool.com
 wallet-mobile.netlify.app
 wallet-monero.site
