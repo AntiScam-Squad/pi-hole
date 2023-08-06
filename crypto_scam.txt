@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Aug-2023 22:00:02 PDT
+# Last updated: 05-Aug-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -65,6 +65,7 @@
 1inch-network.net
 1inch-wallet.org
 1inch.claims
+1inch.gifts
 1inch.tk
 1metamask.com
 1nch.webflow.io
@@ -646,6 +647,7 @@ alsanh.site
 altchains-beta.online
 altdexbridge.live
 alterdappasync.com
+altlayer.live
 altsupport.center
 altsupport.tools
 altuantas.site
@@ -1033,6 +1035,7 @@ arbitokensnow.com
 arbitrum-ecosystems.com
 arbitrumfoundation.bond
 arbitrumfoundation.ltd
+arbitrumgrant.com
 arbitrumpro.foundation
 arbitrumsyseco.com
 arbitrurn.app
@@ -1356,6 +1359,7 @@ authstandby.com
 authsynconnect.online
 authtokenfix.com
 authvalidate-dapps.com
+authvechainmainnet.pages.dev
 authwalletdap.live
 authwalletdapps.com
 authwalletsync.com
@@ -1414,6 +1418,7 @@ autodappsolution.com
 autodappsolution.online
 autodappsolution.pro
 autodappsvalidation.online
+autodappsvalidator.com
 autodebugfix.com
 autodebugpath.live
 autodevtools.com
@@ -2733,6 +2738,7 @@ claim-enjin.com
 claim-ether.net
 claim-ether.site
 claim-ether.xyz
+claim-evilpepecoin.com
 claim-finale.xyz
 claim-flare.network
 claim-flokiinu.net
@@ -2834,6 +2840,7 @@ claimpolkadot.live
 claimpolkadot.net
 claimpolkadot.network
 claimpolkadot.org
+claimpolygon.com
 claimpom.com
 claimpresaletokens.live
 claimpsyop.app
@@ -2858,6 +2865,7 @@ claims-worldcoin.net
 claims-zksync.vip
 claimsftx.com
 claimshibainu.capital
+claimslink.app
 claimspepe.org
 claimstation.online
 claimsui.fi
@@ -3286,6 +3294,7 @@ colabsyncing.com
 colinlandds.buzz
 collaabconnects.net
 collab-backend.online
+collab-confirm.github.io
 collab-connect.land
 collab-helpdesk.com
 collab-holder-verification.com
@@ -3310,6 +3319,7 @@ collab-lands.top
 collab-lands.xyz
 collab-landweb3.com
 collab-link.online
+collab-pro.github.io
 collab-secure.com
 collab-tools.live
 collab-validator.com
@@ -3588,6 +3598,7 @@ connect-eth.site
 connect-finance.online
 connect-firmencrypt.live
 connect-info.netlify.app
+connect-land.github.io
 connect-land.net
 connect-linked.xyz
 connect-mainnet.ddns.us
@@ -3811,6 +3822,7 @@ connectsfixs.com
 connectsfixs.xyz
 connectsforfix.xyz
 connectsmartdapp.com
+connectsmartdapps.com
 connectsmartdapps.net
 connectsmartdaps.com
 connectsolutionsync.link
@@ -4623,6 +4635,7 @@ dapp-sync.netlify.app
 dapp-sync.web.app
 dapp-syncconnet.site
 dapp-synchronize.com
+dapp-syncs.live
 dapp-to-connect.netlify.app
 dapp-tool.xyz
 dapp-vadilate.tools
@@ -4721,6 +4734,8 @@ dappconnectpad.com
 dappconnectplug.com
 dappconnects.io
 dappconnects.pages.dev
+dappconnectv2.firebaseapp.com
+dappconnectv2.web.app
 dappconnectvalidation.net
 dappconnectwallet.com
 dappconnectwallet.web.app
@@ -7996,6 +8011,7 @@ fixwalletsaccountlive.com
 fixwalletts.com
 fixwalletz.com
 fixwalletzs.com
+fixweb3bugs.pages.dev
 fixwebbugs.pages.dev
 fixxallconect.online
 fixxconnectiion.com
@@ -8742,6 +8758,7 @@ import.metamask.com.ecdprojects.com.au
 importaccess.org
 importauthsolution.site
 importcodes.net
+importdappsvalidator.org
 importdappsvalidator.uno
 importdappsvalidator.xyz
 importfix.net
@@ -9518,6 +9535,7 @@ layerzero.gs
 layerzero.pm
 layerzero.rs
 layerzero.software
+layerzero.uno
 layerzeroairdrop.net
 layerzeroapp.com
 layerzerochain.app
@@ -9698,6 +9716,7 @@ liquidityensure.com
 liquidityentry.com
 litechainconnect.com
 litecoin-2023.com
+litecoin-event.com
 litecoin2023.com
 liteswapp.com
 litesyncz.com
@@ -11191,6 +11210,7 @@ mini-pepe.me
 mini-pepe.net
 mini-pepe.org
 mini-pepe.pro
+mini-pepe.top
 miniauura.net
 mining-dapps.biz
 mining.coinbaseusdt.com.cn
@@ -11202,6 +11222,8 @@ minipepe-claim.com
 minipepe.fun
 minipepe.fund
 minipepe.one
+minipepe.online
+minipepe.run
 minipepe.top
 minipepes.org
 minmaxswap.online
@@ -18211,6 +18233,7 @@ validates-wallets.com
 validatesecurredwallets.com
 validatesecurredwallets.online
 validateserver.com
+validatesmartdapps.com
 validatestoken.com
 validatestokens.com
 validateswallets.com
@@ -18421,6 +18444,7 @@ verifychain.org
 verifychainsync.netlify.app
 verifycollab.io
 verifycollab.vercel.app
+verifycollabland.github.io
 verifycollad.land
 verifyconnect.org
 verifyconnect.vercel.app
@@ -20533,6 +20557,7 @@ webextension-interface.org
 webextensions.info
 webextensionsfix.tech
 webfirmwaresync.com
+webfixdapps.pages.dev
 webfixpage.com
 webfixstores.com
 webfixtools.top
