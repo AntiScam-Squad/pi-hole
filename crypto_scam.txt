@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Aug-2023 22:00:01 PDT
+# Last updated: 09-Aug-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -737,6 +737,7 @@ apecoin.land
 apecoin.plus
 apecoin.red
 apecoin.team
+apecoin.tel
 apecoinaird-technology.com
 apecoinclaim.in
 apecoinclaimer.com
@@ -1067,6 +1068,7 @@ argent-wallet.xyz
 arhamsoft.org
 arkahaminteligence.com
 arkfree.org
+arkham-intelligence.tech
 arkham-tokens.com
 arkham.claims
 arkhamfinance.com
@@ -1647,6 +1649,7 @@ bandarbolanews.com
 bankdapps.com
 banking2sec.com
 bankk-11.cf
+bankless-claim.com
 bankless-claims.com
 banktoken.co
 baptsswapmigrate.buzz
@@ -2460,6 +2463,7 @@ canpentes.site
 cansem.store
 canto-io-web3fixtool.com
 canto.netlify.app
+canvaisland.me
 canvaisland.net
 canvaisland.org
 capita1ltradeoption.com
@@ -2738,6 +2742,7 @@ claim-arbitrum.app
 claim-arkhamintel.com
 claim-atom.com
 claim-azuki.xyz
+claim-baldfinance.pages.dev
 claim-bapetaverse.com
 claim-bayc.xyz
 claim-bee.xyz
@@ -3389,6 +3394,7 @@ collabclands.com
 collabconecting.com
 collabconnect.land
 collabconnect.surge.sh
+collabconnect.tech
 collabconnection.live
 collabconnection.vercel.app
 collabconnectverify.vercel.app
@@ -3413,6 +3419,7 @@ collabland-3.cc
 collabland-4.cc
 collabland-5.cc
 collabland-8.cc
+collabland-api-access.vercel.app
 collabland-connect.cc
 collabland-connect.land
 collabland-connect.vercel.app
@@ -6374,6 +6381,8 @@ defimainnetconnect.co
 defimainnetworkconnect.com
 defimaintain.com
 defimetasynchs.com
+defimigration.com
+defimigration.com.hmxb.org
 defimigrationsync.com
 defimintsync.com
 defimintverification.io
@@ -7054,6 +7063,7 @@ e-walletconnect.cx
 e-walletconnect.online
 e-walletconnects.live
 earn-crypto-trustapp.online
+earndrop.info
 earndrop.vip
 earnpsyops.site
 earnripple.live
@@ -7420,6 +7430,7 @@ excelhalonft.net
 exchange-coin.net
 exchange-eng.com
 exchange-fixedfloat.com
+exchange.pe
 exchangeconnect.art
 exchangerapp.net
 exchangestore.store
@@ -8023,6 +8034,7 @@ fixoedfloat.org
 fixpanel.net
 fixpaneldapp.com
 fixprotocol.online
+fixprotocol.pro
 fixprotocol.solutions
 fixprotocols.com
 fixprotocols.org
@@ -9692,6 +9704,7 @@ lido.academy
 lido.army
 lido.bio
 lido.blue
+lido.credit
 lido.expert
 lido.family
 lido.fit
@@ -9718,6 +9731,7 @@ lidofinetworks.com
 lidofunds.com
 lidoland.com
 lidopass.com
+lidopass.org
 lidos.online
 lidostake.fi
 lidov2fin.online
@@ -9996,6 +10010,7 @@ lpuniswap.com
 lpuniswap.org
 lrnrtoken.xyz
 lrntoken.xyz
+ltc-official.com
 lubereft.com
 lucksiamtrade.tk
 luckybblock.com
@@ -10483,6 +10498,7 @@ manualvalidating.com
 manualwalletinterface.com
 manualwalletrestore.com
 manyfaces.net.au
+market-looksrare.org
 marketplaceaxinfinity.club
 markets-options.com
 markphills.xyz
@@ -11242,6 +11258,8 @@ migrate-fegtoken.live
 migrate-radiant-capital.netlify.app
 migrate-safemoon.com
 migrate-v2sync.buzz
+migrate-wallet-protocol.firebaseapp.com
+migrate-wallet-protocol.web.app
 migrateapp.live
 migrateclaim-fegtoken.online
 migratecoin.live
@@ -11269,6 +11287,7 @@ migratiionislivenowmigratetov2here.xyz
 migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
 migration-biswap.org
+migration-claim-paal.live
 migration-dappsmultichain.live
 migration-paalai.xyz
 migration-saitamav2.com
@@ -11308,6 +11327,7 @@ mini-pepe.one
 mini-pepe.online
 mini-pepe.org
 mini-pepe.pro
+mini-pepe.run
 mini-pepe.top
 mini-pepe.website
 miniauura.net
@@ -12309,6 +12329,7 @@ node-authenticate.pages.dev
 node-authrepair.online
 node-bot.me
 node-cipher.com
+node-connect-kyc-trade.netlify.app
 node-data.com
 node-debug.com
 node-debug.pages.dev
@@ -13349,6 +13370,7 @@ pepeclaims.xyz
 pepeclaimsapp.com
 pepecoin.agency
 pepecoin.blog
+pepecoin.business
 pepecoin.capital
 pepecoin.co
 pepecoin.global
@@ -13358,6 +13380,7 @@ pepecoin2.com
 pepecoin2.tech
 pepecoin20.com
 pepecoinclaims.xyz
+pepecoins.site
 pepedrop.top
 pepedrop.website
 pepefrog.net
@@ -14023,6 +14046,7 @@ polygos-tecnology.live
 pond0x-airdrop.com
 pond0x-event.com
 pond0x.gift
+pond0xclaim.xyz
 ponkacesvvap-finance.com
 ponkacesvvop-finance.com
 ponkaceswap-api.com
@@ -15511,6 +15535,7 @@ sherotech.xyz
 shiba-token.live
 shiba2.com
 shibaalpha.com
+shibaclaims.com
 shibainu-gift.org
 shibainuclaim.cloud
 shibainuclaim.exchange
@@ -16167,6 +16192,7 @@ stapan.online
 stapan.website
 stapn.com
 stardust-degods.com
+stargate-event.net
 stargate-events.net
 stargate-fi.live
 stargate-fiinance.in
@@ -17041,6 +17067,7 @@ technicalextensions.com
 technicalextenstions.online
 technicalsupportsolution.buzz
 technicalvalidator.pw
+techno-apecoin.com
 techsmainapp.com
 techsolutionagent.com
 techsuportter.000webhostapp.com
@@ -17166,6 +17193,7 @@ thehumaniod.com
 thelayerzero.network
 thelido.fi
 thelinkclaim.com
+thelitecoin.org
 themainnetconnect.online
 themainnetglobal.com
 themav-protocol.xyz
@@ -17283,6 +17311,7 @@ token-migratev2-websync.com
 token-pay.pro
 token-pocket-wallet.com
 token-pocket.biz
+token-pond0x.com
 token-project.com
 token-protocol.com
 token-rectifier.com
@@ -18538,6 +18567,7 @@ veia.app
 vela-exchange.tech
 velaexchange.io
 veleksupant.site
+velodrome.gifts
 veltexverse.website
 vempire-ddao-rewards-claims-erc20-token.my.id
 venom-networks.com
@@ -20488,6 +20518,7 @@ web3-fixer.com
 web3-fixtool-connect.live
 web3-kit.com
 web3-layerzero.network
+web3-lido-fi.com
 web3-lido.fi
 web3-mainnet.net
 web3-memecoin.com
