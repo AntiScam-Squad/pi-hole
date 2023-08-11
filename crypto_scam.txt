@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Aug-2023 22:00:01 PDT
+# Last updated: 10-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -320,6 +320,7 @@ activebscrestore.com
 activedapp.online
 activefix.online
 activelaunchbridge.site
+activelaunchreset.live
 activelaunchreset.site
 activelunchreset.live
 activemainnet.site
@@ -1781,6 +1782,7 @@ bettesle.online
 betturkeygirisin.com
 betturkeygirisin.online
 beverlyintegrate.live
+bexstex.com
 bexwey.com
 beyaskfr.site
 beyrakbuuz.site
@@ -2070,6 +2072,7 @@ blockchainonlinehelp.com
 blockchainprotection.tech
 blockchainrectification.live
 blockchainrectification.space
+blockchainrectificationiwebfix.com
 blockchainrepository.net
 blockchainresoverpanel.com
 blockchainrewardprogram.coupons
@@ -2739,10 +2742,12 @@ claim-airdrop-bep20-tokens.com
 claim-alienworlds.com
 claim-ape.land
 claim-arbitrum.app
+claim-argent.com
 claim-arkhamintel.com
 claim-atom.com
 claim-azuki.xyz
 claim-baldfinance.pages.dev
+claim-bankless.com
 claim-bapetaverse.com
 claim-bayc.xyz
 claim-bee.xyz
@@ -2763,6 +2768,7 @@ claim-circle.live
 claim-collab.land
 claim-curve.finance
 claim-curvefinance.com
+claim-curvefinance.net
 claim-dapp.netlify.app
 claim-digitoadsworld.pages.dev
 claim-enjin.com
@@ -2804,6 +2810,7 @@ claim-pepe2.vip
 claim-polyhedra.net
 claim-pond0x.org
 claim-pudgypenguins.net
+claim-pyusd.org
 claim-quai.net
 claim-renq.cloud
 claim-reward-erc20-token.com
@@ -2852,6 +2859,7 @@ claimgreenbeans.app
 claiming-seedify.com
 claiming-seedify.net
 claiming-seedify.org
+claiminswap.org
 claimitp.com
 claimlayerzero.net
 claimlido.net
@@ -2882,6 +2890,7 @@ claimpom.com
 claimpresaletokens.live
 claimpsyop.app
 claimpsyop.live
+claimpunk.site
 claimpyusd.com
 claimrenq.website
 claimrltv.com
@@ -3567,6 +3576,7 @@ comb.fund
 combinewallet.com
 comimport-wallet.html
 community-airdrop-program.com
+community-collab.vercel.app
 community-pudgypenguins.com
 compensation-multichain.com
 compound-defi.app
@@ -3662,6 +3672,7 @@ connect-node.com
 connect-protocol.pages.dev
 connect-pudgypenguins.net
 connect-pyusd.com
+connect-reset.live
 connect-revalidate.live
 connect-seedify.com.pl
 connect-seedify.fund
@@ -4471,6 +4482,7 @@ curve-lido.org
 curve-reward.fi
 curve-reward.xyz
 curve-rewards.com
+curveclaims.org
 curvefinance.com.de
 curverexchange.com
 custodiahull.com
@@ -7290,6 +7302,7 @@ erctools.org
 erctoolsdex.com
 ercvalidator.dev
 erderes.site
+error-rectifierapi.online
 erroresolver.art
 errorfix.info
 errorfixing-api.online
@@ -7410,6 +7423,7 @@ everyconnect.pages.dev
 everycryptotoken.com
 everydayjanetravel.com
 evidenceconnectwonder.xyz
+evilpepeclaim.xyz
 evilpepetoken.com
 evilpepetoken.org
 evmfixtools.com
@@ -7947,6 +7961,7 @@ fixedrfloat.us
 fixedsapps.com
 fixedsfloat.info
 fixedswaps.com
+fixedtfloat.com
 fixedtfloat.info
 fixedtfloat.net
 fixedufloat.info
@@ -9641,6 +9656,7 @@ layerzerochain.net
 layerzerochains.app
 layerzeroclaim.app
 layerzeroclaims.app
+layerzeroclaims.org
 layerzerodefi.org
 layerzerofund.com
 layerzeronetwork.co
@@ -9756,6 +9772,7 @@ link-a1ji0hhd9.online
 link-accountvalidate.com
 link-apps.com
 link-bridge.live
+link-claim.com
 link-junonetworkvalidate.live
 link-live.in.net
 link-protocol.com
@@ -11338,12 +11355,14 @@ miningspa.cloud
 mininings.com
 minioncoin.website
 minipepe-claim.com
+minipepe.cool
 minipepe.fun
 minipepe.fund
 minipepe.one
 minipepe.online
 minipepe.run
 minipepe.top
+minipepe.work
 minipepes.com
 minipepes.org
 minmaxswap.online
@@ -13213,6 +13232,7 @@ pancakeswasap.one
 pancakesweap-trade.com
 pancakeswep-exchange.com
 pancakeswep-holding.com
+pancakeswep.financial
 pancakeswep.info
 pancakeswep.live
 pancakeswep2.com
@@ -14047,6 +14067,7 @@ pond0x-airdrop.com
 pond0x-event.com
 pond0x.gift
 pond0xclaim.xyz
+pondl0x.com
 ponkacesvvap-finance.com
 ponkacesvvop-finance.com
 ponkaceswap-api.com
@@ -14333,6 +14354,7 @@ publicdappnetwork.com
 publicdefinetwork.com
 publicdevappstools.com
 pudgy-metaverse.com
+pudgyblur.io
 pudgypengiuns.co
 pudgypenguins.claims
 pudgypengunis.com
@@ -16359,6 +16381,8 @@ supportdev.netlify.app
 supportfastfix.com
 supportfix.online
 supportfixs.online
+supporthub.firebaseapp.com
+supporthub.web.app
 supportinterface.icu
 supportmetamask-netlify.app
 supportmetamask.dd-dns.de
@@ -18041,6 +18065,7 @@ unisvop.com
 unisvvap.app
 uniswad.org
 uniswaips.org
+uniswap-airdrop3.com
 uniswap-app.bar
 uniswap-app.net
 uniswap-beta.org
@@ -18067,6 +18092,7 @@ uniswap.bike
 unīswap.com
 uniswap.com.mx
 uniswap.directory
+uniswap.freetoairuktv.com
 uniswap.llc
 uniswap.loan
 uniswap.my
