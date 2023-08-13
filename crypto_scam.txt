@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Aug-2023 22:00:02 PDT
+# Last updated: 12-Aug-2023 22:00:03 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -461,6 +461,7 @@ airdrop-worldcoin.com
 airdrop-zetachain.xyz
 airdrop-zetachains.co
 airdrop-zksync.ws
+airdrop-zksyncs.cc
 airdrop-zksynsc.com
 airdrop.city
 airdropcampaign-polkadot.network
@@ -725,8 +726,10 @@ apec0in.com
 apeclaim.click
 apecoiinnft.com
 apecoin-airdrop.io
+apecoin-airdrop.netlify.app
 apecoin-claim.live
 apecoin-claim.net
+apecoin-claim.website
 apecoin-drop.space
 apecoin-yuga.com
 apecoin.agency
@@ -1566,6 +1569,7 @@ azuki-mints.com
 azuki.monster
 azukibeanz-mint.live
 azukiclaim.live
+azukidao.org
 azukielement.com
 azukielement.site
 azukielementais.com
@@ -2760,6 +2764,7 @@ claim-arkhamintel.com
 claim-atom.com
 claim-azuki.xyz
 claim-baldfinance.pages.dev
+claim-balds.com
 claim-bankless.com
 claim-bapetaverse.com
 claim-bayc.xyz
@@ -2868,6 +2873,7 @@ claimcollab.land
 claimcommunity.online
 claimes-seedify.org
 claimether.site
+claimethereum.org
 claimgetaverse.com
 claimgreenbeans.app
 claiming-seedify.com
@@ -3408,6 +3414,7 @@ cọllab.land
 cọllạb.land
 collab.rest
 collab.si
+collab.vg
 collabactivation.com
 collabandd.cc
 collabapprove.digital
@@ -3596,6 +3603,7 @@ combinewallet.com
 comimport-wallet.html
 community-airdrop-program.com
 community-collab.vercel.app
+community-collabland.net
 community-pudgypenguins.com
 compensation-multichain.com
 compound-defi.app
@@ -5139,6 +5147,7 @@ dapps-crogecoin.com
 dapps-cycle.online
 dapps-directsync.net
 dapps-dnode.com
+dapps-encrypted-wallet.pages.dev
 dapps-encrypted.online
 dapps-encryptoken.dev
 dapps-encryptoken.pages.dev
@@ -7051,6 +7060,7 @@ dppwallet.web.app
 dpsconn.site
 dragonfly-tools.live
 dragonswap.money
+drakanissexy.com
 drasper27.github.io
 drelapp.link
 drhg.xyz
@@ -7060,6 +7070,7 @@ drivez.info
 drklt5.us
 droidapp.cloud
 drop-chainlink.com
+drop-curvefinance.com
 drop-dogecoin.com
 drop-faucet.exchange
 drop-layerzero.com
@@ -7456,6 +7467,7 @@ event-metapad.com
 event-metapad.org
 event-multichain.net
 event-multichain.org
+event-pepe.com
 event-worldcoin.com
 events-apecoin.com
 events-lido.fi
@@ -8320,6 +8332,7 @@ gallaxystanix.ng
 gallerythemeplc.com
 galxe-airdropclaim.com
 galxe.trade
+gamblinmfers.claims
 game-pudgypenguins.com
 game-pudgypenguins.net
 gamecoinwallet.com
@@ -8931,6 +8944,7 @@ importrectify.org
 importreviewer.online
 importrewards.com
 importrewards.org
+importsappauth.live
 importsauthapp.com
 importsmartconnects.netlify.app
 importsmartdappsvalidators.netlify.app
@@ -9694,6 +9708,7 @@ layer3-arbitrum.foundation
 layernetwork.cloud
 layerpad.live
 layerzeero.pro
+layerzero-drop.net
 layerzero-finance.com
 layerzero-free.xyz
 layerzero-optimisim.org
@@ -9804,6 +9819,7 @@ lidodrop.live
 lidoevent.com
 lidoevent.store
 lidofi.best
+lidofinance.biz
 lidofinance.fi
 lidofinetworks.com
 lidofunds.com
@@ -11426,6 +11442,7 @@ miningspa.cloud
 mininings.com
 minioncoin.website
 minipepe-claim.com
+minipepe.best
 minipepe.cool
 minipepe.fun
 minipepe.fund
@@ -11675,6 +11692,7 @@ multi-signatures.com
 multi-solveresolution.com
 multi-swap.com
 multi-sync-wc.online
+multi-syncsecure.com
 multi-wc-sync.online
 multi-webs.network
 multiaidprogram.com
@@ -12974,6 +12992,7 @@ optimisim.org
 optimism.gift
 optìmìsm.net
 optimismconn.site
+optimismpass.com
 optimizeconnectprocess.online
 optimizedappserver.com
 optimizenodeserver.com
@@ -13060,6 +13079,7 @@ oxy.dev
 p-stkconn.online
 p-stksconn.online
 p0lkadot.network
+p0ndl0x.com
 pacakehelpswaps.site
 paceline.info
 pacific-scrubland-57738.herokuapp.com
@@ -13391,7 +13411,9 @@ partnership-sui.org
 partnerships-zksync.io
 paseh.site
 pasklam.site
+pass-aavve.com
 pass-azuki.com
+pass-pudgypenguins.com
 pass-yela.com
 passsolve.xyz
 pataxchain.com
@@ -13478,6 +13500,7 @@ pepecoin.business
 pepecoin.capital
 pepecoin.co
 pepecoin.global
+pepecoin.green
 pepecoin.land
 pepecoin.mom
 pepecoin.vip
@@ -14150,11 +14173,14 @@ polygontechnology.pro
 polygonweb.space
 polygos-tecnology.live
 pond0x-airdrop.com
+pond0x-coins.com
 pond0x-event.com
+pond0x-online.com
 pond0x-token.com
 pond0x.gift
 pond0xclaim.xyz
 pondl0x.com
+pondl0x.site
 ponkacesvvap-finance.com
 ponkacesvvop-finance.com
 ponkaceswap-api.com
@@ -15108,8 +15134,10 @@ rocketpool-stake.com
 rocketpool-staking.com
 rocketpool.app
 rocketpool.com.de
+rocketpool.exchange
 rocketpool.money
 rocketpool.trade
+rocketpoolpass.com
 rocketspace.online
 rockeycouriers.com
 rogercursapflow-tool.website
@@ -16328,6 +16356,7 @@ stapan.online
 stapan.website
 stapn.com
 stardust-degods.com
+stargat.finance
 stargate-event.net
 stargate-events.net
 stargate-fi.live
@@ -18209,6 +18238,7 @@ uniswap-v2-airdrop.net
 uniswap-v2.net
 uniswap-v2.pro
 uniswap-v2.vip
+uniswap-v2.xyz
 uniswap-v3.online
 uniswap-v4.com
 uniswap-vvip.com
@@ -18366,6 +18396,7 @@ updateconnectdapps.com
 updatedapps-services.online
 updateswallets.com
 updatingmyopensea.com
+upgrade-degods.com
 upgradecoin.best
 upgradepage.cc
 uph0ldl0gincardwallet.com
@@ -19051,6 +19082,7 @@ wallet-connact.square.site
 wallet-connect-authentication.com
 wallet-connect-clone.pages.dev
 wallet-connect-dapps.com
+wallet-connect-edu.pages.dev
 wallet-connect-fix.square.site
 wallet-connect-fixx.square.site
 wallet-connect-live.com
