@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Aug-2023 22:00:03 PDT
+# Last updated: 13-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -991,6 +991,7 @@ apps-syncs.net
 apps-syncs.org
 apps-walletconnect.org
 appsaccess.org
+appsblockmainnet.live
 appsbridge.info
 appsconnectme.online
 appscryptconnect.com
@@ -1080,6 +1081,7 @@ arhamsoft.org
 arkahaminteligence.com
 arkfree.org
 arkham-intelligence.tech
+arkham-intelligence.xyz
 arkham-tokens.com
 arkham.claims
 arkhamfinance.com
@@ -1421,6 +1423,7 @@ auto-validation.com
 autoactivechain.com
 autoappfix.com
 autoapps-server.live
+autoappsrectify-server.live
 autoblockbot.com
 autobotcorrection.com
 autobugrepairer.com
@@ -8577,6 +8580,7 @@ gondermes.site
 gonlubolol.site
 gonulkazkan.site
 good-of-ukrainian.com.ua
+goodentryresolved.xyz
 goodlovee.com
 goodluckplay.com
 goodsservicedogs.com
@@ -8936,6 +8940,7 @@ importlink.live
 importlive.pythonanywhere.com
 importmobile.net
 importmobile.org
+importmultiapp.pro
 importmultifix.site
 importokenapp.com
 importrectify.com
@@ -11951,6 +11956,7 @@ mutbent.site
 mutidappconnect.com
 mutiwalletdapps.com
 mutlopsent.site
+mutualcommutationapp.pro
 mv-pudgypenguins.com
 mwsupportlive.com
 mwyehtrewellet.com
@@ -14195,6 +14201,7 @@ ponkaceswwop-finance.com
 poocoin-app-bsc.com
 poocoin-app.live
 poocoin.cab
+poocoinv2.com
 pool-liquidity.sbs
 poolofnodes.com
 pooltogether.top
@@ -14481,6 +14488,7 @@ pulsechain-sacrifice.solutions
 pulsechainbridge.net
 pulsechainconnect.com
 pulsechaindirect.com
+pulsechainmainet.com
 pulsechainnetwork.info
 pulsechainnetwork.solutions
 pulsechainsacrifice.info
@@ -15138,6 +15146,7 @@ rocketpool.exchange
 rocketpool.money
 rocketpool.trade
 rocketpoolpass.com
+rocketpoolreward.net
 rocketspace.online
 rockeycouriers.com
 rogercursapflow-tool.website
@@ -17061,6 +17070,7 @@ syncsubsupport.firebaseapp.com
 syncsubsupport.web.app
 syncsw.app
 syncswap-claim.xyz
+syncswap-drop.app
 syncswap.gifts
 syncsystem.org
 synctab.online
