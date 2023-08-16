@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Aug-2023 22:00:02 PDT
+# Last updated: 15-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1083,6 +1083,7 @@ areaclim.website
 argent-wallet.xyz
 argentfix.online
 arhamsoft.org
+aribitrumbridge.xyz
 arkahaminteligence.com
 arkfree.org
 arkham-intelligence.tech
@@ -1470,6 +1471,7 @@ autohelpfix.com
 autolinking.xyz
 automatedauth.com
 automatedfix.online
+automatedvirtualtradeapp.pro
 automaticdappsvalidator.com
 automaticdefivalidate.com
 automaticdevalidate.com
@@ -1489,6 +1491,7 @@ autorestorefix.com
 autoresync.live
 autos-migrates.live
 autosetfix.com
+autosmartappconnect.pro
 autoswapgallery.tech
 autosync.link
 autosynchronize.net
@@ -1683,7 +1686,9 @@ basariliolun.site
 basariliolunuz.site
 base-protocol.app
 base24e.com
+basebridge.app
 basebridge.live
+basechains.org
 basecointabsonline.info
 baseintegration.com
 basertken.site
@@ -2203,6 +2208,7 @@ blurcrypto.io
 blurcrypto.netlify.app
 blurdapptool.com
 bluroi.live
+blurpackageclaim.com
 blurrestore.xyz
 bmtmetaverse.com
 bnamst.online
@@ -3404,6 +3410,7 @@ colabsyncing.com
 colinlandds.buzz
 collaabconnects.net
 collab-access.in
+collab-api.eu
 collab-backend.online
 collab-confirm.github.io
 collab-connect.land
@@ -6449,6 +6456,8 @@ defidappsmainnet.com
 defidappsnet.firebaseapp.com
 defidappsnet.web.app
 defidappsprotocol.online
+defidappsprotocols.firebaseapp.com
+defidappsprotocols.web.app
 defidomain.io
 defidomainnetwork.io
 defiease.net
@@ -6978,6 +6987,7 @@ distribution-lido.com
 distribution-multichain.com
 distribution-multichain.org
 distribution-ripple.com
+distribution-shibatoken.net
 distribution-worldcoin.com
 distributions-ftm.com
 distributions-ftm.network
@@ -7114,6 +7124,7 @@ droidapp.cloud
 drop-apecoin.com
 drop-chainlink.com
 drop-curvefinance.com
+drop-curvefinance.net
 drop-dogecoin.com
 drop-faucet.exchange
 drop-layerzero.com
@@ -9434,6 +9445,7 @@ join-apecoin.xyz
 join-babydogecoin.net
 join-badgerdao.net
 join-chain.link
+join-collab.in
 join-ftm.net
 join-hex.xyz
 join-injective.com
@@ -11791,6 +11803,7 @@ multibridgetok.com
 multibridgetoken.com
 multibridggedapps.com
 multibriidgedapps.com
+multichaiin.com
 multichain-a.com
 multichain-app.netlify.app
 multichain-authenticator.pages.dev
@@ -14641,6 +14654,7 @@ qrconnect.xyz
 qrconnet.com
 qrcunigen.com
 quai.claims
+quai.fi
 qualismais.odo.br
 quantum-connect.net
 quantum-fidelity.online
@@ -16516,6 +16530,7 @@ steptullnulink.site
 sterkoption.com
 sterlingcaptcha.tech
 stexbet.com
+stexbix.com
 stillapays.netlify.app
 stockmarketlabfx.net
 stockmartinc.com
@@ -18868,6 +18883,7 @@ verification-walet.online
 verification-wallet-protocol.com
 verification.unicrypt.host
 verificationauthority.top
+verificationcollab.land
 verificationmetamask.rf.gd
 verificationprocess-metamask.io
 verificationtw.com
@@ -21546,6 +21562,7 @@ zkstack-reward.com
 zkstacks.in
 zkswap-era.com
 zkswap-registration.com
+zksync-ai.com
 zksync-claim.io
 zksync-domains.xyz
 zksync-era.app
@@ -21578,5 +21595,6 @@ zonefix.net
 zooltoken.io
 zootoken.cc
 zsrrredg.pages.dev
+zsyncprotocols.xyz
 zugsnea.store
 zwalletconnect.com
