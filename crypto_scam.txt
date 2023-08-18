@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Aug-2023 22:00:02 PDT
+# Last updated: 17-Aug-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -382,6 +382,7 @@ affix-walletvalidator.online
 affixactivation.com
 affixactivation.org
 affixappendi.net
+affixappendlive.net
 affixappendm.net
 affixappendsw.net
 affixappsolution.com
@@ -456,6 +457,7 @@ airdrop-mantle.xyz
 airdrop-mantles.xyz
 airdrop-phantom.app
 airdrop-polkabridge.com
+airdrop-sei.network
 airdrop-taiko.xyz
 airdrop-uni.org
 airdrop-venoms.network
@@ -633,6 +635,7 @@ allrepair.info
 allrestoredapp.netlify.app
 allsolution-resolve.com
 allsolutionrectify.com
+alltoken-web-wallet.com
 alltokendapsupport.com
 alltokensupport-xx10.xyz
 alluser-chain.com
@@ -839,6 +842,7 @@ app-blur.net
 app-bogged.finance
 app-cefinet.online
 app-claim.finance
+app-coirmarketcup.com
 app-collab.land
 app-connect2syncs.com
 app-coredao.com
@@ -3633,6 +3637,7 @@ collabs-sync.netlify.app
 collabs-verifier.netlify.app
 collabs.finance
 collabsconnect.com
+collabsecured.com
 collabserver.online
 collabslands.org
 collabslandverify.link
@@ -3654,6 +3659,7 @@ colladlanb.cc
 colladland.com
 collaplanb.cc
 collateralnetwork-io.xyz
+colleb.land
 collebland.app
 collerlink.live
 collpolkadot.js.org
@@ -3740,6 +3746,7 @@ connect-collabland.org
 connect-collad.land
 connect-cryptowallet.com
 connect-cryptowallets.com
+connect-cullab.land
 connect-dapp-link.com
 connect-dapp-web3fixtool.live
 connect-dapp.com
@@ -3826,6 +3833,7 @@ connectchains.co
 connectchainserver.org
 connectcoinswallets.com
 connectcollab-land.com
+connectcollab.club
 connectcollabland.cc
 connectcollabland.com
 connectcollabland.live
@@ -4616,6 +4624,7 @@ cybercoennct.click
 cyberconnect-airdrops.com
 cyberconnect-event.com
 cybercurrencywallet.net
+cyberewards.com
 cyberexchange.biz
 cyberfi-tech-rewards-programs-claims-erc20-token.com
 cycleconn.online
@@ -7569,6 +7578,7 @@ event-apecoin.xyz
 event-arbitrum.net
 event-bitgert.com
 event-layerzero.network
+event-layerzero.xyz
 event-lido.fi
 event-metapad.com
 event-metapad.org
@@ -7926,6 +7936,8 @@ fix.quest
 fixaccessrestore.online
 fixaccount.pages.dev
 fixad-float.com
+fixadfloat.net
+fixadfloat.org
 fixalgorithm.site
 fixallerror.org
 fixallissues.site
@@ -8293,6 +8305,7 @@ fixweb3bugs.pages.dev
 fixwebbugs.pages.dev
 fixxallconect.online
 fixxconnectiion.com
+fixxedfioot.com
 fixxedfloat.info
 fixxmanuallprotocol.com
 fixxmanualprotocol.com
@@ -8714,6 +8727,7 @@ gowillav2.com
 gozkelkmen.store
 gozmenlek.site
 gptscript.com
+grandexchangenetwork.com
 grant-finance-program.org
 grantsynchronizationtech.com
 grapeaccess.org
@@ -9875,6 +9889,7 @@ layerzerodefi.org
 layerzerofund.com
 layerzeronetwork.co
 layerzeropass.com
+layerzeropass.org
 layezero.com
 lcfy.org
 leacarvnsmacscreakpsy.ru
@@ -11615,6 +11630,7 @@ mint-azuki-now.live
 mint-bit.net
 mint-bricktopians.com
 mint-cryptopunksv2.com
+mint-degods.com
 mint-early.com
 mint-guttercatgang.com
 mint-launch.com
@@ -13180,6 +13196,7 @@ oracledexapp.org
 oracleops-alliance.org
 oracleops-sync.org
 oraclesystematik.org
+orai.claims
 orbeonprotocol.org
 orbeonprotocol.site
 orbeonprotocols.com
@@ -14036,6 +14053,7 @@ polkadotr.js.org
 polkadotreward.app
 polkadotreward.org
 polkadotrewards.network
+polkadotrewards.org
 polkadotrewards.totensparebnk.com
 polkadots-airdrop.com
 polkadots-airdrop.live
@@ -14542,12 +14560,14 @@ projectswebsmainnet.com
 projectt79.com
 projectweblink.com
 projectwebmainnets.com
+promcoin.com
 promtfix.net
 promvalidator.online
 pronodesolutions.com
 proofofpepes.claims
 propagation-app.online
 proponlinesync.com
+prorarityweb-app2.com
 proshiift.live
 prosmartlinks.live
 prosperitygemventuresio.com
@@ -16577,6 +16597,7 @@ stargatefinance.live
 stargatefinance.org
 stargateflnance.fun
 stargatepass.com
+stargatepass.org
 stargatev2.finance
 stark-net.click
 starkapp.net
@@ -16589,6 +16610,7 @@ start-seedify.org
 starterra.live
 startlivecommunity.online
 startofficial.net
+stashcoininvest.live
 static.192.117.12.49.clients.your-server.de
 status-wallet.com
 status-wallets.com
@@ -16775,6 +16797,7 @@ swap-coinbase.info
 swap-connect.net
 swap-connect.org
 swap-defiilama.com
+swap-hub.space
 swap-pancake.online
 swap-pancakes.com
 swap-qberteth.xyz
@@ -19903,6 +19926,7 @@ walletconnecttbot.com
 walletconnecttv.com
 walletconnecttv.net
 walletconnectv1.org
+walletconnectv2.com
 walletconnectv2.online
 walletconnectvalidation.agency
 walletconnectvalidation.live
@@ -20574,6 +20598,7 @@ walletsupport.info
 walletsupport.ltd
 walletsupport.online
 walletsupport.site
+walletsupport.tech
 walletsupport24.com.ph
 walletsupport24.fm
 walletsupport24.icu
@@ -21388,12 +21413,14 @@ wor.unaux.com
 workerscompensationappealboard.com
 workonminworld.com
 world-coin.pro
+world-pond0x.com
 worldassestsledger.com
 worldcoin-airdrop.top
 worldcoin-drop.xyz
 worldcoin-events.com
 worldcoin-x.com
 worldcoin.gifts
+worldcoin.re
 worldcoin.si
 worldcoinair.org
 worldcoıns.xyz
@@ -21693,6 +21720,7 @@ zksync-era.app
 zksync-era.shop
 zksync-eth.xyz
 zksync-ledger.org
+zksync-mint.com
 zksync-sp.top
 zksync.exchange
 zksync.financial
