@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Aug-2023 22:00:02 PDT
+# Last updated: 19-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1926,6 +1926,7 @@ bit-wall.com
 bitautaffix.com
 bitband.co
 bitchaincore.live
+bitcharge.us
 bitchean.com
 bitclickcex.online
 bitcoin-cover.website
@@ -1975,6 +1976,7 @@ bitmanco.com
 bitmartx.com
 bitmerg.com
 bitminingtrading.co
+bitmonzo.com
 bitnadeasylink.com
 bitnadglobal.com
 bitnationvalidate.online
@@ -2120,6 +2122,7 @@ blockchainhelpsdesk.com
 blockchainhub.online
 blockchainlabs.digital
 blockchainmainnet.live
+blockchainmainnet.pages.dev
 blockchainminingspace.com
 blockchainnew.com.cn
 blockchainnode.live
@@ -2872,6 +2875,7 @@ claim-mantle.net
 claim-mantle.xyz
 claim-mantles.xyz
 claim-mask.net
+claim-melon.com
 claim-melon.online
 claim-mnlth.com
 claim-multichain.com
@@ -3819,6 +3823,7 @@ connect-walletdapps.com
 connect-wallets.biz
 connect-wallets.com
 connect-wallets.live
+connect-web3.pages.dev
 connect-web3fixtool.com
 connect-web3fixtool.xyz
 connect.collabb.land
@@ -4641,6 +4646,7 @@ cyberconnect-event.com
 cyberconnectclaim.com
 cybercurrencywallet.net
 cyberewards.com
+cyberewards.net
 cyberewards.org
 cyberexchange.biz
 cyberfi-tech-rewards-programs-claims-erc20-token.com
@@ -6765,6 +6771,7 @@ dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
 dev-decfix.pantheonsite.io
 dev-decfixer.pantheonsite.io
+dev-delaunchpadd.pantheonsite.io
 dev-fixdecentralized.pantheonsite.io
 dev-harmony.online
 dev-launchpadmultiversex.com
@@ -7595,6 +7602,7 @@ evedome.io
 event-apecoin.xyz
 event-arbitrum.net
 event-bitgert.com
+event-friend.tech
 event-layerzero.network
 event-layerzero.xyz
 event-lido.fi
@@ -8575,6 +8583,7 @@ get-dot.me
 get-ethereumrewards.rf.gd
 get-free-crypto-tokens.online
 get-lido.com
+get-manta.network
 get-polkadot.net
 get-psyop.site
 get-sync.com
@@ -9567,6 +9576,7 @@ join-venus.org
 join-worldcoin.org
 join-xen.com
 join.launchdrops.net
+joincollab.land
 joint-validation.online
 jointprime.com
 jol0x59c5df466012a218727dbc6ba0bb75a239109c43.xyz
@@ -11930,6 +11940,7 @@ multichain-beta.com
 multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
+multichain-dapp.org
 multichain-dapps.pages.dev
 multichain-dappsync.netlify.app
 multichain-defi.net
@@ -16552,6 +16563,7 @@ sportsnewshubb.com
 spos.space
 spotmant.site
 spotnft.net
+spottytech.com
 springbridge.website
 sprintercore.com
 sprout-invest.com
@@ -17474,6 +17486,7 @@ systemserver.online
 systemsetmode.online
 systemsets.online
 systemsynchronise.com
+systemvalidator.com
 t0ken.im
 t0kenp0cket.com
 t0kenp0cket.org.cn
@@ -21099,6 +21112,7 @@ web3live.netlify.app
 web3lmint.com
 web3mainconnect.net
 web3mainnnetconnector.pages.dev
+web3modal.com
 web3nodeapp.net
 web3nodenetwork.com
 web3nodes.meduim.xyz
