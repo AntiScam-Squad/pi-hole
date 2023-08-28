@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Aug-2023 22:00:03 PDT
+# Last updated: 27-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -809,6 +809,7 @@ api-nodeauthy.onrender.com
 api-pancakeswap.com
 api-web3resolver.pages.dev
 api24-collab.github.io
+api34-collab.com
 api3drop.com
 apiauthenticate-sync.com
 apibotconnect.com
@@ -872,6 +873,7 @@ app-ethpadnetwork.com
 app-flaredelegate.net
 app-honeypot.com
 app-issuefix.pages.dev
+app-lens.xyz
 app-lido.fi
 app-lido.finance
 app-live.org
@@ -1666,6 +1668,7 @@ backeryswap.net
 backupencrypt.com
 backupledgerbond.com
 backyardcompanyio.best
+bacoin.website
 bacpne.com
 badapplesiphonerepair.com
 baffare.site
@@ -1753,9 +1756,11 @@ batluktn.site
 battles.town
 batzdu-claim.xyz
 bayc-animation.com
+bbcoin.website
 bbndapp.com
 bbsync.pages.dev
 bc1qh2p9ex5k3.com
+bccoin.website
 bchaincrypto.com
 bcnodecenter.com
 bcnodecenter.net
@@ -1767,6 +1772,7 @@ beaconcompany.pics
 beagle-swap.com
 beansnft.org
 beanzofficial.app
+becoin.website
 bedrockstonemasons.com.au
 beeemmiigrate.xyz
 beefy.claims
@@ -2059,6 +2065,7 @@ bitz.country
 bitzdex.com
 bitzline.com
 biur-token.org
+bixcryptox.org
 bizcryp.com
 bizdavar.com
 bizekatilya.site
@@ -2472,6 +2479,7 @@ bug-rectifiers.com
 bugfixed.buzz
 bugifybridge.xyz
 bugrectify.buzz
+bugvalidation.com
 buhrasez.site
 bulemntrek.club
 bulkametsen.site
@@ -3332,6 +3340,7 @@ coinpad-x.com
 coinpad.netlify.app
 coinpasc.com
 coinpaste.finance
+coinpats.com
 coinpepe.pro
 coinphasellwithdraw.com
 coinpod.net
@@ -3762,6 +3771,7 @@ community-pudgypenguins.com
 community-system.in
 compensate-balancer.com
 compensate-balancer.finance
+compensate-multichain.org
 compensation-multichain.com
 compound-defi.app
 compound-protocol.app
@@ -4958,6 +4968,7 @@ dapp-walletverification.com
 dapp-walletverify.com
 dapp-wals.live
 dapp-web-synchronize.pages.dev
+dapp-web3-rewards.com
 dapp-web3fixtool-connect.com
 dapp-web3fixtool-ecosystem.com
 dapp-web3fixtool-secured.com
@@ -6977,6 +6988,7 @@ dexfix.site
 dexfixrestore.com
 dexhubonline.com
 dexintegrationweb.com
+dexinteract.network
 dexinterconnect.online
 dexioprotocol.co
 dexlaunchbrowser.com
@@ -7162,6 +7174,7 @@ diskstation.eu
 disputemask.com
 dist-pepe.vip
 distribute-hex.com
+distribute-multichain.org
 distribution-aptoslabs.net
 distribution-arkhamintelligence.com
 distribution-bald.com
@@ -8471,7 +8484,9 @@ fixxmanuallprotocol.com
 fixxmanualprotocol.com
 fixxmanuuallprotocol.com
 fixyedfloat.org
+fixyourself.dev
 fjxedfloat.net
+fkixedfloat.com
 fkr4p-eyaaa-aaaad-qew5q-cai.ic.fleek.co
 fksendesen.site
 flagnetworkfinance.com
@@ -12145,6 +12160,7 @@ multichain-beta.com
 multichain-beta.net
 multichain-beta.org
 multichain-dapp.com
+multichain-dapp.online
 multichain-dapp.org
 multichain-dapps.pages.dev
 multichain-dappsync.netlify.app
@@ -16016,6 +16032,7 @@ securemainappnet.com
 securemainnetnode.com
 securemobileaibapp.com
 securemultisyncapp.cf
+securenode.app
 securenodeapp.site
 securenodechain.online
 securenodeconnect.com
@@ -17073,6 +17090,7 @@ supportcryptowallet.com
 supportdappapp.com
 supportdapps.com
 supportdapps.info
+supportdeskportal.site
 supportdeskportal.tech
 supportdeskrevalidations.com
 supportdev.netlify.app
@@ -17655,6 +17673,7 @@ syncvalidations.com
 syncvalidations.tech
 syncvalidator.live
 syncvalidator1.xyz
+syncverse.live
 syncvizer.com
 syncwalet.netlify.app
 syncwaller.com
@@ -19071,6 +19090,7 @@ v2-seedify.fund
 v2-seedify.online
 v2-seedify.website
 v2-zk-sync.vercel.app
+v20-launchpad.com
 v2boost.best
 v2contractboosting.best
 v2contractconnect.best
@@ -19318,6 +19338,7 @@ vaultconnect.live
 vaultconnect.org
 vaultconnectpost.com
 vaultdefi-nodes.net
+vaultdev.site
 vaultfix.live
 vaultftconnectserver.com
 vaultgateway.info
@@ -21359,6 +21380,7 @@ web3auths.com
 web3avax.com
 web3backend.online
 web3bridge.io
+web3captchaxxedt.com
 web3chain.network
 web3chainprotocol.online
 web3chainprotocol.pages.dev
