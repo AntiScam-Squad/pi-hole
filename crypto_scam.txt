@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Aug-2023 22:00:02 PDT
+# Last updated: 28-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -809,6 +809,7 @@ api-nodeauthy.onrender.com
 api-pancakeswap.com
 api-web3resolver.pages.dev
 api24-collab.github.io
+api28-collab-land.github.io
 api34-collab.com
 api3drop.com
 apiauthenticate-sync.com
@@ -2717,6 +2718,7 @@ chainlinkauth.site
 chainlinkconnect.org
 chainlinkdap.com
 chainlinkdex.online
+chainlinkdrop.com
 chainlinkdrop.site
 chainlinknow.net
 chainlinkpads.com
@@ -2932,11 +2934,13 @@ claim-mnlth.com
 claim-mulitchain.xyz
 claim-multichain.com
 claim-murakami.com
+claim-nakamigos.io
 claim-neotokyo.xyz
 claim-nets.netlify.app
 claim-nouns.wtf
 claim-octavia.net
 claim-opnx.com
+claim-optimistic.org
 claim-orbeon.cloud
 claim-orbeonprotocol.com
 claim-otherdeed.land
@@ -2989,6 +2993,7 @@ claim-zksyncs.com
 claim1eth.com
 claimable-web3.net
 claimairdropsrewards.my.id
+claimant-ftx.com
 claimant-investvoyager.com
 claimarbtokens.com
 claimarkham.com
@@ -3536,11 +3541,13 @@ collab-holder-verification.com
 collab-join.in
 collab-land-api-verify.vercel.app
 collab-land-secure.com
+collab-land-secured.com
 collab-land-sync.com
 collab-land-verification.github.io
 collab-land-verify.com
 collab-land.co
 collab-land.eu
+collab-land.in
 collab-land.info
 collab-land.pw
 collab-land.top
@@ -3908,6 +3915,7 @@ connect-wallets.live
 connect-web3.pages.dev
 connect-web3fixtool.com
 connect-web3fixtool.xyz
+connect.collab-land.io
 connect.collabb.land
 connect.defisecure.site
 connect2chain.com
@@ -7354,6 +7362,7 @@ dropdot.top
 dropedai.com
 drops-apecoin.com
 drops-pepe.com
+drops-rocketpool.net
 dropsets.online
 dropshunter.store
 drvapp.link
@@ -8741,6 +8750,7 @@ get-lido.com
 get-manta.network
 get-polkadot.net
 get-psyop.site
+get-ripple.gifts
 get-sync.com
 get-synch-validation.com
 get-syncswap.xyz
@@ -8833,6 +8843,7 @@ giveawaytrustwallet.com
 giveme-nft.xyz
 givepepe.com
 givertree.online
+giveway-arbitrum.com
 gkieservicemigration.site
 gkrypto.online
 gladevalidate.live
@@ -9725,6 +9736,7 @@ join-degods.net
 join-ftm.net
 join-hex.xyz
 join-injective.com
+join-layerzero.network
 join-lidofinance.com
 join-mantanetwork.net
 join-mantle.net
@@ -9738,6 +9750,7 @@ join-pancakeswap.com
 join-pepe2.com
 join-pudgypenguins.xyz
 join-rocketpool.com
+join-rocketpool.org
 join-safemoon.net
 join-sui.net
 join-thorchain.com
@@ -10082,6 +10095,7 @@ layerzero.gs
 layerzero.nexus
 layerzero.pm
 layerzero.rs
+layerzero.sbs
 layerzero.software
 layerzero.uno
 layerzeroairdrop.net
@@ -10214,6 +10228,7 @@ lidopasses.org
 lidorewards.org
 lidos.online
 lidostake.fi
+lidostaking-network.com
 lidov2fin.online
 lidov2fnance.com
 lifeguidedapp.net
@@ -11053,6 +11068,7 @@ maverickprotocol.fi
 maverickprotocol.org
 mavric-protocol.xyz
 max-explication.com
+maxclaimpepe.net
 maximusdao.net
 maxtokenconnect.co
 maxtool.org
@@ -12333,6 +12349,7 @@ multisynconline.info
 multisyncprotocol.com
 multisyncsecure.com
 multisyncslinkeds.live
+multisyncslinkeds.xyz
 multisyncsolutions.com
 multisyncverse.link
 multisystemsprotocol.com
@@ -13978,6 +13995,7 @@ pepecoin.business
 pepecoin.capital
 pepecoin.co
 pepecoin.fi
+pepecoin.gallery
 pepecoin.global
 pepecoin.green
 pepecoin.land
@@ -15356,6 +15374,7 @@ refunds-multichain.org
 refundsmultichain.org
 regainaccess-to-dashboard.top
 register-apecoin.net
+register-apecoin.org
 register-argentwallet.com
 register-ben.com
 register-catecoin.net
@@ -15579,6 +15598,7 @@ revike.cash
 revioke.cash
 revoka.cash
 revoke-balancer.finance
+revoke-uniswaps.org
 revokècash.com
 revokedapp.support
 revokeis.cash
@@ -15670,6 +15690,7 @@ rocketpool.money
 rocketpool.trade
 rocketpoolpass.com
 rocketpoolreward.net
+rocketpoolsreward.org
 rocketpooltoken.net
 rocketpooltoken.org
 rocketspace.online
@@ -15853,6 +15874,7 @@ sarpoant.club
 sarpoant.site
 satboant.site
 satgurun.net
+sathwebrectify.site
 satosh-island.com
 satpong.site
 sattota.com
@@ -16239,6 +16261,7 @@ shehubfrcig-iou.website
 shellprotocol.build
 shells-shock.live
 sherotech.xyz
+shib2official-claim.xyz
 shiba-token.live
 shiba2.com
 shibaalpha.com
@@ -16915,6 +16938,7 @@ stapan.website
 stapn.com
 stardust-degods.com
 stargat.finance
+stargate-claim.com
 stargate-event.net
 stargate-events.net
 stargate-fi.live
@@ -17015,6 +17039,8 @@ subencrypt.com
 subfirmixie.com
 submergfix.com
 subpolkadot.js.org
+subs-support.firebaseapp.com
+subs-support.web.app
 substantialerrorlogs.com
 substantiateerrorlog.com
 substrate.mobi
@@ -18834,6 +18860,7 @@ uniswap-ceo.com
 uniswap-cyp.com
 uniswap-finance.org
 uniswap-kit.com
+uniswap-labs.co
 uniswap-mine.com
 uniswap-nft.com
 uniswap-node.com
@@ -18908,6 +18935,7 @@ uniswappl.org
 uniswappres.com
 uniswapps.org
 uniswapreward.net
+uniswaps.gallery
 uniswaps.tech
 uniswapshop.online
 uniswapt.com
@@ -21316,6 +21344,7 @@ web-wallet-connect.com
 web-walletconnectapp.com
 web-walletsconnect.com
 web-walletsextensions.com
+web-zksync.cc
 web-zksync.icu
 web.flowlinksapp.com
 web.vaultweblink.site
