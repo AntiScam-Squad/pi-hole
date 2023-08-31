@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Aug-2023 22:00:02 PDT
+# Last updated: 30-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -379,6 +379,7 @@ advancednftsolutions.com
 advancedpolkadot.com
 advertisingnews.org
 aekten.store
+aerodrome.exchange
 aesencryption.co
 afakanla.site
 affirmationdesk.link
@@ -1061,6 +1062,7 @@ apptokens.xyz
 apptokensvalidator.com
 apptool.org
 apptool.site
+appuniswap.ru
 appuniswapp.com
 appvalidating.online
 appvalidation.online
@@ -1156,6 +1158,7 @@ armoant.site
 arnoktar.site
 arocprotocol.tech
 aroken.xyz
+arpabtc.com
 artauthenticateonnft.org
 artblocks.city
 artprocollection.com
@@ -2024,6 +2027,7 @@ bitnadglobal.com
 bitnationvalidate.online
 bitnetworklink.live
 bitolex.com
+bitonux.com
 bitproblemresolved.com
 bitprofitinvest.com
 bitrarm.online
@@ -2236,6 +2240,7 @@ blockschaintools.live
 blocksdapps.firebaseapp.com
 blocksdapps.web.app
 blocksindex.org
+blocksnode.pages.dev
 blockstakweb3.com
 blockstationfixglitch.com
 blocksync.firebaseapp.com
@@ -2897,6 +2902,7 @@ claim-catecoin.net
 claim-caw.com
 claim-cbeth.com
 claim-cbeths.com
+claim-celsius.com
 claim-circie.claims
 claim-circle.app
 claim-circle.claims
@@ -3577,6 +3583,7 @@ collab-system.com
 collab-tools.live
 collab-validator.com
 collab-verification-connect.vercel.app
+collab-verified.github.io
 collab-verifier.netlify.app
 collab-verify.com
 collab-verifyuser.com
@@ -3650,6 +3657,7 @@ collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
 collabland-walletsync.online
+collabland.fi
 collabland.group
 collabland.in
 collabland.info
@@ -3891,6 +3899,7 @@ connect-node-bot.online
 connect-node.com
 connect-optimism.com
 connect-optimism.org
+connect-pro.github.io
 connect-protocol.pages.dev
 connect-pudgypenguins.net
 connect-pyusd.com
@@ -4760,6 +4769,7 @@ cyberconnect-airdrops.com
 cyberconnect-event.com
 cyberconnectclaim.com
 cybercurrencywallet.net
+cybereward.net
 cybereward.org
 cyberewards.com
 cyberewards.net
@@ -7640,9 +7650,11 @@ entronbit.xyz
 entryportalservice.xyz
 envisionav.com
 eosuniswap.org
+epikprotocol-migration.site
 epolkadot.com
 epuny-crypto.surge.sh
 equityzenchainlink.com
+era-zks.io
 eralend-claim.com
 eralend-zksync.io
 erazksync.org
@@ -7778,6 +7790,7 @@ events-apecoin.com
 events-lido.fi
 events-litecoin.com
 events-movr3x.com
+events-ripple.net
 events-shibatoken.net
 events-syncswap.xyz
 events-worldcoin.org
@@ -7954,6 +7967,7 @@ fastauthfixed.online
 fastauthheeedappcoinconneectsync.top
 fastauths.com
 fastauthswallets.org
+fastauthwalletconnect.top
 fastautolink.com
 fastautolinked.com
 fastautttheeconnectdappps.top
@@ -8038,6 +8052,7 @@ fertukmaz.shop
 festive-knuth-9ba589.netlify.app
 festomnet.site
 fetboyt.site
+fetch.gift
 fetken.site
 fetment.site
 fex-walletsec.com
@@ -9019,6 +9034,7 @@ harmony-eco.systems
 harmony-ecosys.com
 harrypottersobamasonic10inuairdrop.com
 hashbridge.org
+hashflow.gifts
 hashkitconnect.com
 hashreport.org
 hasmentes.site
@@ -9637,6 +9653,7 @@ intersyncappscloud.online
 intersyncbridge.com
 interwalletaid.com
 intrappsprojects.netlify.app
+inverse.exchange
 invest-token.art
 invest.xentrades.com
 investbanque.com
@@ -9781,6 +9798,7 @@ join-uniswap.net
 join-venus.org
 join-worldcoin.org
 join-xen.com
+join-zksync.org
 join.launchdrops.net
 joincollab.land
 joint-validation.online
@@ -10110,6 +10128,7 @@ layerzero-free.xyz
 layerzero-optimisim.org
 layerzero-optimism.org
 layerzero-pool.com
+layerzero-promo.com
 layerzero-protocol.network
 layerzero-tokens.com
 layerzero-web.com
@@ -10123,6 +10142,7 @@ layerzero.rs
 layerzero.sbs
 layerzero.software
 layerzero.uno
+layerzero0.network
 layerzeroairdrop.net
 layerzeroapp.com
 layerzerochain.app
@@ -10218,6 +10238,7 @@ lido.academy
 lido.army
 lido.bio
 lido.blue
+lido.cam
 lido.credit
 lido.expert
 lido.family
@@ -10526,6 +10547,7 @@ losnuyter.site
 losynchroworldverse.xyz
 lovehate.site
 lovetok.xyz
+loxade.com
 loyal.charity
 loyal.credit
 loyal.financial
@@ -11086,6 +11108,7 @@ maticsmartconnect.xyz
 matlatkan.site
 mav.fit
 mav.money
+mav.trading
 maveri-protocol.com
 maverick-claims.site
 maverickclaims.site
@@ -12073,6 +12096,7 @@ monbeam.network
 monea-scn.web.app
 moneysandesh.com
 moneywebsync.org
+mong.capital
 monitisecreate.com
 monopolydrop.com
 monsterapeclub-mint.online
@@ -14035,6 +14059,7 @@ pepecoin20.com
 pepecoinclaims.xyz
 pepecoins.site
 pepecoins.website
+pepecomunity.vip
 pepedrop.top
 pepedrop.website
 pepeerc20.com
@@ -15644,6 +15669,7 @@ rewardatom.org
 rewardcake.net
 rewardcryptos.com
 rewardex.space
+rewards-apecoin.com
 rewards-celer.network
 rewards-circle.xyz
 rewards-coolcatsnft.com
@@ -15715,6 +15741,7 @@ rocketpool-node.net
 rocketpool-stake.com
 rocketpool-staking.com
 rocketpool.app
+rocketpool.at
 rocketpool.com.de
 rocketpool.exchange
 rocketpool.money
@@ -15740,6 +15767,7 @@ roninwalletconnectt.com
 rookiedappcenter.tech
 rossy.pages.dev
 rostment.site
+route.gifts
 routebasenodeap.com
 router.gift
 routernodefixing.com
@@ -16984,6 +17012,7 @@ stargatepass.com
 stargatepass.finance
 stargatepass.org
 stargaterewards.com
+stargates.finance
 stargatesnetwork.com
 stargatev2.finance
 stark-net.click
@@ -17310,6 +17339,7 @@ syn-wallet.online
 syn-walletbackups.com
 syn.integrated-safeserver.com
 synapseprotocol.claims
+synapsprotocols.com
 synapsseprotocol.com
 sync-2.serveuser.com
 sync-access.com
@@ -18753,6 +18783,7 @@ trxdapp55.xyz
 trxdapp59.xyz
 trxdapp60.xyz
 trxdapp62.xyz
+trxnvalid.pages.dev
 tryconnectwallet.online
 tslacap.com
 tslatokenio.com
@@ -19285,6 +19316,7 @@ validatewalletauth.com
 validatewalletconnect.com
 validatewalletonline.com
 validatewallets.net
+validatewallets.on.fleek.co
 validatewallets.webflow.io
 validatewalletserror.com
 validatewalls.xyz
@@ -19436,6 +19468,7 @@ velodrome.gifts
 veltexverse.website
 vempire-ddao-rewards-claims-erc20-token.my.id
 venom-networks.com
+venomtokensclaim.com
 verasity.land
 vercelexchange.com
 veri-land.com
@@ -21931,6 +21964,7 @@ xencrypto.live
 xencrypto.solutions
 xenmint.network
 xexecourier.com
+xfriend-tech.com
 xgghif.xyz
 xii.jp
 xintelli-syncapps.netlify.app
