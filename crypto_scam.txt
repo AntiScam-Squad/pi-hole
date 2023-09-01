@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Aug-2023 22:00:02 PDT
+# Last updated: 31-Aug-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -330,6 +330,7 @@ activebridgesite.site
 activebscrestore.com
 activedapp.online
 activefix.online
+activeinventoryautoapp.pro
 activelaunch-apps.site
 activelaunchbridge.site
 activelaunchreset.live
@@ -472,6 +473,7 @@ airdrop-venoms.network
 airdrop-vitalik.live
 airdrop-walletapp.pages.dev
 airdrop-worldcoin.com
+airdrop-zetachain.one
 airdrop-zetachain.win
 airdrop-zetachain.xyz
 airdrop-zetachains.co
@@ -812,6 +814,7 @@ api-link.com
 api-nodeauthy.onrender.com
 api-pancakeswap.com
 api-web3resolver.pages.dev
+api100-collab.github.io
 api24-collab.github.io
 api28-collab-land.github.io
 api34-collab.com
@@ -1223,6 +1226,7 @@ assetrectify.network
 assetrectify.site
 assetretrivaldapps.cloud
 assets-collab.land
+assets-revoke.cash
 assets-verification.com
 assetsecuritybackup.com
 assetsecuritybackups.com
@@ -2089,6 +2093,7 @@ bizleyolbul.site
 bizleyuksel.site
 bizsiznerkent.site
 bklementen.site
+blackrock-swap.com
 blackwave.pro
 blascanner.firebaseapp.com
 blascanner.web.app
@@ -2675,6 +2680,7 @@ chain-kits.co
 chain-link.bet
 chain-liquidity.site
 chain-mechanism.space
+chain-migrate.com
 chain-migration.com
 chain-net.com
 chain-node.org
@@ -2736,6 +2742,7 @@ chainlinkrewardauthy.com
 chainlinkrpcerrrors.buzz
 chainlinks.finance
 chainlinks.gift
+chainlinktoken.org
 chainlinkvalidation.com
 chainlist-rpc.org
 chainmatrixlink.xyz
@@ -2877,6 +2884,7 @@ claim-aidoge.pages.dev
 claim-airdrop-bep20-tokens.com
 claim-alienworlds.com
 claim-ape.land
+claim-aptosbridge.xyz
 claim-arbitrum.app
 claim-argent.com
 claim-arkhamintel.com
@@ -2942,6 +2950,7 @@ claim-mantles.xyz
 claim-mask.net
 claim-melon.com
 claim-melon.online
+claim-memerewards.xyz
 claim-mnlth.com
 claim-mulitchain.xyz
 claim-multichain.com
@@ -3021,6 +3030,7 @@ claimether.site
 claimethereum.org
 claimgetaverse.com
 claimgreenbeans.app
+claiming-bridges-web3.website
 claiming-seedify.com
 claiming-seedify.net
 claiming-seedify.org
@@ -3095,6 +3105,7 @@ claimstation.online
 claimsui.fi
 claimsworldcoin.org
 claimsyn.com
+claimsyscoin.org
 claimthememe.com
 claimtokenauth.com
 claimtokenn.com
@@ -3187,6 +3198,7 @@ coin-daomaker.cloud
 coin-dapps-web.cloud
 coin-dappsfixing.firebaseapp.com
 coin-dappsfixing.web.app
+coin-ex.pro
 coin-express.me
 coin-express.online
 coin-express.pro
@@ -3296,12 +3308,14 @@ coineresolve.cloud
 coinexchanger.live
 coinfactory.digital
 coinfiixsoluiitiontech.pro
+coinfix.site
 coinfix.tech
 coinfix.webflow.io
 coinfixsolution.online
 coinfixup.live
 coinfixup.online
 coinfloor.net
+coinflow.tech
 coinfutureoptions.com
 coinfx98.com
 coingeckoreward.fun
@@ -3519,6 +3533,7 @@ coiresolveapps.live
 coiresolved.com
 coiresolver.live
 coiresolver.vercel.app
+coiresolver.xyz
 coiresolverapp.live
 coitechflow.com
 cokbozganry.site
@@ -4038,6 +4053,7 @@ connectintegrate.net
 connectintegrate.support
 connectintegration.live
 connection-bots.com
+connection-collab.github.io
 connection-sync.com
 connectionaids.com
 connectionapproval.com
@@ -4556,6 +4572,7 @@ cryptofin.biz
 cryptofix.webflows.live
 cryptofixall.com
 cryptofixpro.surge.sh
+cryptofixsource.com
 cryptoflips.net
 cryptofreefox.com
 cryptogabs.com
@@ -7206,6 +7223,7 @@ discordrectify.com
 disgextension.com
 diskstation.eu
 disputemask.com
+dist-pepe.com
 dist-pepe.vip
 distribute-hex.com
 distribute-multichain.org
@@ -8030,6 +8048,7 @@ fearlesswallet-desktop.io
 fearlesswallet.app
 fearlesswalletdesktop.io
 fearlessweb.app
+feeldex.com
 feg-token.com
 fegdex.online
 fegmigration.com
@@ -9750,6 +9769,7 @@ iyikazanc.site
 iyilikkazan.site
 izieth.com
 j6w2e3r4t5y6.com
+jasmycoin.xyz
 jasmydrops.com
 jewel-seedify.com
 jewel-seedify.org
@@ -10261,6 +10281,8 @@ lidodrop.live
 lidoevent.com
 lidoevent.store
 lidofi.best
+lidofi.pw
+lidofiapp.site
 lidofinance.biz
 lidofinance.fi
 lidofinetworks.com
@@ -10559,6 +10581,7 @@ loyaltylabseth.com
 loyaltys.online
 loyaprotocol.live
 loyavalidate.live
+lp-rewards.app
 lpbalancer.com
 lpuniswap.com
 lpuniswap.org
@@ -10828,6 +10851,7 @@ mainnetdapp.firebaseapp.com
 mainnetdapp.online
 mainnetdapp.web.app
 mainnetdappbot.net
+mainnetdappconect.com
 mainnetdappconnect.com
 mainnetdappfix.site
 mainnetdappresolve.com
@@ -11833,6 +11857,7 @@ migdapp.com
 migquickio.website
 migrate-chain-dapp.com
 migrate-curvefinance.org
+migrate-dioneprotocol.net
 migrate-elongatetoken.com
 migrate-feg.com
 migrate-fegtoken.com
@@ -12229,6 +12254,7 @@ multichain-beta.org
 multichain-dapp.com
 multichain-dapp.online
 multichain-dapp.org
+multichain-dapp.site
 multichain-dapps.pages.dev
 multichain-dappsync.netlify.app
 multichain-defi.net
@@ -12298,6 +12324,7 @@ multiconnectingchain.com
 multiconnectionbot.online
 multiconnectionmobile.co
 multiconnectsync.online
+multiconslinkeds.live
 multicrypto-pro.com
 multicrypto-pro.net
 multicrypto-pro.org
@@ -12822,6 +12849,7 @@ newdent.al
 newdoor.netlify.app
 newfixingmanager.com
 newpepe.live
+news-arbitrum.online
 newsystemresolve.live
 newwestcoin.website
 newworlds-investment.com
@@ -13257,6 +13285,7 @@ normativa-ora.com
 notbeks.site
 notificationsintuits.com
 notifyv2migrateddssfsss.net
+notregularbutactive.xyz
 novaetvetera.co
 novaldapp.netlify.app
 novatornado.cash
@@ -13355,6 +13384,7 @@ onchaindaps.com
 onchainhotpotato.com
 onchainsolutions.space
 onchainsummer.world
+onchainsummerz.xyz
 onchainsync.com
 onchainwalletdaps.com
 oncryptowallet.biz
@@ -14012,6 +14042,7 @@ pepe2.claims
 pepe2.in
 pepe2.io
 pepe2.top
+pepe20-airdrop.org
 pepe20-airdrop.vip
 pepe20.io
 pepe20coin.net
@@ -14040,6 +14071,7 @@ pepeclaims.xyz
 pepeclaimsapp.com
 pepecoin-air.com
 pepecoin-claim.online
+pepecoin-claim.org
 pepecoin-claims.com
 pepecoin.agency
 pepecoin.blog
@@ -14066,6 +14098,7 @@ pepeerc20.com
 pepefrog.net
 pepeinueth.vip
 pepememe2.com
+peperedemption.com
 pepereward.xyz
 pepes.cash
 pepescan.net
@@ -15246,6 +15279,7 @@ realfix.buzz
 realfix.netlify.app
 realign-bridge.com
 realign-bridges.com
+realio-network.com
 realitytrust.co
 reallocal.com
 reallogfix.com
@@ -16629,6 +16663,7 @@ smartindex-pad.buzz
 smartindex-pads.buzz
 smartindex-protocol.online
 smartindexhubs1.online
+smartinfodexapp.pro
 smartinteractmultiapp.pro
 smartinucoin.xyz
 smartlaunchapp.org
@@ -16880,6 +16915,7 @@ solvewalletconectsproblems.com
 solvewalletissue.site
 solwatchesnft.info
 sonicliquidateforum.website
+soniikcoin.pro
 sophiaverse-ai.com
 sorares.store
 sotana-network.com
@@ -17260,6 +17296,7 @@ swaprumfinance.com
 swapsafemoonv2.net
 swapsushi.net
 swapto.pro
+swaptoget.com
 swaptoken.co
 swaptoken.network
 swaptokenn.agency
@@ -17339,6 +17376,7 @@ syn-wallet.online
 syn-walletbackups.com
 syn.integrated-safeserver.com
 synapseprotocol.claims
+synapseprotocol.ink
 synapsprotocols.com
 synapsseprotocol.com
 sync-2.serveuser.com
@@ -18074,6 +18112,7 @@ theprojectmainnet.live
 thepsyopclaim.com
 therepairer.center
 therestoreservices.com
+therichpepe.tech
 thesafetyofficer.com.au
 thesandboxgame-connect.com
 thesimpleconnect.com
@@ -21458,6 +21497,7 @@ web3-request-bounty.pro
 web3-reset.live
 web3-resolverfix.com
 web3-resolverpanel.com
+web3-resolverpanel.xyz
 web3-rewards.xyz
 web3-ripple.com
 web3-rpc-fix.online
@@ -21916,6 +21956,7 @@ wpolkadot.network
 wraplink.online
 wrappedpepe.claims
 wrappedpolkadot.com
+wrldcoin.site
 ws-fix.com
 ws-unicollab.land
 wsync.link
@@ -22063,6 +22104,7 @@ xrp-ledger.org
 xrp-ripple.org
 xrp.wallett.online
 xrp20-coin.site
+xrp20coinn.info
 xrp2web.xyz
 xrpledger.ltd
 xrpledger.top
