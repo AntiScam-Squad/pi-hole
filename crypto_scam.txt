@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-Aug-2023 22:00:02 PDT
+# Last updated: 01-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2032,6 +2032,7 @@ bitnationvalidate.online
 bitnetworklink.live
 bitolex.com
 bitonux.com
+bitporio.com
 bitproblemresolved.com
 bitprofitinvest.com
 bitrarm.online
@@ -2334,6 +2335,7 @@ boredape-yacht.com
 boredapejachtclub.com
 boredapeyachtclub.site
 boredapeyachtclub.you-mints.com
+boredapeyachtclubdrop.online
 boredapeyachtclubmint.art
 boredapeyachtclubmint.design
 boredbunnny.com
@@ -2870,6 +2872,7 @@ chrome-extension.tech
 cidappsweb.com
 cidappwa.org
 cipherdatanet.com
+circle-event.net
 circlefin.net
 cirdonsmail.store
 cirtoken.net
@@ -3652,6 +3655,7 @@ collabland-4.cc
 collabland-5.cc
 collabland-8.cc
 collabland-api-access.vercel.app
+collabland-api.github.io
 collabland-connect.cc
 collabland-connect.land
 collabland-connect.vercel.app
@@ -5356,6 +5360,7 @@ dappregistration.online
 dappresolution.online
 dappresolve.io
 dappresolve.net
+dappresolveconnect.netlify.app
 dappresolver.live
 dappresolves.online
 dapprestoraccess.com
@@ -5792,6 +5797,7 @@ dappslinkvalidate.live
 dappsliveintegrate.com
 dappsliveinterface.org
 dappslivenodes.com
+dappslivenodes.univer.se
 dappslivesolution.com
 dappslivesystem.com
 dappslivevalidator.xyz
@@ -6977,6 +6983,7 @@ devsolver.netlify.app
 devsteamtool.com
 devswifterfix.com
 devsync-fix.netlify.app
+devsync.netlify.app
 devsyncfix.pages.dev
 devsynchtools.com
 devteamtool.com
@@ -7408,6 +7415,7 @@ drops-apecoin.com
 drops-pancakeswap.com
 drops-pepe.com
 drops-rocketpool.net
+drops-usdt.xyz
 dropsets.online
 dropshunter.store
 drvapp.link
@@ -8162,6 +8170,7 @@ fix-rpc.com
 fix-sync.pages.dev
 fix-syncwallet.com
 fix-trix.com
+fix-wallet-error-protocol.web.app
 fix-wallets.com
 fix.fuseit.live
 fix.quest
@@ -12247,6 +12256,7 @@ multibriidgedapps.com
 multichaiin.com
 multichain-a.com
 multichain-app.netlify.app
+multichain-app.xyz
 multichain-authenticator.pages.dev
 multichain-beta.com
 multichain-beta.net
@@ -14956,6 +14966,7 @@ projectswebmainnets.com
 projectswebsmainnet.com
 projectt79.com
 projectweblink.com
+projectweblink.live
 projectwebmainnets.com
 promcoin.com
 promtfix.net
@@ -15079,6 +15090,7 @@ pudgyblur.io
 pudgypengiuns.co
 pudgypenguins.claims
 pudgypengunis.com
+pudgypoints.net
 pudgysigloos.com
 pudgyspace.com
 pulpapt.site
@@ -15123,6 +15135,7 @@ pypycoin.com
 pytoor.pythonanywhere.com
 pyudreward.com
 pyusd-coins.com
+pyusdairdropclaim.com
 pyusdcoin.org
 pyusdcoin.site
 pyusdtoken.org
@@ -15778,6 +15791,7 @@ rocketpool.app
 rocketpool.at
 rocketpool.com.de
 rocketpool.exchange
+rocketpool.gallery
 rocketpool.money
 rocketpool.trade
 rocketpoolpass.com
@@ -19479,6 +19493,7 @@ vaultgateway.info
 vaultguard.live
 vaulthero.site
 vaultintegrity.com
+vaultlegacyweb.com
 vaultlink.online
 vaultnet.site
 vaultoverride.info
@@ -21661,11 +21676,13 @@ webcoiresolve.com
 webcoiresolve.site
 webcoiresolves.com
 webcollabland.com
+webconfigmainnet.com
 webconnectappsync.com
 webconnectdapp.com
 webconnectdapps.com
 webconnectingwallets.net
 webconnectliive.com
+webconnectmainnet.pages.dev
 webconnectroute.com
 webconnects.netlify.app
 webconnects.online
@@ -22214,6 +22231,7 @@ zeriondapp.netlify.app
 zerionwallet.com
 zero-claim.com
 zero-swap.site
+zerochainfusion.net
 zeustoken.xyz
 zextsupports.com
 zhifeijimx.com
