@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Sep-2023 22:00:01 PDT
+# Last updated: 03-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -822,6 +822,7 @@ api24-collab.github.io
 api28-collab-land.github.io
 api28-land.github.io
 api34-collab.com
+api3450-verify.github.io
 api3drop.com
 apiauthenticate-sync.com
 apibotconnect.com
@@ -1060,6 +1061,7 @@ appsv3-panskiekprotocol.top
 appsvalidation-server.network
 appsvalidation.com
 appsvault.net
+appswiftauth.site
 appsync.ga
 appsyncc.org
 appsyncpage.com
@@ -3563,6 +3565,7 @@ cokbozganry.site
 cokkalitem.site
 col-labland.online
 col1ab.land
+colab-land-secure.github.io
 colabconnect.land
 colabconnect.net
 colabland.io
@@ -4111,6 +4114,7 @@ connectlinking.com
 connectlinkkdapps.com
 connectlinkplus.com
 connectlinksdapps.com
+connectlivedapps.click
 connectlivedapps.website
 connectlivedapps.xyz
 connectlivewallets.com
@@ -6549,6 +6553,7 @@ decentralizedwebtool.com
 decentralizedweps.com
 decentralizefix.com
 decentralizenetworkinterface.com
+decentralizesbot.xyz
 decentralizesyhub.com
 decentralizesync.com
 decentralizetools.site
@@ -7741,6 +7746,7 @@ escoin.website
 escolopedia.homes
 esfomen.com
 eskotm.store
+esmartcheck.netlify.app
 esmartchecker.com
 esmartchecker.netlify.app
 esmartchecker.website
@@ -8531,6 +8537,7 @@ fixsecuredapp.com
 fixsecuredapps.com
 fixserv.live
 fixsmartco.in
+fixsourcecrypto.com
 fixsupport.live
 fixsynsurge.com
 fixtechdapps.com
@@ -9878,6 +9885,7 @@ junoconnect.pages.dev
 junonetwork.net
 justconn.online
 justifieddappfix.com
+justprocess.xyz
 justsyncit.website
 juwerii.com
 juzztoken.com
@@ -12234,6 +12242,7 @@ mulitchain.app
 mullenfx.com
 multchainvalidator.com
 multi-activenode.online
+multi-app-dapp.com
 multi-bridge.services
 multi-bridgechain.org
 multi-chainnet.online
@@ -12317,6 +12326,7 @@ multichain-next.com
 multichain-next.info
 multichain-next.net
 multichain-next.org
+multichain-portal.xyz
 multichain-pro.com
 multichain-pro.net
 multichain-pro.org
@@ -12487,6 +12497,7 @@ multivalidationconnect.com
 multivault.site
 multiversaldapp.online
 multiverse-bridge.com
+multiverse-dapps.com
 multiverse-protocol-en.xyz
 multiverse-sync.tech
 multiverseapps.xyz
@@ -14030,6 +14041,7 @@ paseh.site
 pasklam.site
 pass-aavve.com
 pass-azuki.com
+pass-polkadot.network
 pass-pudgypenguins.com
 pass-thorchain.com
 pass-yela.com
@@ -16779,6 +16791,7 @@ smartprotocol-sync.com
 smartprotocol.digital
 smartprotocols.co
 smartprotocols.xyz
+smartpurifyapp.pro
 smartrecfix.xyz
 smartrecoveryportal.online
 smartrecsyncauth.xyz
@@ -16786,6 +16799,7 @@ smartrectification.org
 smartrectify.com
 smartrectifydapp.com
 smartrectifydapp.xyz
+smartredressxrp.pro
 smartresolutioncoindec.live
 smartresolve-fix.live
 smartresolvedapps.website
