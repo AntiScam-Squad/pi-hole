@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Sep-2023 22:00:02 PDT
+# Last updated: 06-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -221,6 +221,7 @@ acapolkadot.js.org
 accconfigure.online
 acceounts-binarnce.com
 accesng.com
+accesretificationbot.xyz
 accesreward.info
 accesrewards.firebaseapp.com
 accesrewards.web.app
@@ -834,6 +835,7 @@ api34-collab.com
 api3450-verify.github.io
 api3drop.com
 api42-collabvrfy.land
+api48-land.github.io
 apiauthenticate-sync.com
 apibotconnect.com
 apibridgenetwork.com
@@ -1609,14 +1611,20 @@ avatars-parallel.life
 avattor.online
 avax-chain.com
 avax-event.live
+avax-launch.com
 avax-network.app
 avax-token.com
 avax.claims
 avax.gift
 avax.gifts
 avax.ink
+avaxclaimcoin.org
 avaxevent.app
+avaxlanch.com
+avaxlanches.com
+avaxlanchshop.com
 avaxlaunch.net
+avaxleanch.com
 avaxnetworkwallet.com
 avaxonchain.com
 avenkeltsen.site
@@ -1823,6 +1831,7 @@ beefy.claims
 beefy.cloud
 beefy.gifts
 beefymigrate.live
+beefyswap.net
 beelts.com
 beepcoin.net
 beera.site
@@ -1946,6 +1955,7 @@ bigeyes.world
 bigeyes2.space
 bigeyesapp.xyz
 bigeyesio.space
+bigeyesofficial.com
 bigeyesspace.com
 bigeyesss.space
 bigeyyess.space
@@ -2089,6 +2099,7 @@ bitsw.io
 bitswaplab.com
 bitswapme.com
 bittmix.com
+bittmix.net
 bittrexcryptohub.com
 bittrexcryptohub.vip
 bittsett.com
@@ -2341,6 +2352,7 @@ blurcrypto.netlify.app
 blurdapptool.com
 bluroi.live
 blurpackageclaim.com
+blurpool.app
 blurrestore.xyz
 bmtmetaverse.com
 bnamst.online
@@ -2949,6 +2961,7 @@ claim-aptosbridge.xyz
 claim-arbitrum.app
 claim-argent.com
 claim-arkhamintel.com
+claim-artblocks.com
 claim-asuki.tech
 claim-atom.com
 claim-avax.com
@@ -2979,6 +2992,7 @@ claim-circle.app
 claim-circle.claims
 claim-circle.live
 claim-collab.land
+claim-compound.com
 claim-curve.finance
 claim-curvefinance.com
 claim-curvefinance.net
@@ -2999,6 +3013,7 @@ claim-friend.tech
 claim-friends.tech
 claim-ftm.net
 claim-guttermelo.xyz
+claim-hedera.com
 claim-hex.net
 claim-hollywoodxpepe.com
 claim-karatdao.net
@@ -3037,6 +3052,7 @@ claim-pepe2.vip
 claim-polyhedra.net
 claim-pond.com
 claim-pond0x.org
+claim-pondx.com
 claim-pp.com
 claim-pudgypenguins.net
 claim-pyusd.net
@@ -3077,6 +3093,7 @@ claim-zksync.vip
 claim-zksync.win
 claim-zksyncid.xyz
 claim-zksyncs.com
+claim0x.org
 claim1eth.com
 claimable-web3.net
 claimairdropsrewards.my.id
@@ -3093,6 +3110,7 @@ claimbigeyes.space
 claimcelo.org
 claimcollab.land
 claimcommunity.online
+claimdune.com
 claimes-seedify.org
 claimether.site
 claimethereum.org
@@ -4046,6 +4064,7 @@ connect-web3fixtool.xyz
 connect.collab-land.io
 connect.collabb.land
 connect.defisecure.site
+connect.eth-connects.net
 connect2chain.com
 connect2web3.com
 connectaccess.online
@@ -4543,6 +4562,7 @@ cryptechsolutions.digital
 cryptexprofit.com
 cryptflag.com
 cryptgrowx.com
+crypthyperapp.online
 cryptictools.live
 cryptlinkaffix.online
 cryptnfltd.com
@@ -5713,6 +5733,8 @@ dappsbridgeintegrate.com
 dappsbridgelink.com
 dappsbridgelinks.com
 dappsbridger.com
+dappsbridgeregistry.firebaseapp.com
+dappsbridgeregistry.web.app
 dappsbridges.site
 dappsbridgestools.com
 dappsbridgewalletfix.com
@@ -7053,6 +7075,7 @@ dev-decfix.pantheonsite.io
 dev-decfixer.pantheonsite.io
 dev-delaunchpadd.pantheonsite.io
 dev-fixdecentralized.pantheonsite.io
+dev-fixdev.pantheonsite.io
 dev-harmony.online
 dev-launchpadmultiversex.com
 dev-polkaapp.pantheonsite.io
@@ -7366,6 +7389,7 @@ distribution-shibatoken.net
 distribution-worldcoin.com
 distributions-ftm.com
 distributions-ftm.network
+distributions-lido.fi
 distributlon-ftm.net
 distrlbution-ripple.com
 divaclaim.live
@@ -7515,6 +7539,7 @@ drop-ripple.com
 drop-rocketpool.net
 drop-safemoon.com
 drop-sei.io
+drop-venus.org
 drop-worldcoin.org
 drop-worldcoin.site
 drop-worldcoin.xyz
@@ -7965,6 +7990,7 @@ evilpepeclaim.xyz
 evilpepestake.com
 evilpepetoken.com
 evilpepetoken.org
+evm-lido.com
 evm-tools.live
 evmfixtools.com
 evmkit.io
@@ -8443,6 +8469,7 @@ fixedflȯat.com
 fixèdfloat.com
 fixėdfloat.com
 fîxedfloat.com
+fixedfloat.com.au
 fixedfloat.com.mx
 fixedfloat.do
 fixedfloat.fi
@@ -9133,6 +9160,7 @@ grapeaccess.org
 graphbridge.live
 graphprotocol.org
 graphsupport.online
+gravitaprotocol-rewards.com
 gravitative-discrep.netlify.app
 greenhillstrade-fx.com
 greenyield.cloud
@@ -9943,6 +9971,7 @@ join-collab.net
 join-collab.org
 join-collab.quest
 join-collab.re
+join-connext.net
 join-degods.net
 join-ftm.net
 join-gitcoin.com
@@ -10293,7 +10322,9 @@ launnchh.netlify.app
 laxesrectify.netlify.app
 layer-zer0.network
 layer-zerodrop.app
+layer0protocol.technology
 layer3-arbitrum.foundation
+layerclaim.com
 layernetwork.cloud
 layerpad.live
 layerzeero.pro
@@ -10308,6 +10339,7 @@ layerzero-pool.com
 layerzero-promo.com
 layerzero-promo.me
 layerzero-protocol.network
+layerzero-reward.com
 layerzero-tokens.com
 layerzero-web.com
 layerzero-wl.network
@@ -10398,6 +10430,7 @@ lido-app.live
 lido-app.pro
 lido-app.website
 lido-fi-swap.com
+lido-fi.dev
 lido-fiance.com
 lido-fin.com
 lido-finance-claim.firebaseapp.com
@@ -10440,6 +10473,8 @@ lidocrypto.com
 lidodrop.live
 lidoevent.com
 lidoevent.store
+lidoevent.vip
+lidofi-dao.com
 lidofi.best
 lidofi.pw
 lidofiapp.site
@@ -13739,6 +13774,7 @@ optimism.gift
 optìmìsm.net
 optimismblock.com
 optimismconn.site
+optimismgov.io
 optimismpass.com
 optimismretro.com
 optimizeconnectprocess.online
@@ -15704,6 +15740,7 @@ remotechainextension.com
 remotemain.ink
 remotepaths.org
 rendapssync.online
+renderclaim.com
 rengdoge.com
 renodepad.net
 renqapp.site
@@ -16673,6 +16710,7 @@ smarrtscoire.xyz
 smart-affixswitch.live
 smart-authsvalidity.com
 smart-blockchain.tech
+smart-chaincentral.com
 smart-cipher.com
 smart-coinsioluiition.xyz
 smart-confix.website
@@ -18285,6 +18323,7 @@ theaptlab.live
 theaudazity.com
 theauthenticatordaps.com
 theautorepairer.net
+theavaxlanch.com
 thebigeyess.space
 thebitkisa.live
 thebitnad.com
@@ -22233,6 +22272,7 @@ www-nft-moonbirds.com
 www-polkastarler.com
 www-polkastartar.com
 www-ripple.com
+www-shibainu.com
 www-ter-apps-tation.online
 www-treasure.lol
 wwweb3token.com
