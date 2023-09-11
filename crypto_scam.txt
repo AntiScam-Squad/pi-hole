@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Sep-2023 22:00:02 PDT
+# Last updated: 10-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1127,6 +1127,7 @@ aquabitpowercoin-yui.finance
 aquasync.pages.dev
 aquilaoption.com
 aranbulur.site
+arb-events.com
 arbdoge.co
 arbdoge.gifts
 arbdogee.com
@@ -2826,6 +2827,7 @@ chainlink.bond
 chainlink20.com
 chainlinkauth.site
 chainlinkconnect.org
+chainlinkdao.org
 chainlinkdap.com
 chainlinkdex.online
 chainlinkdrop.com
@@ -2945,6 +2947,7 @@ chargedparticles.medium.com.ru
 chargeurswoolusa.com
 chat-ronin.com
 chechwallet.online
+check-lido.fi
 checkaudits.com
 checkchain.site
 checkdapp.online
@@ -2969,8 +2972,10 @@ cidappsweb.com
 cidappwa.org
 cipherdatanet.com
 circle-event.net
+circle-nft.com
 circle-web3.com
 circlefin.net
+circlenft.io
 circlestable.org
 cirdonsmail.store
 cirtoken.net
@@ -2985,6 +2990,7 @@ claim-aidoge.live
 claim-aidoge.pages.dev
 claim-airdrop-bep20-tokens.com
 claim-alienworlds.com
+claim-alt.com
 claim-ape.land
 claim-aptosbridge.xyz
 claim-arbitrum.app
@@ -3014,6 +3020,7 @@ claim-blofin.com
 claim-boredape.io
 claim-boredape.land
 claim-boredapes.com
+claim-bureau.com
 claim-catecoin.net
 claim-caw.com
 claim-cbeth.com
@@ -3051,6 +3058,7 @@ claim-hollywoodxpepe.com
 claim-karatdao.net
 claim-kava.com
 claim-lens.net
+claim-lidofinance.finance
 claim-lilpudgys.com
 claim-litecoin.com
 claim-litecoin.org
@@ -3109,6 +3117,7 @@ claim-shib20.com
 claim-shibarium.com
 claim-shibrewards.com
 claim-smardex.com
+claim-sonikcoin.com
 claim-stakes.com
 claim-stark.net
 claim-steadystack.com
@@ -3136,6 +3145,7 @@ claim1eth.com
 claimable-web3.net
 claimairdropsrewards.my.id
 claimallcontract.site
+claimankr.net
 claimant-ftx.com
 claimant-investvoyager.com
 claimarbtokens.com
@@ -3146,6 +3156,7 @@ claimbeanz.live
 claimbetbuinu.com
 claimbigeyes.space
 claimcelo.org
+claimchz.com
 claimcollab.land
 claimcommunity.online
 claimdai.com
@@ -3214,6 +3225,7 @@ claims-gelato.network
 claims-investvoyager.com
 claims-live.xyz
 claims-nakamigos.com
+claims-orbiter.finance
 claims-pepe.xyz
 claims-pond0x.net
 claims-requests-web3.xyz
@@ -3825,6 +3837,7 @@ collabland-verification-user.vercel.app
 collabland-verification.vercel.app
 collabland-verify-assets.vercel.app
 collabland-verify.cc
+collabland-verify.com
 collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
@@ -4028,9 +4041,11 @@ conneclt.com
 connecpolkadot.js.org
 connect-2dapps.com
 connect-apps.tech
+connect-aptos.com
 connect-arbdoge.com
 connect-arbitrum.com
 connect-check.com
+connect-colab-land.netlify.app
 connect-colab.land
 connect-collab.netlify.app
 connect-collab.org
@@ -4925,6 +4940,7 @@ currency-developer-crypto.xyz
 currentcontract.best
 currentcrypto.ca
 curve-claims.org
+curve-events.com
 curve-fi.live
 curve-fi.shop
 curve-fi.site
@@ -6518,6 +6534,7 @@ dashboard-aave.info
 dashboard-aave.live
 dashboard-aave.net
 dashboard-metamask.com
+dashboard-multichain.online
 dashboard-online.me
 dashdexxx.com
 dasnetsync.com
@@ -6921,6 +6938,7 @@ defijump.live
 defikingdoms-com.xyz
 defilama.ink
 defilauncher.org
+defilido.org
 defilinkfix.site
 defimaiinnetworkconnect.com
 defimainconnect.on.fleek.co
@@ -8893,6 +8911,7 @@ fqassestsgloballedger.com
 fqassestsgloballedgers.com
 frafchaincoldstorage.com
 frank-rewards.com
+free-chain.link
 free-giveaway.pro
 free-web-wallet.com
 free-zsync.art
@@ -10417,9 +10436,12 @@ layerclaim.com
 layernetwork.cloud
 layerpad.live
 layerzeero.pro
+layerzer0.markets
+layerzero-distribution.com
 layerzero-drop.net
 layerzero-finance.com
 layerzero-finance.network
+layerzero-foundation.net
 layerzero-foundation.network
 layerzero-free.xyz
 layerzero-optimisim.org
@@ -10549,6 +10571,7 @@ lido.expert
 lido.family
 lido.fit
 lido.fyi
+lido.gdn
 lido.gift
 lido.gives
 lido.giving
@@ -10580,6 +10603,7 @@ lidofound.com
 lidofunds.com
 lidoi.fi
 lidoland.com
+lidonetwork.fi
 lidopass.com
 lidopass.org
 lidopasses.org
@@ -10587,6 +10611,7 @@ lidorewards.org
 lidos.online
 lidostake.fi
 lidostaking-network.com
+lidosteth.org
 lidov2fin.online
 lidov2fnance.com
 lidoweekly.com
@@ -11423,6 +11448,7 @@ mathsfix.live
 mathsync.network
 mathsynchronizer.live
 mathwalletconnect.com
+matic-claim.com
 matic-wallet.com
 maticchainconnect.com
 maticclaim.com
@@ -11481,6 +11507,7 @@ mellacenm.site
 mellerspl.site
 mellonfeased.000webhostapp.com
 meloluckyairdrop.com
+melono.ooo
 meltomk.site
 meltomosk.com
 memag.pages.dev
@@ -12587,6 +12614,7 @@ multichain-pro.org
 multichain-protocolkit.netlify.app
 multichain-rectify.com
 multichain-resolveapp.online
+multichain-solveapp.app
 multichain-sync.com
 multichain-web3.uno
 multichain-x.com
@@ -13791,6 +13819,7 @@ onroutetrading.org
 oopensea-io.com
 op-bnbchain.com
 op-bnbchain.org
+op-claim.net
 op-claims.com
 opbnb-bnbchain.com
 opbnb-chain.com
@@ -13863,6 +13892,7 @@ opepen.gallery
 opepen.games
 opepen.quest
 opepenai-art.com
+opgovernance.com
 ophiophagous-smiley-unvascular.s3.eu-central-003.backblazeb2.com
 opnesee.net
 opnseawhitelist.com
@@ -14654,6 +14684,7 @@ polkadot-reward.network
 polkadot-rewards.network
 polkadot-staking.com
 polkadot-support.com
+polkadot-swap.com
 polkadot-technology.com
 polkadot-token.network
 polkadot-trust.site
@@ -16075,6 +16106,7 @@ rewards-celer.network
 rewards-circle.xyz
 rewards-coolcatsnft.com
 rewards-degods.com
+rewards-friendtech.xyz
 rewards-pancakeswap.com
 rewards-prime.com
 rewards-shibarium.com
@@ -16745,6 +16777,7 @@ shibainuclaim.cloud
 shibainuclaim.exchange
 shibainuswap.app
 shibainutoken.us
+shibair.net
 shibaswap.events
 shibaswap.io
 shibatoken-go.space
@@ -17395,6 +17428,7 @@ stakebrntoken.com
 staked-lido.finance
 stakedapps.online
 stakefx.online
+stakelidos.com
 stakemigrat6373783282.live
 stakes-matic.com
 staketoken.space
@@ -19271,6 +19305,7 @@ tw-hm.tel
 twmnftcollectibles.com
 twrectify.com
 twt-claims.com
+twtcoin.net
 twtreward.com
 txidcontract.com
 tykesunleashed.online
@@ -19319,6 +19354,7 @@ uni-dao.org
 uniaward.org
 unibotheld.com
 unibothold.com
+unibotrevenue.com
 unicefyouthrelief.com
 uniclaimv2.com
 uniconnect.live
@@ -19599,6 +19635,7 @@ usdc-event.net
 usdc-rewards.org
 usdcapp.org
 usdcclaims.com
+usdcpromo.com
 usdcreward.org
 usdrewards.org
 usdt-reward.xyz
@@ -19962,6 +19999,7 @@ verificationtw.com
 verified-colabland.com
 verified-community.land
 verify-account.net
+verify-api.github.io
 verify-auth.online
 verify-chain.com
 verify-coinbase.sesamiclothings.com
@@ -21255,6 +21293,7 @@ wallets-connectlive.org
 wallets-connects.io
 wallets-connects.link
 wallets-connet.com
+wallets-cyber.com
 wallets-dapp.netlify.app
 wallets-dapp.online
 wallets-dapps.webflow.io
@@ -22637,6 +22676,7 @@ ytinummococelbriar.live
 ytr6tyu.pro
 yuga-collab.land
 yuga.claims
+yugaclaim.com
 yugadaotoken.com
 yugamerch.com
 yuzu-swap.live
