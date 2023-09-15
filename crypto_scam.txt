@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Sep-2023 22:00:02 PDT
+# Last updated: 14-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2025,6 +2025,7 @@ binancecoinairdrop.com
 binanceinvest.online
 binanceloan.online
 binancemetamask.com
+binanchecrypto.online
 binanmainquest.quest
 binanmainrect.quest
 binanmainresolver.shop
@@ -3818,6 +3819,7 @@ collab-pro.github.io
 collab-secure.com
 collab-system.com
 collab-tools.live
+collab-unlock.website
 collab-validator.com
 collab-verification-connect.vercel.app
 collab-verification.com
@@ -3826,6 +3828,7 @@ collab-verifier.netlify.app
 collab-verify.com
 collab-verify.net
 collab-verifyuser.com
+collab-world.info
 collab.fit
 collab.host
 collab.inload.xyz
@@ -7529,7 +7532,6 @@ dipsfix.bid
 direct-sync.net
 directfix.xyz
 directmergedappslinkup.com
-directory.art
 directorysmartapp.pro
 directresolutionserver.pro
 directsyncserver.pro
@@ -9383,6 +9385,7 @@ graphprotocol.org
 graphsupport.online
 gravitaprotocol-rewards.com
 gravitative-discrep.netlify.app
+green-haze-3357.on.fleek.co
 greenhillstrade-fx.com
 greenyield.cloud
 greslokjat.club
@@ -11370,6 +11373,7 @@ mainnetprotocol.site
 mainnetrectifier.live
 mainnetrectify.com
 mainnetresolve.netlify.app
+mainnetrestorect.online
 mainnets-live.com
 mainnetsauth.com
 mainnetsbridge.site
@@ -11389,6 +11393,7 @@ mainnetshub.com
 mainnetslinksrectify.com
 mainnetsnetworks.org
 mainnetsnode.online
+mainnetsolutionapp.xyz
 mainnetsproject.com
 mainnetstools.online
 mainnetsupport.online
@@ -12397,6 +12402,7 @@ miigrratiionntoov2twoliishere.xyz
 miiigratev1tov2.xyz
 miiiigrateetoov2website.xyz
 miladycraft.com
+milliaire.com
 miltonbeef.com.au
 mina.limited
 minaprotocol.gift
@@ -16973,6 +16979,7 @@ shinemedia.com.ng
 shinjav2shibnobi.live
 shiryoinu.co
 shizukahariu.com
+shm-node.netlify.app
 shm-nodepad.netlify.app
 shockwave-finance.site
 shrioblocks.live
@@ -22143,6 +22150,7 @@ web-walletsextensions.com
 web-zksync.cc
 web-zksync.icu
 web.flowlinksapp.com
+web.solvedapp.org
 web.vaultweblink.site
 web10511.web07.bero-webspace.de
 web10518.web07.bero-webspace.de
@@ -22283,6 +22291,7 @@ web3protocol.live
 web3reauth.net
 web3rectify.site
 web3repair.com
+web3resolve-app.pages.dev
 web3resolverfix.com
 web3resolverpanel.live
 web3rpc.net
