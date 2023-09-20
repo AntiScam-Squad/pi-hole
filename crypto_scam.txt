@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Sep-2023 22:00:02 PDT
+# Last updated: 19-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1184,6 +1184,7 @@ arbnovaswap.com
 arbojtent.site
 arbportal.net
 arbtokensnow.com
+arbtrium.app
 arbuitrum.cloud
 arbutrium.com
 arch-way-connect.com
@@ -2770,6 +2771,7 @@ carecarrier.online
 careeratjayamwebsolutions.com
 carlivechain.shop
 carmelot.exchange
+case-stretto.com
 cashboxlink.com
 casinopolkadot.com
 caskouluk.site
@@ -3453,6 +3455,7 @@ coin-metapad.net
 coin-metapad.org
 coin-migration.website
 coin-node.site
+coin-pad.info
 coin-payments.net
 coin-restore.site
 coin-solution.herokuapp.com
@@ -8225,6 +8228,7 @@ event-pepe.com
 event-usdc.net
 event-worldcoin.com
 events-apecoin.com
+events-babydoge.com
 events-blur.online
 events-lido.fi
 events-litecoin.com
@@ -8414,6 +8418,7 @@ fastauthemigrationv2.link
 fastauthes.site
 fastauthewalletconnect.top
 fastauthewalletconnect.xyz
+fastauthewalletconnects.xyz
 fastauthfixed.online
 fastauthheeedappcoinconneectsync.top
 fastauths.com
@@ -10636,6 +10641,7 @@ layer0protocol.technology
 layer2bnb.com
 layer3-arbitrum.foundation
 layerclaim.com
+layerex.network
 layernetwork.cloud
 layerpad.live
 layerzeero.pro
@@ -12455,6 +12461,7 @@ migration-dappsmultichain.live
 migration-dappsmultichains.com
 migration-dexioprotocol.com
 migration-multapschan.com
+migration-multapschan.live
 migration-multapschans.com
 migration-multiappsmultichains.com
 migration-multiappsmultichains.live
@@ -12535,6 +12542,7 @@ minmaxswap.online
 mint-azuki-now.live
 mint-azuki.site
 mint-bit.net
+mint-bitinauts.app
 mint-bricktopians.com
 mint-cryptopunksv2.com
 mint-degods.com
@@ -13102,6 +13110,7 @@ myarbitrumhelp.org
 myartauthenticate.org
 myaset-collab.land
 myasset-collab.cc
+myasset-collab.in
 myasset-managements.com
 myasset-verify.com
 myassetcontrol.org
@@ -14109,6 +14118,7 @@ openseasdapps.com
 openseasync.pages.dev
 openseaverify.net
 openseawallets.netlify.app
+opensesolutions.com
 openshuby.com
 opensyncs.com
 openwalletapp.com
@@ -14134,6 +14144,7 @@ opnseawhitelist.com
 opolkadot.js.org
 oppolkadot.js.org
 opt-issues.com
+optemism.com
 optimaffix.online
 optimaffix.tech
 optimal-protocol.buzz
@@ -17014,6 +17025,7 @@ set-routerpro.xyz
 setting-dapp.services
 setupclaims.online
 setyonk.site
+sevalidatenode.pages.dev
 severauthenticator.com
 sevgesec.site
 seycee.com
@@ -18867,6 +18879,7 @@ thetatoken-main.online
 thetatoken.trade
 thetatokenconnect.org
 thetatokendrop.com
+thetipcoin.fit
 thetipscoineth.xyz
 thetrolllerart.dvrlists.com
 theuninqgen.buzz
@@ -20388,6 +20401,7 @@ virtual-ledger.live
 virtualwallet.support
 viserwallet.com
 visionswipe.online
+visltsugartown.com
 vital-bridge.net
 vital-bridge.online
 vital-bridges.com
@@ -21150,6 +21164,7 @@ walletconnectivity.pw
 walletconnectivity.site
 walletconnectivity.space
 walletconnectivity.tech
+walletconnectks.tk
 walletconnectlink.co
 walletconnectlink.net
 walletconnectlive.blogspot.com
@@ -22292,6 +22307,8 @@ web3-lido-fi.com
 web3-lido.fi
 web3-mainnet.net
 web3-memecoin.com
+web3-multichain-dapp.xyz
+web3-multiverse-dapps.live
 web3-node-app.netlify.app
 web3-node.netlify.app
 web3-node.pages.dev
@@ -22361,6 +22378,7 @@ web3dappsrestore.com
 web3dappstool.com
 web3dappz.com
 web3datasync.pages.dev
+web3debugger.pages.dev
 web3defi-connect.co
 web3defiesdapps.live
 web3defiexplorer.com
