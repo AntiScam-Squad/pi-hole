@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Sep-2023 22:00:02 PDT
+# Last updated: 27-Sep-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -257,6 +257,7 @@ accesscodesverification.com
 accessconnect.icu
 accessconnectdapps.com
 accessdappprotocol.com
+accessdapps.firebaseapp.com
 accessdapps.web.app
 accessdappsserver.net
 accessfixapp.com
@@ -3297,6 +3298,7 @@ claim-validation-airdrop.info
 claim-vvchecks.com
 claim-wallstmemes.network
 claim-wallstmemes.top
+claim-web3-request.click
 claim-web3.net
 claim-woo.com
 claim-wow.com
@@ -20692,6 +20694,7 @@ verify-chain.com
 verify-coinbase.sesamiclothings.com
 verify-collab.land
 verify-connect.github.io
+verify-connection.com
 verify-defi.com
 verify-hub.com
 verify-metamask.net
