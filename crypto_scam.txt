@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Sep-2023 22:00:01 PDT
+# Last updated: 28-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1280,6 +1280,7 @@ arpabtc.com
 art-claims.com
 artauthenticateonnft.org
 artblocks.city
+artblocks.gift
 artclaims.io
 artprocollection.com
 artsminter.com
@@ -2153,6 +2154,7 @@ bit-vestnetwork.com
 bit-wall.com
 bitautaffix.com
 bitband.co
+bitbeast.io
 bitchaincore.live
 bitcharge.us
 bitchean.com
@@ -2503,6 +2505,7 @@ bluroi.live
 blurpackageclaim.com
 blurpool.app
 blurrestore.xyz
+blurrnftio.azurewebsites.net
 blurwallet-io.com
 bmcoin.website
 bmtmetaverse.com
@@ -9567,6 +9570,7 @@ gmx-mainnet.com
 gmxclaims.com
 gmxdex.io
 gmxio.app
+gmxprotocol.com
 gmxv1.com
 gn-connect.com
 gnosis-safe.org
@@ -10898,6 +10902,7 @@ layerzeropass.com
 layerzeropass.org
 layerzerorewards.org
 layerzro.eu
+layerzro.xyz
 layezero.com
 layyerzerro-network.com
 lcfy.org
@@ -18170,6 +18175,8 @@ subs-support.web.app
 substantialerrorlogs.com
 substantiateerrorlog.com
 substrate.mobi
+subsyncsupports.firebaseapp.com
+subsyncsupports.web.app
 subulussalamkota.desa.id
 subwallet.online
 successfulbridge.website
