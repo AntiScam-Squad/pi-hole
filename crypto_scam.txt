@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Sep-2023 22:00:02 PDT
+# Last updated: 30-Sep-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -533,6 +533,7 @@ airdropclaims.com
 airdropcryptotoday.com
 airdropdefi.com
 airdropmaster.finance
+airdrops-blur.io
 airdrops-lives.com
 airdrops-mantle.xyz
 airdrops-sei.network
@@ -2486,6 +2487,7 @@ bloksync.online
 bloktract.firebaseapp.com
 bloktract.web.app
 blombertset.site
+blu-art.fun
 bluar.io
 bluecubefinance.com
 bluesky-protocol.com
@@ -2962,6 +2964,7 @@ chainconnectwallet.com
 chaindappsconnect.com
 chaindelegate.xyz
 chaindex.netlify.app
+chaindex.pages.dev
 chainextensionconnect.com
 chainfisolution.com
 chainfix.bond
@@ -3279,6 +3282,8 @@ claim-ripple.app
 claim-ripple.org
 claim-rlb.com
 claim-rocketpool.claims
+claim-rocketpool.info
+claim-rocketpool.org
 claim-rollbit.com
 claim-rubydex.com
 claim-scroll.cc
@@ -4307,6 +4312,7 @@ connect-finance.online
 connect-firmencrypt.live
 connect-info.netlify.app
 connect-injective.com
+connect-interface.netlify.app
 connect-kava.com
 connect-land.github.io
 connect-land.link
@@ -6762,6 +6768,7 @@ dappwebsyncronization.xyz
 dappwebvalidations.com
 dappwebwallets.com
 dappwlvalidator.online
+dappz.one
 daprectification.live
 daps-connect.online
 daps-connect.site
@@ -15860,6 +15867,7 @@ project-layerzero.com
 project-sparkdapps.net
 projectauthverify.live
 projectauthverify.site
+projectauthverify.xyz
 projectdataserver.com
 projectdojocoinmigration.ink
 projectfixup.live
