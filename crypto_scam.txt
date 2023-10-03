@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Oct-2023 22:00:01 PDT
+# Last updated: 02-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -147,6 +147,7 @@
 4dot.net
 4ever-photo.com
 4lifeconstructions.com.au
+4r74h-viaaa-aaaal-qbqna-cai.raw.icp0.io
 4vvuniswap.top
 5-253-84-133.plesk.page
 5gfixbox.com
@@ -225,6 +226,7 @@ acala-netwonk.gay
 acala-network.com
 acala-network.site
 acala-network.tech
+acala-networks.com
 acala-networks.org
 acala-sale.live
 acala-token.live
@@ -360,6 +362,7 @@ activebridgesite.site
 activebscrestore.com
 activedapp.online
 activefix.online
+activeimportsystem.site
 activeinventoryautoapp.pro
 activelaunch-apps.site
 activelaunchbridge.site
@@ -567,6 +570,7 @@ airlaunchpad.com
 airpad-uniswap.com
 airpepe.com
 airplop.link
+airrmint.com
 airsmint.com
 airswallets.com
 airswaps.finance
@@ -807,6 +811,7 @@ angryapescountryclub.com
 animalconcerts.pages.dev
 ankr-rewards-programs-claims-erc20-token.com
 ankrdefi.net
+anmeldung-at.link
 annastasia.site
 annexappend-affix.net
 annexappendw.net
@@ -893,6 +898,7 @@ apexearner.com
 apexglobnftltd.com
 apexnetworks.site
 apexwallets.online
+api-blockrectify.pages.dev
 api-blocksync.com
 api-bloombergcrypto.com
 api-collab-land.cloud
@@ -1329,6 +1335,7 @@ askaret.shop
 askemen.store
 askemkert.site
 askolmenty.site
+aslar.online
 asmentuan.site
 asnemasts.site
 asotplatform.com
@@ -1404,6 +1411,10 @@ assist-support.pages.dev
 assistedwebdapp.com
 associate-joejo.com
 asstar-network.com
+astar-apps--pr935-feat-register-modal-2tyq3agk.firebaseapp.com
+astar-apps--pr935-feat-register-modal-2tyq3agk.web.app
+astar-apps--pr936-feat-au-implement-wa-wg88bbcj.firebaseapp.com
+astar-apps--pr936-feat-au-implement-wa-wg88bbcj.web.app
 astar-network-portal.com
 astar-network-portal.org
 astar-network-wallet.com
@@ -1837,6 +1848,7 @@ b-chainsupport.com
 b-chainsupport.net
 b3pool.xyz
 b4nekl.site
+b5oiz-tyaaa-aaaag-abp6a-cai.raw.icp0.io
 bablekak.site
 baby-dogeswap.click
 babyapesclub.net
@@ -2449,6 +2461,7 @@ blockcnode.com
 blockdapconnect.net
 blockdapp.net
 blockdappfix.com
+blockdappfix.pages.dev
 blockdapps.live
 blockdappsence.live
 blockdivest.com
@@ -3806,6 +3819,7 @@ coinrecovereywallets.com
 coinrectification.com
 coinrectify.com
 coinresolution.com
+coinresolveapp.pages.dev
 coinresolvepro.com
 coinresolver.solutions
 coinresolverapp.live
@@ -5632,6 +5646,8 @@ dappconnector.co
 dappconnector.ml
 dappconnectpad.com
 dappconnectplug.com
+dappconnectregistry.firebaseapp.com
+dappconnectregistry.web.app
 dappconnects.io
 dappconnects.pages.dev
 dappconnectsync.com
@@ -7815,6 +7831,7 @@ digitalweblink.live
 digitalwebsync.buzz
 digitoadsworld.live
 digitrecovery.com
+digl.cloud
 diglive.cloud
 diigitoads.world
 dimenxion.online
@@ -11691,6 +11708,7 @@ mainnetaccess.com
 mainnetaccess.net
 mainnetaccessdefi.net
 mainnetactivation.site
+mainnetapi.onrender.com
 mainnetapp.com
 mainnetapp.live
 mainnetapp.net
@@ -11706,6 +11724,7 @@ mainnetblockchain.live
 mainnetbridge.live
 mainnetbridge.online
 mainnetbridge.site
+mainnetchain.pages.dev
 mainnetchainlist.online
 mainnetchainlist.onrender.com
 mainnetchainssync.net
@@ -13418,6 +13437,7 @@ multiversefix.site
 multiversemigrate.bio
 multiversemigrate.lat
 multiversepad.net
+multiversesphere.com
 multiversesyncon.vercel.app
 multiwalconn.com
 multiwallet-connect.io
@@ -16981,6 +17001,7 @@ rpcprotocoltool.net
 rpcprotocoltool.org
 rpcrectify.live
 rpcrectify.us
+rpcrefresh.net
 rpcs-allnode.com
 rpcs-allnodes.com
 rpctoolprotocol.com
@@ -22641,6 +22662,7 @@ walletsyncronization.com
 walletsyncros.com
 walletsyncsrectification.com
 walletsyncvalidation.com
+walletsyncz.netlify.app
 walletsynkzz-net.web.app
 walletsynkzzx-net.firebaseapp.com
 walletsynkzzx-net.web.app
