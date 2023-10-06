@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Oct-2023 22:00:02 PDT
+# Last updated: 05-Oct-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -80,6 +80,7 @@
 1inch.gifts
 1inch.one
 1inch.tk
+1inchairdrop.life
 1inchnetwork.claims
 1inchnetworkclaim.net
 1inchreward.com
@@ -1386,6 +1387,7 @@ assetrectify.com
 assetrectify.network
 assetrectify.site
 assetretrivaldapps.cloud
+assets-collab-land.app
 assets-collab.land
 assets-revoke.cash
 assets-verification.com
@@ -1441,6 +1443,7 @@ astbeys.site
 astepforwardnv.com
 astlar.network
 astr-event.site
+astr.coins-pad.tech
 astra-network.org
 astracoldwallet.com
 astracryptoinvestment.ltd
@@ -3478,6 +3481,7 @@ claimpyusd.com
 claimrbh.com
 claimrenq.website
 claimrltv.com
+claimrocketpool.net
 claims-aave.com
 claims-arbitrum.app
 claims-azuki.com
@@ -8092,6 +8096,7 @@ drop-ripple.com
 drop-rocketpool.net
 drop-safemoon.com
 drop-sei.io
+drop-usdc.me
 drop-usdt.com
 drop-venus.org
 drop-worldcoin.org
@@ -8305,6 +8310,7 @@ emumkatan.site
 emuskgives.com
 en-appsmultichains.live
 en-appsmultichainss.com
+en-manualrestore.pages.dev
 en-metam.com
 en-metamask.com
 en-mimultiapps.live
@@ -9616,6 +9622,7 @@ get-sync.com
 get-synch-validation.com
 get-syncswap.xyz
 get-uniswap.com
+get-usdt.org
 get-worldcoin.org
 getacryptowallet.com
 getairdropbonus.com
@@ -19295,6 +19302,7 @@ t0kenp0cket.org.cn
 t654rei8u876u.com
 tabsenensmacsdenceeik.ru
 tadesre.site
+take-1inch.online
 takeypro.com
 takment.site
 takmponmant.site
@@ -20652,6 +20660,7 @@ upstart-support.com
 uratheum.live
 us-coinbasewallet.com
 us-lido.fi
+usd-drop.com
 usd-drops.com
 usdc-claim.info
 usdc-claim.top
