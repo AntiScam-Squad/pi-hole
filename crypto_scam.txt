@@ -1,11 +1,12 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Oct-2023 22:00:02 PDT
+# Last updated: 07-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
 07e96d43-381a-46a3-9c16-6daf97213efc.co
 09sync00.duckdns.org
+0nlinebot.github.io
 0therside.com
 0vvwvuniswap.top
 0vvwwuniswap.top
@@ -517,6 +518,8 @@ airdrop-hextoken.com
 airdrop-hextoken.net
 airdrop-hunter-polkadot.chainflip.xyz
 airdrop-layerzero.app
+airdrop-lido.firebaseapp.com
+airdrop-lido.web.app
 airdrop-lidofinance.com
 airdrop-linea.cc
 airdrop-live.xyz
@@ -880,6 +883,7 @@ apecoindao.gg
 apecoindao.plus
 apecoindefi.com
 apecoindex.com
+apecoindrop.top
 apecoinfound.com
 apecoinhold.com
 apecoinmints.com
@@ -900,6 +904,7 @@ apelandtoken.xyz
 apemax.net
 apescoin.one
 apestacke-io.com
+apestake.opp.com.co
 apesvap-login.finance
 apesxmaxs.online
 apetoken-usser.online
@@ -1008,6 +1013,7 @@ app-erty.online
 app-ethpadnetwork.com
 app-flaredelegate.net
 app-honeypot.com
+app-io.com.co
 app-issuefix.pages.dev
 app-lens.xyz
 app-lido.fi
@@ -1247,6 +1253,7 @@ arb-events.com
 arb-reward.net
 arbdoge.co
 arbdoge.gifts
+arbdogeairdrops.org
 arbdogee.com
 arbdoges.claims
 arbdoges.gift
@@ -3235,6 +3242,7 @@ citizenbankonline466.longmusic.com
 citizencreditunion.org
 citrinedony.com
 citrusmint.xyz
+cl-collab-land.app
 claim-aidoge.live
 claim-aidoge.pages.dev
 claim-airdrop-bep20-tokens.com
@@ -3281,6 +3289,7 @@ claim-circie.claims
 claim-circle.app
 claim-circle.claims
 claim-circle.live
+claim-circleusdc.online
 claim-collab.land
 claim-compound.com
 claim-curve.finance
@@ -3404,6 +3413,7 @@ claim-wow.com
 claim-x2y2.com
 claim-yogapetz.xyz
 claim-zapper.xyz
+claim-zerolayer.site
 claim-zetachain.com
 claim-zksync.vip
 claim-zksync.win
@@ -3412,6 +3422,7 @@ claim-zksyncs.com
 claim-zro.com
 claim0x.org
 claim1eth.com
+claim1inch.online
 claim1inch.org
 claim1inch.site
 claimable-web3.net
@@ -4091,6 +4102,7 @@ collab-landweb3.com
 collab-link.online
 collab-pro.github.io
 collab-secure.com
+collab-sync.land
 collab-system.com
 collab-system.land
 collab-tools.live
@@ -4395,6 +4407,7 @@ connect-asset.github.io
 connect-check.com
 connect-colab-land.netlify.app
 connect-colab.land
+connect-collab.com
 connect-collab.netlify.app
 connect-collab.org
 connect-collabland.cc
@@ -5837,6 +5850,7 @@ dappfixnode.com
 dappfixsolution.com
 dappfixz.com
 dappfreetokens.com
+dappgatevault.com
 dappgrader.com
 dappguide.org
 dappharmonize.com
@@ -7939,6 +7953,7 @@ dist-pepe.vip
 distribute-decentraland.org
 distribute-hex.com
 distribute-multichain.org
+distribute-syncswap.xyz
 distribution-aptoslabs.net
 distribution-arkhamintelligence.com
 distribution-bald.com
@@ -8898,6 +8913,7 @@ fiixmanualprotoocol.com
 fiixxomerxhub.com
 fikedfloat.org
 filink-protocol.com
+fillup.us.to
 filsfixmimas.com
 filxedfloat.info
 finalcoinmigratev2.financial
@@ -9486,6 +9502,7 @@ friend-tech.net
 friendclaims.xyz
 friends-tech.me
 friendtechclaim.net
+frogburn.xyz
 frommerightmigrate.xyz
 frontyardcompanyio.live
 frostsync.pages.dev
@@ -10532,6 +10549,7 @@ interdappconnect.com
 interdapps.com
 interdapps.tech
 interdappsconnect.com
+interest-aave.com
 interfaceapi.co
 interfaceconnect.co
 interfaceprotocol.com
@@ -11289,6 +11307,7 @@ link-apps.com
 link-bridge.live
 link-claim.com
 link-dao.com
+link-event.live
 link-junonetworkvalidate.live
 link-live.in.net
 link-pool.com
@@ -12380,7 +12399,6 @@ metamask-restore.live
 metamask-restore.online
 metamask-secure.com
 metamask-secure.online
-metamask-snap-polkadot.pages.dev
 metamask-support.serveirc.com
 metamask-supportdesk.com
 metamask-sync.com
@@ -13404,6 +13422,7 @@ multidappconnect.com
 multidappconnect.netlify.app
 multidappconnect.on.fleek.co
 multidappconnect.xyz
+multidappgate.net
 multidapprevap.com
 multidapps-mainnet.com
 multidapps-net.netlify.app
@@ -13930,6 +13949,7 @@ nevbatmkul.site
 nevsuylakman.site
 new-dapprectify.live
 new-interface.netlify.app
+new-join.github.io
 new-migration-interface.netlify.app
 new-migration.com
 new-techy.com
@@ -15956,6 +15976,7 @@ poocoin-app.live
 poocoin-connect.site
 poocoin.cab
 poocoinv2.com
+pool-friend.tech
 pool-liquidity.sbs
 poolapi.xyz
 poolbridge.xyz
@@ -16256,6 +16277,7 @@ publicdappnetwork.com
 publicdefinetwork.com
 publicdevappstools.com
 pudgy-metaverse.com
+pudgyairdrop.com
 pudgyblur.io
 pudgycollections.com
 pudgypengiuns.co
@@ -17750,6 +17772,7 @@ sinogoldlimited.com
 sintrdantx.website
 site-seedify.pl
 sitewideconnect.pages.dev
+siuport.com
 siyabongaeheri.live
 skdnbekejsgejsjidodhebejosiduxhenwksppdocjdjeowpsmd.site
 skriibanduo.live
@@ -17997,6 +18020,7 @@ smartindex-pads.buzz
 smartindex-protocol.online
 smartindexhubs1.online
 smartinfodexapp.pro
+smartintegration.netlify.app
 smartinteractmultiapp.pro
 smartinucoin.xyz
 smartlaunchapp.org
@@ -18575,6 +18599,7 @@ support-walletconnect.com
 support-wallets.com
 support-walletsupdate.com
 support.all-blockchains.com
+supportalltickets.online
 supportandconnect.com
 supportblockweb.xyz
 supportbridge.us
@@ -19610,6 +19635,7 @@ theyolkfrat.net
 thoreum-giveaway.info
 thorfinence.online
 thorstenschiller.com
+thorswap.link
 thortrading.com
 threads-app.club
 threads-app.info
@@ -20629,6 +20655,7 @@ unlock-assets.com
 unlock-bot.github.io
 unlock-connection.com
 unlock-keystore.online
+unlock-me.github.io
 unlock-server.dev
 unlock-server.github.io
 unlock-wallet-connect.com
@@ -21498,6 +21525,8 @@ wallet-mobile.netlify.app
 wallet-monero.site
 wallet-moonriver.com
 wallet-mymonero.site
+wallet-nodefix.firebaseapp.com
+wallet-nodefix.web.app
 wallet-pagylors.com
 wallet-pancakeswap.com
 wallet-poigylon.technology
@@ -23256,6 +23285,8 @@ web3validator.online
 web3versekit.com
 web3vouch.xyz
 web3wallet-conenect.com
+web3wallet-sync.firebaseapp.com
+web3wallet-sync.web.app
 web3wallet.gq
 web3wallet.live
 web3wallet.pages.dev
@@ -23323,6 +23354,7 @@ webdappsauth.com
 webdappsconnect.app
 webdappsconnection.com
 webdappsconnectprotocol.pages.dev
+webdappsfix.sbs
 webdappslink.com
 webdappsquery.online
 webdappssynchronization.pages.dev
