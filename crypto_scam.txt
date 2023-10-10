@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Oct-2023 22:00:02 PDT
+# Last updated: 09-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -643,6 +643,7 @@ alienswap.store
 alienswap.tech
 alienswap.zone
 alienswaps.com
+alienworlds.online
 alignprotocol.net
 alignprotocol.online
 aligntools.live
@@ -2632,6 +2633,7 @@ bombcrypto.space
 bondfold.help
 bonezai.com
 bonk-inu.com
+bonus-bitgert.com
 bonus-optimism.io
 bonus-pay.com
 bonus-requests-web3.online
@@ -2658,6 +2660,7 @@ boredbunnny.com
 boredspirits.live
 borevkest.site
 borma.co.id
+bororoe-financie.tech
 bot-sync.online
 bot-validate.net
 botdappcorrector.live
@@ -2676,6 +2679,7 @@ botwalletsrestore.org
 bounty-uniswap.com
 bounty-uniswap.org
 boxingboyzz.net
+boxnft.gifts
 boxnft.web3-live.net
 boxofthings.com
 boxrent.org
@@ -3674,6 +3678,7 @@ cocc.homes
 cocc.pics
 cocc.store
 cocoin.website
+code-friendtech.com
 codeartenterprises.com.au
 codebucket.net
 codedap234holder.net
@@ -7622,6 +7627,7 @@ defysync.com
 defysync.network
 defysyncd.com
 degenroyale.com
+degenstoken.vip
 degods-claim.xyz
 degods-packs.com
 degods-rewards.com
@@ -9707,6 +9713,7 @@ get-sync.com
 get-synch-validation.com
 get-syncswap.xyz
 get-uniswap.com
+get-usd.com
 get-usdt.org
 get-worldcoin.org
 getacryptowallet.com
@@ -10045,6 +10052,7 @@ hizlicayenilen.online
 hizlikazanim.store
 hizlikazanmalisin.site
 hnafaw.com
+hodld.tools
 hodldefconnections-fixed.live
 hodldefconnections-nodes.live
 hodldefvalidation-nodes.live
@@ -10745,6 +10753,7 @@ join-gala.com
 join-gitcoin.com
 join-hex.xyz
 join-injective.com
+join-layer3.xyz
 join-layerzero.network
 join-lidofinance.com
 join-mantanetwork.net
@@ -10896,6 +10905,7 @@ kiman.club
 kinakuta.supply
 kingpepeog.com
 kingprominers.com
+kingroyal.app
 kingsofwojak.com
 kinsgs.store
 kintcoinfix.website
@@ -12955,6 +12965,7 @@ migrate-feg.com
 migrate-fegtoken.com
 migrate-fegtoken.info
 migrate-fegtoken.live
+migrate-gala.pro
 migrate-makerdao.com
 migrate-radiant-capital.netlify.app
 migrate-safemoon.com
@@ -13016,6 +13027,7 @@ migration-point.website
 migration-psyop.com
 migration-psyop.xyz
 migration-saitamav2.com
+migration-tehbag.com
 migration-wagmigame.com
 migration-wagmigame.xyz
 migration2.online
@@ -13247,6 +13259,7 @@ moneysandesh.com
 moneywebsync.org
 mong.capital
 monitisecreate.com
+monkcoin.co
 monopolydrop.com
 monsterapeclub-mint.online
 monsterhouse-lefilm.com
@@ -17122,6 +17135,7 @@ riteaid-tek.com
 riteserviceapp.com
 riyalprotocol.xyz
 rlbcoin.com
+rlbtbox.com
 rndr.finance
 rnetanask.io
 roasthimjimtokens.pro
@@ -18033,6 +18047,7 @@ smartconsult.digital
 smartcontractauth.com
 smartcontractdapps.website
 smartcontractexecutor.com
+smartcontractschain.com
 smartcontractsvalidation.com
 smartcontractsynchronization.live
 smartcontractupgrade.best
@@ -18364,6 +18379,7 @@ solvewalletissue.site
 solwatchesnft.info
 sonicliquidateforum.website
 soniikcoin.pro
+sonikcoins.io
 sophiaverse-ai.com
 sorares.store
 sotana-network.com
@@ -18520,6 +18536,7 @@ stark-net.click
 starkapp.net
 starknet-eco.net
 starknet-web3.network
+starknet.netlify.app
 starknetclaim.top
 starknetclaim.xyz
 starlblock.live
@@ -18738,6 +18755,7 @@ suzeranipepe.network
 suzeranpepe.network
 swanndvr.net
 swap-bankx.cloud
+swap-boostco.in
 swap-coinbase.info
 swap-connect.net
 swap-connect.org
@@ -19485,6 +19503,7 @@ taxclerenceo.gq
 taxproezglobal.com
 taxproezonline.com
 tcrustwallet.com
+tea-rewards.com
 teachablei.com
 team-away.xyz
 teambluewallet.com
@@ -19760,6 +19779,7 @@ tipcoineth.net
 tipcoinreal.com
 tipcoinseth.com
 tipcoinvip.com
+tipscoin.co
 tipxcoin.net
 titano.fund
 tk-defense.com
