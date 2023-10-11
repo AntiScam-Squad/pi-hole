@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Oct-2023 22:00:02 PDT
+# Last updated: 10-Oct-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -662,6 +662,7 @@ allbestwalletupdates.one
 allbestwalletupdates.org
 allblockchaindapp.godaddysites.com
 allbriclge.com
+allbridge.cc
 allchain-userssupport.com
 allchain-usersupport.com
 allchainaccess.com
@@ -794,12 +795,15 @@ ameliorateerrors.com
 amexconnect.xyz
 amhof.com.au
 aml-crypto.org
+aml-detect.com
 amlappbot.com
 amlbot.social
 amlbotapp.com
 amlbotchecks.com
+amlbotmarket.pro
 amlcheckbot.online
 amlchecknow.online
+amlprotection.com
 amlwallet-bot.com
 amlweb3walletconnect.com
 amodosecurityservices.org
@@ -1993,6 +1997,7 @@ basariliolun.site
 basariliolunuz.site
 base-lido.com
 base-pass.co
+base-perp.xyz
 base-protocol.app
 base24e.com
 basebridge.app
@@ -2378,6 +2383,7 @@ bklementen.site
 blablabla.pages.dev
 blackrock-swap.com
 blackrock-swap.org
+blackstudio.site
 blackwave.pro
 blascanner.firebaseapp.com
 blascanner.web.app
@@ -2979,6 +2985,10 @@ cektopt.site
 cekulandi.site
 celernetwork.live
 celernetwork.org
+celesfia.org
+celesria.org
+celestiagen.org
+celsestia.com
 celsiu-s-network.com
 celsius-networks.com
 cenkoman.store
@@ -3310,6 +3320,7 @@ claim-catecoin.net
 claim-caw.com
 claim-cbeth.com
 claim-cbeths.com
+claim-celestia.org
 claim-celsius.com
 claim-circie.claims
 claim-circle.app
@@ -5367,6 +5378,7 @@ currency-connect.com
 currency-developer-crypto.xyz
 currentcontract.best
 currentcrypto.ca
+curva.top
 curve-claims.org
 curve-events.com
 curve-fi.live
@@ -9481,6 +9493,7 @@ flrmeshworknet.us
 flrnetworkdapp.xyz
 flrtrustlinesdao.xyz
 flrtrustlinez.xyz
+fluffi.club
 flxeadfloat.com
 flxed-float.xyz
 flxedfaot.com
@@ -9688,7 +9701,9 @@ generalrectify.net
 generalverifiers.online
 generateauth.online
 generatehash.online
+genesis-celestia.xyz
 genesisblockapp.com
+genesiscelestia.org
 genesisicu.com
 geniusyieldvalidate.expert
 genopets-verify-connect.in
@@ -9998,6 +10013,7 @@ hcrypto.expert20xcapitals.com
 hcvgi.com
 heartbrainbalance.com
 hectatrade.com
+hedgies.fun
 helddeskrevalidation.com
 helium-dapps.com
 heliumwallet-minersyncfix-247.square.site
@@ -10826,6 +10842,7 @@ kannectrite.live
 kansiwanow.com
 kapo43tegdgey5u7576565yegdhfhry5u5yrgeg.net
 karafuru.gifts
+karatdao.tech
 karkent.site
 karkont.store
 kartmanza.site
@@ -12274,6 +12291,7 @@ meloluckyairdrop.com
 melon-claim.fun
 melon-ooo.com
 melono.ooo
+melonotoken.com
 melonx.net
 meltomk.site
 meltomosk.com
@@ -13093,6 +13111,7 @@ minipepe.fun
 minipepe.fund
 minipepe.icu
 minipepe.link
+minipepe.network
 minipepe.one
 minipepe.online
 minipepe.ooo
@@ -13660,6 +13679,7 @@ musk-airdrop.fund
 musk-in.com
 musk2xr.cc
 musk2xr.com
+muskcase.site
 muskconnector.com
 muskdrops.space
 muskway.com
@@ -14079,6 +14099,7 @@ nft-whitelisting.live
 nftassetcollection.co
 nftbasechain.com
 nftbox.land
+nftbuy.site
 nftbuyershub.com
 nftcertauthenticate.org
 nftcircle.org
@@ -15132,6 +15153,7 @@ pancakeswapwalletsvalidation.finance
 pancakeswapwear.com
 pancakeswapweb.live
 pancakeswapz.blogspot.com
+pancakeswaq.finance
 pancakeswasap.one
 pancakesweap-trade.com
 pancakeswep-exchange.com
@@ -17387,6 +17409,7 @@ satpong.site
 sattota.com
 saturnconnect.live
 savannah3.one
+saveplanets.space
 saveshields.com
 saveshields.online
 saveswap.net
@@ -20149,6 +20172,7 @@ ton-bridge.org
 ton-claim.tech
 ton-reward.com
 ton-stn-app.xyz
+tonair.space
 tonchain.network
 tonclaim.com
 toncoin-distribution.com
@@ -20238,6 +20262,7 @@ transcent-l.ink
 transitionv2-syncs.buzz
 transwebconnect.com
 trasputmang.com
+trastpad.today
 traxmac.com
 trconnect.online
 trconnect.uk
@@ -20272,6 +20297,7 @@ trueconnectbase.com
 truevalidates.live
 truistunlock.com
 truistwallet-com.tk
+trump-nft.com
 trumpnft.site
 trunstwallet.com
 trusctwallet.com
@@ -20849,6 +20875,7 @@ usdc-claim.top
 usdc-claims.net
 usdc-event.com
 usdc-event.net
+usdc-get.pro
 usdc-reward.top
 usdc-rewards.org
 usdc-token.org
@@ -23787,6 +23814,7 @@ wwioth.com
 www-app22.link
 www-arbitrum.gift
 www-dextools.com
+www-fixedflaot.com.de
 www-lidoreward.com
 www-metamask.cam
 www-myetiherwallet.com
