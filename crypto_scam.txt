@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Oct-2023 22:00:02 PDT
+# Last updated: 13-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3293,6 +3293,7 @@ circlestable.org
 cirdonsmail.store
 cirtoken.net
 cirtoken.org
+citarpoat-sihuireop.xyz
 cititoken.io
 citizenbankonline111.moneyhome.biz
 citizenbankonline466.longmusic.com
@@ -3477,6 +3478,7 @@ claim-web3.net
 claim-woo.com
 claim-wow.com
 claim-x2y2.com
+claim-yearn.finance
 claim-yogapetz.xyz
 claim-zapper.xyz
 claim-zerolayer.site
@@ -3491,6 +3493,7 @@ claim1eth.com
 claim1inch.online
 claim1inch.org
 claim1inch.site
+claimaave.com
 claimable-web3.net
 claimaia.com
 claimairdropsrewards.my.id
@@ -4493,6 +4496,7 @@ connect-collabland.cc
 connect-collabland.com
 connect-collabland.net
 connect-collabland.org
+connect-collablend.xyz
 connect-collad.land
 connect-colleb.land
 connect-cryptowallet.com
@@ -5496,6 +5500,7 @@ d-launchpad.com
 d-proapps.com
 d1ot2qh3wiov1v.amplifyapp.com
 d204d0yj5l0zmy.amplifyapp.com
+daap-resolve.live
 daapauthentication.com
 daapbridge.info
 daapchainlink.live
@@ -6342,6 +6347,7 @@ dappsbridgestools.com
 dappsbridgewalletfix.com
 dappsbrowser.org
 dappsbrowser.site
+dappsbrowserrs.netlify.app
 dappsbsc-restore.live
 dappsbugfix.xyz
 dappsc.site
@@ -6854,6 +6860,7 @@ dappswebconnect.org
 dappsweblink.com
 dappswebmainnets.com
 dappswebnode.com
+dappswebportal.com
 dappswebs.com
 dappswebs.online
 dappswsolutionconnect.com
@@ -8057,6 +8064,7 @@ dist-pepe.vip
 distribute-decentraland.org
 distribute-hex.com
 distribute-multichain.org
+distribute-pancakeswap.xyz
 distribute-syncswap.xyz
 distribution-aptoslabs.net
 distribution-arkhamintelligence.com
@@ -9775,6 +9783,7 @@ get-ripple.gifts
 get-sync.com
 get-synch-validation.com
 get-syncswap.xyz
+get-tether.com
 get-uniswap.com
 get-usd.com
 get-usdt.org
@@ -14271,6 +14280,7 @@ noddappres.online
 node-access.live
 node-app-multiverse.pro
 node-app-multiverse.zip
+node-async-connect.pages.dev
 node-authenticate.pages.dev
 node-authrepair.online
 node-bot.me
@@ -21388,6 +21398,7 @@ verifychainsync.netlify.app
 verifycollab.io
 verifycollab.vercel.app
 verifycollabland.github.io
+verifycollabland.name
 verifycollad.land
 verifyconnect.org
 verifyconnect.vercel.app
@@ -22070,6 +22081,7 @@ walletconnect-resolve.us
 walletconnect-restore.online
 walletconnect-sale.com
 walletconnect-sefibridge.com
+walletconnect-self-ten.vercel.app
 walletconnect-selfservicevalidation.weebly.com
 walletconnect-service.com
 walletconnect-service.net
@@ -23491,6 +23503,7 @@ web3officegpt.com
 web3online.cloud
 web3options.io
 web3panel.online
+web3portal.pages.dev
 web3proconnect.com
 web3protocol.live
 web3raptor.netlify.app
@@ -23780,6 +23793,7 @@ wennodequery.xyz
 wenpepe.com
 wepad.one
 wepad.tech
+west-balancer.com
 westminst.site
 westsideblock.center
 westviewprofitfunding.com
@@ -24094,6 +24108,7 @@ yasedek.store
 yashstoneconstruction.com
 yayoikusama.xyz
 ycab.org
+yearn-finance.claims
 yearns.fi
 yellowlovee.com
 yellowsun-protocol.com
