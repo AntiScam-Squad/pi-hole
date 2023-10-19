@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Oct-2023 22:00:02 PDT
+# Last updated: 18-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -971,6 +971,7 @@ apibridgenetwork.com
 apibridgnetwork.org
 apichainz.online
 apicolab.land
+apicollab-land.github.io
 apiconnectd.com
 apiconnectivity.online
 apicontractgearnd.com
@@ -1330,6 +1331,7 @@ arbtrium.app
 arbuitrum.cloud
 arbutrium.com
 arch-way-connect.com
+archipielago-mint.io
 archsway-claim.com
 archsway.com
 arcoplotocol.com
@@ -3391,6 +3393,7 @@ claim-circle.live
 claim-circleusdc.online
 claim-collab.land
 claim-compound.com
+claim-compound.finance
 claim-convex.finance
 claim-convexfinance.com
 claim-curve.finance
@@ -4005,6 +4008,7 @@ coinprotip.net
 coinprotocol.webflow.io
 coinpursewallet.com
 coinrabit.sbs
+coinraises.com
 coinrau.com
 coinreauthenticatesync.com
 coinrecovereyconnects.com
@@ -4276,10 +4280,14 @@ collabbland.online
 collabclaim.land
 collabclands.com
 collabconecting.com
+collabconnect-verify.vercel.app
 collabconnect.in
+collabconnect.info
 collabconnect.land
+collabconnect.pro
 collabconnect.surge.sh
 collabconnect.tech
+collabconnect.xyz
 collabconnection.live
 collabconnection.vercel.app
 collabconnectverify.vercel.app
@@ -4678,6 +4686,8 @@ connectchainserver.org
 connectcoinswallets.com
 connectcollab-land.com
 connectcollab.club
+connectcollab.info
+connectcollab.pw
 connectcollabland.cc
 connectcollabland.com
 connectcollabland.live
@@ -7421,7 +7431,9 @@ decline87255-coinbase.com
 declivetrex.com
 decntsupfx.com
 decrypt.co.com
+decryptclaimdcpt.ae
 decryptdexnode.com
+decryptoken.claims
 dedappp.link
 dedappprotocol.online
 dedepepekiller.vip
@@ -8347,6 +8359,7 @@ drop-safemoon.com
 drop-sei.io
 drop-usdc.me
 drop-usdt.com
+drop-usdt.info
 drop-venus.org
 drop-worldcoin.org
 drop-worldcoin.site
@@ -9906,6 +9919,7 @@ getcoinwallet.com
 getconnectdapp.live
 getconnectdogecoin.iceiy.com
 getdrop.live
+geteth.org
 getfarmorg.info
 getfixed-mainet.xyz
 getfixedmainet.xyz
@@ -10354,6 +10368,7 @@ icoonchainrecs.live
 icotechsupport.com
 icowallet-app.com
 icustodialconnect.net
+id-verify.github.io
 idapps-interface.com
 idapps-token.com
 idbnk.online
@@ -11405,6 +11420,7 @@ layerzro.xyz
 layezero.com
 layyerzerro-network.com
 lcfy.org
+ldentifier.github.io
 ldotoken.org
 leacarvnsmacscreakpsy.ru
 leadsbridge.best
@@ -11470,6 +11486,7 @@ lido-finance.win
 lido-funds.fi
 lido-stake.digital
 lido-stakefinance.com
+lido-stakes.fi
 lido-stakes.xyz
 lido-steking.com
 lido-us.site
@@ -15025,6 +15042,7 @@ optimism-build.com
 optimism.gift
 optìmìsm.net
 optimismblock.com
+optimismbuild.com
 optimismcoin.org
 optimismconn.site
 optimismgov.io
@@ -16861,6 +16879,7 @@ realfixer.support
 realign-bridge.com
 realign-bridges.com
 realio-network.com
+realionetwork.org
 realitytrust.co
 reallocal.com
 reallogfix.com
@@ -21273,6 +21292,7 @@ v2-seedify.fund
 v2-seedify.online
 v2-seedify.website
 v2-zk-sync.vercel.app
+v20-de.fi
 v20-launchpad.com
 v2boost.best
 v2bridgeluckyblock.com
@@ -21599,6 +21619,7 @@ verify-auth.online
 verify-chain.com
 verify-coinbase.sesamiclothings.com
 verify-collab.land
+verify-collab.vercel.app
 verify-connect.github.io
 verify-connection.com
 verify-defi.com
