@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Oct-2023 22:00:02 PDT
+# Last updated: 21-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -76,6 +76,7 @@
 1inch-info.pro
 1inch-network.claims
 1inch-network.net
+1inch-page.top
 1inch-token.org
 1inch-wallet.org
 1inch-withdrawal.pages.dev
@@ -1319,6 +1320,7 @@ arbitrum-lives.com
 arbitrumbridge.live
 arbitrumfoundation.bond
 arbitrumfoundation.ltd
+arbitrumfoundationdrop.xyz
 arbitrumfund.com
 arbitrumgrant.com
 arbitrumpass.com
@@ -2626,6 +2628,7 @@ blocksyncexplorer.pages.dev
 blocksynchronizer.com
 blocksystem-chain.com
 blocktokenrewards.tech
+blocktools.app
 blocktopia.co
 blockube-deluxe.com
 blockube.xyz
@@ -4224,6 +4227,7 @@ collab-backend.online
 collab-band.com
 collab-bot.net
 collab-community.in
+collab-community.land
 collab-confirm.github.io
 collab-connect.land
 collab-connection.github.io
@@ -4269,6 +4273,7 @@ collab-sync.land
 collab-system.com
 collab-system.land
 collab-tools.live
+collab-track.online
 collab-unlock.website
 collab-validator.com
 collab-verification-connect.vercel.app
@@ -11428,6 +11433,7 @@ layerzero.sbs
 layerzero.software
 layerzero.uno
 layerzero0.network
+layerzero0network.com
 layerzeroairdrop.net
 layerzeroapp.com
 layerzeroapp.tech
@@ -17681,6 +17687,7 @@ safemigration.website
 safemintnft.com
 safemintnft.silvertrade.ltd
 safemodetrading.com
+safemoon-migrate.pages.dev
 safemoon-v2migrate.com
 safemoon.cash
 safemoon.claims
@@ -21256,6 +21263,7 @@ upcide.com
 upcomingnftwhitelist.com
 upcryptonus.com
 update-dapps.com
+update-friendtech.com
 update-wallet.com
 updateconnectdapps.com
 updatedapps-services.online
