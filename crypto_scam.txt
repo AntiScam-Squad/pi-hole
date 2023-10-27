@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Oct-2023 22:00:03 PDT
+# Last updated: 26-Oct-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -86,6 +86,7 @@
 1inch.tk
 1inchairdrop.life
 1inchdefi.org
+1inchh-info.top
 1inchnetwork.claims
 1inchnetworkclaim.net
 1inchreward.com
@@ -182,6 +183,7 @@
 91-218-65-223.plesk.page
 92-118-190-138.plesk.page
 96-9-210-124.plesk.page
+995ade6a7bb1.online
 99defi.money
 9bitcoin.xyz
 9nvfgbdfhd.quest
@@ -567,6 +569,7 @@ airdrops-claim.com
 airdrops-lives.com
 airdrops-mantle.xyz
 airdrops-sei.network
+airdrops-sui.one
 airdrops-taikos.xyz
 airdrops-venom.network
 airdrops-zetachain.co
@@ -1195,6 +1198,7 @@ appmainrectify.com
 appmainsync.com
 appnetwork-reset.net
 appnetworkaudit.net
+appnetworkdapp-endpointvercel.app
 appnindex.online
 appnodecenter.com
 appnodeconfig.com
@@ -1357,6 +1361,7 @@ arbuitrum.cloud
 arbutrium.com
 arch-way-connect.com
 archipielago-mint.io
+archipilago.art
 archsway-claim.com
 archsway.com
 arcoplotocol.com
@@ -2730,6 +2735,7 @@ bolptenks.site
 bolyun.website
 bombcoin.space
 bombcrypto.space
+bondairdrop.com
 bondfold.help
 bonesbiits.com
 bonesbitsgang.com
@@ -5320,6 +5326,7 @@ crypto-wallets.de
 crypto-wallets.info
 crypto-wallets.net
 crypto-web-wallet.com
+crypto-xen.org
 crypto.js.org
 crypto247network.com
 cryptoaddwallet.com
@@ -7903,6 +7910,7 @@ degods-packs.com
 degods-rewards.com
 degodsclaim.co
 degodsdefi.com
+dejitarutsuka.live
 deklosmant.site
 delaleme.online
 delegatecash.xyz
@@ -9307,6 +9315,7 @@ finxedfloat.info
 firedrop-freetokens.com
 firmware-config.net
 firmwareaccess.app
+firstdefitokenv2.tech
 firstreplycus.online
 firxedfloat.com
 firxedfloat.info
@@ -10962,6 +10971,7 @@ investcryptofy.com
 invisibilefriends.com
 invisiblefriends.bid
 invisiblefrnds.com
+invitation-friendtech.com
 invitation-zksync.com
 invite-yuga.com
 inzanedesign.com
@@ -11600,6 +11610,8 @@ lens-claim.net
 lens-coin.xyz
 lensprotocol.fun
 lenstoken.xyz
+lerabs.firebaseapp.com
+lerabs.web.app
 letsconnectwallet.com
 letstoken.com
 letverifynow.mrbasic.com
@@ -13768,6 +13780,7 @@ multi-solveresolution.com
 multi-swap.com
 multi-sync-wc.online
 multi-syncsecure.com
+multi-trustpade.ne
 multi-trustpades.com
 multi-wc-sync.online
 multi-webs.network
@@ -15717,6 +15730,7 @@ pemyomy.site
 penaber.site
 pendle-rewards.finance
 pendle.gift
+pendles.exchange
 pepe-airdrop-claim.xyz
 pepe-airdrop.ink
 pepe-billionaire.com
@@ -17554,6 +17568,7 @@ rewardcryptos.com
 rewardex.space
 rewards-apecoin.com
 rewards-apecoin.net
+rewards-arkhamintel.com
 rewards-arkhamintelligence.net
 rewards-babydogeswap.com
 rewards-celer.network
@@ -18373,6 +18388,7 @@ signs-repository.com
 signup-uniswap.org
 signup-zksync.com
 sikyisnsmacsdjicail.ru
+silo.events
 silv2-ilvrewards.club
 silv2rewards-illuvium.net
 silvanaa.site
@@ -19091,6 +19107,7 @@ stark-net.click
 starkapp.net
 starknet-eco.net
 starknet-web3.network
+starknet.money
 starknet.netlify.app
 starknetclaim.top
 starknetclaim.xyz
@@ -20849,6 +20866,7 @@ traxmac.com
 trconnect.online
 trconnect.uk
 treadsly.com
+treasury-chainlink.com
 treehouseproject.xyz
 trendzcity.com.ng
 treustewallet.com
@@ -21159,6 +21177,7 @@ uni-dao.com
 uni-dao.org
 uniaward.org
 unibot.agency
+unibot.money
 unibotheld.com
 unibothold.com
 unibotrevenue.com
@@ -21460,6 +21479,7 @@ upstart-support.com
 uratheum.live
 us-coinbasewallet.com
 us-lido.fi
+usa-circle.net
 usd-claim.xyz
 usd-drop.com
 usd-drops.com
@@ -21971,6 +21991,7 @@ virtualwallet.support
 viserwallet.com
 visionswipe.online
 visltsugartown.com
+vitadao.claims
 vital-bridge.net
 vital-bridge.online
 vital-bridges.com
@@ -22656,6 +22677,7 @@ walletconnect.se
 walletconnect.site
 walletconnect.space
 walletconnect.store
+walletconnect.su
 walletconnect.support
 walletconnect.tel
 walletconnect.tk
@@ -24416,6 +24438,7 @@ wllectvalldator.com
 wlltknvalidatorsprtal.online
 wlt-register.live
 wltconection.com
+wltsynk.org
 woletconect.shop
 wonderful-licorice-edcaea.netlify.app
 wonderland-dapps.com
