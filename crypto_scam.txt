@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Oct-2023 22:00:01 PDT
+# Last updated: 27-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -543,6 +543,7 @@ airdrop-sui.one
 airdrop-taiko.xyz
 airdrop-uni.org
 airdrop-usdc2023.com
+airdrop-vaults.com
 airdrop-venoms.network
 airdrop-vitalik.live
 airdrop-walletapp.pages.dev
@@ -625,12 +626,14 @@ aklanmazas.site
 aklenses.site
 akloksent.website
 akmmont.site
+akoin.website
 aktifol.online
 aktivrorteknikk.no
 aktumanlak.site
 alaskacareusa.online
 albarsan.site
 alchemy-event.net
+alcocoin.website
 alcoin.website
 aleketne.store
 alemavadi.site
@@ -1303,6 +1306,7 @@ aptosfoundation.gift
 aptosıabs.com
 aptoslab-dappstool.xyz
 aptostokenreward.com
+apyeth.fi
 apyeth.org
 apygate-sync.com
 apygate.com
@@ -1913,6 +1917,7 @@ awesomeapes.info
 aweswd.site
 awnetcon.com
 aworldcoin.org
+awpcoin.website
 awsblocksio.live
 awsbridgeliveio.best
 axbermen.shop
@@ -2308,6 +2313,7 @@ bipp44qctivqte.online
 birbswap.io
 bisket.co
 bisqwiki.online
+biswap-exchange.top
 biswap-protocols.top
 biswap2.com
 biswaponlinedapps.com
@@ -2650,6 +2656,7 @@ blocksdapps.firebaseapp.com
 blocksdapps.web.app
 blocksindex.org
 blocksnode.pages.dev
+blocksolutions.live
 blockstakweb3.com
 blockstationfixglitch.com
 blocksync.firebaseapp.com
@@ -2742,6 +2749,7 @@ bonesbitsgang.com
 bonezai.com
 bonk-inu.com
 bonus-bitgert.com
+bonus-linear.finance
 bonus-optimism.io
 bonus-pay.com
 bonus-requests-web3.online
@@ -3201,6 +3209,7 @@ chainfix.org
 chainfixbridge.online
 chainge.gifts
 chaingpt-stake.net
+chaingpt.pics
 chaingpt.trade
 chainharmonization.live
 chainilsit.org
@@ -3558,6 +3567,7 @@ claim-shibarium.com
 claim-shibrewards.com
 claim-smardex.com
 claim-sonikcoin.com
+claim-stake-wallstmemes.com
 claim-stakes.com
 claim-stark.net
 claim-steadystack.com
@@ -3633,6 +3643,7 @@ claimes-seedify.org
 claimether.site
 claimethereum.org
 claimfluid.online
+claimflux.com
 claimfrax.com
 claimfrax.net
 claimgetaverse.com
@@ -3905,6 +3916,7 @@ coinbase-account-reset.com
 coinbase-accountlog.servequake.com
 coinbase-authservices01.com
 coinbase-authverify.servehttp.com
+coinbase-claim.website
 coinbase-dapp.info
 coinbase-dex.com
 coinbase-ether.com
@@ -4149,6 +4161,7 @@ coinsolutionsapp.com
 coinsolutionsdapp.com
 coinsolutiontech.app
 coinsolveautheresolve.com
+coinsraise.com
 coinsrecovereyconnects.com
 coinsrelief.com
 coinsreward.biz
@@ -5430,6 +5443,7 @@ cryptokittiesdapp.xyz
 cryptolaunchpad.cc
 cryptolead.org
 cryptolendeth.com
+cryptolendeth.tech
 cryptolightinvestment.com
 cryptoline.solutions
 cryptolink-portfolio.com
@@ -8256,6 +8270,7 @@ dinnotechworld.com
 dinobusdfinace.com
 dioneprotocol-migration.pro
 dioneprotocol.xyz
+dionesprotocol.com
 dip1linker.com
 dipfix.help
 dipfix.live
@@ -8277,6 +8292,7 @@ disapprove-login.com
 discoparrot.com
 discord-acc.com
 discord-accounts.ru
+discord-collab-land.github.io
 discord-nitro-best.com
 discordantibot.github.io
 discordantibot.pro
@@ -8632,6 +8648,7 @@ eglenceyegel.site
 eheroapp.feibanana.com.br
 eigenlayer.info
 eigenlayer.tech
+eigenlyaer.top
 eips-ethereum.org
 ekonomik.info
 elaktram.online
@@ -11565,12 +11582,14 @@ layerzeropass.org
 layerzeroreward.com
 layerzerorewards.org
 layerzerotoken.top
+layerzlab.com
 layerzro.eu
 layerzro.xyz
 layezero.com
 layyerzerro-network.com
 lcfy.org
 ldentifier.github.io
+ldosecure.com
 ldotoken.org
 leacarvnsmacscreakpsy.ru
 leadsbridge.best
@@ -11619,6 +11638,7 @@ letverifynowallcoin.mrbasic.com
 leyerzero.network
 lezconnectwalle.com
 lfixedfloat.org
+li-dofinance.com
 liberooficcial.com
 lida.finance
 lidio.online
@@ -11626,17 +11646,23 @@ lido-app.live
 lido-app.pro
 lido-app.website
 lido-fi-swap.com
+lido-fi.app
 lido-fi.dev
 lido-fiance.com
 lido-fin.com
 lido-finance-claim.firebaseapp.com
 lido-finance-claim.web.app
+lido-finance-wallet.com
+lido-finance.exchange
 lido-finance.fi
 lido-finance.link
 lido-finance.pro
 lido-finance.win
 lido-funds.fi
+lido-stake-finance.com
 lido-stake.digital
+lido-staked-eth-airdrop.firebaseapp.com
+lido-staked-eth-airdrop.web.app
 lido-stakefinance.com
 lido-stakes.fi
 lido-stakes.xyz
@@ -11663,6 +11689,7 @@ lido.land
 lido.llc
 lido.press
 lido.qa
+lido.social
 lido.top
 lido.uno
 lido.works
@@ -11685,6 +11712,7 @@ lidofi.shop
 lidofiapp.site
 lidofinance.biz
 lidofinance.fi
+lidofinancestake.com
 lidofinetworks.com
 lidofound.com
 lidofunds.com
@@ -12545,6 +12573,7 @@ manualresolvefixnode.tech
 manualresolving.live
 manualrestore.com
 manualrestore.online
+manualrestore.site
 manualrestorewc.site
 manualsafefix.com
 manualsetup.com
@@ -14110,6 +14139,7 @@ mutiwalletdapps.com
 mutlopsent.site
 mutualcommutationapp.pro
 mv-pudgypenguins.com
+mvtlchain-lunchpad.com
 mwsupportlive.com
 mwyehtrewellet.com
 mxprotocol.online
@@ -14421,6 +14451,7 @@ netwesternunit.com
 network-avalanchae.online
 network-blockchain.cloud
 network-kusama.com
+network-lido.fi
 network-portalastar.com
 network-tech.cc
 network-unlock.com
@@ -15046,10 +15077,12 @@ onappswallsync.org
 onbigeyes.space
 onboard-investvoyager.com
 onbotzrectifyerz.xyz
+onchain-ai.org
 onchain-summer.com
 onchaindapp.netlify.app
 onchaindaps.com
 onchainhotpotato.com
+onchaininnovation.org
 onchainsolutions.space
 onchainsummer.world
 onchainsummerz.xyz
@@ -17323,6 +17356,7 @@ remotepaths.org
 rendapssync.online
 renderclaim.com
 rendigital.live
+rendigl.cloud
 renecdexlist.website
 rengdoge.com
 renodepad.net
@@ -17748,6 +17782,7 @@ rpcprotocol.com
 rpcprotocoltool.com
 rpcprotocoltool.net
 rpcprotocoltool.org
+rpcrectification.com
 rpcrectifier.com
 rpcrectify.live
 rpcrectify.net
@@ -18390,6 +18425,7 @@ signup-zksync.com
 sikyisnsmacsdjicail.ru
 silo.events
 silv2-ilvrewards.club
+silv2-stakingrewards.com
 silv2rewards-illuvium.net
 silvanaa.site
 silverbacktoken.live
@@ -19088,6 +19124,7 @@ stargate-fi.live
 stargate-fiinance.in
 stargate-finance.net
 stargate-freetokens.com
+stargate-team.shop
 stargate.fi
 stargateclaim.com
 stargated.finance
@@ -19216,6 +19253,7 @@ sudotrade.xyz
 suguniport.org.ng
 sui-claim.live
 sui-claim.pages.dev
+sui-drop.online
 sui-mainnet.io
 sui-network-wl.com
 sui-web.com
@@ -20226,6 +20264,7 @@ theapps.datapps.xyz
 theappscenter.com
 theaptlab.live
 theaptosbridge.xyz
+thearkhamintelrewards.com
 theaudazity.com
 theauthenticatordaps.com
 theautorepairer.net
@@ -20939,6 +20978,7 @@ trustcwallet.com
 trustdapp.art
 trustdappconnect.com
 trustdapper.xyz
+trustdappnodesserver.com
 trustdapps.art
 trustdapps.live
 trustdapps.net
@@ -24081,6 +24121,7 @@ web3rpcerrorfix.com
 web3rpcnode.com
 web3rpcnodes.com
 web3rpcsync.com
+web3safecrypto.online
 web3secret.com
 web3sectors.com
 web3securedefi.com
@@ -24644,6 +24685,7 @@ xrp-claim.org
 xrp-kr.com
 xrp-ledger.org
 xrp-ripple.org
+xrp.claims
 xrp.wallett.online
 xrp20-coin.site
 xrp20coinn.info
