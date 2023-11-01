@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Oct-2023 22:00:02 PDT
+# Last updated: 31-Oct-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -361,6 +361,7 @@ activateyourwithdrawal.com
 activatingdefiprotocol.com
 activatingmainnet.com
 activatingmymainnet.com
+activation-collab.land
 activationaccess.com
 activationaccess.netlify.app
 activationaces.com
@@ -3805,6 +3806,7 @@ claimverasity.net
 claimwallet.world
 claimwhistler.com
 claimwoof.com
+claimyfy.com
 claimyourcoiin.com
 claimzks.app
 claimzro.com
@@ -4446,6 +4448,7 @@ collabland-verification.vercel.app
 collabland-verify-assets.vercel.app
 collabland-verify.cc
 collabland-verify.com
+collabland-verify.net
 collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
@@ -4457,6 +4460,7 @@ collabland.group
 collabland.in
 collabland.info
 collabland.io
+collabland.land
 collabland.ml
 collabland.network
 collabland.tech
@@ -4962,6 +4966,7 @@ connectrewards.pro
 connectroyale.net
 connects-bankless.co
 connects-bankless.net
+connects-collab.land
 connects-collabland.github.io
 connects-dapp.com
 connects-dapp.website
@@ -6983,6 +6988,8 @@ dappstations.firebaseapp.com
 dappstations.web.app
 dappstech.online
 dappstechlink.com
+dappstesterr12.firebaseapp.com
+dappstesterr12.web.app
 dappstether.com
 dappstetherall.xyz
 dappstoconnect.com
@@ -9862,6 +9869,7 @@ flrnetworkdapp.xyz
 flrtrustlinesdao.xyz
 flrtrustlinez.xyz
 fluffi.club
+fluwii.com
 flxeadfloat.com
 flxed-float.xyz
 flxedfaot.com
@@ -13538,6 +13546,7 @@ migrationcon.pics
 migrationfix.com
 migrationfix.live
 migrationfixs.live
+migrationprompt.com
 migrationsfix.com
 migrationsfix.live
 miiggrraattiinngtov2hoop.xyz
@@ -18879,6 +18888,7 @@ smartsolutiontech.live
 smartsolutiontech.pics
 smartsolutiontech.xyz
 smartsolutiontov2.lol
+smartspacelive.com
 smartspheremultiverse.com
 smartswalletconnect.org
 smartswalletsconnect.com
@@ -19328,6 +19338,7 @@ substantiateerrorlog.com
 substrate.mobi
 subsync-supports.pages.dev
 subsyncsupports.firebaseapp.com
+subsyncsupports.pages.dev
 subsyncsupports.web.app
 subulussalamkota.desa.id
 subwallet.online
@@ -20062,6 +20073,7 @@ syncvalidations.com
 syncvalidations.tech
 syncvalidator.firebaseapp.com
 syncvalidator.live
+syncvalidator.netlify.app
 syncvalidator.web.app
 syncvalidator.xyz
 syncvalidator1.xyz
@@ -21287,7 +21299,9 @@ ukoffshoreaccounts.com
 ukraine-save.com
 ukratoken.com
 uliv.co.in
+ultimateactivemate.xyz
 ultimateapptech.pro
+ultimateinnovativeapp.pro
 ultimatelyagfdytreuuinmkssew.xyz
 ultimative-bank.com
 ultrachains.site
@@ -22217,6 +22231,7 @@ wagmicollabland.com
 wagyuswap.exchange
 wagyuswap.finance
 wagyuswep.app
+wailetconnect.org
 waitlist-memecoin.org
 wakadoolabs.com
 wal-connects.live
