@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-Oct-2023 22:00:02 PDT
+# Last updated: 01-Nov-2023 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -541,6 +541,7 @@ airdrop-live.xyz
 airdrop-mantle.xyz
 airdrop-mantles.one
 airdrop-mantles.xyz
+airdrop-memecoin.one
 airdrop-phantom.app
 airdrop-polkabridge.com
 airdrop-sei.network
@@ -1399,6 +1400,7 @@ arkhamiintelligence.com
 arkhamiintelliigencee.co
 arkhaminteelligence.com
 arkhaminteelliigencee.co
+arkhamintel-rewards.club
 arkhamintel.claims
 arkhamintelclaim.com
 arkhamintelilgence.net
@@ -1830,6 +1832,7 @@ automaticdexvalidate.com
 automaticwalletvalidation.com
 automigrate.live
 automigrates.com
+automigration.dev
 autonomouscryt.website
 autoreconnect.online
 autorectify.org
@@ -1899,6 +1902,7 @@ avaxatchain.com
 avaxblock.com
 avaxclaimcoin.com
 avaxclaimcoin.org
+avaxdapp.com
 avaxevent.app
 avaxfound.com
 avaxinchain.com
@@ -3129,7 +3133,10 @@ celernetwork.org
 celesfia.org
 celesria.org
 celestia-claim.com
+celestia-drop.website
 celestiagen.org
+celestianetwork.top
+celestianetwork.xyz
 celestiantia.com
 cellatis.cc
 celsestia.com
@@ -3263,6 +3270,7 @@ chainlinks.gift
 chainlinktoken.org
 chainlinkvalidation.com
 chainlist-rpc.org
+chainlistnetwork.tech
 chainlistrpc.tech
 chainmatrixlink.xyz
 chainmigration.net
@@ -4072,6 +4080,7 @@ coinmainnetinterface.firebaseapp.com
 coinmainnetinterface.live
 coinmainnetinterface.web.app
 coinmarket.herokuapp.com
+coinmarketcapapp.com
 coinmarketcapi.com
 coinmarketswap.me
 coinmarketwalletsync.com
@@ -5328,6 +5337,7 @@ crypto-earns.co
 crypto-fastmoney.org
 crypto-fix.webflow.io
 crypto-friendly.github.io
+crypto-giveaway.org
 crypto-gpt.app
 crypto-grantltd.com
 crypto-grantltd.net
@@ -5883,6 +5893,7 @@ dapp-mainnet.net
 dapp-mainnets.com
 dapp-mainnetsync.com
 dapp-maxxchain.org
+dapp-migration.dev
 dapp-minings.com
 dapp-multichain.online
 dapp-multichainsync.com
@@ -8006,6 +8017,7 @@ deskdauthmainmet.app
 deskddmainnet.com
 deskdsmainnet.com
 deskftmx.com
+desks.technology
 deslab.firebaseapp.com
 deslab.web.app.com
 desliduoor.pro
@@ -8987,6 +8999,7 @@ ethrise22.org
 ethswap.site
 ethswiftrecon.net
 ethsynchronizer.com
+etht20token.info
 ethtake2022.net
 ethtokens.org
 ethx2xxevent.com
@@ -9539,6 +9552,7 @@ fixedfloaf.net
 fixedfloaft.org
 fixedfloagt.org
 fixedfloall.com
+fixedfloaot.com
 fixedfloaot.org
 fixedfloapt.org
 fixedfloart.org
@@ -12775,6 +12789,7 @@ memecoin.gifts
 memecoin.land
 memecoin.li
 memecoin.promo
+memecoine.top
 memecoines.com
 memecoins.top
 memeland-memecoin.com
@@ -12823,6 +12838,7 @@ mestane.club
 meta-air-drop.online
 meta-airdrop.online
 meta-alliancedaaps.com
+meta-bridge.org
 meta-browser.net
 meta-bull.xyz
 meta-clash.net
@@ -14888,6 +14904,7 @@ noderest.repair
 noderest.solutions
 noderest.support
 noderestoration.co
+noderestore.tech
 nodes-app.pages.dev
 nodes-connect.com
 nodes-connect.pages.dev
@@ -17685,6 +17702,7 @@ reward2.day
 rewardatom.org
 rewardcake.net
 rewardcryptos.com
+rewardeth.org
 rewardex.space
 rewards-apecoin.com
 rewards-apecoin.net
@@ -19472,6 +19490,7 @@ swap-boostco.in
 swap-coinbase.info
 swap-connect.net
 swap-connect.org
+swap-cosmos.xyz
 swap-defiilama.com
 swap-hub.net
 swap-hub.online
@@ -19566,6 +19585,7 @@ swiftkhoinfix.tech
 swiftlyconnect.com
 swiftlycript.com
 swiftlyxcapital.com
+swiftmigrationlive.dev
 swiftnodesyncs.net
 swiftokensfixtools.help
 swiftpeggybox.com
@@ -20663,6 +20683,7 @@ tokenfix.net
 tokenfixerror.com
 tokenfixit.com
 tokenfixprotocol.com
+tokenfixxer.com
 tokenfly-drop.com
 tokengmx.com
 tokenguidehelping.tech
@@ -20824,6 +20845,7 @@ tokensconnects.online
 tokensforensic.com
 tokenshib.net
 tokenshib.org
+tokensight.pics
 tokenslink.live
 tokensmainnet.online
 tokensnipe.org
