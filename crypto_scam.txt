@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Nov-2023 22:00:02 PDT
+# Last updated: 02-Nov-2023 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -566,6 +566,7 @@ airdrop-zksyncs.one
 airdrop-zksynsc.com
 airdrop-zksynsc.one
 airdrop.city
+airdrop987.duckdns.org
 airdropcampaign-polkadot.network
 airdropclaim.info
 airdropclaims.com
@@ -832,6 +833,7 @@ amlbot.social
 amlbotapp.com
 amlbotchecks.com
 amlbotmarket.pro
+amlcheck.in.net
 amlcheckbot.online
 amlcheckcryptobot.online
 amlchecknow.online
@@ -1040,6 +1042,7 @@ app-activator.netlify.app
 app-allnodes.com
 app-astar.za.com
 app-aunthenticator.net
+app-balancers.fi
 app-bestdappfixes.online
 app-betafinance.cloud
 app-betafinance.online
@@ -2017,6 +2020,7 @@ backyardcompanyio.best
 bacoin.website
 bacpne.com
 badapplesiphonerepair.com
+badger.claims
 baffare.site
 bafybeiawj5y4uwhd5rgnrrffpragzbuozce77j2tamo6hqvnw5hasharje.ipfs.dweb.link
 bafybeiawj5y4uwhd5rgnrrffpragzbuozce77j2tamo6hqvnw5hasharje.ipfs.nftstorage.link
@@ -4319,6 +4323,7 @@ collab-assure.land
 collab-backend.online
 collab-band.com
 collab-bot.net
+collab-community-sync.com
 collab-community.in
 collab-community.land
 collab-confirm.github.io
@@ -6600,6 +6605,7 @@ dappsbrowser.github.io
 dappsbrowser.org
 dappsbrowser.site
 dappsbrowserrs.netlify.app
+dappsbrowsers.github.io
 dappsbsc-restore.live
 dappsbugfix.xyz
 dappsc.site
@@ -9180,6 +9186,7 @@ f8w2e3r4t5y6.com
 fabulousassets.xyz
 fabulousmayor850.wixsite.com
 factor-swap.com
+fadhol.com
 fadtblov.store
 faklemen.site
 faksenrem.site
@@ -9938,6 +9945,7 @@ frank-rewards.com
 free-chain.link
 free-giveaway.pro
 free-web-wallet.com
+free-xrp.com
 free-zsync.art
 freeappware.com
 freeconnectsync.xyz
@@ -9954,6 +9962,7 @@ friend-fund.bar
 friend-net.tech
 friend-tech.net
 friendclaims.xyz
+friende.tech
 friends-tech.me
 friendtechclaim.net
 frivobox.com
@@ -11237,6 +11246,7 @@ justprocess.xyz
 justsyncit.website
 juwerii.com
 juzztoken.com
+jysrhs.com
 kablas.store
 kabyarenadev.com
 kahbekel.store
@@ -11505,6 +11515,7 @@ lauchcollabapp.com
 launch-dapp.herokuapp.com
 launch-enjin.com
 launch-enjin.net
+launch-enjin.xyz
 launch-graphlinq.com
 launch-graphlinq.net
 launch-injective.net
@@ -14491,6 +14502,7 @@ neardrop.org
 nearioblocks.best
 necozi.cf
 nelliosworld.com
+nemeland.com
 nertkent.site
 nesretyunt.site
 nestprotocol.gift
@@ -15729,6 +15741,7 @@ pancakeswep.info
 pancakeswep.live
 pancakeswep2.com
 pancakeswip-earn.com
+pancakeswip.net
 pancakeswithpurpose.com
 pancakeswoap-api.com
 pancakeswoap-cash.com
@@ -15858,6 +15871,7 @@ pelisgoogledrive.net
 pemyomy.site
 penaber.site
 pendle-rewards.finance
+pendle.events
 pendle.gift
 pendles.exchange
 pepe-airdrop-claim.xyz
@@ -17382,6 +17396,8 @@ rectnode.netlify.app
 rectoderzmec.com
 rectsyncs.esq
 rectsyncs.surge.sh
+rectwalletdapp.firebaseapp.com
+rectwalletdapp.web.app
 redclayware.com
 redconsulting.co.id
 redeem-blur.claims
@@ -17439,6 +17455,7 @@ register-venus.com
 registration-zkgold.net
 registrybridge.com
 registryconnector.com
+regsiter-friend.tech
 regulatorcenterdev.com
 reimburse-multichain.com
 reimbursements-multichain.com
@@ -17730,6 +17747,7 @@ rewards-tether.org
 rewards-trust-crypto-wallet.000webhostapp.com
 rewards-usdt.info
 rewards-usdt.org
+rewards-usdt.xyz
 rewards-wallstmemes.com
 rewards-zksync.network
 rewards.mystery-binance.com
@@ -20061,6 +20079,7 @@ syncswap-claim.xyz
 syncswap-drop.app
 syncswap.band
 syncswap.builders
+syncswap.events
 syncswap.foundation
 syncswap.fun
 syncswap.gifts
@@ -21652,6 +21671,7 @@ us-coinbasewallet.com
 us-lido.fi
 usa-circle.net
 usd-claim.xyz
+usd-coin.org
 usd-drop.com
 usd-drops.com
 usd-reward.xyz
@@ -21664,6 +21684,7 @@ usdc-event.net
 usdc-get.pro
 usdc-holders.com
 usdc-reward.top
+usdc-rewards.online
 usdc-rewards.org
 usdc-token.org
 usdcapp.org
