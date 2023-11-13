@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Nov-2023 22:00:02 PST
+# Last updated: 12-Nov-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -585,6 +585,7 @@ airdropclaims.com
 airdropcryptotoday.com
 airdropdefi.com
 airdropmaster.finance
+airdropped.vercel.app
 airdrops-blur.io
 airdrops-chain.link
 airdrops-claim.com
@@ -1385,6 +1386,7 @@ arbdogeairdrops.org
 arbdogee.com
 arbdoges.claims
 arbdoges.gift
+arbi.gift
 arbiclaim.net
 arbirewards.org
 arbitokensnow.com
@@ -1406,6 +1408,7 @@ arbitrumv2.org
 arbitrurn.app
 arbitrurnfoundation.online
 arbitruun.foundation
+arbitrym.pics
 arbiturm.co
 arbiutrum.info
 arblive.top
@@ -3145,6 +3148,7 @@ cakryconnect.com
 calamare.site
 calcam.site
 calcepen.site
+calestia.org
 calimpolkadot.live
 caliskazanaz.site
 calivangelist.com
@@ -3227,7 +3231,9 @@ celestia-crypto.com
 celestia-drop.website
 celestia-genesis.website
 celestia-tia.com
+celestia.rest
 celestiaclaim.network
+celestiadapps.com
 celestiadrop.network
 celestiagen.org
 celestiairdrop.network
@@ -3235,6 +3241,7 @@ celestialgroup.fun
 celestianetwork.top
 celestianetwork.xyz
 celestiantia.com
+celestiaportal.vip
 celestz.xyz
 celiestz.xyz
 cellatis.cc
@@ -3961,6 +3968,7 @@ clipperdex.net
 clippycaptcha.online
 cloackwsm.online
 clollabland.pages.dev
+cloud-app-git-feat-opensearch-walletconnect1.vercel.app
 cloud-cache.xyz
 cloud-walletconnect.com
 cloudauthentions.com
@@ -4443,6 +4451,7 @@ collab-community.land
 collab-confirm.github.io
 collab-connect.land
 collab-connection.github.io
+collab-connection.land
 collab-dashboard.tech
 collab-discord.com
 collab-discord.online
@@ -4810,6 +4819,7 @@ connect-asset.github.io
 connect-check.com
 connect-colab-land.netlify.app
 connect-colab.land
+connect-collab-land.xyz
 connect-collab.com
 connect-collab.netlify.app
 connect-collab.org
@@ -8935,6 +8945,7 @@ employ-webdoctors.com
 emulefinance.io
 emumkatan.site
 emuskgives.com
+en-alldappsfix.pages.dev
 en-appsmultichains.live
 en-appsmultichainss.com
 en-manualrestore.pages.dev
@@ -9945,6 +9956,7 @@ fixserv.live
 fixsmartco.in
 fixsourcecrypto.com
 fixsupport.live
+fixsyncdapp.pages.dev
 fixsynsurge.com
 fixtechdapps.com
 fixtechnicalsupport.com
@@ -11857,6 +11869,7 @@ layerzerolabs.club
 layerzerolabs.icu
 layerzerolabs.life
 layerzerolabs.live
+layerzerolabs.network
 layerzeronatwork.xyz
 layerzeronetwork.co
 layerzerontwork.com
@@ -12505,6 +12518,7 @@ mainetdappsync.cfd
 mainetdappsync.sbs
 mainetfix.com
 mainetfix.online
+mainetfixdapp.pages.dev
 mainetfixen.net
 mainetintegration.com
 mainetissue.com
@@ -12756,6 +12770,7 @@ mainnode-sync.com
 mainnodebridge.site
 mainnodesync.com
 mainnodeupdate.com
+mainnodevalidation.net
 mainodes.com
 mainonlinesolution.com
 mainrectification.com
@@ -14241,6 +14256,7 @@ multichain-web3.uno
 multichain-web3.xyz
 multichain-x.com
 multichain.ink
+multichain.onrender.com
 multichainassetscon.net
 multichainbridge.live
 multichaincnet.online
@@ -17503,6 +17519,7 @@ rahelesadeghi.ir
 rallyprotocol.xyz
 ramcryp.com
 rampad.org
+rangesync.pages.dev
 rangevalidator.firebaseapp.com
 rangevalidator.web.app
 ransoit.com
@@ -17682,6 +17699,7 @@ rectifyissuefix.buzz
 rectifyissues.netlify.app
 rectifyit.online
 rectifyliquidity.online
+rectifymainchain.pages.dev
 rectifymaindapp.com
 rectifymultichaindapp.com
 rectifymyassets.site
@@ -18016,6 +18034,7 @@ revoke-balancer.finance
 revoke-uniswap.com
 revoke-uniswaps.org
 revokècash.com
+revokecash.fi
 revokedapp.support
 revokeis.cash
 revokesafepal.com
@@ -18080,6 +18099,7 @@ rewards-rpl.net
 rewards-shibarium.com
 rewards-tether.org
 rewards-trust-crypto-wallet.000webhostapp.com
+rewards-unibot.claims
 rewards-usdt.info
 rewards-usdt.org
 rewards-usdt.xyz
@@ -19626,11 +19646,13 @@ stargate-events.net
 stargate-fi.live
 stargate-fiinance.in
 stargate-finance.net
+stargate-financial.com
 stargate-freetokens.com
 stargate-team.shop
 stargate.fi
 stargateclaim.com
 stargated.finance
+stargatefinance.dev
 stargatefinance.fi
 stargatefinance.live
 stargatefinance.org
@@ -20063,6 +20085,7 @@ sync-dapp.live
 sync-dapp.xyz
 sync-dappassist.online
 sync-dappnet.com
+sync-dapps.com
 sync-dapps.net
 sync-dapps.pages.dev
 sync-dappsconnect.com
@@ -21745,6 +21768,7 @@ ultimateactivemate.xyz
 ultimateapptech.pro
 ultimateinnovativeapp.pro
 ultimatelyagfdytreuuinmkssew.xyz
+ultimateversatileapp.pro
 ultimative-bank.com
 ultrachains.site
 ultrachainsconnect.onrender.com
@@ -21867,6 +21891,7 @@ uniswap-nft.com
 uniswap-node.com
 uniswap-pos.org
 uniswap-pos.top
+uniswap-reward.org
 uniswap-sol.com
 uniswap-tools.com
 uniswap-v2-airdrop.net
@@ -22092,6 +22117,7 @@ usd-coin.us
 usd-drop.com
 usd-drops.com
 usd-reward.xyz
+usd-token.org
 usdc-claim.info
 usdc-claim.org
 usdc-claim.top
@@ -22521,6 +22547,7 @@ veri.band
 verifewallt.xyz
 verifica-ora-security.com
 verificaionankupdated.publicvm.com
+verification-account.xyz
 verification-vvalletconnect.com
 verification-walet.online
 verification-wallet-protocol.com
