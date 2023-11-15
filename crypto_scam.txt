@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Nov-2023 22:00:01 PST
+# Last updated: 14-Nov-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1975,6 +1975,7 @@ avenkeltsen.site
 avivainv.com
 avouch-autosync.org
 avouch-sync.info
+avouchblock.xyz
 avouchdapps.com
 avouchsync.com
 avouchsync.net
@@ -3243,6 +3244,7 @@ celestianetwork.xyz
 celestiantia.com
 celestiaportal.vip
 celestz.xyz
+celiastia.org
 celiestz.xyz
 cellatis.cc
 celsestia.com
@@ -4552,6 +4554,7 @@ collabgift.land
 collabhelpdesk.com
 collabinders.com
 collabintegrator.com
+collabla.in
 collablaand.online
 collablamd.cc
 collablan.com
@@ -4597,10 +4600,12 @@ collabland.group
 collabland.in
 collabland.info
 collabland.io
+collabland.la
 collabland.land
 collabland.ml
 collabland.network
 collabland.tech
+collabland.tel
 collabland.wiki
 collablandapp.net
 collablandc.cc
@@ -5365,6 +5370,7 @@ cosmo-official.org
 cosmodapp.firebaseapp.com
 cosmodapp.web.app
 cosmoioapp.com
+cosmos-swaps.io
 cosmosdrops.cloud
 cosmosintegration.com
 cosmosinterchain.com
@@ -5943,6 +5949,7 @@ daochains.site
 daoclaimaave.com
 daocurve.org
 daoharmonization.live
+daolido.org
 daomaker-nodes.site
 daomakerectification.com
 daomakerfarm.com
@@ -7842,6 +7849,7 @@ defi-rectifications.netlify.app
 defi-rectifier.com
 defi-rectify.us
 defi-ripple.com
+defi-server.xyz
 defi-solutions.net
 defi-solutions.netlify.app
 defi-stakes.net
@@ -8736,6 +8744,7 @@ dropcake.finance
 dropdot.info
 dropdot.top
 dropedai.com
+dropfixdapp.pages.dev
 drops-apecoin.com
 drops-chain.link
 drops-opensea.com
@@ -9663,6 +9672,7 @@ fixeạdfloat.com
 fixeadfloat.net
 fixeadfloet.com
 fixebdfloat.org
+fixeclflaot.com
 fixeclfloat.net
 fixed-change.com
 fixed-flaot.sbs
@@ -9708,6 +9718,7 @@ fixedfiood.com
 fixedfioot.com
 fixedfkloat.org
 fixedfl0af.com
+fixedflaoat.net
 fixedflaoat.us
 fixedflcat.com
 fixedfleat.com
@@ -10039,6 +10050,7 @@ flexauth.netlify.app
 flexcoinswap.com
 flint-wallets.com
 flip-domrdt.tech
+flixedflaoat.com
 flixedfloat.site
 float-fixed.com
 floatfixed.site
@@ -10460,6 +10472,7 @@ gmx-launch.io
 gmx-mainnet.com
 gmxclaims.com
 gmxdex.io
+gmxexchange.io
 gmxio.app
 gmxprotocol.com
 gmxv1.com
@@ -11203,6 +11216,7 @@ integratemintdapps.online
 integrateserver.com
 integrateserver.online
 integrateverify.com
+integratewallect.com
 integratinginterface.com
 integration-defi.pages.dev
 integration-link.link
@@ -11396,6 +11410,7 @@ join-degods.net
 join-ftm.net
 join-gala.com
 join-gitcoin.com
+join-graph.com
 join-hex.xyz
 join-injective.com
 join-layer3.xyz
@@ -11505,6 +11520,7 @@ kavaguard.firebaseapp.com
 kavaguard.web.app
 kavaguard.xyz
 kavatoken.online
+kavaweb3.net
 kavbenz.site
 kaykazan.site
 kazanbolca.site
@@ -13771,6 +13787,7 @@ migratefegtoken.com
 migratefegtoken.live
 migratehokk.online
 migratelive.org
+migratemeritcircle.com
 migratemetov2web.xyz
 migratemobileconnect.co
 migrateplanb.online
@@ -14233,6 +14250,7 @@ multichain-defi.net
 multichain-en-protocol.org
 multichain-event.net
 multichain-event.org
+multichain-fixdapp.pages.dev
 multichain-mainnetprotocol.netlify.app
 multichain-meta.com
 multichain-meta.org
@@ -17711,6 +17729,7 @@ rectifynow.pages.dev
 rectifyportal.info
 rectifyportfolio.online
 rectifyproctocol.net
+rectifyprotocol.com
 rectifyprotocol.site
 rectifyqueries.pages.dev
 rectifyquery.online
@@ -18164,6 +18183,7 @@ riteserviceapp.com
 riyalprotocol.xyz
 rlbcoin.com
 rlbtbox.com
+rmainchain.pages.dev
 rndr.finance
 rnetanask.io
 roasthimjimtokens.pro
@@ -18257,6 +18277,7 @@ rpcnode-fix.com
 rpcnodedebug.com
 rpcnodefix.com
 rpcnodefix.net
+rpcnodefixer.com
 rpcnodefixer.net
 rpcnodeprotocol.com
 rpcnodeprotocol.net
@@ -18276,6 +18297,7 @@ rpcrectifier.com
 rpcrectify.live
 rpcrectify.net
 rpcrectify.us
+rpcrefixer.com
 rpcrefresh.net
 rpcs-allnode.com
 rpcs-allnodes.com
@@ -19845,6 +19867,7 @@ supportandconnect.com
 supportblockweb.xyz
 supportbridge.us
 supportchain.site
+supportchainfix.pages.dev
 supportchains.online
 supportcryptowallet.com
 supportdappapp.com
@@ -21469,6 +21492,7 @@ traxmac.com
 trconnect.online
 trconnect.uk
 treadsly.com
+treasury-chain.link
 treasury-chainlink.com
 treehouseproject.xyz
 trendzcity.com.ng
@@ -24800,6 +24824,7 @@ webappresolution.com
 webapprestore.live
 webapprev.com
 webapptrust.website
+webauthenticationsnchr.pages.dev
 webauthsaccess.com
 webautrectify.com.ng
 webauttaffix.com
