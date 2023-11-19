@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Nov-2023 22:00:01 PST
+# Last updated: 18-Nov-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -17015,6 +17015,7 @@ polkastartre.com
 polkastartrer.click
 polkastartrer.com
 polkastartse.site
+polkastater-login.com
 polkastater.link
 polkastater.site
 polkastatrer.com
