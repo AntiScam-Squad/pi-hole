@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Nov-2023 22:00:02 PST
+# Last updated: 19-Nov-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4896,6 +4896,7 @@ connect-collabland.com
 connect-collabland.net
 connect-collabland.org
 connect-collablend.xyz
+connect-collabs.vercel.app
 connect-collad.land
 connect-colleb.land
 connect-cryptowallet.com
@@ -11897,6 +11898,7 @@ launchpadvalidator.com
 launchpadwhales.com
 launchpath.online
 launchpool.live
+launchppad.xyz
 launchs-lens.xyz
 launchvalidator.co
 launcpad-protocol.buzz
@@ -11923,6 +11925,7 @@ layer2bnb.com
 layer3-arbitrum.foundation
 layer3-xyz.io
 layer3.page
+layerai-migrateportal.site
 layeraimigrate.org
 layerclaim.com
 layerex.network
@@ -11987,6 +11990,7 @@ layerzerodev.net
 layerzerodrop.pw
 layerzerodrop.site
 layerzerofinance.com
+layerzerofinance.network
 layerzerofund.com
 layerzerolab.life
 layerzerolab.live
@@ -12484,6 +12488,7 @@ lpuniswap.org
 lrnrtoken.xyz
 lrntoken.xyz
 ltc-official.com
+luanhcpad.xyz
 lubereft.com
 lucksiamtrade.tk
 luckybblock.com
@@ -12514,6 +12519,7 @@ lydiahelps.com
 lynodes.com
 lyredcsez.site
 lz-badge.com
+lzfoundation.network
 m-anychain.com
 m-imtokem.net
 m26securiter.info
@@ -13038,6 +13044,7 @@ manualsyncs.com
 manualsyncs.io
 manualsyncvalidator.com
 manualvalidating.com
+manualvxvbridge.com
 manualwalletinterface.com
 manualwalletrestore.com
 manualwebrestore.online
@@ -13049,6 +13056,7 @@ marketplaceaxinfinity.club
 markets-options.com
 markphills.xyz
 marlin-rewards-programs-claims-erc20-token.com
+marlinprotocol.com
 marsele.store
 martbitex.com
 martian-wallet.com
@@ -13160,6 +13168,7 @@ memakoin.space
 member-rewards-stake.com
 memberdatacollab.com
 memberverifier.github.io
+memcoin.live
 memcoin.world
 meme-airdop.org
 meme-coin.tech
@@ -13167,6 +13176,7 @@ meme-coins.xyz
 meme-drop.netlify.app
 meme-kombat.pw
 meme-land.xyz
+memeairdrop.top
 memecoin-firesale.org
 memecoin.claims
 memecoin.finance
@@ -13178,6 +13188,7 @@ memecoin.promo
 memecoin.yt
 memecoindrop.top
 memecoindrop.xyz
+memecoine.biz
 memecoine.space
 memecoine.top
 memecoiner.online
@@ -13252,6 +13263,7 @@ meta-mask-official.com
 meta-mask-wallet-security.web.app
 meta-pad.org
 meta-sea.club
+meta-tokens.net
 meta-verfypersonal.org
 meta-wallet-help-desk.com
 meta-walletbridger.com
@@ -13880,6 +13892,7 @@ migrate-fegtoken.info
 migrate-fegtoken.live
 migrate-gala.pro
 migrate-homersimpson.xyz
+migrate-layerai.live
 migrate-makerdao.com
 migrate-newcontractv2.click
 migrate-radiant-capital.netlify.app
@@ -13890,9 +13903,11 @@ migrate-wallet-protocol.firebaseapp.com
 migrate-wallet-protocol.web.app
 migrateapp.live
 migratebit-mantle.xyz
+migratebt-mantle.xyz
 migrateclaim-fegtoken.online
 migratecoin.live
 migratecointechsolution.biz
+migratecontract.com
 migratedapps.com
 migratedapptoken.com
 migratefegtoken.com
@@ -13916,6 +13931,7 @@ migratev2walconnect.link
 migratiionislivenowmigratetov2here.xyz
 migratingfromv1tov2livenow.xyz
 migratingmetov2livvve.xyz
+migration-aardvarkcoin.com
 migration-app.com
 migration-appsmultichains.com
 migration-biswap.org
@@ -14303,6 +14319,7 @@ multi-networksolutions.live
 multi-pro-solution.com
 multi-prodapps.com
 multi-rectifier.com
+multi-serverchainfusion.org
 multi-signates.com
 multi-signature.org
 multi-signatures.com
@@ -14388,6 +14405,7 @@ multichain-web3.uno
 multichain-web3.xyz
 multichain-x.com
 multichain.ink
+multichain.live
 multichain.onrender.com
 multichainassetscon.net
 multichainbridge.live
@@ -15069,6 +15087,7 @@ nft-mintable.online
 nft-pro.info
 nft-seedify.website
 nft-serverconnect.com
+nft-swap.net
 nft-syncs.com
 nft-trustclaim.art
 nft-walletsync.com
@@ -15420,6 +15439,7 @@ nodesprotocolrestore.online
 nodesrectification.com
 nodesrectifier.org
 nodesresolve.com
+nodesretification.net
 nodessync.online
 nodestaking.live
 nodestring-auth.online
@@ -15598,6 +15618,7 @@ okxcoin.tech
 okxcwallet.com
 okxe-web3.com
 okxtoken.space
+old-bridgemutual.site
 ollab.land
 olympus.gift
 olympusadao.financial
@@ -15608,6 +15629,7 @@ olympusdaos.net
 omaxcoin.net
 omaylokt.site
 ominidefi.io
+omni-network.org
 omnidefi.io
 omtch-claim.xyz
 on-blockchain.com
@@ -15622,6 +15644,7 @@ onchain-ai.live
 onchain-ai.org
 onchain-bridge.site
 onchain-summer.com
+onchaindaily.app
 onchaindapp.netlify.app
 onchaindaps.com
 onchainhotpotato.com
@@ -15759,6 +15782,7 @@ opensea-tool.com
 opensea-user-reward.netlify.app
 opensea-verificationprocess.com
 opensea.com.my
+openseaclaims.com
 openseaconnect.weebly.com
 openseaconnections.com
 openseafox.com
@@ -15803,6 +15827,7 @@ opson.online
 opt-issues.com
 opt.claims
 optemism.com
+opti.claims
 optimaffix.online
 optimaffix.tech
 optimal-protocol.buzz
@@ -15862,6 +15887,7 @@ ordinalshub.org
 ordinate-protocol.site
 ordinfinance.com
 ordlinalswallet.app
+ordlnalswallet.net
 ordstore.net
 ordswapdrops.xyz
 org-claims.site
@@ -15971,6 +15997,7 @@ pancakepancakeswap.fun
 pancakepancakeswap.space
 pancakeprize.com
 pancakerewards.com
+pancakerewards.exchange
 pancakes-swap-finance.net
 pancakes-swap.cam
 pancakesconnect.net
@@ -17650,6 +17677,7 @@ r5r6yt78u9i92jg.com
 r5t8790i676tr5r.com
 raca3.net
 racifywebb-3daolunchpads.com
+radarairdrop.com
 raderdefi.live
 raderdefi.xyz
 radiand.online
@@ -17990,6 +18018,7 @@ resetcnt.com
 resetdevsynchronized.com
 resetlaunchdapp.com
 resetmultibridge.com
+resetprotocoltoolsrpc.com
 resolbinan.shop
 resolution-mainnet.live
 resolution-mainnets.live
@@ -18144,6 +18173,7 @@ resyncwebdapp.com
 resyncwebvalidation.com
 retcryp.com
 retechmigr.com
+retechweb3.com
 reth-claims.xyz
 retillop.shop
 retrievescrypt.site
@@ -18182,6 +18212,7 @@ revokeis.cash
 revokesafepal.com
 revokesafepal.xyz
 revokesync.org
+revoketokens.com
 revolcryp.com
 rewalletauthorization.io
 rewalletauthorization.net
@@ -18235,6 +18266,7 @@ rewards-oceandao.org
 rewards-paalai.online
 rewards-paalai.tech
 rewards-paalai.website
+rewards-paalai.xyz
 rewards-pancakeswap.com
 rewards-prime.com
 rewards-rpl.net
@@ -18254,6 +18286,7 @@ rewardspaalai.site
 rewardspaalai.tech
 rewardspaalai.website
 rewardspaalai.xyz
+rewardspalaai.xyz
 rewardsushi.org
 rewardsyncdappssconnect.firebaseapp.com
 rewardsyncdappssconnect.web.app
@@ -18423,11 +18456,13 @@ rpcrectify.net
 rpcrectify.us
 rpcrefixer.com
 rpcrefresh.net
+rpcresettoolsprotocol.com
 rpcs-allnode.com
 rpcs-allnodes.com
 rpcsyctoolsprotocol.com
 rpctoolprotocol.com
 rpctoolprotocol.org
+rpctoolprotocolreset.com
 rpctoolsprotocol.com
 rpcvaultprotocol.com
 rpcvaults.tech
@@ -18536,6 +18571,7 @@ safesyncs.net
 safethemoon.com
 safetool.net
 safetrustwallet.online
+safety-collab.xyz
 safety-metamask.io
 safetycloudconnect.site
 safetyconnectcenter.com
