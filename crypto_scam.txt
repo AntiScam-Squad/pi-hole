@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Nov-2023 22:00:02 PST
+# Last updated: 27-Nov-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1104,6 +1104,7 @@ app-activator.com
 app-activator.info
 app-activator.netlify.app
 app-allnodes.com
+app-apyeth.com
 app-astar.za.com
 app-aunthenticator.net
 app-balancers.fi
@@ -1409,12 +1410,15 @@ apyeth.fi
 apyeth.me
 apyeth.org
 apyeth.trade
+apyether.app
+apyether.eu
 apygate-sync.com
 apygate.com
 apygate.mainnet.website
 apyinterphase.online
 apynodeconnect.xyz
 apynodesecured.online
+apyprotocol.org
 apytechcore.online
 apytechlink.online
 aqt15rvrenr47nepncmgpzivae79polkadot.js.org
@@ -2284,6 +2288,7 @@ beefy.cloud
 beefy.digital
 beefy.gifts
 beefymigrate.live
+beefys.gift
 beefyswap.net
 beelts.com
 beepcoin.net
@@ -4726,6 +4731,7 @@ collabland-api-access.vercel.app
 collabland-api.github.io
 collabland-api.site
 collabland-connect.cc
+collabland-connect.com
 collabland-connect.land
 collabland-connect.vercel.app
 collabland-holder-verify.xyz
@@ -6533,6 +6539,7 @@ dappfixconnects.com
 dappfixed.com
 dappfixedconnect.net
 dappfixen.online
+dappfixer.com
 dappfixer.support
 dappfixer.website
 dappfixerror.com
@@ -9299,6 +9306,7 @@ enter-sui.net
 enter-syncswap.org
 enter-thorchain.net
 enter-uniswap.xyz
+enter-velodrome.org
 enter-worldcoin.org
 entitymultidappsolution.online
 entries.pch-lc.com
@@ -9386,6 +9394,7 @@ eth-x2.com
 eth2-ethereum.org
 eth2drop.com
 eth2xx3xxxevent.link
+ethapy.org
 ethblockscan.com
 ethclaim.one
 ethclaim.space
@@ -9435,6 +9444,7 @@ ethhardware.netlify.app
 ethicaltokens.org
 ethintegrationsync.xyz
 ethnoiq.de
+ethopt.io
 ethplodeoption.com
 ethpow.ink
 ethratio.app
@@ -9786,6 +9796,7 @@ festive-knuth-9ba589.netlify.app
 festomnet.site
 fetboyt.site
 fetch.gift
+fetchprotocol.com
 fetken.site
 fetment.site
 fex-walletsec.com
@@ -10028,6 +10039,7 @@ fixedfloaot.org
 fixedfloapt.org
 fixedfloart.org
 fixedfloast.org
+fixedfloat-1p0.pages.dev
 fixedfloat-about.com
 fixedfloat-app.com
 fixedfloat-blog.com
@@ -11763,10 +11775,12 @@ join-pepe2.com
 join-polychain.capital
 join-pudgypenguins.xyz
 join-quant.org
+join-quickswap.xyz
 join-rocketpool.com
 join-rocketpool.org
 join-safemoon.net
 join-sui.net
+join-synapse.com
 join-syncswap.org
 join-thorchain.com
 join-thorswap.com
@@ -13146,6 +13160,7 @@ mainnetsync.com
 mainnetsync.net
 mainnetsync.site
 mainnetsyncbridge.site
+mainnetsyncdapp.com
 mainnetsyncdapp.net
 mainnetsyncer.live
 mainnetsynces.site
@@ -13364,6 +13379,7 @@ matic-wallet.com
 matic.gifts
 maticchainconnect.com
 maticclaim.com
+maticesputnik.com
 maticmigrationfinance.com
 maticpolygn-technology.com
 maticrewards.net
@@ -14111,6 +14127,7 @@ metatimeblockchain.net
 metatoken-ico.trade
 metatoken.market
 metatoken.win
+metatokens.fi
 metaupgraden.com
 metausdt.win
 metavalidate.online
@@ -14415,6 +14432,7 @@ miracletradefx.com
 mirkine.com
 mirrordappz.com
 mitlycon.online
+mixedfloat.site
 mixinrtfsword.online
 mixwallet.org
 mkpgamerectifiers.pro
@@ -14705,6 +14723,7 @@ multichain-resolve.live
 multichain-resolveapp.online
 multichain-solveapp.app
 multichain-sync.com
+multichain-web3.live
 multichain-web3.online
 multichain-web3.uno
 multichain-web3.xyz
@@ -16795,6 +16814,7 @@ pepev2.io
 pepev2claim.com
 pepev2launch.com
 pepevate.com
+pepevip.me
 pepevsbitcoin.vip
 pepew.fun
 pepeworld.top
@@ -18162,6 +18182,7 @@ rectification.netlify.app
 rectificationbot.online
 rectificationchainlink.com
 rectificationconnectservices.com
+rectificationdapp.live
 rectificationdapp.pages.dev
 rectificationdex.xyz
 rectificationpro.net
@@ -23262,6 +23283,7 @@ verify-chain.com
 verify-coinbase.sesamiclothings.com
 verify-collab.land
 verify-collab.vercel.app
+verify-collabs.com
 verify-connect.github.io
 verify-connection.com
 verify-defi.com
@@ -25852,6 +25874,7 @@ wonderlandr.money
 wonkaswap.finance
 woodpeckersint.icu
 woofiswap.com
+wooprotocol.com
 woowsupplies.com
 wor.unaux.com
 workerscompensationappealboard.com
