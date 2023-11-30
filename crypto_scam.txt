@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Nov-2023 22:00:01 PST
+# Last updated: 29-Nov-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2111,7 +2111,6 @@ b-chainsupport.com
 b-chainsupport.net
 b3pool.xyz
 b4nekl.site
-b5oiz-tyaaa-aaaag-abp6a-cai.raw.icp0.io
 bablekak.site
 baby-dogeswap.click
 babyapesclub.net
@@ -19575,6 +19574,7 @@ slunatoken.com
 slunatoken.online
 sluquiddecv.work.gd
 slvkhrakein.com
+smainchain.pages.dev
 smardex.live
 smarr.pics
 smarrfixssync.homes
