@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Dec-2023 22:00:02 PST
+# Last updated: 10-Dec-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -8664,6 +8664,7 @@ dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
 dev-decfix.pantheonsite.io
 dev-decfixer.pantheonsite.io
+dev-defiradars.pantheonsite.io
 dev-delaunchpadd.pantheonsite.io
 dev-fixdecentralized.pantheonsite.io
 dev-fixdev.pantheonsite.io
@@ -11881,7 +11882,6 @@ interferencelogs.com
 interfidapp.online
 intergatewayip.com
 intergritybridge.best
-interlay-intr.pro-multicoin.app
 interline-asia.com
 interloadingdapps.online
 internationalcapitalgrowth.com
@@ -12519,6 +12519,7 @@ layerzero-airdrop.fun
 layerzero-airdrop.site
 layerzero-airdrop.space
 layerzero-claim.top
+layerzero-claim.xyz
 layerzero-distribution.com
 layerzero-distrubution.com
 layerzero-drop.net
@@ -12526,6 +12527,7 @@ layerzero-finance.com
 layerzero-finance.network
 layerzero-foundation.net
 layerzero-foundation.network
+layerzero-free.pro
 layerzero-free.xyz
 layerzero-networks.net
 layerzero-optimisim.org
@@ -13606,6 +13608,7 @@ mandirikabelindo.com
 maneyalsen.store
 mangataclaim.net
 manorpa.com
+manta-claim.online
 manta-network.org
 mantanetwork-zkomni.com
 mantanetwork-zkomni.xyz
@@ -14481,6 +14484,7 @@ metaxdos-wallet-security.web.app
 metemaskt.icu
 metempyrion-foundation.com
 metepyan.site
+meterveeesequick.pro
 meterverse-dapp.us
 meterversedapps.com
 metis-claims.org
@@ -15188,6 +15192,7 @@ multidevtools.com
 multidexchain.com
 multidexprotocols.site
 multidexsconnect.com
+multidynamicnonce.pages.dev
 multientitychain.com
 multientitychainprotocol.com
 multiextensionprotocol.com
@@ -18052,6 +18057,7 @@ pro-fix.org
 pro-fundrecovery.com
 pro-metapad.net
 pro-multichain.com
+pro-multicoin.app
 pro-multicoin.com
 pro-neutral.net
 pro-neutral.pages.dev
@@ -20362,6 +20368,7 @@ smartreviseapp.pages.dev
 smartreviseconnects.pages.dev
 smartrevisedapp.pages.dev
 smartrevisedapps.pages.dev
+smartreviseweb.pages.dev
 smartscoinmigrate.store
 smartscoinmigrate.xyz
 smartsconnect.net
