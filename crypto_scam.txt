@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Dec-2023 22:00:02 PST
+# Last updated: 21-Dec-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1497,6 +1497,7 @@ apyeth.trade
 apyether.app
 apyether.eu
 apyethprotocol.com
+apygate-rpc.vercel.app
 apygate-sync.com
 apygate.com
 apygate.mainnet.website
@@ -1538,6 +1539,7 @@ arbitrum-claim.one
 arbitrum-ecosystems.com
 arbitrum-foundations.org
 arbitrum-lives.com
+arbitrum-survey.net
 arbitrum.network
 arbitrumbridge.live
 arbitrumclaim.one
@@ -1581,6 +1583,7 @@ ardomant.site
 areaclim.website
 argent-wallet.xyz
 argentfix.online
+argentina-com.com
 argentxyz.dev
 argentxyzfix.online
 arhamsoft.org
@@ -1591,6 +1594,7 @@ arkham-intelligence.tech
 arkham-intelligence.xyz
 arkham-tokens.com
 arkham.claims
+arkham.page
 arkhamfinance.com
 arkhamfinance.org
 arkhami-ai.tech
@@ -1848,6 +1852,7 @@ authconnect-dapp.netlify.app
 authconnect.dev
 authconnect.org
 authconnect.pages.dev
+authcontractsapp.com
 authcontractsync.com
 authdappfiiixedauthdapp.weebly.com
 authdappfiiixedautthdaappp.weebly.com
@@ -4956,6 +4961,7 @@ collab-verification-connect.vercel.app
 collab-verification.com
 collab-verification.org
 collab-verified.github.io
+collab-verifier.land
 collab-verifier.netlify.app
 collab-verify-land.vercel.app
 collab-verify.com
@@ -5164,6 +5170,7 @@ collabs-verifier.netlify.app
 collabs-verify.vercel.app
 collabs.finance
 collabsconnect.com
+collabsconnects.land
 collabsecured.com
 collabsecured.land
 collabserver.online
@@ -6506,6 +6513,7 @@ daimiolalim.online
 daisycrowdglobal.com
 daisydao.com.de
 daisyglobal.org
+daixpress.com
 dallebitbridge.xyz
 dalledaapsbridge.online
 dalledexbridge.tech
@@ -6662,6 +6670,7 @@ dapp-refix.netlify.app
 dapp-resolved.pages.dev
 dapp-resolver.live
 dapp-resolver.netlify.app
+dapp-restore.pages.dev
 dapp-secure.com
 dapp-secured.pages.dev
 dapp-security.netlify.app
@@ -6788,6 +6797,7 @@ dappcoinsmigrate.ink
 dappcon.online
 dappconect.netlify.app
 dappconfiguration.com
+dappconnect-sync.pages.dev
 dappconnect.finance
 dappconnect.io
 dappconnect.me
@@ -8961,6 +8971,8 @@ dex-connect.online
 dex-dapps.surge.sh
 dex-finances.netlify.app
 dex-mainnet.com
+dex-migration.firebaseapp.com
+dex-migration.web.app
 dex-migrationlaunchpad.com
 dex-pepe.com
 dex-platform.net
@@ -9151,6 +9163,7 @@ digitalcryptosolution.com
 digitalcrytfix.com
 digitaldappsyncs.online
 digitaldexsync.xyz
+digitaldhara.com
 digitaldnodeapp.com
 digitalencrypt.online
 digitalenterprises.live
@@ -9804,6 +9817,7 @@ equityzenchainlink.com
 era-sync.org
 era-zks.io
 era-zksync.pro
+era-zskync.net
 eraautarchyclaimsummon.xyz
 eralend-claim.com
 eralend-zksync.io
@@ -10249,6 +10263,7 @@ fastsync.onrender.com
 fastsynchfix.live
 fastsynchronization.com
 fastvalidate.netlify.app
+fastway-getmoney.site
 fastwebprotocol.com
 fastxcoin.exchange
 fat-zuki.io
@@ -11396,6 +11411,7 @@ grant-finance-program.org
 grantsynchronizationtech.com
 grapeaccess.org
 grapecoin.live
+graph-token.org
 graph.claims
 graphbridge.live
 graphprotocol.net
@@ -12799,6 +12815,7 @@ launchpads-web.network
 launchpads.finance
 launchpads.herokuapp.com
 launchpads.network
+launchpads.one
 launchpadseedify.dev
 launchpadv2.com
 launchpadvalidator.com
@@ -14283,6 +14300,7 @@ metabridger-wallet.com
 metabridgewallet-connect.com
 metacadeco.live
 metaceware.net
+metachain-integration.com
 metachain.support
 metachainconnect.com
 metacoinsolution.com
@@ -15391,6 +15409,7 @@ multialignfix.com
 multialignfix.site
 multiappsmartconnect.pro
 multiauthfix.pages.dev
+multibitexchange.live
 multiblock-defipad.com
 multiboardx-chain.com
 multibotconnector.co
@@ -16355,6 +16374,7 @@ node-solidity.live
 node-sync.link
 node-sync.site
 node-synchronize.pages.dev
+node-synchronizer.live
 node-syncs.com
 node-testapi.org
 node-testapii.org
@@ -16983,6 +17003,7 @@ optimaldapps.online
 optimalfixall.com
 optimalprotocol-consent.buzz
 optimalprotocol-pad.buzz
+optimalsmart-pad.buzz
 optimalsmartprotocol.buzz
 optimisim.org
 optimism-badges.claims
@@ -17448,6 +17469,7 @@ papayabit.net
 paraexchange.net
 paralink.medium.cn.com
 parallel-avatars.life
+parallel-fi.vercel.app
 parallelfi-rectify.vercel.app
 parallellife.app
 parallellife.art
@@ -18464,6 +18486,7 @@ premiumvixer.com
 premoconnect.com
 prepgem.com
 preregistration-layerzero.network
+presale-injective.org
 presale-portalgamings.com
 presale-portalgamlng.com
 presale.fund
@@ -19175,6 +19198,7 @@ rectifystring.com
 rectifysync.com
 rectifytoken.com
 rectifytokens.online
+rectifytool.com
 rectifytools.com
 rectifyv2finance.com
 rectifyvalidation.xyz
@@ -20839,6 +20863,7 @@ smartnoderesolve.com
 smartnoderestore.live
 smartnodes.org
 smartnodetech.com
+smartnoncebase.pages.dev
 smartnord-synchronization.live
 smartnordsynchronization.live
 smartointechdappsolutiion.live
@@ -21296,8 +21321,10 @@ starknet-network.space
 starknet-strk.website
 starknet-web3.network
 starknet.farm
+starknet.international
 starknet.money
 starknet.netlify.app
+starknetairdrop.pages.dev
 starknetclaim.net
 starknetclaim.top
 starknetclaim.xyz
@@ -21918,6 +21945,7 @@ syncfixdev.live
 syncfixed.repair
 syncfixit.com
 syncflexible.com
+syncflexible.pages.dev
 syncfusion.buzz
 syncfusions.com
 syncget.online
@@ -24396,6 +24424,7 @@ verifewallt.xyz
 verifica-ora-security.com
 verificaionankupdated.publicvm.com
 verification-account.xyz
+verification-collab-land.vercel.app
 verification-collab.land
 verification-vvalletconnect.com
 verification-walet.online
@@ -24416,10 +24445,12 @@ verify-auth.online
 verify-chain.com
 verify-coinbase.sesamiclothings.com
 verify-collab.com
+verify-collab.info
 verify-collab.land
 verify-collab.vercel.app
 verify-collabland.com
 verify-collabland.vercel.app
+verify-collablands.com
 verify-collablands.vercel.app
 verify-collabs.com
 verify-connect.github.io
@@ -27382,6 +27413,7 @@ zapper-daos.com
 zapper-defi.pro
 zapper-main.com
 zapperchain.com
+zappersolutiondapp.com
 zapperwalletconnect.org
 zapplaunchpadlive.ru
 zapplaunchpads.live
@@ -27467,6 +27499,7 @@ zksync-mints.com
 zksync-news.com
 zksync-nfts.com
 zksync-sp.top
+zksync-survey.net
 zksync-swap.online
 zksync.exchange
 zksync.financial
