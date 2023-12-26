@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Dec-2023 22:00:02 PST
+# Last updated: 25-Dec-2023 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1210,6 +1210,7 @@ app-io.com.co
 app-issuefix.pages.dev
 app-layerzero.space
 app-layerzerofinance.com
+app-ledgers.web.app
 app-lens.xyz
 app-lido.fi
 app-lido.finance
@@ -22553,6 +22554,7 @@ thdefiant.com
 the-bridgechain.com
 the-bscminereum.com
 the-nftssecure.com
+the-people-behind-ledger.web.app
 the-thetatoken.org
 the-trust-project.com
 theadaportal.space
