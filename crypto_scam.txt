@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Dec-2023 22:00:01 PST
+# Last updated: 27-Dec-2023 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -520,6 +520,7 @@ aichainrpc.live
 aiconn.live
 aiconne.com
 aicryptogrant.com
+aidecentraldapp.pages.dev
 aidexfussion.online
 aidiverseclaim.com
 aidoge-claim.network
@@ -725,6 +726,7 @@ alcoin.website
 aleketne.store
 alemavadi.site
 alephszero.org
+alephzero-airdrop.com
 alfa-coin.org
 alfaaccountancy.com.au
 alfabtc.network
@@ -880,6 +882,7 @@ alovtaanra.site
 alpha-ripple.com
 alpha-sync.tech
 alphabeta-cyclicmigrate.netlify.app
+alphabetairdrop.live
 alphacap-defi.xyz
 alphacapital-defi.xyz
 alphadexmarkets.com
@@ -2233,6 +2236,7 @@ azuki-elementals.xyz
 azuki-land.com
 azuki-mints.com
 azuki-pass.com
+azuki-reveal.com
 azuki.lol
 azuki.monster
 azukibeanz-mint.live
@@ -2256,6 +2260,7 @@ b1ast.network
 b1ast.solutions
 b1astio.network
 b3pool.xyz
+b4a.app
 b4nekl.site
 bablekak.site
 baby-dogeswap.click
@@ -4182,6 +4187,7 @@ claim-thorchain.org
 claim-tia.com
 claim-tipcoin.com
 claim-token.xyz
+claim-tokens.run
 claim-toshi.com
 claim-unis.xyz
 claim-usd.com
@@ -4742,6 +4748,7 @@ coinresolvesonline.com
 coinrestore.co
 coinreward.org
 coinrune.com
+coins-pad.info
 coins-pod.net
 coins-sollution.com
 coins-sollutions.com
@@ -10372,6 +10379,7 @@ fflxedfload.com
 fflxedfloat.com
 fiatfix.live
 fibreaccessnetwork.com
+ficowfi.com
 ficxedfloat.info
 ficxedfloat.org
 fidalix.com
@@ -11556,6 +11564,7 @@ hashrateindex.live
 hashreport.org
 hashscriptsync.live
 hashscriptsync.xyz
+hashsync-protocol.web.app
 hasmentes.site
 hataytant.site
 hathor.digital
@@ -12380,6 +12389,7 @@ izumi.claims
 izumi.events
 j1ta.network
 j6w2e3r4t5y6.com
+jacobandcrypto.org
 jacylabtoken.live
 jacytoken.live
 jasmycoin.xyz
@@ -13189,6 +13199,7 @@ lidostake.eu
 lidostake.fi
 lidostaking-network.com
 lidostaking.co
+lidosteth.io
 lidosteth.org
 lidosync.com
 lidov2fin.online
@@ -14922,6 +14933,7 @@ metaupgraden.com
 metausdt.win
 metavalidate.online
 metavaults.site
+metaveersechaain.pro
 metavercel.xyz
 metaverse-bridge.com
 metaverse-pudgypenguins.com
@@ -15388,6 +15400,7 @@ moonswaptoken.com
 moontrum.com
 moonv2.help
 moonwarpre-sale.live
+moonwellstake.fi
 mooonriver.network
 moox.pro
 mopamanr.site
@@ -16244,6 +16257,7 @@ newbridge-vra.website
 newconhtractdapp.com
 newcontract-migration.best
 newdapp-link.netlify.app
+newdappsync.pages.dev
 newdent.al
 newdoor.netlify.app
 newfixingmanager.com
@@ -17727,6 +17741,7 @@ pepeerc20.com
 pepefrog.net
 pepegainsstaking.io
 pepeinueth.vip
+pepelaunch.info
 pepememe2.com
 peperedemption.com
 pepereward.xyz
@@ -20841,6 +20856,7 @@ smartdappconnects.com
 smartdappdata.io
 smartdappfix.com
 smartdappfix.site
+smartdappresolve.pages.dev
 smartdapprestore.live
 smartdappsauthonline.com
 smartdappsauthorizatoin.live
@@ -22466,6 +22482,7 @@ takwwsas.site
 talisman-wallet.com
 talismanwallet.com
 tamaadoge.net
+tamapool.com
 tankast.site
 tanswebcon.com
 tantortman.site
@@ -22721,6 +22738,7 @@ thespacebulls-walletauth.square.site
 thespacebulls.shop
 theswiftsyncs.com
 thetaclaim.com
+thetalib.com
 thetamainnet.site
 thetamainnetweb.io
 thetanuts.org
@@ -27055,6 +27073,7 @@ webwclive.site
 webworkconnect.site
 wed3.pro
 weddappsreconnect.pages.dev
+wedomojo.xyz
 wegrid.org
 weigroopusaeb.live
 wel-net.online
