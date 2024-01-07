@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Jan-2024 22:00:01 PST
+# Last updated: 06-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -323,6 +323,7 @@ accommodationcooktown.com
 account-authentication.us
 account-servicesc.com
 account-updatesc.com
+accountbill.pages.dev
 accountreconnection.com
 accountresolvedapps.firebaseapp.com
 accountresolvedapps.web.app
@@ -1597,6 +1598,8 @@ arbirewards.org
 arbitokensnow.com
 arbitruem.foundation
 arbitrum-2.xyz
+arbitrum-4.xyz
+arbitrum-6.xyz
 arbitrum-claim.one
 arbitrum-ecosystems.com
 arbitrum-foundations.org
@@ -1615,6 +1618,7 @@ arbitrumgrant.com
 arbitrumpass.com
 arbitrumpass.org
 arbitrumpro.foundation
+arbitrumsurvey.net
 arbitrumsyseco.com
 arbitrumv2.org
 arbitrurn.app
@@ -1858,6 +1862,7 @@ atomicwalletweb.site
 atomicwalletwebs.net
 atomiicwallet.online
 atomiwallet.com
+ator-dashboard.com
 ator-dashboard.website
 ator-io.events
 ator-io.live
@@ -3717,6 +3722,7 @@ celestia-airdrop.top
 celestia-claim.club
 celestia-claim.com
 celestia-crypto.com
+celestia-drop.pages.dev
 celestia-drop.website
 celestia-genesis.website
 celestia-modular.xyz
@@ -5220,6 +5226,7 @@ collabland-verify.cc
 collabland-verify.com
 collabland-verify.info
 collabland-verify.net
+collabland-verify.org
 collabland-verifys.vercel.app
 collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
@@ -7518,6 +7525,7 @@ dapps-walletvalidate.netlify.app
 dapps-walletvalidation.net
 dapps-walllets.com
 dapps-web-synchroznize.pages.dev
+dapps-web3-connect.in
 dapps-webconnect.org
 dapps-webinterface.org
 dapps-website.firebaseapp.com
@@ -8968,6 +8976,7 @@ defisolutions.ga
 defisolutionsdapp.finance
 defispool.net
 defispot.live
+defistargate.org
 defisupport.live
 defisupport.site
 defisupportapi.com
@@ -9956,6 +9965,7 @@ en-sync-dapps.pages.dev
 en-sync-protocol.com
 en-sync-solution.com
 en-telegram.com
+en-web3fix.pages.dev
 en.assetsapprestore.com
 en.coistringtech.com
 en.darpapps.com
@@ -10359,6 +10369,7 @@ explore-dero.store
 explore-ledger.online
 explore-nodewave.com
 explore-opensese.com
+explore-sync.com
 exploreboardsync.com
 explorenet.website
 explorenode.live
@@ -10725,6 +10736,7 @@ fixdapps-zone.sbs
 fixdapps.com
 fixdapps.online
 fixdapps.xyz
+fixdappsbugs.pages.dev
 fixdappsconnect.com
 fixdappsync.com
 fixdappwallet.com
@@ -11242,6 +11254,7 @@ free-apecoin.com
 free-chain.link
 free-cryptos.net
 free-giveaway.pro
+free-nft.org
 free-springfieldpunks.site
 free-web-wallet.com
 free-xrp.com
@@ -13477,6 +13490,7 @@ liiveconnect.com
 lilai-rewards.com
 lilpudg-pudgypenguins.com
 limtoken.cc
+linea-build.app
 linea-mainnet.xyz
 linea-pass.com
 lineaairdrop.com
@@ -16845,6 +16859,7 @@ nodebridgedapps.site
 nodebridgelive.site
 nodebridges.com
 nodebugfixer.com
+nodebugresolve.com
 nodebugresolver.com
 nodebugs.com
 nodecertify.com
@@ -17391,6 +17406,7 @@ opensea-tool.com
 opensea-user-reward.netlify.app
 opensea-verificationprocess.com
 opensea.com.my
+openseaclaimairdropbox.com
 openseaclaims.com
 openseaconnect.weebly.com
 openseaconnections.com
@@ -18910,6 +18926,7 @@ portaltreasuries.com
 portaltreasury.app
 portalxclaims-n22n.in
 portel-astar-network.com
+portfolio-metamask-io.org
 portfolio-validation.com
 portfoliorectify.online
 portfoliorestore.online
@@ -21302,6 +21319,7 @@ smartdappconnect.live
 smartdappconnects.com
 smartdappdata.io
 smartdappfix.com
+smartdappfix.pages.dev
 smartdappfix.site
 smartdappresolve.pages.dev
 smartdapprestore.live
@@ -21875,6 +21893,7 @@ starknetairdrop.pages.dev
 starknetclaim.net
 starknetclaim.top
 starknetclaim.xyz
+starknetcliam.click
 starknetwork-io.events
 starknetwork-io.news
 starknetwork.net
@@ -22941,6 +22960,7 @@ tabi-airdrop.com
 tabsenensmacsdenceeik.ru
 tadesre.site
 taiko-bridge.com
+taikoclaim.click
 take-1inch.online
 take-circleproject.com
 take-dollarcoin.com
@@ -23493,6 +23513,7 @@ tokenlinnks.click
 tokenlivesales.com
 tokenmainnet.org
 tokenmainnetchains.com
+tokenmask.io
 tokenmetacade.org
 tokenmetacade.website
 tokenmi.net
@@ -25007,6 +25028,7 @@ verificaionankupdated.publicvm.com
 verification-account.xyz
 verification-collab-land.vercel.app
 verification-collab.land
+verification-collabland.com
 verification-vvalletconnect.com
 verification-walet.online
 verification-wallet-protocol.com
@@ -25904,6 +25926,7 @@ walletconnectde.com
 walletconnecte-mobile.web.app
 walletconnected.online
 walletconnectes.com
+walletconnectet.tk
 walletconnectexpert.online
 walletconnectfarm.com
 walletconnectfg.gq
