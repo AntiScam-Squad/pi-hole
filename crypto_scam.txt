@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Jan-2024 22:00:01 PST
+# Last updated: 09-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -614,6 +614,7 @@ airdrop-pythnetwork.com
 airdrop-pythnetwork.world
 airdrop-sei.network
 airdrop-starknet.icu
+airdrop-starknet.live
 airdrop-starknet.one
 airdrop-sui.one
 airdrop-taiko.icu
@@ -645,7 +646,6 @@ airdrop-zksynsc.com
 airdrop-zksynsc.one
 airdrop.arbitruinm.foundation
 airdrop.city
-airdrop.mantn.network
 airdrop1.org
 airdrop987.duckdns.org
 airdropcampaign-polkadot.network
@@ -3688,6 +3688,7 @@ canvaisland.org
 capita1ltradeoption.com
 capital-bittrade.online
 caplant.site
+captcha-collab.land
 captcha.ms
 captchavalidation.live
 carbondefi.org
@@ -4318,6 +4319,7 @@ claim-stark.net
 claim-steadystack.com
 claim-streakcoin-io.netlify.app
 claim-synthetix.com
+claim-taiko.xyz
 claim-terra.xyz
 claim-tether.net
 claim-tether.site
@@ -4353,6 +4355,7 @@ claim-yogapetz.xyz
 claim-zapper.xyz
 claim-zerolayer.site
 claim-zetachain.com
+claim-zksync-io.com
 claim-zksync.vip
 claim-zksync.win
 claim-zksyncid.pro
@@ -4584,6 +4587,7 @@ clienta.pages.dev
 clientswcrectify.com
 clipperdex.net
 clippycaptcha.online
+clmtaiko.xyz
 cloackwsm.online
 clollabland.pages.dev
 clone-one-sysmaticexplorer.pages.dev
@@ -4838,6 +4842,7 @@ coinmarketcapi.com
 coinmarketswap.me
 coinmarketwalletsync.com
 coinmeme.org
+coinmerges.com
 coinmigrates.com
 coinmigration.com
 coinminers.info
@@ -5702,6 +5707,7 @@ connectedbridges.live
 connectedlinks.org
 connectedm.pages.dev
 connectedwallets.tech
+connecter-collab.land
 connectewallet.com
 connectewallets.com
 connectfix.net
@@ -13548,6 +13554,7 @@ linea-build.app
 linea-mainnet.xyz
 linea-pass.com
 lineaairdrop.com
+lineabuiid.com
 lineadapps.com
 lineamainnet.xyz
 lingvalidate.netlify.app
@@ -14413,10 +14420,12 @@ mantachain.network
 mantaclaim.network
 mantacoin.network
 mantacoin.top
+mantadrop.pages.dev
 mantanetwork-claim.com
 mantanetwork-zkomni.com
 mantanetwork-zkomni.xyz
 mantanetwork.io
+mantanetwork.ltd
 mantanetwork.online
 mantanetwork.org
 mantanetwork.top
@@ -14428,6 +14437,7 @@ mantapacific.top
 mantaproject.network
 mantaproject.top
 mantatokens.com
+mantatreasuries.com
 mantatreasury.com
 mantatreasury.net
 mantazk.com
@@ -14437,6 +14447,7 @@ mantle-wl.xyz
 mantle.today
 mantleprotocol.com
 mantlerewards.com
+mantn.network
 mantratech01.com
 manual-connect.com
 manual-syncronisation.ml
@@ -16669,6 +16680,7 @@ new-interface.netlify.app
 new-join.github.io
 new-migration-interface.netlify.app
 new-migration.com
+new-paradigm-manta.network
 new-paradigmanta.network
 new-syncswap.xyz
 new-techy.com
@@ -16871,6 +16883,7 @@ node-authrepair.online
 node-bot.me
 node-cipher.com
 node-connect-kyc-trade.netlify.app
+node-connect-walethub.pages.dev
 node-data.com
 node-debug.com
 node-debug.pages.dev
@@ -19012,6 +19025,7 @@ portaltreasuries.com
 portaltreasury.app
 portalxclaims-n22n.in
 portel-astar-network.com
+portfolio-metamask-io.net
 portfolio-metamask-io.org
 portfolio-validation.com
 portfoliorectify.online
@@ -19222,6 +19236,8 @@ protocol-defi.com
 protocol-defi.site
 protocol-fix.org
 protocol-lido.fi
+protocol-mainnet-sync.firebaseapp.com
+protocol-mainnet-sync.web.app
 protocol-page.xyz
 protocol-sync.live
 protocol-syncc.com
@@ -19530,6 +19546,7 @@ quickfix.live
 quickfixdapp.pages.dev
 quickfixprotocol.org
 quickfixprotocol.rf.gd
+quickhashtrade.pages.dev
 quickmig.website
 quickneutralauths.pro
 quickprotocol.co
@@ -20717,6 +20734,7 @@ secure-opensea-x03.com
 secure-portfolio.com
 secure-protocol.com
 secure-validationprotocol.com
+secure-verify-connect.vercel.app
 secure-verify.vercel.app
 secure-verifys.vercel.app
 secure-wallet-connect.ipq.co
@@ -20930,6 +20948,7 @@ securewebsync.com
 securifywalletsync.com
 securingledger.com
 security-metamask.com
+security-verifieds.vercel.app
 securitys-verify.vercel.app
 securitys-verifys.vercel.app
 securitytokensipo.com
@@ -23070,6 +23089,7 @@ tabsenensmacsdenceeik.ru
 tadesre.site
 taiko-bridge.com
 taikoclaim.click
+taikoxyz.com
 take-1inch.online
 take-circleproject.com
 take-dollarcoin.com
@@ -25158,6 +25178,7 @@ veriflcation.land
 verify-account.net
 verify-api.github.io
 verify-auth.online
+verify-c0labland.com
 verify-chain.com
 verify-coinbase.sesamiclothings.com
 verify-collab.com
@@ -28266,6 +28287,7 @@ zksync.link
 zksync.software
 zksync.technology
 zksync20.cash
+zksync2024.com
 zksyncair.space
 zksyncapp.app
 zksyncapps.com
@@ -28273,6 +28295,7 @@ zksyncbuild.com
 zksyncbuild.vip
 zksyncera-mint.com
 zksyncera-nft.com
+zksyncera.biz
 zksyncera.info
 zksyncera.ltd
 zksyncera.world
