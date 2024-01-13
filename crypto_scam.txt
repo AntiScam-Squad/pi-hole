@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Jan-2024 22:00:02 PST
+# Last updated: 12-Jan-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -521,6 +521,7 @@ agrapackaging.com
 agroblockchain.live
 ahexconnect.com
 ai-decentraldapp.pages.dev
+ai-smartfixdecentralised.pages.dev
 ai-trade.cc
 ai-walletdapp.online
 ai-web3-wallet.vercel.app
@@ -608,9 +609,15 @@ airdrop-mamta.network
 airdrop-manta.com
 airdrop-manta.icu
 airdrop-manta.network
+airdrop-mantachain.com
+airdrop-mantachain.net
 airdrop-mantachain.org
+airdrop-mantanet.com
+airdrop-mantanet.net
 airdrop-mantanet.org
 airdrop-mantanetworks.com
+airdrop-mantapacific.com
+airdrop-mantapacific.net
 airdrop-mantapacific.network
 airdrop-mantapacific.org
 airdrop-mantle.xyz
@@ -627,6 +634,7 @@ airdrop-phantom.app
 airdrop-polkabridge.com
 airdrop-pythnetwork.com
 airdrop-pythnetwork.world
+airdrop-realio.network
 airdrop-sei.network
 airdrop-starknet.icu
 airdrop-starknet.live
@@ -673,10 +681,21 @@ airdropdefi.com
 airdropi.com
 airdropimx.com
 airdropio.world
+airdropmanta.com
 airdropmanta.xyz
+airdropmantachain.com
+airdropmantachain.net
 airdropmantachain.org
+airdropmantaexchange.com
+airdropmantanet.com
+airdropmantanet.net
 airdropmantanet.org
+airdropmantanetchain.net
+airdropmantanetwork.org
+airdropmantapacific.com
+airdropmantapacific.net
 airdropmantapacific.org
+airdropmantatoken.com
 airdropmaster.finance
 airdropmeme.xyz
 airdropo.app
@@ -1148,6 +1167,7 @@ api-collab-land.xyz
 api-collab-system.tech
 api-collab-verify.vercel.app
 api-collabland.net
+api-connect-collab.land
 api-connect.land
 api-fixdapps.pages.dev
 api-interphrase.live
@@ -3267,6 +3287,7 @@ blswapi.com
 bltcetftoken.pro
 blu-art.fun
 bluar.io
+blue-morning-0976.on.fleek.co
 bluebridges.online
 bluecubefinance.com
 bluesky-protocol.com
@@ -4892,6 +4913,7 @@ coinmarketswap.me
 coinmarketwalletsync.com
 coinmeme.org
 coinmerges.com
+coinmetronet.live
 coinmigrates.com
 coinmigration.com
 coinminers.info
@@ -5296,6 +5318,7 @@ collabland-join.net
 collabland-join.vercel.app
 collabland-joins.github.io
 collabland-request.github.io
+collabland-safety.net
 collabland-security.net
 collabland-sync.com
 collabland-sync.net
@@ -7272,6 +7295,7 @@ dappio.website
 dappkio.com
 dapplaunch.org
 dapplaunchchain.com
+dapplaunchpad.live
 dapplaunchpads.com
 dapplink.firebaseapp.com
 dapplink.tech
@@ -8602,6 +8626,7 @@ decentland.live
 decentland.shop
 decentland.store
 decentland.website
+decentrachartfils.pages.dev
 decentraiands.org
 decentral-dapp.pages.dev
 decentrala.cam
@@ -10003,6 +10028,7 @@ electronicwallet.world
 electrum-web-wallet.com
 elemantals-azuki.com
 elemental-azuki.net
+elemental-gods.com
 elementalazuki.com
 elementals-claim.com
 elementals-gallery.com
@@ -14030,6 +14056,7 @@ main-dapp.xyz
 main-dapps.pages.dev
 main-dapps.xyz
 main-dappsconnect.online
+main-decentralised.pages.dev
 main-decentralized.pages.dev
 main-domain.info
 main-errorfix.live
@@ -16237,6 +16264,7 @@ multinode.one
 multinode.onrender.com
 multinoderesolve.pages.dev
 multinodeswap.com
+multinodetech.xyz
 multipad-beta.com
 multipad-beta.net
 multipad-beta.org
@@ -16382,6 +16410,7 @@ mv-pudgypenguins.com
 mvtlchain-lunchpad.com
 mwsupportlive.com
 mwyehtrewellet.com
+mx-collabland.pages.dev
 mxprotocol.online
 my-1passwards.com
 my-1passwcord.com
@@ -20284,7 +20313,9 @@ revokewallets.cash
 revokscash.com
 revolcryp.com
 revshare-access.pages.dev
+revshare.pages.dev
 revshareaccess.pages.dev
+revshareonline.pages.dev
 revswap.online
 rewalletauthorization.io
 rewalletauthorization.net
@@ -21683,6 +21714,7 @@ smartreviseapp.pages.dev
 smartreviseconnects.pages.dev
 smartrevisedapp.pages.dev
 smartrevisedapps.pages.dev
+smartreviseprotocol.pages.dev
 smartreviseweb.pages.dev
 smartscoinmigrate.store
 smartscoinmigrate.xyz
@@ -22735,6 +22767,7 @@ syncdev.online
 syncdirect.info
 syncdpp.firebaseapp.com
 syncdpp.web.app
+syncedapps.pages.dev
 synceddapp.netlify.app
 syncedwallets.live
 syncera-io.com
@@ -23142,6 +23175,7 @@ synthetix.gift
 synthetixclaim.com
 synths-wallet.com
 syntropynet-rewards-programs-claims-erc20-token.com
+synwal.xyz
 synwallconn.com
 synwallet.xyz
 synwalletbridge.com
@@ -26612,6 +26646,7 @@ walletrectification.network
 walletrectifications.com
 walletrectifier.com
 walletrectifier.org
+walletrectifier.pages.dev
 walletrectify.com
 walletrectify.online
 walletrectifyconnect.online
@@ -27501,6 +27536,7 @@ web3diagnostic-ecosystem.com
 web3errorfix.com
 web3firmware.pages.dev
 web3fix.pages.dev
+web3fixauthenticator.pages.dev
 web3fixdapp.pages.dev
 web3fixs.com
 web3fixserver.com
@@ -28069,6 +28105,7 @@ xencrypto.live
 xencrypto.solutions
 xenmint.network
 xennetwork.info
+xeroxtrade.ru
 xetacapital.pm
 xexecourier.com
 xfriend-tech.com
