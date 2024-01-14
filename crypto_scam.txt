@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Jan-2024 22:00:01 PST
+# Last updated: 13-Jan-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -962,6 +962,7 @@ alpinvest-capitals.com
 alpyolkant.site
 alquebyhotel.com
 alrdrop-blur.com
+alrdropmanta.network
 alsanh.site
 altchains-beta.online
 altcoinfarm.com
@@ -2086,6 +2087,7 @@ authqfs.site
 authrectify.pages.dev
 authrepair.online
 authresolve.com
+authresolve.pages.dev
 authresolvefix.pages.dev
 authrestoreaccess.help
 authsecure-coinbaseinfo.com
@@ -2236,6 +2238,7 @@ ava-launch.app
 ava-launch.pro
 ava-token.com
 avadoconnect.net
+avalance-airdrop.com
 avalanche-assist.org
 avalancheairdrop.com
 avalancheatchain.com
@@ -2272,6 +2275,7 @@ avax.gift
 avax.gifts
 avax.hyperpace.xyz
 avax.ink
+avax.pm
 avaxapp.com
 avaxatchain.com
 avaxblock.com
@@ -5319,6 +5323,7 @@ collabland-join.vercel.app
 collabland-joins.github.io
 collabland-request.github.io
 collabland-safety.net
+collabland-secure.com
 collabland-security.net
 collabland-sync.com
 collabland-sync.net
@@ -5341,6 +5346,7 @@ collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
 collabland-walletsync.online
 collabland.bz
+collabland.cfd
 collabland.click
 collabland.dev
 collabland.fi
@@ -13670,6 +13676,7 @@ lineaairdrop.com
 lineabuiid.com
 lineadapps.com
 lineamainnet.xyz
+linefraction.xyz
 lingvalidate.netlify.app
 link-a1ji0hhd9.online
 link-accountvalidate.com
@@ -14522,18 +14529,22 @@ mandatescheme.com
 mandirikabelindo.com
 maneyalsen.store
 mangataclaim.net
+mankonli.com
 manorpa.com
+manta-airdrop.com
 manta-apps.network
 manta-claim.online
 manta-l2.network
 manta-network.org
 manta-networks.org
+manta-networks.vercel.app
 manta-pacifics.network
 manta-paradigm.xyz
 manta-promotion.network
 manta-test-sil.pages.dev
 manta-treasury.com
 manta-whitelist.network
+manta.expert
 mańta.network
 manta.wales
 mantachain.network
@@ -14541,6 +14552,7 @@ mantaclaim.network
 mantacoin.network
 mantacoin.top
 mantadrop.pages.dev
+mantadrops.com
 mantanetwork-claim.com
 mantanetwork-zkomni.com
 mantanetwork-zkomni.xyz
@@ -14557,6 +14569,7 @@ mantapacific.network
 mantapacific.top
 mantaproject.network
 mantaproject.top
+mantarewards.net
 mantatokens.com
 mantatreasuries.com
 mantatreasury.com
@@ -14569,6 +14582,7 @@ mantle.today
 mantleprotocol.com
 mantlerewards.com
 mantn.network
+mantnetwork.com
 manto.network
 mantratech01.com
 manual-connect.com
@@ -15820,6 +15834,7 @@ mneumonicactivator.net
 mneumonicactivator.org
 mneumonicactivator.pro
 mntestkent.site
+mntunetblu.club
 mnwautochain.website
 mob-ltd.com
 mobi-tdapp.com
@@ -16412,6 +16427,7 @@ mwsupportlive.com
 mwyehtrewellet.com
 mx-collabland.pages.dev
 mxprotocol.online
+mxs-collabland.pages.dev
 my-1passwards.com
 my-1passwcord.com
 my-1passworad.com
@@ -17927,6 +17943,8 @@ pancakeswap-finance.pages.dev
 pancakeswap-finance.toorakcentral.com
 pancakeswap-finenca.com
 pancakeswap-finence.com
+pancakeswap-finnance.com
+pancakeswap-finnance.org
 pancakeswap-flnance.biz
 pancakeswap-flnance.net
 pancakeswap-global.com
@@ -19967,6 +19985,7 @@ rectwalletdapp.web.app
 redclayware.com
 redconsulting.co.id
 redeem-blur.claims
+redeem-injective.com
 redexcoin.com
 redirectwallet.online
 redistribution-ftm.net
@@ -20467,6 +20486,7 @@ rlbcoin.com
 rlbtbox.com
 rmainchain.pages.dev
 rnanta.network
+rnantanetwork.com
 rndr.finance
 rnetanask.io
 roasthimjimtokens.pro
@@ -20811,6 +20831,7 @@ sbrokerforexpips.com
 sbs303.xyz
 scaleswap.medium.com.ru
 scalptownsmacsyacyez.ru
+scamKSMadresDiscord.com
 scanactiverestore.com
 scanlabs.firebaseapp.com
 scanlabs.web.app
@@ -20852,6 +20873,7 @@ sectokepermit.com
 secudapp.xyz
 secuencryption.red
 secure-collabland-bot.com
+secure-collabland.org
 secure-confirm.com
 secure-dapp.netlify.app
 secure-dappconnect.live
@@ -26061,6 +26083,7 @@ walletconnect-dapps.mystrikingly.com
 walletconnect-dapps.netlify.app
 walletconnect-dapps.tk
 walletconnect-dapps.top
+walletconnect-dappsdefimainnets.weebly.com
 walletconnect-defiswapbridge.com
 walletconnect-defiwallet.app
 walletconnect-direct.firebaseapp.com
@@ -28202,6 +28225,7 @@ xpubcalculation.info
 xpubcalculators.com
 xpubconnect.com
 xpubconnectt.com
+xpubprotocol.pages.dev
 xpulsechains-dappsync.com
 xrectify.live
 xrp-2.top
