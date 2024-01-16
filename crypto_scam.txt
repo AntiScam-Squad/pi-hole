@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Jan-2024 22:00:01 PST
+# Last updated: 15-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -610,9 +610,11 @@ airdrop-lidofinance.com
 airdrop-linea.cc
 airdrop-live.xyz
 airdrop-mamta.network
+airdrop-manta-network.com
 airdrop-manta.com
 airdrop-manta.icu
 airdrop-manta.network
+airdrop-manta.pages.dev
 airdrop-mantachain.com
 airdrop-mantachain.net
 airdrop-mantachain.org
@@ -682,6 +684,7 @@ airdropclaim.info
 airdropclaims.com
 airdropcryptotoday.com
 airdropdefi.com
+airdropevent.live
 airdropi.com
 airdropimx.com
 airdropio.world
@@ -740,7 +743,9 @@ airfmint.com
 airlaunch.info
 airlaunchpad.app
 airlaunchpad.com
+airmantacollect.com
 airmetacoin.org
+airnetmanta.com
 airpad-uniswap.com
 airpepe.com
 airplop.link
@@ -802,6 +807,7 @@ algonodvault.online
 algoranddesk.online
 algorandnode.online
 algorealmofficial.com
+algorithmcentral.net
 algowallet.app
 aliancrypto.com
 alianswap.com
@@ -3322,11 +3328,13 @@ blur-mayc.pages.dev
 blur-oi.cloud
 blur-protocol.com
 blur-protocol.org
+blur-season-3-airdrop.pages.dev
 blur-seasonclaim.info
 blur-token.club
 blur-xmas.com
 blur.si
 blur3season.com
+blurairdrop.pages.dev
 blurcare.io
 blurcarepackage.com
 blurcollections.com
@@ -3912,6 +3920,7 @@ chain-link.gifts
 chain-liquidity.site
 chain-list.life
 chain-list.xyz
+chain-mantapacific-airdrop.org
 chain-mechanism.space
 chain-migrate.com
 chain-migration.com
@@ -10439,6 +10448,7 @@ events-babydoge.com
 events-blur.online
 events-lido.fi
 events-litecoin.com
+events-manta.network
 events-memecoin.org
 events-movr3x.com
 events-pudgypenguins.net
@@ -12188,6 +12198,7 @@ hypernfts.net
 hypernftspro.com
 i-blockchainconnect.pages.dev
 i-mtioken.club
+iayerzero-claim.net
 iayerzero.gifts
 iayerzero.live
 ibarachoir.com
@@ -12913,6 +12924,7 @@ join-layerzero.network
 join-lidofinance.com
 join-linea.build
 join-manta.network
+join-manta.xyz
 join-mantanetwork.net
 join-mantle.net
 join-memecoin.net
@@ -13273,6 +13285,7 @@ kycverify.info
 kyklo.us
 kylnetwork.com
 kzsync.com
+l2-blast.io
 l2racesupremacy.com
 laaunchpaad.xyz
 labornyveri.com
@@ -14577,12 +14590,19 @@ mangataclaim.net
 mankonli.com
 manntaa.network
 manorpa.com
+manta-1nm.pages.dev
+manta-air.xyz
 manta-airdrop.com
 manta-apps.network
 manta-claim.online
 manta-drop.com
+manta-l2.io
 manta-l2.network
+manta-network.app
 manta-network.org
+mânta-network.pages.dev
+manta-network.pro
+manta-networks.net
 manta-networks.org
 manta-networks.vercel.app
 manta-pacifics.network
@@ -14601,6 +14621,7 @@ mantaassetchain.com
 mantachain-airdrop.com
 mantachain-airdrop.net
 mantachain-airdrop.org
+mantachain-airdrops.org
 mantachain-network.org
 mantachain.net
 mantachain.network
@@ -14612,6 +14633,8 @@ mantacoin.network
 mantacoin.top
 mantacoinairdrop.com
 mantacoinwallet.com
+mantacollect.com
+mantacollectibles.com
 mantacrypto.com
 mantadrop.pages.dev
 mantadrops.com
@@ -14645,6 +14668,8 @@ mantanetworknewparadigm.net
 mantanetworkrewards.net
 mantanetworktoken.live
 mantanetworktoken.xyz
+mantanftcollect.com
+mantanftnet.com
 mantapacific-airdrop.com
 mantapacific-airdrop.net
 mantapacific-airdrop.org
@@ -14660,6 +14685,7 @@ mantaproject.network
 mantaproject.top
 mantaprotocol.com
 mantarewards.net
+mantaswap.pages.dev
 mantatokenairdrop.com
 mantatokenrain.com
 mantatokens.com
@@ -16467,6 +16493,7 @@ multiversesmartapp.com
 multiversesphere.com
 multiversesyncon.vercel.app
 multiversxegld.com
+multiverx.net
 multiwalconn.com
 multiwallet-connect.com
 multiwallet-connect.io
@@ -16651,6 +16678,7 @@ mymainnetconnect.com
 mymainnetimport.com
 mymainnetserverfix.pages.dev
 mymainnetsync.com
+mymanta.org
 mymedicalwishwallet.com
 mymetamask-support.com
 mymetamaskwallet.ddns.net
@@ -16837,6 +16865,7 @@ netlify-nodeconnectap.com
 netlifyasset.com
 netlifys.site
 netliweb.live
+netmantanft.com
 netpantk.site
 netpelt.site
 netra-dapps.vercel.app
@@ -16913,9 +16942,11 @@ neutraquicksauths.net
 neutrasquickauths.org
 nevbatmkul.site
 nevsuylakman.site
+new-bridge-manta.pages.dev
 new-dapprectify.live
 new-interface.netlify.app
 new-join.github.io
+new-manta.pages.dev
 new-migration-interface.netlify.app
 new-migration.com
 new-paradigm-manta.network
@@ -16940,6 +16971,7 @@ newliquidityupdate.com
 newmantanetwork.com
 newmantanetwork.net
 newparadig-manta.network
+newparadigm-manta-network.pages.dev
 newparadigm-mantanetwork.com
 newparadigm.network
 newparadigmamanta.network
@@ -17037,6 +17069,7 @@ nftkey.space
 nftland-app.com
 nftlaunch-defi.com
 nftlqunchpad.xyz
+nftmantanetwork.com
 nftmarkerspace.com
 nftmarketplace.info
 nftmartworld.com
@@ -17733,7 +17766,9 @@ openquadrants.net
 opensail.app
 openscrypt.com
 opensea-activate.net
+opensea-drop.pages.dev
 opensea-iov2.com
+opensea-listings.com
 opensea-nft-airdrop-connect01c.com
 opensea-nft-offers.com
 opensea-nft-wallet.com
@@ -17943,6 +17978,7 @@ pacakehelpswaps.site
 paceline.info
 pacific-bridge-manta.network
 pacifîc-bridge-manta.network
+pacific-bridge-manta.pages.dev
 pacific-bridge-mantanetwork.com
 pacific-bridgemanta.network
 pacific-manta-bridge.network
@@ -20482,6 +20518,7 @@ rewards-apecoin.net
 rewards-arkhamintel.com
 rewards-arkhamintelligence.net
 rewards-babydogeswap.com
+rewards-blast.io
 rewards-celer.network
 rewards-circle.xyz
 rewards-cointracker.com
@@ -20903,9 +20940,11 @@ samptlenk.site
 samsenrt.site
 samsentesd.site
 samzugawalletbackup.com
+sanbox-game.com
 sancozas.online
 sandbox-claim.com
 sandbox-field.com
+sandbox-games.pages.dev
 sandboxairdroping.com
 sandboxclaim.com
 sandboxclaim.org
@@ -20914,6 +20953,7 @@ sandboxclaimyourdrop.com
 sandboxgamesreward.club
 sandboxgiveaway.net
 sandboxprotocol.com
+sandboxx.pages.dev
 sanoct.com
 sansseninle.store
 sappyseals.net
@@ -20931,6 +20971,7 @@ satosh-island.com
 satpong.site
 sattota.com
 saturnconnect.live
+savagesms.com
 savannah3.one
 saveplanets.space
 saveshields.com
@@ -25460,6 +25501,7 @@ verify-collab.info
 verify-collab.land
 verify-collab.vercel.app
 verify-collabland.com
+verify-collabland.org
 verify-collabland.vercel.app
 verify-collablands.com
 verify-collablands.vercel.app
@@ -25479,6 +25521,7 @@ verify-secured.com
 verify-secured.pages.dev
 verify-sign.github.io
 verify-task-on-glaxe-nft.vercel.app
+verify-validates-connects.vercel.app
 verify.yuzu--swap.com
 verifyaccess.site
 verifyasset.net
@@ -25513,6 +25556,7 @@ verifyownership.xyz
 verifyresolve.shop
 verifys-connect-collab.vercel.app
 verifys-connects-collab.vercel.app
+verifys-validate-connects.vercel.app
 verifystepnwallconn.online
 verifytoken.in
 verifytokenid.com
