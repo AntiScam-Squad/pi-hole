@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Jan-2024 22:00:02 PST
+# Last updated: 19-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -617,6 +617,7 @@ airdrop-manta.com
 airdrop-manta.icu
 airdrop-manta.network
 airdrop-manta.pages.dev
+airdrop-manta.vercel.app
 airdrop-mantachain.com
 airdrop-mantachain.net
 airdrop-mantachain.org
@@ -1921,6 +1922,7 @@ atari-rewards-claims-erc20-token.my.id
 atcoin.website
 atikotrade.com
 atlantic-manta.network
+atlantics-manta.network
 atmocrypt.website
 atmolkant.site
 ato-asset-protection.com
@@ -3410,6 +3412,7 @@ bonk-inu.com
 bonkcoins.icu
 bonus-bitgert.com
 bonus-linear.finance
+bonus-manta.network
 bonus-optimism.io
 bonus-pancakeswap.net
 bonus-pancakeswap.org
@@ -8917,6 +8920,7 @@ defi-landchains.com
 defi-launchpad.com
 defi-lido.fi
 defi-livesync.com
+defi-manta.network
 defi-metachains.com
 defi-net.online
 defi-node.com
@@ -12258,6 +12262,7 @@ iconnectionprotocol.com
 iconnectwall.org
 icoonchainrec.live
 icoonchainrecs.live
+icorabbit.xyz
 icotechsupport.com
 icowallet-app.com
 icryptochange.com
@@ -12767,6 +12772,7 @@ interphase.live
 intersyncappscloud.online
 intersyncbridge.com
 interwalletaid.com
+intoblue-manta.network
 intotheblue-manta.network
 intractlinea.com
 intrappsprojects.netlify.app
@@ -14670,6 +14676,7 @@ manta-paradigm.xyz
 manta-promotion.network
 manta-rewards.network
 manta-test-sil.pages.dev
+manta-tokens.network
 manta-treasuries.com
 manta-treasury.com
 manta-whitelist.network
@@ -14738,6 +14745,7 @@ mantanetworktoken.live
 mantanetworktoken.xyz
 mantanftcollect.com
 mantanftnet.com
+mantaoff.network
 mantaonetwork.com
 mantapacific-airdrop.com
 mantapacific-airdrop.net
@@ -14756,6 +14764,7 @@ mantaproject.top
 mantaprotocol.com
 mantarewards.com
 mantarewards.net
+mantas-project.com
 mantaswap.pages.dev
 mantatokenairdrop.com
 mantatokenrain.com
@@ -17637,6 +17646,7 @@ offchain-websync.com
 offchain-websync.net
 offchainnode-websupport.org
 offchainrectification.com
+official-manta.network
 official-token.im
 officialapinodes.com
 officialapynetwork.online
@@ -18411,8 +18421,10 @@ paondesea.com
 papayabit.net
 paperhanded.fi
 paperhands.fi
+paradigm-manta.com
 paradigm-manta.network
 paradigm-mantanetwork.org
+paradigmnet.work
 paradigmnew-manta.network
 paraexchange.net
 paralink.medium.cn.com
@@ -18697,6 +18709,7 @@ ploutosvault.com
 ployconnect.pages.dev
 ploysync.pages.dev
 plubant.site
+plunge-manta.network
 pluschaindapps.xyz
 plutishaboweb.website
 plutusvault.online
