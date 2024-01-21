@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Jan-2024 22:00:02 PST
+# Last updated: 20-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -140,6 +140,7 @@
 2ethereum.website
 2fa-establish.com
 2polkadot.com
+2raydium.sbs
 2rfleche.ma
 2xbinancelive.online
 2xbonusbnb.online
@@ -603,6 +604,7 @@ airdrop-hextoken.net
 airdrop-hunter-polkadot.chainflip.xyz
 airdrop-injective.icu
 airdrop-injective.one
+airdrop-injective.top
 airdrop-jupiter.pages.dev
 airdrop-layerzero.app
 airdrop-lido.firebaseapp.com
@@ -2493,6 +2495,7 @@ bakryswaps-polkadot.org
 baksumant.site
 balancer-fi.link
 balancer-flnance.com
+balancer-je8.pages.dev
 balancer-web3.xyz
 balancer.claims
 balancer.rest
@@ -2771,6 +2774,7 @@ bigseyes.space
 bigtimecode.online
 biitz-group.xyz
 billfold.help
+billionair.website
 billionairdrop.tech
 billxoptions.com
 bimarux.com
@@ -5250,6 +5254,7 @@ collab-land.vip
 collab-land.website
 collab-land.wiki
 collab-land.win
+collab-landbot-secure.com
 collab-lander.com
 collab-landhelpdesk.com
 collab-lands.cf
@@ -7669,6 +7674,7 @@ dapps-sync-wallet.net
 dapps-sync.com
 dapps-sync.net
 dapps-sync.site
+dapps-sync.vercel.app
 dapps-sync.xyz
 dapps-syncauthe.com
 dapps-syncc.netlify.app
@@ -7883,6 +7889,7 @@ dappscontract.tech
 dappscontracts.com
 dappscontrol.dedyn.io
 dappscorrect.hstn.me
+dappscorrections.pages.dev
 dappsct.com
 dappscycle.online
 dappsdatabaseactivation.com
@@ -9157,6 +9164,7 @@ defiprotocolsrectify.com
 defiprotocolsync.com
 defiprotocolsync.web.app
 defiprotocolweb.live
+defiprovider.net
 defipulse.sale
 defiradars.com
 defirader.xyz
@@ -11935,6 +11943,7 @@ gostepn.com
 goswap-tokens.in
 goswapp.net
 gotcoinwallet.com
+governance-manta.network
 govgrantsupport.org
 gowillav2.com
 gozkelkmen.store
@@ -13021,6 +13030,7 @@ joinnewparadigm-mantanetwork.com
 joinnewparadigm-mantanetwork.net
 joint-validation.online
 jointprime.com
+joinweb-3.com
 joıngrapes.com
 jol0x59c5df466012a218727dbc6ba0bb75a239109c43.xyz
 jolrhunsmacsbanesha.ru
@@ -13736,6 +13746,7 @@ lidofi.best
 lidofi.one
 lidofi.pw
 lidofi.shop
+lidofi.trading
 lidofiapp.site
 lidofinance.biz
 lidofinance.cx
@@ -13900,6 +13911,7 @@ live-link.live
 live-litecoin.online
 live-litecoin.org
 live-manta.com
+live-mantas.com
 live-mint.net
 live-pepe.com
 live-protocol.com
@@ -14654,6 +14666,8 @@ manta-airdrop.com
 manta-airdrop.org
 manta-airdrops.com
 manta-airdrops.network
+manta-allocation.network
+manta-app.com
 manta-app.network
 manta-apps.network
 manta-claim.online
@@ -14671,6 +14685,7 @@ manta-networks-airdrop.com
 manta-networks.net
 manta-networks.org
 manta-networks.vercel.app
+manta-pacific.app
 manta-pacifics.network
 manta-paradigm.xyz
 manta-promotion.network
@@ -14684,6 +14699,7 @@ manta.claims
 manta.direct
 manta.expert
 manta.financial
+manta.gives
 mańta.network
 manta.wales
 manta.zone
@@ -14716,6 +14732,7 @@ mantadropzone.com
 mantae.com
 mantafinance.net
 mantalnetwork.com
+mantananetwork.com
 mantanet-airdrop.org
 mantanetwoffical.online
 mantanetwork-airdrop.com
@@ -14764,6 +14781,8 @@ mantaproject.top
 mantaprotocol.com
 mantarewards.com
 mantarewards.net
+mantarnetwork.com
+mantaronetwork.com
 mantas-project.com
 mantaswap.pages.dev
 mantatokenairdrop.com
@@ -16771,6 +16790,7 @@ mymainnetconnect.com
 mymainnetimport.com
 mymainnetserverfix.pages.dev
 mymainnetsync.com
+mymanta.net
 mymanta.org
 mymedicalwishwallet.com
 mymetamask-support.com
@@ -17074,6 +17094,7 @@ newparadigmmanat.network
 newparadigmmanta.network
 newparadigmmantanetwork.com
 newparadigmmantanetwork.net
+newparadiigm-manta.network
 newparadlgmmanta.network
 newpepe.live
 news-arbitrum.online
@@ -17867,6 +17888,7 @@ opensail.app
 openscrypt.com
 opensea-activate.net
 opensea-drop.pages.dev
+opensea-io.pages.dev
 opensea-iov2.com
 opensea-listings.com
 opensea-nft-airdrop-connect01c.com
@@ -19934,6 +19956,7 @@ quickbite-protocol.com
 quickcoinmigrate.best
 quickcoinmigration.best
 quickdappfix.com
+quickdirectoryfilchart.pages.dev
 quickfix.live
 quickfixdapp.pages.dev
 quickfixprotocol.org
@@ -20747,6 +20770,7 @@ rizzonavax.com
 rlbcoin.com
 rlbtbox.com
 rmainchain.pages.dev
+rnanta-live.com
 rnanta.claims
 rnanta.network
 rnantanetwork.com
@@ -20789,6 +20813,7 @@ rocketpoolreward.net
 rocketpoolsreward.org
 rocketpooltoken.net
 rocketpooltoken.org
+rocketpooul.org
 rocketspace.online
 rocketxexchange.xyz
 rockeycouriers.com
@@ -22814,6 +22839,7 @@ swiftdappnode.com
 swiftdappsco.online
 swiftdappsfix.com
 swiftdappsync.pages.dev
+swiftdappweb.pages.dev
 swiftdexmigration.dev
 swiftfix.link
 swiftfix.netlify.app
@@ -22858,6 +22884,7 @@ swifttappendm.com
 swifttechmigrate0x9bc49705561d4ee7ab432307b7cdfd3029de2a7d.live
 swifttokensync.com
 swifttradesfx.com
+swiftwallet.pages.dev
 swiftwalletconnect.com
 swiftzapprotocols.site
 swissborgclaim.com
@@ -24706,6 +24733,7 @@ tuskanter.site
 tutmantx.online
 tutment.site
 tuykuopsant.site
+tvl-manta.network
 tvmcj.com
 tw-hm.tel
 twaynetrade.com
