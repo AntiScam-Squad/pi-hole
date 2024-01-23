@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 21-Jan-2024 22:00:01 PST
+# Last updated: 22-Jan-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -112,6 +112,7 @@
 1yieldrobot.app
 2000-usdt.xyz
 2022-gift.com
+2024-manta.com
 203-25-119-115.plesk.page
 203-9-150-224.plesk.page
 203-9-150-237.plesk.page
@@ -687,6 +688,7 @@ airdrop1.org
 airdrop987.duckdns.org
 airdropcampaign-polkadot.network
 airdropchainslink.com
+airdropclaim-manta.network
 airdropclaim.info
 airdropclaims.com
 airdropcryptotoday.com
@@ -1534,6 +1536,7 @@ apps-bots.live
 apps-chainbridge-portals-html-ukl.vercel.app
 apps-connect.xyz
 apps-dappify.online
+apps-dexnetwork.live
 apps-linkup.co
 apps-multichain-portals-html.netlify.app
 apps-multichain-portals-html3.netlify.app
@@ -2217,6 +2220,7 @@ automaticdexvalidate.com
 automaticwalletvalidation.com
 automigrate.live
 automigrates.com
+automigratesync.pages.dev
 automigration.dev
 automigrationbot.dev
 autonomouscryt.website
@@ -3430,6 +3434,7 @@ bonushex.com
 bonusservies.com
 booking.ro-plato.online
 boomv2xnode.website
+boost-manta.network
 boostcontractupgrade.best
 bored-ape.us
 bored-apeclub.com
@@ -3714,6 +3719,7 @@ buyswapcrypto.com
 buywalletwebbronline.xyz
 buzkartman.site
 buzsene.site
+bvrefe.pages.dev
 bwswaptk.com
 bxcryptox.org
 bybit-token.com
@@ -4390,6 +4396,7 @@ claim-polyhedra.net
 claim-pond.com
 claim-pond0x.org
 claim-pondx.com
+claim-portalcoin.xyz
 claim-pp.com
 claim-pudgy.com
 claim-pudgypenguins.net
@@ -5221,6 +5228,7 @@ collab-community.in
 collab-community.land
 collab-confirm.github.io
 collab-connect.land
+collab-connect.pages.dev
 collab-connection.github.io
 collab-connection.land
 collab-connects-land.vercel.app
@@ -5567,6 +5575,7 @@ comassets.xyz
 comb.fund
 combinewallet.com
 comimport-wallet.html
+communities-manta.com
 community-airdrop-program.com
 community-collab.vercel.app
 community-collabland.net
@@ -6389,6 +6398,7 @@ crypto-box.exchange
 crypto-chain.net
 crypto-checker.online
 crypto-coin-airdrop.online
+crypto-communities.com
 crypto-connect.live
 crypto-connect.uk
 crypto-defiwallet.org
@@ -10472,6 +10482,7 @@ event-layerzero.network
 event-layerzero.xyz
 event-lido.fi
 event-loopring.io
+event-manta.com
 event-manta.network
 event-memecoin.org
 event-metapad.com
@@ -11585,6 +11596,7 @@ fylstraaccountingspro.com
 fyvyyygy.xyz
 fyxbit.com
 gabrielknowles.com
+gain-manta.pages.dev
 gainstrade.network
 gainsvitbrriu.website
 gaixe.co
@@ -13377,6 +13389,7 @@ landconnecticuts.xyz
 landsecure-bot.com
 landsecurebot.com
 landsync.live
+landverify.xyz
 landwolftoken.com
 lankyexpresscourier.com
 lapraderapanama.com
@@ -14670,11 +14683,14 @@ manta-allocation.network
 manta-app.com
 manta-app.network
 manta-apps.network
+manta-bridge.com
 manta-claim.online
 manta-drop.com
 manta-l2.io
 manta-l2.network
 manta-labs.xyz
+manta-layer.xyz
+manta-live.com
 manta-n.network
 manta-network.app
 manta-network.info
@@ -14688,6 +14704,7 @@ manta-networks.vercel.app
 manta-pacific.app
 manta-pacifics.network
 manta-paradigm.xyz
+manta-participate.com
 manta-promotion.network
 manta-rewards.network
 manta-test-sil.pages.dev
@@ -14700,6 +14717,7 @@ manta.direct
 manta.expert
 manta.financial
 manta.gives
+manta.gratis
 mańta.network
 manta.wales
 manta.zone
@@ -14755,6 +14773,7 @@ mantanetworkairdrop.com
 mantanetworkairdrop.net
 mantanetworkairdrop.org
 mantanetworkeu.com
+mantanetworkl.com
 mantanetworknewparadigm.com
 mantanetworknewparadigm.net
 mantanetworkrewards.net
@@ -14783,6 +14802,7 @@ mantarewards.com
 mantarewards.net
 mantarnetwork.com
 mantaronetwork.com
+mantas-events.net
 mantas-project.com
 mantaswap.pages.dev
 mantatokenairdrop.com
@@ -15097,6 +15117,7 @@ meta-clash.net
 meta-coinpad.com
 meta-coinpad.net
 meta-coinpad.org
+meta-dashbaord.com
 meta-drop.xyz
 meta-extension-rectification.com
 meta-extension.net
@@ -20772,6 +20793,7 @@ rlbtbox.com
 rmainchain.pages.dev
 rnanta-live.com
 rnanta.claims
+rnanta.net
 rnanta.network
 rnantanetwork.com
 rndr.finance
@@ -24121,6 +24143,7 @@ tokenners.online
 tokennfthelp.com
 tokennoderepair.com
 tokenofficial.pages.dev
+tokenomic-manta.network
 tokenow.website
 tokenp0cket.cc
 tokenp0cket.net
@@ -24792,6 +24815,7 @@ unclaimedtoken.xyz
 unclaimedtokens.xyz
 unconfirmed-transactions.pages.dev
 uncorrect.xyz
+undersea-manta.network
 undgovgsync.com
 undpgrants.com
 unesconepal.org.np
@@ -27891,6 +27915,7 @@ web3host.tech
 web3integrateddapp.pro
 web3integration-dapp.com
 web3iprotocolrpcfix.com
+web3issuefix.pages.dev
 web3jhk.com
 web3launchpad.tech
 web3live.netlify.app
