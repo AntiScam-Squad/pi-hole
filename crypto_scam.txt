@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Jan-2024 22:00:01 PST
+# Last updated: 23-Jan-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -619,6 +619,7 @@ airdrop-manta-network.com
 airdrop-manta.com
 airdrop-manta.icu
 airdrop-manta.network
+airdrop-manta.org
 airdrop-manta.pages.dev
 airdrop-manta.vercel.app
 airdrop-mantachain.com
@@ -698,6 +699,7 @@ airdropi.com
 airdropimx.com
 airdropio.world
 airdropmanta.com
+airdropmanta.top
 airdropmanta.xyz
 airdropmantachain.com
 airdropmantachain.net
@@ -934,6 +936,7 @@ allnodesdaps.com
 allnodeswallet.com
 allnodeupdate.com
 allocation-layerzero.network
+allocation-manta.com
 allocations.network
 allonecrypto.io
 allrectify.info
@@ -1747,6 +1750,7 @@ arkham-intelligence.xyz
 arkham-tokens.com
 arkham.claims
 arkham.page
+arkhamcoin.net
 arkhamfinance.com
 arkhamfinance.org
 arkhami-ai.tech
@@ -2458,6 +2462,7 @@ backyardcompanyio.best
 bacoin.website
 bacpne.com
 badapplesiphonerepair.com
+badge-manta.network
 badger.claims
 badges-optim.io
 badges-optimism.claims
@@ -3430,6 +3435,7 @@ bonus-solutions.com
 bonusandsolution.com
 bonusclaim.live
 bonuscriptomoedas.com
+bonuses-manta.network
 bonushex.com
 bonusservies.com
 booking.ro-plato.online
@@ -4353,6 +4359,7 @@ claim-lunc.com
 claim-makerdao.xyz
 claim-mana.com
 claim-manta.network
+claim-manta.xyz
 claim-mantle.com
 claim-mantle.net
 claim-mantle.xyz
@@ -6418,6 +6425,7 @@ crypto-magnat.eu
 crypto-magnat.org
 crypto-magnat.space
 crypto-magnat.xyz
+crypto-manta.org
 crypto-margin.net
 crypto-metamask-verifyprocess.com
 crypto-more.com
@@ -9741,6 +9749,7 @@ distribution-layerzero.network
 distribution-lens.xyz
 distribution-lido.com
 distribution-lidofi.com
+distribution-manta.com
 distribution-multichain.com
 distribution-multichain.org
 distribution-opensea.firebaseapp.com
@@ -9759,6 +9768,7 @@ distribution.limited
 distributions-ftm.com
 distributions-ftm.network
 distributions-lido.fi
+distributions-manta.com
 distributlon-ftm.net
 distrlbution-ripple.com
 distrlbutions-multichain.com
@@ -9957,6 +9967,7 @@ dropmanta.com
 dropmantarewards.com
 drops-apecoin.com
 drops-chain.link
+drops-manta.network
 drops-opensea.com
 drops-pancakeswap.com
 drops-pepe.com
@@ -10505,7 +10516,9 @@ events-blur.online
 events-lido.fi
 events-litecoin.com
 events-manta-claims.com
+events-manta.com
 events-manta.network
+events-manta.org
 events-memecoin.org
 events-movr3x.com
 events-pudgypenguins.net
@@ -13450,6 +13463,7 @@ launchpadchains.com
 launchpadnode.online
 launchpads-apps.network
 launchpads-dapps.com
+launchpads-manta.com
 launchpads-opti.com
 launchpads-web.network
 launchpads.finance
@@ -13992,6 +14006,7 @@ liverader.live
 liveresolved.live
 lives-arbitrum.com
 lives-dogecoin.com
+lives-manta.net
 lives-web3.xyz
 livesecureconnect.com
 livesmartapps.com
@@ -14675,7 +14690,9 @@ manntaa.network
 manorpa.com
 manta-1nm.pages.dev
 manta-air.xyz
+manta-airdrop.buzz
 manta-airdrop.com
+manta-airdrop.info
 manta-airdrop.org
 manta-airdrops.com
 manta-airdrops.network
@@ -14684,19 +14701,26 @@ manta-app.com
 manta-app.network
 manta-apps.network
 manta-bridge.com
+manta-bridge.network
+manta-claim.net
 manta-claim.online
 manta-drop.com
+manta-group.xyz
+manta-intotheblue.network
 manta-l2.io
 manta-l2.network
 manta-labs.xyz
+manta-launchpad.com
 manta-layer.xyz
 manta-live.com
 manta-n.network
 manta-network.app
+manta-network.gift
 manta-network.info
 manta-network.org
 mânta-network.pages.dev
 manta-network.pro
+manta-network.zone
 manta-networks-airdrop.com
 manta-networks.net
 manta-networks.org
@@ -14705,13 +14729,16 @@ manta-pacific.app
 manta-pacifics.network
 manta-paradigm.xyz
 manta-participate.com
+manta-pasifisc.network
 manta-promotion.network
 manta-rewards.network
 manta-test-sil.pages.dev
+manta-tokens.com
 manta-tokens.network
 manta-treasuries.com
 manta-treasury.com
 manta-whitelist.network
+manta-zk.com
 manta.claims
 manta.direct
 manta.expert
@@ -14719,11 +14746,19 @@ manta.financial
 manta.gives
 manta.gratis
 mańta.network
+manta.quest
+manta.top
 manta.wales
 manta.zone
+mantaa.top
 mantaairdrop.com
 mantaairdrop.net
+mantaairdropevent.com
+mantaairdropevent.net
 mantaassetchain.com
+mantabluerewards.com
+mantabluerewards.net
+mantabridge.xyz
 mantachain-airdrop.com
 mantachain-airdrop.net
 mantachain-airdrop.org
@@ -14749,10 +14784,13 @@ mantadrops.com
 mantadropzone.com
 mantae.com
 mantafinance.net
+mantaintotheblue.com
+mantaintotheblue.net
 mantalnetwork.com
 mantananetwork.com
 mantanet-airdrop.org
 mantanetwoffical.online
+mantanetwok.app
 mantanetwork-airdrop.com
 mantanetwork-airdrop.net
 mantanetwork-airdrop.org
@@ -14772,6 +14810,8 @@ mantanetwork.top
 mantanetworkairdrop.com
 mantanetworkairdrop.net
 mantanetworkairdrop.org
+mantanetworkbonus.com
+mantanetworkbonus.net
 mantanetworkeu.com
 mantanetworkl.com
 mantanetworknewparadigm.com
@@ -14798,12 +14838,16 @@ mantapro.network
 mantaproject.network
 mantaproject.top
 mantaprotocol.com
+mantareward.network
 mantarewards.com
 mantarewards.net
 mantarnetwork.com
 mantaronetwork.com
+mantas-event.com
 mantas-events.net
 mantas-project.com
+mantasurvei.com
+mantasurvey.com
 mantaswap.pages.dev
 mantatokenairdrop.com
 mantatokenrain.com
@@ -14813,7 +14857,9 @@ mantatreasury.com
 mantatreasury.net
 mantax.network
 mantazk.com
+mantazk.gift
 mantero-coin.com
+mantha.network
 mantle-airdrop.xyz
 mantle-wl.xyz
 mantle.today
@@ -14824,6 +14870,7 @@ mantnetwork.com
 manto.network
 mantratech01.com
 mantsfinance.com
+mantwa.network
 manual-connect.com
 manual-syncronisation.ml
 manualbridgetools.com
@@ -16695,6 +16742,7 @@ my-1passworld.com
 my-1passworod.com
 my-1passworrd.com
 my-etherwallets.com
+my-manta.com
 my-token.online
 my-vault.xyz
 myaccessauth.com
@@ -17025,6 +17073,7 @@ network-avalanchae.online
 network-blockchain.cloud
 network-kusama.com
 network-lido.fi
+network-manta.com
 network-manta.net
 network-portalastar.com
 network-starknet.org
@@ -17106,6 +17155,7 @@ newliquidityupdate.com
 newmantanetwork.com
 newmantanetwork.net
 newparadig-manta.network
+newparadigm-manta-login.network
 newparadigm-manta-network.pages.dev
 newparadigm-mantanetwork.com
 newparadigm.network
@@ -18133,6 +18183,7 @@ pacificmantanetwork.xyz
 pacifiic-manta.network
 padsync.pages.dev
 pafcarta.site
+pafisic-manta.network
 paflattim.site
 page-multi.xyz
 page-seedify.com.pl
@@ -18467,6 +18518,7 @@ paperhands.fi
 paradigm-manta.com
 paradigm-manta.network
 paradigm-mantanetwork.org
+paradigma-manta.network
 paradigmnet.work
 paradigmnew-manta.network
 paraexchange.net
@@ -18489,6 +18541,7 @@ paritokenbtc.ga
 parity.site
 partenariat-metamask.com
 partenariat.io
+participate-manta.network
 particleink.pages.dev
 partner-memecoin.com
 partners-zksync.io
@@ -22413,6 +22466,7 @@ staking-chainlink.online
 staking-eth.org
 staking-ether.org
 staking-lido.finance
+staking-manta.com
 staking-manta.network
 staking-on-chain.xyz
 staking-parastate.live
@@ -24243,6 +24297,7 @@ tokens-fix.com
 tokens-fix.net
 tokens-fix.tech
 tokens-holder.web.app
+tokens-manta.network
 tokens-mywalletconnect.com
 tokens-pepe.com
 tokens-resolver.netlify.app
