@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Jan-2024 22:00:01 PST
+# Last updated: 25-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1782,7 +1782,9 @@ arpabtc.com
 art-claims.com
 art-drop.io
 artauthenticateonnft.org
+artblocks-curated.art
 artblocks-curated.net
+artblocks-squiggles.art
 artblocks.city
 artblocks.gift
 artclaims.io
@@ -2564,6 +2566,7 @@ basechains.org
 basecointabsonline.info
 basecrypto.net
 basedex.network
+basedrop.pages.dev
 baseforcoinswap.com
 baseintegration.com
 basename.guru
@@ -2592,6 +2595,7 @@ baycryp.com
 bbcoin.website
 bbndapp.com
 bbsync.pages.dev
+bbsyncs.pages.dev
 bc1qh2p9ex5k3.com
 bccoin.website
 bchaincrypto.com
@@ -3307,6 +3311,7 @@ blocktopia.co
 blockube-deluxe.com
 blockube.xyz
 blockunification.asders.icu
+blockunification.aswers.icu
 blockvalidator.net
 blockvalidator.us
 blockverse-server.vercel.app
@@ -5238,6 +5243,7 @@ collab-backend.online
 collab-band.com
 collab-bot.com
 collab-bot.net
+collab-bot.xyz
 collab-community-sync.com
 collab-community.in
 collab-community.land
@@ -5269,6 +5275,7 @@ collab-land.contact
 collab-land.eu
 collab-land.in
 collab-land.info
+collab-land.io
 collab-land.online
 collab-land.pw
 collab-land.top
@@ -5398,6 +5405,7 @@ collabland-safeguard.net
 collabland-safety.net
 collabland-secure.com
 collabland-security.net
+collabland-shield.net
 collabland-sync.com
 collabland-sync.net
 collabland-user.vercel.app
@@ -5791,7 +5799,6 @@ connect-wallets.live
 connect-web3.pages.dev
 connect-web3fixtool.com
 connect-web3fixtool.xyz
-connect.collab-land.io
 connect.collabb.land
 connect.defisecure.site
 connect.eth-connects.net
@@ -8758,6 +8765,7 @@ decentralisedconnect.com
 decentralisedcryptowithdrwl.com
 decentralisedcryptowithdrwl.online
 decentralisedfinanceportal.com
+decentralisedsync.onrender.com
 decentralisedwebdapp.com
 decentralizationissueresolve.com
 decentralize-solutions.com
@@ -10170,6 +10178,7 @@ eligibility-lens.com
 eligibility-lido.fi
 eligibility-uniswap.org
 eligible-chain.link
+eligible-manta.com
 eligible-manta.network
 eliteconnects.online
 elitecryptoassets.com
@@ -10644,6 +10653,7 @@ expertreliable.co
 expertsolutiondashboard.info
 explanandaconsult.com
 exploits-revoke.com
+explolt-revoke.cash
 explore-cadarno.org
 explore-cardano.com
 explore-cardano.org
@@ -12203,6 +12213,7 @@ hodltrustconnections-fixed.live
 hohrvestversion.website
 hoistcoins.net
 holaey.store
+hold-manta.network
 holdane.com
 holders-airdrop.info
 holders-collab.link
@@ -12276,6 +12287,7 @@ humanxpert.com
 hungryswap.net
 hungryswap.org
 huniswap.org
+hunterdrop.indapp.xyz
 hunterinternational.icu
 husesae.site
 hv-mti.co
@@ -12633,6 +12645,7 @@ inj-airdrops.com
 inj-interface.vercel.app
 inj-nois.network
 inj-space.app
+injdrop.pages.dev
 injective-allocation.com
 injective-app.info
 injective-ihub.network
@@ -13409,6 +13422,7 @@ lampoant.site
 lampvest.site
 lamzgrp.xyz
 lanav2.com
+land-assest.com
 land-connect.github.io
 land-crypto.com
 land-verification.online
@@ -13751,6 +13765,7 @@ lido-staked-eth-airdrop.web.app
 lido-stakefinance.com
 lido-stakes.fi
 lido-stakes.xyz
+lido-staking-d5i.pages.dev
 lido-steking.com
 lido-us.site
 lido-usa.com
@@ -13929,6 +13944,7 @@ liquidity-mint.quest
 liquidity-pool-v3.live
 liquidity-protocol.com
 liquidity-v3.site
+liquidity.us.com
 liquidityensure.com
 liquidityentry.com
 liquidityentry.tech
@@ -14712,6 +14728,7 @@ manntaa.network
 manorpa.com
 manta-1nm.pages.dev
 manta-air.xyz
+manta-airdrop-9um.pages.dev
 manta-airdrop.buzz
 manta-airdrop.com
 manta-airdrop.info
@@ -14761,6 +14778,7 @@ manta-treasuries.com
 manta-treasury.com
 manta-whitelist.network
 manta-zk.com
+manta-zk.pages.dev
 manta.claims
 manta.direct
 manta.expert
@@ -14771,6 +14789,7 @@ mańta.network
 manta.quest
 manta.top
 manta.wales
+manta.watch
 manta.zone
 mantaa.top
 mantaairdrop.com
@@ -14818,6 +14837,7 @@ mantanetwork-airdrop.net
 mantanetwork-airdrop.org
 mantanetwork-chain.net
 mantanetwork-claim.com
+mantanetwork-claim.net
 mantanetwork-newparadigm.com
 mantanetwork-newparadigm.net
 mantanetwork-zkomni.com
@@ -14868,9 +14888,11 @@ mantaronetwork.com
 mantas-event.com
 mantas-events.net
 mantas-project.com
+mantasnetwoeks.pages.dev
 mantasurvei.com
 mantasurvey.com
 mantaswap.pages.dev
+mantatest.pages.dev
 mantatokenairdrop.com
 mantatokenrain.com
 mantatokens.com
@@ -15131,6 +15153,7 @@ memscoins.live
 memzcoin-club.com
 memzcoin-club.xyz
 menakim.org
+menta-natvvork.shop
 menta-network.vercel.app
 mentkct.site
 mepelas.online
@@ -17199,6 +17222,7 @@ newparadigmmanta.network
 newparadigmmantanetwork.com
 newparadigmmantanetwork.net
 newparadiigm-manta.network
+newparadiqm-manta.network
 newparadlgmmanta.network
 newpepe.live
 news-arbitrum.online
@@ -17756,6 +17780,7 @@ oasisprotocol.site
 obitnance.com
 obscuritytokenswap.com
 obscuritytokenswap.io
+obtain-manta.network
 oceanicpixel.org
 oceanprotocol-event.com
 oceanprotocol.farm
@@ -18014,6 +18039,7 @@ openseaconnect.weebly.com
 openseaconnections.com
 openseafox.com
 openseafox.eu
+openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev
 openseapr-project.vercel.app
 openseaprotocol.com
 opensearaffles.com
@@ -21286,6 +21312,7 @@ sectfy.biz
 sectokepermit.com
 secudapp.xyz
 secuencryption.red
+secure-collab-land-bot.com
 secure-collabland-bot.com
 secure-collabland.org
 secure-confirm.com
@@ -21755,6 +21782,7 @@ signs-fixing.net
 signs-repo.com
 signs-repository.com
 signup-bakeryswap.org
+signup-collabland.com
 signup-lens.xyz
 signup-manta.network
 signup-pudgypenguin.com
@@ -22687,6 +22715,7 @@ streamtokenswap.com
 stretto-celsius-network.com
 stringacess-activation.live
 strk-networks.org
+strk-rewards.com
 strk-whitelists.space
 strkclaim.com
 strongblock.vip
@@ -26817,6 +26846,7 @@ walletconnett.com
 walletconnetvalidator.com
 walletconnext.org
 walletconnnect.net
+walletconnt-sync.pages.dev
 walletcons-sync.netlify.app
 walletcons.com
 walletconverge.top
@@ -27781,6 +27811,7 @@ wc-connect.info
 wc-connect.live
 wc-connect.site
 wc-dapp.com
+wc-node.pages.dev
 wc-revalidation.com
 wc-sync.com
 wc-sync.info
