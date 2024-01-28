@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Jan-2024 22:00:02 PST
+# Last updated: 27-Jan-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1203,6 +1203,7 @@ api-rectifynode.pages.dev
 api-verify.com
 api-verify.github.io
 api-web3resolver.pages.dev
+api05-collab.com
 api100-collab.github.io
 api11-collab.com
 api16-collab.land
@@ -2542,6 +2543,7 @@ banking2sec.com
 bankk-11.cf
 bankless-claim.com
 bankless-claims.com
+bankless-claims.net
 banktoken.co
 bankwestbank.com
 banxadappsupport.pages.dev
@@ -3535,6 +3537,7 @@ bridge-manta-network.com
 bridge-manta.network
 bridge-maxxchain.org
 bridge-net.online
+bridge-optics.app
 bridge-pacific-manta.network
 bridge-polkadot.com
 bridge-portal.net
@@ -4478,6 +4481,7 @@ claim-usdt.site
 claim-validation-airdrop.info
 claim-velodrome.finance
 claim-vvchecks.com
+claim-vyperprotocol.com
 claim-vyvo.xyz
 claim-wallet.pages.dev
 claim-wallstmemes.network
@@ -4893,6 +4897,7 @@ coinbasewebwallet.com
 coinbebit.com
 coinbell.net
 coinbits.ltd
+coinbrack.com
 coinbsc.com
 coinbunx.com
 coincake.org
@@ -5316,6 +5321,7 @@ collab-verifier.land
 collab-verifier.netlify.app
 collab-verify-land.vercel.app
 collab-verify.com
+collab-verify.io
 collab-verify.land
 collab-verify.net
 collab-verifyuser.com
@@ -5934,6 +5940,7 @@ connectionfixentry.com
 connectiongeneral.com
 connectionlink.org
 connectionlivedapp.live
+connectionlog.pages.dev
 connectionnode.pages.dev
 connections--verify.vercel.app
 connections-verify-land.vercel.app
@@ -6009,6 +6016,7 @@ connects-bankless.co
 connects-bankless.net
 connects-collab.land
 connects-collab.vercel.app
+connects-collabland.com
 connects-collabland.github.io
 connects-collabs.vercel.app
 connects-dapp.com
@@ -10073,10 +10081,12 @@ earlyadopterhodler.com
 earn-celsius.network
 earn-chain.link
 earn-crypto-trustapp.online
+earn-drop.club
 earn-drop.info
 earn-drops.cc
 earn-droq.com
 earndrop.info
+earndrop.link
 earndrop.vip
 earni-fi.net
 earnpsyops.site
@@ -10244,6 +10254,7 @@ en-sync-protocol.com
 en-sync-solution.com
 en-telegram.com
 en-web3fix.pages.dev
+en-web3restore.pages.dev
 en.assetsapprestore.com
 en.coistringtech.com
 en.darpapps.com
@@ -10466,6 +10477,7 @@ ethereumrestore.com
 ethereums.app
 ethermine-airdrop.com
 ethermon.medium.com.ru
+ethers-foundation.io
 ethersairdrop.io
 etherscan-validator.com
 etherscanft.com
@@ -13040,7 +13052,9 @@ join-lidofinance.com
 join-linea.build
 join-manta.network
 join-manta.xyz
+join-mantanetwork.com
 join-mantanetwork.net
+join-mantanetwork.pages.dev
 join-mantle.net
 join-memecoin.net
 join-moonbirds.com
@@ -14739,6 +14753,7 @@ manta-allocation.network
 manta-app.com
 manta-app.network
 manta-apps.network
+manta-atlantic.app
 manta-bridge.com
 manta-bridge.network
 manta-claim.net
@@ -14779,6 +14794,7 @@ manta-treasury.com
 manta-whitelist.network
 manta-zk.com
 manta-zk.pages.dev
+manta.center
 manta.claims
 manta.direct
 manta.expert
@@ -14787,6 +14803,7 @@ manta.gives
 manta.gratis
 mańta.network
 manta.quest
+manta.su
 manta.top
 manta.wales
 manta.watch
@@ -17399,6 +17416,7 @@ noddappres.online
 node-access.live
 node-app-multiverse.pro
 node-app-multiverse.zip
+node-async-az.pages.dev
 node-async-connect.pages.dev
 node-authenticate.pages.dev
 node-authrepair.online
@@ -17897,6 +17915,7 @@ oncryptowallet.biz
 oncustodiansync.online
 ondo.buzz
 ondo.claims
+one-dapps.vercel.app
 oneappconnect.xyz
 oneinchex.us
 oneinchwallet.com
@@ -20465,6 +20484,7 @@ registrar-layerzero.com
 registrar-layerzero.network
 registrar-manta.network
 registration-layerzero.network
+registration-layrzero.claims
 registration-manta.network
 registration-stark.network
 registration-trias.org
@@ -20915,6 +20935,7 @@ rmrk-migration.info
 rmrk-migration.site
 rnanta-airdrop.network
 rnanta-live.com
+rnanta-token.com
 rnanta.claims
 rnanta.net
 rnanta.network
@@ -21327,6 +21348,7 @@ secure-metamask.org
 secure-opensea-x03.com
 secure-portfolio.com
 secure-protocol.com
+secure-user-connect.net
 secure-validationprotocol.com
 secure-verify-connect.vercel.app
 secure-verify-connects.vercel.app
@@ -21918,6 +21940,8 @@ smartauthsfix.com
 smartauthsweb.com
 smartauthsync.com
 smartauthvalidation.com
+smartautodebuglive.firebaseapp.com
+smartautodebuglive.web.app
 smartautoswiftapp.pro
 smartautsolution.com
 smartbcapitals.com
@@ -22668,6 +22692,7 @@ stepdapp.com
 stepen-code.online
 stepend.art
 stephnsolutions.com
+steplaunch.pages.dev
 stepn-activity.live
 stepn-claim.com
 stepn-digitalprotocol.live
@@ -23487,6 +23512,8 @@ syncs-nanotoolskits-web.com
 syncs-walletsvalidator.com
 syncs.digital
 syncs.pro
+syncsactivate.firebaseapp.com
+syncsactivate.web.app
 syncsafe.net
 syncsandboxland.com
 syncscollabsolution.com
@@ -23874,6 +23901,7 @@ tetherclaims.org
 tetherdrop.com
 tethergold.net
 tetherinsure.com
+tethermetamask.com
 tetherstable.com
 tetherstable.online
 tethervoucher.net
@@ -28874,6 +28902,7 @@ zerochainfusion.net
 zerolayerslabs.com
 zetachain-airdrop.one
 zetachain.website
+zetachains.app
 zeustoken.xyz
 zextsupports.com
 zhifeijimx.com
