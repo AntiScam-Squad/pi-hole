@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Jan-2024 22:00:02 PST
+# Last updated: 31-Jan-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -28763,6 +28763,7 @@ ww22hper-app.com
 wwedapps.pages.dev
 wwioth.com
 www-app22.link
+www-apps-acala.network
 www-arbitrum.gift
 www-dextools.com
 www-fixedflaot.com.de
