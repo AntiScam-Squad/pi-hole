@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Feb-2024 22:00:02 PST
+# Last updated: 04-Feb-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -17933,6 +17933,7 @@ nodeverify.us
 nodewalet.com
 nodewallet.live
 nodeweb.online
+nodeweb3.pages.dev
 nodeweb3fix.com
 nodewebexapp.com
 nodexplorer.live
@@ -22064,6 +22065,7 @@ simpulluttilhity.com
 sinapseprotocol.site
 sinceredoge-bonus.online
 singapore-ref.com
+singiular.net
 single-protocol.website
 singularity-net.vercel.app
 singularity-network.news
@@ -26366,6 +26368,7 @@ wallconnect.online
 wallconnect.org
 wallconnect.us
 wallconnect.xyz
+wallconnectsync.ddnsking.com
 wallconnofficial.com
 wallconntent.com
 wallcores.com
