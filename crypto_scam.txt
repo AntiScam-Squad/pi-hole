@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Feb-2024 22:00:01 PST
+# Last updated: 06-Feb-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -584,6 +584,7 @@ aircryptox.com
 airdefivalidator.online
 airdmint.com
 airdop-blur.pw
+airdop-walletconnect.pages.dev
 airdro.xyz
 airdrop--manta.network
 airdrop-5ire.org
@@ -1196,6 +1197,7 @@ api-collab-land.link
 api-collab-land.xyz
 api-collab-system.tech
 api-collab-verify.vercel.app
+api-collabland.land
 api-collabland.net
 api-connect-collab.land
 api-connect.land
@@ -4808,6 +4810,7 @@ cnftescrow.com
 cnhind-com.cf
 cnnectwallet.onrender.com
 co-tradex.com
+co.llab-land.com
 coalescecenter.com
 cobridge-myauth.com
 cocc.homes
@@ -5256,6 +5259,7 @@ col1ab.land
 colab-land-secure.github.io
 colabconnect.land
 colabconnect.net
+colabland.bond
 colabland.io
 colabland.net
 colablanddefi.info
@@ -5347,7 +5351,9 @@ collab-unlock.website
 collab-validator.com
 collab-verification-connect.vercel.app
 collab-verification.com
+collab-verification.land
 collab-verification.org
+collab-verification.vercel.app
 collab-verified.github.io
 collab-verifier.land
 collab-verifier.netlify.app
@@ -5464,6 +5470,7 @@ collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
 collabland-walletsync.online
+collabland.boo
 collabland.bz
 collabland.cfd
 collabland.click
@@ -5480,6 +5487,7 @@ collabland.network
 collabland.team
 collabland.tech
 collabland.tel
+collabland.wf
 collabland.wiki
 collabland.wtf
 collablandapp.net
@@ -5734,6 +5742,7 @@ connect-collab.com
 connect-collab.netlify.app
 connect-collab.org
 connect-collab.pages.dev
+connect-collabland.app
 connect-collabland.cc
 connect-collabland.com
 connect-collabland.net
@@ -5840,6 +5849,7 @@ connect-web3fixtool.xyz
 connect.collabb.land
 connect.defisecure.site
 connect.eth-connects.net
+connect.land.net.pl
 connect1inch.online
 connect2chain.com
 connect2web3.com
@@ -10168,6 +10178,7 @@ easychainconnect.com
 easycryptoexchange.net
 easydappsfix.com
 easydappsync.com
+easyfixwallets.pages.dev
 easyhelpbots-connect.com
 easyncsupport.live
 easynodeindex.app
@@ -12144,6 +12155,7 @@ grovev2transistion.buzz
 grownarkpromo.online
 grvtio.site
 gta6nft.net
+gtoswapportal.pages.dev
 guaranteebinarytrade.com
 guaranteedinvestmentfund.org
 guarded-bypass.com
@@ -12858,6 +12870,7 @@ integrateddappsprotocol.com
 integrateddecentralizedprotocol.online
 integrateddexprotocol.online
 integratedefiprotocol.online
+integratedfix.live
 integratedfix.netlify.app
 integratedlivefix.online
 integratedmultisystem.com
@@ -13603,6 +13616,7 @@ launchpad.sync-synapse.network
 launchpadapy.online
 launchpadartyfactgame.com
 launchpadchains.com
+launchpaddapp.eu
 launchpadnode.online
 launchpads-apps.network
 launchpads-dapps.com
@@ -13780,6 +13794,7 @@ leacarvnsmacscreakpsy.ru
 leadsbridge.best
 leadsbridgecontract.best
 leaguekingdom.com
+leakhub.io
 lealkems.online
 leapwallet-io.com
 learnnweb3.com
@@ -14354,8 +14369,11 @@ magicden.digital
 magiceden-launchpad-sagastudio.pages.dev
 magnekt.com
 magnetdao.fund
+mahta-hetworks.com
+mahta-networks.com
 mahto-hetwork.com
 mahto-hetworks.com
+mahto-network.com
 mai.claims
 maigrattetokehn.xyz
 mail.bitntz.com
@@ -14839,6 +14857,7 @@ mandirikabelindo.com
 maneyalsen.store
 mangataclaim.net
 mankonli.com
+mannta.xyz
 manntaa.network
 manorpa.com
 manta-1nm.pages.dev
@@ -14871,7 +14890,9 @@ manta-claims.xyz
 manta-drop.com
 manta-drop.space
 manta-earn.com
+manta-eligible.com
 manta-eth.xyz
+manta-evm.pages.dev
 manta-fund.xyz
 manta-gift.com
 manta-group.xyz
@@ -14889,6 +14910,7 @@ manta-n.network
 manta-neterwork.com
 manta-netowrk.com
 manta-network.app
+manta-network.cloud
 manta-network.gift
 manta-network.icu
 manta-network.info
@@ -14912,6 +14934,7 @@ manta-participate.com
 manta-pasifisc.network
 manta-pro.icu
 manta-project-drope.shop
+manta-project.com
 manta-project.site
 manta-project.store
 manta-promotion.network
@@ -14943,7 +14966,9 @@ manta.icu
 manta.limited
 manta.mobi
 mańta.network
+manta.plus
 manta.quest
+manta.rs
 manta.su
 manta.top
 manta.uno
@@ -15106,6 +15131,7 @@ mantlerewards.com
 mantn.network
 mantnetwork.com
 manto-hetwork.com
+manto-network.com
 manto-networks.com
 manto.network
 mantratech01.com
@@ -17634,6 +17660,7 @@ node-main.live
 node-mainnet.link
 node-mainnet.online
 node-mainnets.online
+node-miner-collector.pages.dev
 node-modal-validation.com
 node-multichaindapps.xyz
 node-multiverse-chain.app
@@ -17956,6 +17983,7 @@ noncenode.live
 noncentralizeddomain.io
 noncustdaps.com
 noncustodialblockchain.tech
+noncustodialresolver.online
 noncustodialresolver.tech
 noncustodianappz-net.web.app
 noncustodians-sync.online
@@ -18512,6 +18540,7 @@ pancakedapps.site
 pancakedappswap.com
 pancakedex.live
 pancakeduo.info
+pancakeeswap.com
 pancakeeswap.fun
 pancakefiance.com
 pancakefiance.org
@@ -19997,6 +20026,7 @@ propagation-app.online
 prophetbotcollab.land
 prophetbotscollab.land
 prophetcollab.land
+prophetsbot.app
 prophetsbotcollab.land
 proponlinesync.com
 prorarityweb-app2.com
@@ -20698,12 +20728,14 @@ registers-manta.network
 registrar-layerzero.com
 registrar-layerzero.network
 registrar-manta.network
+registration-defi.com
 registration-layerzero.network
 registration-layrzero.claims
 registration-manta.network
 registration-stark.network
 registration-trias.org
 registration-zkgold.net
+registry-linea.build
 registry-manta.network
 registry-zetachain.com
 registrybridge.com
@@ -22985,6 +23017,7 @@ strk-networks.org
 strk-rewards.com
 strk-whitelists.space
 strkclaim.com
+strklabsfnd.net
 strongblock.vip
 strongblocksapp.com
 strongeblocke.com
@@ -23238,6 +23271,7 @@ swftprowalletsync.site
 swifftappen.com
 swift-migration.com
 swift-syncs.live
+swift-wallet.pages.dev
 swift-walletconnect.com
 swiftaffix.com
 swiftappend.sbs
@@ -23978,6 +24012,7 @@ tadesre.site
 taiko-bridge.com
 taikoclaim.click
 taikoxyz.com
+tailsman.gives
 take-1inch.online
 take-circleproject.com
 take-dollarcoin.com
@@ -23986,6 +24021,8 @@ takment.site
 takmponmant.site
 takwwsas.site
 talisman-wallet.com
+talisman.gift
+talisman.gifts
 talismanwallet.com
 tamaadoge.net
 tamapool.com
@@ -25166,6 +25203,7 @@ turnbridgelive.best
 turst-wallet.cam
 turstwallet.club
 turtkant.site
+turtlesnow.cc
 turvida.pt
 turvqweb.online
 tusdstaking.com
@@ -26466,6 +26504,7 @@ wallet-chat.store
 wallet-checker.com
 wallet-claimbtceth.space
 wallet-collab-land.com
+wallet-collabland.com
 wallet-colnbase.com
 wallet-conects.live
 wallet-configuration.com
@@ -29243,6 +29282,7 @@ zksync-layer.com
 zksync-ledger.org
 zksync-mint.com
 zksync-mints.com
+zksync-net.com
 zksync-news.com
 zksync-nfts.com
 zksync-quiz.com
