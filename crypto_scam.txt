@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Feb-2024 22:00:01 PST
+# Last updated: 07-Feb-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1238,6 +1238,7 @@ apibridgnetwork.org
 apichainz.online
 apicolab.land
 apicollab-land.github.io
+apicollab.land
 apiconnectd.com
 apiconnectivity.online
 apicontractgearnd.com
@@ -1268,6 +1269,7 @@ apiwalletresolvenet.com
 apiworks.live
 apollovelo.sbs
 apollox-protocol.com
+app--cruxdecussata-standalone.pages.dev
 app-1inch.app
 app-1inch.claims
 app-1inch.online
@@ -1807,6 +1809,7 @@ artprocollection.com
 artsminter.com
 artyfact-launch.pages.dev
 artyfactgames-launch.pages.dev
+artyfacts-launchpad.pages.dev
 arweave-v3.com
 asacear.site
 asbath.store
@@ -1920,6 +1923,7 @@ astar-network-portal.com
 astar-network-portal.org
 astar-network-wallet.com
 astar.coins-pad.tech
+astar.homes
 astar.mba
 astarnetwork-about.com
 astarnetwork.dev
@@ -4356,6 +4360,7 @@ claim-curvefinance.net
 claim-cyber.live
 claim-daodecentraland.claims
 claim-dapp.netlify.app
+claim-dapps.pages.dev
 claim-decentraland.com
 claim-digitoadsworld.pages.dev
 claim-dogecoin.net
@@ -7016,6 +7021,7 @@ daomekar.com
 daomkr.org
 daoomakerapp.top
 daopepe.com
+daoprotocol.pages.dev
 daorectifier.com
 daoscontractpoll.com
 daouniswap.com
@@ -8107,6 +8113,7 @@ dappslivenodes.univer.se
 dappslivesolution.com
 dappslivesystem.com
 dappslivevalidator.xyz
+dappsly.pages.dev
 dappsmain.com
 dappsmainet.link
 dappsmainframe.com
@@ -8222,6 +8229,7 @@ dappsprotocol.online
 dappsprotocol.site
 dappsprotocol.tech
 dappsprotocol.top
+dappsprotocol.vercel.app
 dappsprotocolauth.com
 dappsprotocolconnect.com
 dappsprotocolfix.online
@@ -9175,6 +9183,7 @@ defierror-reauth.com
 defiexplorer.dev
 defiexplorer.org
 defifastsyncronized.com
+defifix.pages.dev
 defifix.tools
 defifixchain.org
 defifixintegrate.com
@@ -11100,6 +11109,7 @@ fixappsolution.net
 fixasset.netlify.app
 fixauth-support.live
 fixbase.net
+fixbugmigrate.pages.dev
 fixbugsdapps.netlify.app
 fixbugsnow.netlify.app
 fixbugstm.com
@@ -13460,6 +13470,7 @@ kryptorectifysurge.online
 ksm-chinese.com
 ksmtoken.org
 kspnodemainnet.pages.dev
+kstmple.pages.dev
 ksync.fr
 ktsbent.site
 kubecoln.org
@@ -13851,6 +13862,7 @@ letverifynow.mrbasic.com
 letverifynowallcoin.mrbasic.com
 leyerzero.network
 lezconnectwalle.com
+lfg-jup-claims.pages.dev
 lfixedfloat.org
 lgcydapp.network
 li-dofinance.com
@@ -14979,6 +14991,7 @@ mantaa-network.org
 mantaa.top
 mantaairdrop.com
 mantaairdrop.net
+mantaairdrop.network
 mantaairdropevent.com
 mantaairdropevent.net
 mantaassetchain.com
@@ -19919,6 +19932,7 @@ prixtoconnect.com
 prize-pool.site
 prmainchains.pages.dev
 pro-app.org
+pro-collab.land
 pro-cryptopad.com
 pro-cryptopad.tech
 pro-earners.com
@@ -20387,6 +20401,7 @@ quickswapio.news
 quickswapz.ru
 quicksync.online
 quicksync.pages.dev
+quicksyncdapps.pages.dev
 quicksynchronization.com
 quicksynchronize.com
 quicksystemexplorer.co
@@ -20527,6 +20542,7 @@ recoverywallet.me
 recsyncauth.xyz
 rect-c0nnects.xyz
 rect-c0nnrtc.pages.dev
+rect-fixdapps.pages.dev
 rectblokdapp.com
 rectbloks.org
 rectfy.xyz
@@ -26107,6 +26123,7 @@ verasitytoken.xyz
 vercelexchange.com
 veri-land.com
 veri.band
+verif-secureconnect.com
 verifewallt.xyz
 verifica-ora-security.com
 verificaionankupdated.publicvm.com
@@ -28319,6 +28336,7 @@ web3avax.com
 web3azuki.pro
 web3backend.online
 web3bridge.io
+web3bugrectify.pages.dev
 web3bugsdapp.pages.dev
 web3captchaxxedt.com
 web3chain.network
@@ -28566,6 +28584,7 @@ webflow.ink
 webflowconnect.info
 webflowreauth.xyz
 webfxs.site
+webguardprotocol.xyz
 webguru.top
 webhostconnect-dapps.surge.sh
 webhostdapp.com
