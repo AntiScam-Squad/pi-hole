@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Feb-2024 22:00:02 PST
+# Last updated: 09-Feb-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1561,6 +1561,7 @@ apps-chainbridge-portals-html-ukl.vercel.app
 apps-connect.xyz
 apps-dappify.online
 apps-dexnetwork.live
+apps-intercessor.live
 apps-linkup.co
 apps-multichain-portals-html.netlify.app
 apps-multichain-portals-html3.netlify.app
@@ -8070,6 +8071,7 @@ dappsfix.repair
 dappsfix.xyz
 dappsfixed.com
 dappsfixer.online
+dappsfixerweb.site
 dappsfixnode.com
 dappsfixprotocol.site
 dappsfixtool.com
@@ -8805,6 +8807,7 @@ debank-claim.com
 debank.live
 debanksweb.com
 debug-dapp.online
+debug-multichain.pages.dev
 debug-wallets.com
 debug-web3auth.com
 debugapp.net
@@ -10162,6 +10165,7 @@ dydxdex.net
 dydxnetwork.com
 dydxswaps.com
 dyermerv.org
+dymension-claimdappstoolkit.pages.dev
 dymenslonfinance.com
 dynamiccoindapps.online
 dynamicvalidate.netlify.app
@@ -10511,6 +10515,7 @@ errorsrestoreonline.com
 errorssyncs.com
 errorwalletrectifer.netlify.app
 erselya.site
+ert.monster
 ertamlek.online
 erz.qvq.mybluehost.me
 escoin.website
@@ -16739,6 +16744,7 @@ multichain-defi.net
 multichain-en-protocol.org
 multichain-event.net
 multichain-event.org
+multichain-evm.pages.dev
 multichain-fixdapp.pages.dev
 multichain-mainnetprotocol.netlify.app
 multichain-meta.com
@@ -18077,6 +18083,7 @@ novacrypto.online
 novaetvetera.co
 novaldapp.netlify.app
 novatornado.cash
+novawallet.live
 novawallet.net
 novussurgicalco.com
 nowdefi.app
@@ -23103,6 +23110,7 @@ strk-networks.org
 strk-rewards.com
 strk-whitelists.space
 strkclaim.com
+strkclaims.com
 strklabsfnd.net
 strongblock.vip
 strongblocksapp.com
@@ -29148,6 +29156,7 @@ xprojectcommunity.pages.dev
 xprotocol.online
 xprotocols.live
 xpubactivation.pages.dev
+xpubactivationdapps.pages.dev
 xpubcalculation.info
 xpubcalculators.com
 xpubconnect.com
