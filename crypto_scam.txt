@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 12-Feb-2024 22:00:02 PST
+# Last updated: 13-Feb-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -752,6 +752,7 @@ airdrops-zksync.one
 airdrops.fun
 airdrops20.com
 airdropsdao.org
+airdropsmanta.network
 airdropstack.com
 airdroptoday.online
 airdroptrust.xyz
@@ -1354,6 +1355,7 @@ app-magiceden-app.ml
 app-mainaffix.com
 app-mainnethub.ml
 app-mainnetsys.ml
+app-mantle.site
 app-mav-xyz.com
 app-mav.finance
 app-mav.xyz
@@ -3134,6 +3136,7 @@ blastio.dev
 blastioairdrop.lat
 blastl2.co
 blastrio.xyz
+blastronaut.app
 blazesaves.online
 blckcchain.tech
 blckchainz.tech
@@ -4832,6 +4835,7 @@ cnhind-com.cf
 cnnectwallet.onrender.com
 co-tradex.com
 co.llab-land.com
+co.llab-verify.xyz
 coalescecenter.com
 cobridge-myauth.com
 cocc.homes
@@ -5402,6 +5406,8 @@ collab.si
 collab.vg
 collabactivation.com
 collabandd.cc
+collabandverify.onrender.com
+collabandverify.vercel.app
 collabapprove.digital
 collabarationland.cc
 collabassist.org
@@ -7495,6 +7501,7 @@ dappliveintegrate.com
 dapplivesync.org
 dapplivesyncs.online
 dappmainet.com
+dappmainhub.pages.dev
 dappmainnet.com
 dappmainnet.live
 dappmainnet.net
@@ -14137,6 +14144,7 @@ liquiditypools-uniswap.com
 liquidprotocol.vip
 liquidprotocol.website
 liquidprotocols.com
+liquids-ethereum.com
 liquidswap.online
 listdefi.com
 litechainconnect.com
@@ -14962,11 +14970,13 @@ manta-gift.com
 manta-group.xyz
 manta-hetvork.com
 manta-hetworks.com
+manta-hub.network
 manta-intotheblue.network
 manta-l2.io
 manta-l2.network
 manta-labs.xyz
 manta-launchpad.com
+manta-layer.network
 manta-layer.xyz
 manta-layerbank.com
 manta-live.com
@@ -14977,7 +14987,9 @@ manta-netowrk.com
 manta-network.app
 manta-network.cloud
 manta-network.club
+manta-network.email
 manta-network.gift
+manta-network.homes
 manta-network.icu
 manta-network.info
 manta-network.mobi
@@ -14986,6 +14998,7 @@ mânta-network.pages.dev
 manta-network.pro
 manta-network.quest
 manta-network.shop
+manta-network.team
 manta-network.zone
 manta-networks-airdrop.com
 manta-networks.net
@@ -15090,6 +15103,7 @@ mantacollectibles.com
 mantacrypto.com
 mantadefi.net
 mantadex.net
+mantadr.xyz
 mantadrop.lat
 mantadrop.org
 mantadrop.pages.dev
@@ -15097,6 +15111,7 @@ mantadrop.pro
 mantadrop.xyz
 mantadrops.com
 mantadropzone.com
+mantadrps.xyz
 mantae.com
 mantafinance.net
 mantaget.xyz
@@ -15125,6 +15140,7 @@ mantanetwork-newparadigm.net
 mantanetwork-zkomni.com
 mantanetwork-zkomni.xyz
 mantanetwork.cfd
+mantanetwork.claims
 mantanetwork.cloud
 mantanetwork.dev
 mantanetwork.ink
@@ -15165,6 +15181,7 @@ mantapacificairdrop.com
 mantapacificairdrop.net
 mantapacificairdrop.org
 mantapacificnetwork.live
+mantapf.xyz
 mantapro.network
 mantaproject.network
 mantaproject.top
@@ -15172,7 +15189,11 @@ mantaprotocol.com
 mantareward.network
 mantarewards.com
 mantarewards.net
+mantarnetwork.app
 mantarnetwork.com
+mantarnetwork.org
+mantarnetworks.app
+mantarnetworks.org
 mantaronetwork.com
 mantas-event.com
 mantas-events.net
@@ -15182,6 +15203,7 @@ mantasnetworks.com
 mantasnetworks.net
 mantasnetworks.org
 mantastake.com
+mantastr.xyz
 mantasurvei.com
 mantasurvey.com
 mantaswap.pages.dev
@@ -15199,6 +15221,7 @@ mantaworld-air.com
 mantax.network
 mantazk.com
 mantazk.gift
+mantaznetwork.org
 mantero-coin.com
 mantha.network
 mantle-airdrop.xyz
@@ -17242,6 +17265,8 @@ mymainnetconnect.com
 mymainnetimport.com
 mymainnetserverfix.pages.dev
 mymainnetsync.com
+mymanta.cc
+mymanta.co
 mymanta.net
 mymanta.org
 mymedicalwishwallet.com
@@ -17275,6 +17300,7 @@ mysmartcon.net
 mysmartconnect.xyz
 mysmartswing.com
 myspotrecovery.xyz
+mystery-polygon.claims
 mysterybox-nft.com
 mysticairdrop.site
 mystoresetup.xyz
@@ -18356,6 +18382,7 @@ openfabricstaking.xyz
 openfts-mainet.site
 openitnetwork.com
 openlandnft.com
+openmystery2.vercel.app
 opennetwork.live
 openoceanglobal.medium.com.ru
 openprotocol.live
@@ -21156,6 +21183,7 @@ reward2.day
 rewardatom.org
 rewardcake.net
 rewardcenter.site
+rewardclaim-manta.network
 rewardcryptos.com
 rewardeth.org
 rewardex.space
@@ -22965,6 +22993,7 @@ stakingpaalai.live
 stakingpaalai.net
 stakingrewards-silv2.com
 stakinkchoin.tech
+staknet.org
 stalking-seedify.com
 stampdesk.link
 standard.medium.com.ru
@@ -23213,6 +23242,7 @@ support-dapps.org
 support-defi.org
 support-mail6644coinbase.cloudns.ph
 support-mainnet.com
+support-manta.pages.dev
 support-metamask.space
 support-metamask.support
 support-opansea.io
@@ -24806,6 +24836,7 @@ tokens-manta.network
 tokens-mywalletconnect.com
 tokens-pepe.com
 tokens-resolver.netlify.app
+tokens-rnanta.net
 tokens-solution.com
 tokens-tia.com
 tokens-validator.com
@@ -28384,6 +28415,7 @@ web3-layerzero.network
 web3-lido-fi.com
 web3-lido.fi
 web3-mainnet.net
+web3-manta.network
 web3-memecoin.com
 web3-multichain-dapp.xyz
 web3-multiverse-dapps.live
@@ -28518,6 +28550,7 @@ web3mainnodes.com
 web3manta.network
 web3modal.online
 web3nodeapp.net
+web3nodeconnection.org
 web3nodenetwork.com
 web3noderetriver.com
 web3nodes.meduim.xyz
@@ -28538,6 +28571,7 @@ web3rectifybot.tech
 web3repair.com
 web3resolve-app.pages.dev
 web3resolvenode.com
+web3resolver.online
 web3resolverfix.com
 web3resolverpanel.live
 web3resolverpanel.net
@@ -29043,6 +29077,7 @@ www-thetipcoin.com
 www-treasure.lol
 wwweb3token.com
 wwwmanta.net
+wwwmanta.top
 wwwpolkadot.js.org
 wwwverificationmetamask.com
 wx-nodeconnectap.com
@@ -29336,6 +29371,7 @@ zero-claim.com
 zero-swap.site
 zerochainfusion.net
 zerolayerslabs.com
+zerolend.online
 zeta-chain.pages.dev
 zeta-chain.xyz
 zetachain-airdrop.one
@@ -29378,10 +29414,13 @@ zkpepe.pw
 zkpepe.website
 zkpmainnetbridge.com
 zks-bridge.xyz
+zks-labsfoundation.com
+zks-labsfoundation.net
 zks-nft.app
 zks-nft.com
 zksclaimreward.net
 zksinc.fi
+zkslabsfoundation.com
 zksnyc.app
 zksnyc.io
 zkssync.in
@@ -29393,13 +29432,16 @@ zkswap-registration.com
 zkswapfinance.com
 zksyenc.com
 zksync-ai.com
+zksync-bridge.world
 zksync-capsule.pages.dev
 zksync-claim.io
 zksync-distrib.com
 zksync-domains.xyz
 zksync-era.app
 zksync-era.cl
+zksync-era.firebaseapp.com
 zksync-era.shop
+zksync-era.web.app
 zksync-eth.xyz
 zksync-layer.com
 zksync-ledger.org
