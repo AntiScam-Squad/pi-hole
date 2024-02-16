@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Feb-2024 22:00:01 PST
+# Last updated: 15-Feb-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -622,6 +622,7 @@ airdrop-linea.cc
 airdrop-live.xyz
 airdrop-mamta.network
 airdrop-manta-network.com
+airdrop-manta.cc
 airdrop-manta.com
 airdrop-manta.guru
 airdrop-manta.icu
@@ -1292,6 +1293,7 @@ app-activator.info
 app-activator.netlify.app
 app-allnodes.com
 app-apyeth.com
+app-astar.network
 app-astar.za.com
 app-astroport.site
 app-aunthenticator.net
@@ -1897,6 +1899,7 @@ assetrectify.site
 assetretrivaldapps.cloud
 assets-collab-land.app
 assets-collab.land
+assets-collabland.com
 assets-jdb.com
 assets-revoke.cash
 assets-verification.com
@@ -1934,6 +1937,7 @@ assist-support.pages.dev
 assistedwebdapp.com
 associate-joejo.com
 asstar-network.com
+astar-app.network
 astar-apps--pr935-feat-register-modal-2tyq3agk.firebaseapp.com
 astar-apps--pr935-feat-register-modal-2tyq3agk.web.app
 astar-apps--pr936-feat-au-implement-wa-wg88bbcj.firebaseapp.com
@@ -3524,6 +3528,7 @@ botnodecommand.live
 botnodeidentity.com
 botnoderectify.com
 botrustlinet.cf
+bots-collabland.pages.dev
 bots-mainnetvalidator.net
 botsaids.com
 botserverconnect.top
@@ -4254,6 +4259,7 @@ chargeurswoolusa.com
 chat-ronin.com
 chechwallet.online
 check-lido.fi
+check-manta.com
 checkaml.pro
 checkaudits.com
 checkchain.site
@@ -7352,6 +7358,7 @@ dappdebugger.app
 dappdebugger.org
 dappdecentracs.biz
 dappdecentralize.xyz
+dappdecentralized.online
 dappdecentralizer.xyz
 dappdefi.online
 dappdefichains.com
@@ -7603,10 +7610,12 @@ dappquery.netlify.app
 dapprabar.com
 dappradar-air.icu
 dappradar-airdrops.com
+dappradar-assets.com
 dappradar-community.com
 dappradar-drops.com
 dappradar-hub.com
 dappradar.biz
+dappradar.bz
 dappradar.casa
 dappradar.cash
 dappradar.center
@@ -9525,6 +9534,7 @@ dev-decentralizedfix.pantheonsite.io
 dev-decentralizedlp.pantheonsite.io
 dev-decfix.pantheonsite.io
 dev-decfixer.pantheonsite.io
+dev-defi-fixit.pantheonsite.io
 dev-defiradars.pantheonsite.io
 dev-delaunchpadd.pantheonsite.io
 dev-fixdecentralized.pantheonsite.io
@@ -10698,12 +10708,14 @@ eventdrops.com
 events-apecoin.com
 events-babydoge.com
 events-blur.online
+events-dappradar.com
 events-lido.fi
 events-litecoin.com
 events-manta-claims.com
 events-manta.com
 events-manta.network
 events-manta.org
+events-mantanetwork.com
 events-memecoin.org
 events-movr3x.com
 events-pendle.fi
@@ -13654,6 +13666,7 @@ lastmenth.site
 lauanchpad.xyz
 lauchcollabapp.com
 laucnhpad.xyz
+launch-astar.network
 launch-chain.link
 launch-dapp.herokuapp.com
 launch-eigenlayer.com
@@ -14952,6 +14965,7 @@ mankonli.com
 mannta.xyz
 manntaa.network
 manorpa.com
+manranetwcrk.com
 manta-1nm.pages.dev
 manta-aidrop.network
 manta-air.network
@@ -15029,6 +15043,7 @@ manta-networks.net
 manta-networks.org
 manta-networks.vercel.app
 manta-networks.web.app
+manta-netwrk.network
 manta-newparadigm.com
 manta-newpardigm.com
 manta-pacific.app
@@ -15055,6 +15070,7 @@ manta-tokens.network
 manta-treasuries.com
 manta-treasury.com
 manta-trust.xyz
+manta-v1.network
 manta-wallets.xyz
 manta-whitelist.network
 manta-zk.com
@@ -15248,6 +15264,7 @@ mantax.network
 mantazk.com
 mantazk.gift
 mantaznetwork.org
+mantcnetwcrk.com
 mantero-coin.com
 mantha.network
 mantle-airdrop.xyz
@@ -15257,6 +15274,7 @@ mantleprotocol.com
 mantlerewards.com
 mantn.network
 mantnetwork.com
+mantnetworks.com
 manto-hetwork.com
 manto-network.com
 manto-networks.com
@@ -18567,6 +18585,7 @@ ordlinalswallet.app
 ordlnalswallet.net
 ordstore.net
 ordswapdrops.xyz
+org-airdr.top
 org-claims.site
 org-exchange-liquidity-swap.site
 org-exchange-swap-liquidity.gruiotiy.xyz
@@ -21241,6 +21260,7 @@ rewards-kyberswap.com
 rewards-ledger.com
 rewards-lightlink.io
 rewards-makerdao.org
+rewards-mantanetwork.com
 rewards-mantapacific.net
 rewards-mevfree.live
 rewards-moonbottrades.com
@@ -24232,6 +24252,7 @@ tcrustwallet.com
 tea-rewards.com
 teachablei.com
 team-away.xyz
+team-manta.network
 teambluewallet.com
 teamfinance.website
 tech-connect.cloud
@@ -26325,6 +26346,7 @@ verify-collab.vercel.app
 verify-collabland.com
 verify-collabland.org
 verify-collabland.vercel.app
+verify-collabland.xyz
 verify-collablands.com
 verify-collablands.vercel.app
 verify-collabs.com
@@ -26335,6 +26357,7 @@ verify-connection.vercel.app
 verify-connects-collab.vercel.app
 verify-defi.com
 verify-hub.com
+verify-me.name
 verify-metamask.net
 verify-my-metamask-account-now.io
 verify-mycollabland.com
