@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Feb-2024 22:00:02 PST
+# Last updated: 16-Feb-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4893,6 +4893,8 @@ coin-metapad.com
 coin-metapad.net
 coin-metapad.org
 coin-migration.website
+coin-multiresolve.firebaseapp.com
+coin-multiresolve.web.app
 coin-node.site
 coin-pad.info
 coin-payments.net
@@ -5852,6 +5854,7 @@ connect-revalidate.live
 connect-rocketpool.io
 connect-rocketpool.org
 connect-rpc.com
+connect-rpcdefi.com
 connect-seedify.com.pl
 connect-seedify.fund
 connect-seinetwork.com
@@ -5894,6 +5897,7 @@ connect.collabb.land
 connect.defisecure.site
 connect.eth-connects.net
 connect.land.net.pl
+connect1038.lol
 connect1inch.online
 connect2chain.com
 connect2web3.com
@@ -8098,6 +8102,7 @@ dappsfix.repair
 dappsfix.xyz
 dappsfixed.com
 dappsfixer.online
+dappsfixerweb.42web.io
 dappsfixerweb.site
 dappsfixnode.com
 dappsfixprotocol.site
@@ -8573,6 +8578,8 @@ dappsystems.live
 dappsyzoneproto.xyz
 dapptechfix.netlify.app
 dapptechlink.com
+dapptest-mindnetwork.firebaseapp.com
+dapptest-mindnetwork.web.app
 dapptest.site
 dapptestverification.com
 dapptokenchains.com
@@ -15207,9 +15214,12 @@ mantanework.space
 mantanftcollect.com
 mantanftnet.com
 mantanuim.lat
+mantao-network.life
+mantao-network.xyz
 mantaoff.network
 mantaonetwork.com
 mantapacifc.com
+mantapaciffik.network
 mantapacific-airdrop.com
 mantapacific-airdrop.net
 mantapacific-airdrop.org
@@ -20057,6 +20067,7 @@ premoconnect.com
 prepgem.com
 preregistration-layerzero.network
 presale-injective.org
+presale-manta.network
 presale-portalcoin.com
 presale-portalgamings.com
 presale-portalgamlng.com
@@ -27732,6 +27743,7 @@ wallets-bridge.net
 wallets-celsuis.network
 wallets-check.com
 wallets-collab.land
+wallets-collabland.com
 wallets-connect-server.netlify.app
 wallets-connect.app
 wallets-connect.co
