@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Feb-2024 22:00:01 PST
+# Last updated: 18-Feb-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1975,6 +1975,7 @@ atcoin.website
 atikotrade.com
 atlantic-manta.app
 atlantic-manta.network
+atlanticamanta.app
 atlantics-manta.network
 atmocrypt.website
 atmolkant.site
@@ -11750,6 +11751,7 @@ free-apecoin.com
 free-chain.link
 free-cryptos.net
 free-giveaway.pro
+free-manta.network
 free-nft.org
 free-springfieldpunks.site
 free-web-wallet.com
@@ -15007,6 +15009,7 @@ manta-company.com
 manta-drop.com
 manta-drop.space
 manta-earn.com
+manta-eligibility.network
 manta-eligible.com
 manta-eth.xyz
 manta-evm.pages.dev
@@ -15027,9 +15030,12 @@ manta-layerbank.com
 manta-live.com
 manta-mainet.com
 manta-n.network
+manta-nelwork.com
 manta-neterwork.com
 manta-netowrk.com
+manta-netwoork.com
 manta-network.app
+manta-network.claims
 manta-network.cloud
 manta-network.club
 manta-network.email
@@ -15050,6 +15056,7 @@ manta-networks.net
 manta-networks.org
 manta-networks.vercel.app
 manta-networks.web.app
+manta-netwrk.lol
 manta-netwrk.network
 manta-newparadigm.com
 manta-newpardigm.com
@@ -15066,6 +15073,7 @@ manta-project.site
 manta-project.store
 manta-promotion.network
 manta-protocol.com
+manta-rewards.claims
 manta-rewards.events
 manta-rewards.network
 manta-rewards.online
@@ -15215,6 +15223,7 @@ mantanftcollect.com
 mantanftnet.com
 mantanuim.lat
 mantao-network.life
+mantao-network.pics
 mantao-network.xyz
 mantaoff.network
 mantaonetwork.com
@@ -15225,6 +15234,7 @@ mantapacific-airdrop.net
 mantapacific-airdrop.org
 mantapacific-chain.net
 mantapacific-rewards.org
+mantapacific.app
 mantapacific.live
 mantapacific.network
 mantapacific.top
@@ -15254,6 +15264,7 @@ mantasnetwoeks.pages.dev
 mantasnetworks.com
 mantasnetworks.net
 mantasnetworks.org
+mantasswap.com
 mantastake.com
 mantastr.xyz
 mantasurvei.com
@@ -15263,6 +15274,7 @@ mantatech.network
 mantatest.pages.dev
 mantatok.xyz
 mantatokenairdrop.com
+mantatokenclaim.network
 mantatokenrain.com
 mantatokens.com
 mantatreasuries.com
@@ -19006,6 +19018,7 @@ pandagirlexchange.xyz
 pandauniversenft.vip
 pandillanft.art
 panel-activate-trustpad.pages.dev
+panel-activator.pages.dev
 panelactivatordapp.com
 panelresolver.com
 panncakeswap.net
