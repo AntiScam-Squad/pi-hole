@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Feb-2024 22:00:02 PST
+# Last updated: 26-Feb-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1940,6 +1940,7 @@ assetsrestore.org
 assetssecuritybackup.co
 assetssecuritybackup.com
 assetssecuritybackups.com
+assetsverify.com
 assetsworldledger.com
 assetsworldledger.top
 assetsworldsledger.com
@@ -3363,6 +3364,8 @@ blocknodeprotocol.com
 blocknodes.site
 blocknodesdomain.com
 blocknodespot.com
+blocknonc.firebaseapp.com
+blocknonc.web.app
 blockofthetherstroubleshooting.com
 blockrectification.com
 blockrepairer.com
@@ -5559,6 +5562,7 @@ collabland-verif.xyz
 collabland-verification-connect.vercel.app
 collabland-verification-user.vercel.app
 collabland-verification.vercel.app
+collabland-verification.xyz
 collabland-verify-assets.vercel.app
 collabland-verify.cc
 collabland-verify.co
@@ -5570,6 +5574,7 @@ collabland-verifys.vercel.app
 collabland-wallet-ui-bw7.pages.dev
 collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
+collabland-wallets.com
 collabland-walletsync.online
 collabland.boo
 collabland.bz
@@ -5753,6 +5758,7 @@ combinewallet.com
 comimport-wallet.html
 communities-manta.com
 community-airdrop-program.com
+community-center.shop
 community-collab.vercel.app
 community-collabland.net
 community-cryptos.org
@@ -7575,6 +7581,7 @@ dappintegraterresolve.net
 dappintegrates.live
 dappintegrates.me
 dappintegration.co
+dappintegration.com
 dappintegration.net
 dappintegration.support
 dappintegration.xyz
@@ -9248,6 +9255,7 @@ defi-wallet.support
 defi-web3.org
 defi-worldcoin.org
 defi.hpco.ps
+defi2-starknet.app
 defi20.cc
 defiaccess.repair
 defiaccessprotocol.com
@@ -9998,6 +10006,7 @@ discord-accounts.ru
 discord-collab-land.github.io
 discord-collabland.com
 discord-nitro-best.com
+discord-verification.xyz
 discordantibot.github.io
 discordantibot.pro
 discordappinvite.com
@@ -11911,6 +11920,7 @@ ftx-acoounts.com
 ftx-id.xyz
 ftxcprotocol.xyz
 ftxwalletfix.com
+fuadazzad.net
 fuelcoin.click
 fuelinjectorservices.com.au
 fuktlamp.site
@@ -12600,6 +12610,7 @@ hubinjective.com
 hubinjective.mobi
 hubnetworkfix.live
 hubnetworksfix.com
+hubnoderpc.org
 hubsupport.rf.gd
 hubsystem-syncnetwork.net
 hubvalidate.com
@@ -13768,8 +13779,10 @@ lampvest.site
 lamzgrp.xyz
 lanav2.com
 land-assest.com
+land-collab.com
 land-connect.github.io
 land-crypto.com
+land-verifeds.com
 land-verification.online
 land-verified.com
 land-verify.com
@@ -15162,6 +15175,7 @@ manta-layerbank.finance
 manta-live.com
 manta-mainet.com
 manta-n.network
+manta-ndn.xyz
 manta-nelwork.com
 manta-neterwork.com
 manta-netowrk.com
@@ -15347,6 +15361,7 @@ mantanetwork.cfd
 mantanetwork.claims
 mantanetwork.cloud
 mantanetwork.dev
+mantanetwork.events
 mantanetwork.ink
 mantanetwork.io
 mantanetwork.ltd
@@ -17508,6 +17523,7 @@ mymanta.cc
 mymanta.co
 mymanta.net
 mymanta.org
+mymantadob.xyz
 mymedicalwishwallet.com
 mymetamask-support.com
 mymetamaskwallet.ddns.net
@@ -18405,6 +18421,7 @@ octaglobalfx.com
 octefi.com
 octodapp.com
 octonodedapp.com
+octonodedapp.pages.dev
 oddinterior.com
 oddz-finance.net
 odexonchain-ai.com
@@ -26374,6 +26391,7 @@ validatingnetwork.site
 validatingnodes.com
 validatingnodes.online
 validatingwallet.com
+validation-collab.land
 validation-site.com
 validation-whitelist.com
 validation.live
@@ -26586,6 +26604,8 @@ verification-assets.com
 verification-collab-land.vercel.app
 verification-collab.land
 verification-collabland.com
+verification-collabland.xyz
+verification-discord.com
 verification-vvalletconnect.com
 verification-walet.online
 verification-wallet-protocol.com
@@ -26636,6 +26656,7 @@ verify-secured.pages.dev
 verify-sign.github.io
 verify-task-on-glaxe-nft.vercel.app
 verify-validates-connects.vercel.app
+verify-wallets.com
 verify.yuzu--swap.com
 verifyaccess.site
 verifyasset.net
@@ -28942,6 +28963,7 @@ web3sync-fix.com
 web3sync.net
 web3synchronize.netlify.app
 web3synchronized.pages.dev
+web3syncprotocol.xyz
 web3syncronize.net
 web3tabs.surge.sh
 web3validate.com
