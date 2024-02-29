@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Feb-2024 22:00:02 PST
+# Last updated: 28-Feb-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1225,6 +1225,7 @@ api-nodeauthy.onrender.com
 api-noderepair.pages.dev
 api-pancakeswap.com
 api-rectifynode.pages.dev
+api-role.land
 api-verify.com
 api-verify.github.io
 api-web3resolver.pages.dev
@@ -3176,6 +3177,7 @@ blastioairdrop.lat
 blastl2.co
 blastrio.xyz
 blastronaut.app
+blastsio.app
 blazesaves.online
 blckcchain.tech
 blckchainz.tech
@@ -5046,6 +5048,7 @@ coindaappserver.site
 coindaopepe.com
 coindap-navigation.com
 coindapp.webflow.io
+coindappfixes.pages.dev
 coindapps.xyz
 coindappsfixing.sbs
 coindappsolliution.online
@@ -5822,6 +5825,7 @@ configurenodes.live
 configvalidate.tk
 configwallet.org
 confileswall.sbs
+confirmed-collab.land
 confirmwalletapp.com
 confluxcoin.top
 confluxcoin.xyz
@@ -5964,6 +5968,7 @@ connect-wallets.live
 connect-web3.pages.dev
 connect-web3fixtool.com
 connect-web3fixtool.xyz
+connect-web3wallet.xyz
 connect.collabb.land
 connect.defisecure.site
 connect.eth-connects.net
@@ -13825,6 +13830,7 @@ launch-oasisprotocol.com
 launch-pads.net
 launch-pendle.net
 launch-seedify.com
+launch-uniswapv3.com
 launch-yearn.finance
 launchapad-poolz.com
 launchapd.xyz
@@ -13986,6 +13992,7 @@ layerzeroclaim.pro
 layerzeroclaim.space
 layerzeroclaims.app
 layerzeroclaims.org
+layerzeroclaims.xyz
 layerzeroclaimsreward.net
 layerzerodefi.org
 layerzerodev.com
@@ -15364,6 +15371,7 @@ mantanetwork.dev
 mantanetwork.events
 mantanetwork.ink
 mantanetwork.io
+mantanetwork.link
 mantanetwork.ltd
 mantanetwork.online
 mantanetwork.org
@@ -15573,6 +15581,7 @@ maticpolygn-technology.com
 maticrewards.net
 maticsmartconnect.xyz
 matlatkan.site
+matrica.vip
 matrixnetwork.top
 mav-app.org
 mav-claims.com
@@ -19215,6 +19224,7 @@ pandagirl.online
 pandagirlexchange.xyz
 pandauniversenft.vip
 pandillanft.art
+pandoshidaapsintegration.onrender.com
 panel-activate-trustpad.pages.dev
 panel-activator.pages.dev
 panelactivatordapp.com
@@ -21691,6 +21701,7 @@ rpc-appsconsensus.live
 rpc-apy.com
 rpc-auto-fix.com
 rpc-autofix.com
+rpc-debugextensiondapps.pages.dev
 rpc-error-fix.online
 rpc-extensionserver.com
 rpc-fix.com
@@ -25339,6 +25350,7 @@ tppocketsupport.pro
 tpuproductsfactory.com
 tr1onex.top
 trackvalidate.netlify.app
+tracomservices.com
 traddingsolution.homes
 traddingsolution.lat
 traddingsolution.store
@@ -26606,6 +26618,7 @@ verification-collab.land
 verification-collabland.com
 verification-collabland.xyz
 verification-discord.com
+verification-discord.icu
 verification-vvalletconnect.com
 verification-walet.online
 verification-wallet-protocol.com
@@ -28833,6 +28846,7 @@ web3chain.network
 web3chain.pages.dev
 web3chainprotocol.online
 web3chainprotocol.pages.dev
+web3check.cfd
 web3claim.net
 web3claim.onrender.com
 web3coi.firebaseapp.com
@@ -29587,6 +29601,7 @@ xpubcalculators.com
 xpubconnect.com
 xpubconnectt.com
 xpubprotocol.pages.dev
+xpubweb-rectify.pages.dev
 xpulsechains-dappsync.com
 xrectify.live
 xrp-2.top
@@ -29873,8 +29888,10 @@ zooltoken.io
 zoomsync.pages.dev
 zootoken.cc
 zorcryp.com
+zro-claim.xyz
 zro-token.com
 zroaward.network
+zroclaim.xyz
 zrodrop.site
 zrotoken.com
 zskuls.com
