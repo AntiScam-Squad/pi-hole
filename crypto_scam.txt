@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Feb-2024 22:00:02 PST
+# Last updated: 01-Mar-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -12519,6 +12519,7 @@ hggdfyujhn.live
 hibtcdefi.net
 hidgizgroup.com
 hifiswap.online
+highllght.com
 hilltopasset.network
 hilomarket.events
 himalaya-web3.xyz
