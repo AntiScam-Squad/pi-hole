@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Mar-2024 22:00:02 PST
+# Last updated: 06-Mar-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1306,6 +1306,7 @@ app-activator.info
 app-activator.netlify.app
 app-allnodes.com
 app-apyeth.com
+app-astar.com-t.co
 app-astar.network
 app-astar.za.com
 app-astroport.site
@@ -1970,10 +1971,14 @@ astar-apps--pr936-feat-au-implement-wa-wg88bbcj.web.app
 astar-network-portal.com
 astar-network-portal.org
 astar-network-wallet.com
+astar-network.com-t.co
 astar.coins-pad.tech
 astar.homes
 astar.mba
+astar.org-t.co
+astarlabs.com-t.co
 astarnetwork-about.com
+astarnetwork.com-t.co
 astarnetwork.dev
 astarportalnnetwork.tech
 astars-network.com
@@ -4630,6 +4635,7 @@ claim-zapper.xyz
 claim-zerolayer.site
 claim-zetachain.com
 claim-zkf.com
+claim-zksync-airdrop.com
 claim-zksync-io.com
 claim-zksync.vip
 claim-zksync.win
@@ -7316,6 +7322,7 @@ dapp-solution.web.app
 dapp-solutions.net
 dapp-station.firebaseapp.com
 dapp-station.web.app
+dapp-suite.pages.dev
 dapp-support.com
 dapp-supporteam.netlify.app
 dapp-sync-bridge.online
@@ -7476,6 +7483,7 @@ dappdecentracs.biz
 dappdecentralize.xyz
 dappdecentralized.online
 dappdecentralizer.xyz
+dappdecentraswift.pages.dev
 dappdefi.online
 dappdefichains.com
 dappdeficonnect.site
@@ -8774,6 +8782,7 @@ dappwalletfixs.netlify.app
 dappwalletlink.com
 dappwalletme.com
 dappwalletnode.com.ng
+dappwalletnode.pages.dev
 dappwalletnode.rf.gd
 dappwalletrectifications.live
 dappwallets-synchronizer.com
@@ -10914,6 +10923,7 @@ everscale-ecosystem.com
 eversgrowcoin.com
 everyconect.xyz
 everyconnect.pages.dev
+everyconnects.com
 everycryptotoken.com
 everydayjanetravel.com
 everythingcoinsolution.online
@@ -11884,6 +11894,7 @@ forex-capitaltrading.com
 forgefoxfinance.com
 forgottenrunes.gift
 formrescan.net
+fortewebklap.pages.dev
 fortexwallet.com
 forthmindas.online
 fortsgenerate.com
@@ -11937,6 +11948,7 @@ freenftwallactconnect.com
 freesconnect.net
 freesoftinc.x10.mx
 freetokenclaimer.com
+friedchickens.xyz
 friend-fund.bar
 friend-net.tech
 friend-tech.net
@@ -14787,6 +14799,7 @@ maindefisolu.com
 maindefisolutionsite.com
 maindefisync.com
 maindefiwallet.netlify.app
+maindexapp.pages.dev
 maindexhub.com
 mainet-connect.netlify.app
 mainet.app
@@ -23868,6 +23881,7 @@ swiftdappapp.xyz
 swiftdappextension.com
 swiftdappfix.click
 swiftdappnode.com
+swiftdapppad.pages.dev
 swiftdappsco.online
 swiftdappsfix.com
 swiftdappsync.pages.dev
@@ -27843,6 +27857,7 @@ walletdappfix.com
 walletdappfix.live
 walletdappfixed.net
 walletdappnetwork.app
+walletdappnode.pages.dev
 walletdapprevalidation.com
 walletdapps-auth.org
 walletdapps-comect.com
@@ -28831,6 +28846,7 @@ we-change.online
 weabyartdrop.biz
 weautocheck.com
 web-allchainfix.pages.dev
+web-astar.pages.dev
 web-astarnetwork.com
 web-autobugsfix.pages.dev
 web-badge.com
@@ -28857,6 +28873,7 @@ web-pancakeswap.com
 web-polkadot.web.app
 web-polygonwallets.icu
 web-rectify.online
+web-rectifybugs.pages.dev
 web-restore.com
 web-rpcfix.online
 web-syncdapp.pages.dev
@@ -29241,6 +29258,8 @@ weblinkapp.xyz
 weblinkassets.xyz
 weblinkdefi.com
 weblinkdefi.online
+weblinknode.firebaseapp.com
+weblinknode.web.app
 weblinkprotocol.com
 weblinkprotocol.pages.dev
 webliverevallidates.com
