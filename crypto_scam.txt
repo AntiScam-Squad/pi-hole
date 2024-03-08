@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Mar-2024 22:00:02 PST
+# Last updated: 07-Mar-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -19349,6 +19349,7 @@ paradigmnew-manta.network
 paraexchange.net
 paralink.medium.cn.com
 parallel-avatars.life
+parallel-f.web.app
 parallel-fi.vercel.app
 parallelfi-rectify.vercel.app
 parallellife.app
