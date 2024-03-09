@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Mar-2024 22:00:01 PST
+# Last updated: 08-Mar-2024 22:00:02 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -310,6 +310,7 @@ accessactivation.com
 accessactivation.live
 accessactivationbot.com
 accessactivationbot.org
+accessappsserver.live
 accessauthorizedapps.netlify.app
 accessbot.net
 accesscodesverification.com
@@ -1220,6 +1221,7 @@ api-collablands.com
 api-connect-collab.land
 api-connect.land
 api-fixdapps.pages.dev
+api-guardian.net
 api-interphrase.live
 api-link.com
 api-manualrestore.pages.dev
@@ -1977,6 +1979,7 @@ astar.homes
 astar.mba
 astar.org-t.co
 astarlabs.com-t.co
+astarlabs.org
 astarnetwork-about.com
 astarnetwork.com-t.co
 astarnetwork.dev
@@ -2083,6 +2086,7 @@ auth-webconnect.net
 auth-webs.com
 auth.app-connect.io
 auth.chainsolution.site
+auth0discord-collab.world
 authappsolvedapps.com
 authappsvault.com
 authassets.icu
@@ -3962,6 +3966,7 @@ catalyst-thesandbox.claims
 cateenaterequestlnk.com
 cavcas.site
 cavnmenty.site
+cbgyf.pages.dev
 cbrdz.com
 cbridgecelernetwork.online
 cbupdates.com
@@ -5708,6 +5713,7 @@ collabpro.online
 collabrated.land
 collabreconnect.xyz
 collabrectification.online
+collabrole-land.com
 collabs-connect-land.vercel.app
 collabs-connect.vercel.app
 collabs-connection.vercel.app
@@ -5742,6 +5748,7 @@ collabsyncwallet.com
 collabtool.live
 collabvalidator.com
 collabverification.com
+collabverifications.com
 collabverify.in
 collabverify.online
 collabwallett.com
@@ -5754,6 +5761,7 @@ collaplanb.cc
 collateralnetwork-io.com
 collateralnetwork-io.xyz
 collbalnand.pages.dev
+colleb-verify.xyz
 colleb.land
 collebland.app
 collect-apecoins.com
@@ -7130,6 +7138,7 @@ daapsynclink.tech
 daaptool.firstfnb.com
 dabbsvalidate.live
 dadake.site
+dadawgs.tech
 daemonfix.com
 dahaiyimisin.site
 dahaneweightlossclinic.com
@@ -9720,6 +9729,7 @@ dev-wcerrorfixertool.pantheonsite.io
 dev-web3dappscollabs.pantheonsite.io
 dev-webconnect-pantheonsite.com
 devamina.site
+devapp.pages.dev
 devchain.pages.dev
 devcolab.live
 devcollab.live
@@ -10120,6 +10130,7 @@ dizzy-wallet.com
 djneptune.net
 dkmantloetdapps.net
 dlapings.com
+dlogdapp.pages.dev
 dlweb.ru
 dmaili.com
 dnatz.tech
@@ -10478,6 +10489,7 @@ efkeansen.site
 efkerant.site
 efkonkents.site
 efretem.store
+efwefwef-6io.pages.dev
 eglencesine.site
 eglenceyegel.site
 eheroapp.feibanana.com.br
@@ -15538,6 +15550,7 @@ mantatreasury.net
 mantaunetwork.com
 mantaworld-air.com
 mantax.network
+mantax.pages.dev
 mantazk.com
 mantazk.gift
 mantaznetwork.org
@@ -16950,6 +16963,7 @@ moonbeam-network.net
 moonbeam-network.org
 moonbeam-sale.com
 moonbeam-update.com
+moonbeam-web.com
 moonbeam-web3.com
 moonbeam.ink
 moonbeam.link
@@ -16962,6 +16976,7 @@ moonbeamnettwork.com
 moonbeamnetwork.online
 moonbeamnetwork.top
 moonbeamnetwork.xyz
+moonbeams-web.com
 moonbeamstaking.com
 moonbeamsupport.com
 moonbeamunlock.com
