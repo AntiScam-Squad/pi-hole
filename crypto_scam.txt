@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Mar-2024 22:00:02 PST
+# Last updated: 09-Mar-2024 22:00:01 PST
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -20741,6 +20741,7 @@ purchase-bitcoinminetrix.com
 purposefix.com
 pushpvatika.co.in
 puspant.site
+pvpdnn.top
 pwawallet-fantom.online
 pwawallet-fantom.pw
 pwtunnelx.000webhostapp.com
