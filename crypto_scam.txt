@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Mar-2024 22:00:02 PDT
+# Last updated: 12-Mar-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -212,6 +212,7 @@ aacrypt.website
 aarodrome.finance
 aave-app.digital
 aave-bonus.pages.dev
+aave-drops.com
 aave-ethereum.cc
 aave-ethereum.co
 aave-ethereum.com
@@ -2527,7 +2528,6 @@ b1ast.network
 b1ast.solutions
 b1astio.network
 b3pool.xyz
-b4a.app
 b4nekl.site
 bablekak.site
 baby-dogeswap.click
@@ -2649,6 +2649,7 @@ bankless-claims.net
 banktoken.co
 bankwestbank.com
 banxadappsupport.pages.dev
+bapesclub.com
 baptsswapmigrate.buzz
 bariwex.com
 barnbridge.in
@@ -4499,6 +4500,8 @@ claim-digitoadsworld.pages.dev
 claim-dogecoin.net
 claim-doodles.app
 claim-doodles.com
+claim-drop.com
+claim-drop.xyz
 claim-earnfi.com
 claim-eigen-layer.claims
 claim-enjin.com
@@ -7138,6 +7141,7 @@ cyclopsvalidate.live
 cyncollabnet.com
 cyrptowallets.com
 cyrptsync.net
+d-app-drop.xyz
 d-appnet.vercel.app
 d-appxconnectwb3.network
 d-launchpad.com
@@ -19796,6 +19800,7 @@ polingon-wallets.site
 poljadotpolkadot.js.org
 poljkastarter.com
 polka-crypto.com
+polka-d.com
 polka-dot.exchange
 polka-dotnetwork.com
 polka-live.network
@@ -30204,6 +30209,7 @@ zksyncpepe.xyz
 zksyncpriority.space
 zksyncs.club
 zksyncs.live
+zksyncs.xyz
 zksyncsprotocol.com
 zksyncswaps.com
 zksyncv1.com
