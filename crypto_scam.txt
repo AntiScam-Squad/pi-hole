@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Mar-2024 22:00:02 PDT
+# Last updated: 14-Mar-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2365,6 +2365,7 @@ autovalidatebot.pro
 autovalidatechain.com
 autovalidateconections.online
 autovalidatenow.online
+autovalidateweb3.pages.dev
 autovalidation.tech
 autovalidator.online
 autowalletconnect.org
@@ -7293,6 +7294,7 @@ dapp-connet-web3fixtool.com
 dapp-crogecoin.com
 dapp-crypto.xyz
 dapp-debug.com
+dapp-equinoxgate.vercel.app
 dapp-eth.biz
 dapp-eth.center
 dapp-eth.expert
@@ -10217,6 +10219,7 @@ docs-pollygonnetwork.com
 docs-rocketpool.online
 docs-tornadocash.com
 docsbot.app
+dodo-rpcdebugextension.pages.dev
 dodoswitch.com
 doekrestas.site
 dogclinicaveterinaria.it
@@ -15641,6 +15644,7 @@ mantas-project.pics
 mantas-project.xyz
 mantas.biz
 mantasnetwoeks.pages.dev
+mantasnetworks.app
 mantasnetworks.com
 mantasnetworks.net
 mantasnetworks.org
@@ -22328,6 +22332,7 @@ secudapp.xyz
 secuencryption.red
 secure-collab-land-bot.com
 secure-collabland-bot.com
+secure-collabland.neocities.org
 secure-collabland.org
 secure-confirm.com
 secure-dapp.netlify.app
@@ -23834,6 +23839,7 @@ sunflowersland.org
 sup-desk.com
 supducks.app
 superfix.live
+superformxyz-rpcdebug.pages.dev
 superfxtrading.co
 supersmartappverse.pro
 supersmartbot.tech
@@ -28986,6 +28992,7 @@ wanchain-org.xyz
 wandupdate.live
 wapp.live
 wappbridge.live
+wappconnectnode.pages.dev
 wappconnectoption.live
 wapprecktconnt.pages.dev
 wappsauthentify.com
@@ -29145,6 +29152,7 @@ web3-lido-fi.com
 web3-lido.fi
 web3-mainnet.net
 web3-manta.network
+web3-manta.pages.dev
 web3-memecoin.com
 web3-multichain-dapp.xyz
 web3-multiverse-dapps.live
