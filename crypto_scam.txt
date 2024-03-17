@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Mar-2024 22:00:01 PDT
+# Last updated: 16-Mar-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1453,6 +1453,7 @@ app-syncrectifier.org
 app-syncsaffix.com
 app-synscsrectify.com
 app-sysmainnet.com
+app-taobridges.xyz
 app-tectonic.space
 app-tectonic.store
 app-tectonic.website
@@ -2009,6 +2010,8 @@ astr.coins-pad.tech
 astra-network.org
 astracoldwallet.com
 astracryptoinvestment.ltd
+astraone.website
+astratwo.website
 astriddao.live
 astrofxplus.com
 astroswapapp.com
@@ -3741,6 +3744,7 @@ bridgeprotocolfix.net
 bridgeprotocols.com
 bridgepulsechain.live
 bridgepulsechains.com
+bridgermrk.app
 bridgerouter.info
 bridges-link.online
 bridges-links.live
@@ -4187,6 +4191,7 @@ chainilsit.org
 chainintegrator.com
 chainintegrator.xyz
 chainioring.live
+chainlabsorbit.network
 chainlayerzero.com
 chainlinik.com
 chainlinik.net
@@ -6765,6 +6770,7 @@ cryptobext.com
 cryptobics.com
 cryptobinancher.online
 cryptobitinsurance.com
+cryptobittensor.com
 cryptobizox.com
 cryptoblex.com
 cryptobot-ec6fd.web.app
@@ -8796,6 +8802,8 @@ dapptoolsnode.com
 dapptoolsolution.com
 dapptrustline.xyz
 dappv1.com
+dappv2.com
+dappv3.com
 dappvalidate-plum.vercel.app
 dappvalidate.tech
 dappvalidatenodes.online
@@ -10280,6 +10288,7 @@ dotcashxbox.com
 dotceo.net
 dotdao.online
 dotdao.website
+dotded-dev-app.com
 dotdrop.info
 dotdrop.online
 dotdrop2x.com
@@ -10289,6 +10298,7 @@ dotevent.org
 dotevent22.com
 dothereum-polkadot.net
 doticket.online
+dotisded-drops-app.com
 dotisded-web-app.com
 dotminer.net
 dotmoovs.medium.cn.com
@@ -10462,6 +10472,8 @@ dyxdchain.com
 e-chain.netlify.app
 e-connectservices.online
 e-cryptchains.com
+e-fixcontrol.app
+e-integrationhub.site
 e-mainpad.netlify.app
 e-node.pages.dev
 e-nodechain.pages.dev
@@ -13294,6 +13306,7 @@ integratedvalidation.com
 integratedvalidation.org
 integratedweb3mainnet.pro
 integratedwebappsvalidation.com
+integratefixchain.com
 integratefixchain.xyz
 integratefixchains.pages.dev
 integratefusionapp.pro
@@ -13616,6 +13629,7 @@ joincollab.land
 joindapp.live
 joingrapes.gold
 joingrapes.top
+joinmantanetwork.com
 joinnewparadigm-mantanetwork.com
 joinnewparadigm-mantanetwork.net
 joint-validation.online
@@ -17094,12 +17108,14 @@ moonbeamapi.app
 moonbeamc.foundation
 moonbeamconnect.com
 moonbeame.com
+moonbeamin.com
 moonbeamm.online
 moonbeamnettwork.com
 moonbeamnetwork.online
 moonbeamnetwork.top
 moonbeamnetwork.xyz
 moonbeams-web.com
+moonbeams-web3.com
 moonbeamstaking.com
 moonbeamsupport.com
 moonbeamunlock.com
@@ -17435,6 +17451,7 @@ multidexsconnect.com
 multidynamicnonce.pages.dev
 multientitychain.com
 multientitychainprotocol.com
+multiexploretokenguide.xyz
 multiextensionprotocol.com
 multifaucetconnect.online
 multifix-ductifier.com
@@ -17645,6 +17662,7 @@ my-1passworod.com
 my-1passworrd.com
 my-etherwallets.com
 my-manta.com
+my-moonbeam.network
 my-token.online
 my-vault.xyz
 myaccessauth.com
@@ -18462,6 +18480,7 @@ noderest.support
 noderestoration.co
 noderestore.tech
 nodereward.tech
+noderpcmaster.org
 nodes-app.pages.dev
 nodes-connect.com
 nodes-connect.pages.dev
@@ -19852,6 +19871,7 @@ polkaclassic.finance
 polkacoinbonus.com
 polkacompetition.network
 polkacrypto.com
+polkad.xyz
 polkadat.js.org
 polkadlive.network
 polkado.com
@@ -20013,6 +20033,7 @@ polkadotb.online
 polkadotbank.com
 polkadotblock.network
 polkadotbonus.com
+polkadotbots.com
 polkadotcash.digital
 polkadotcash.live
 polkadotcash.online
@@ -21504,6 +21525,7 @@ reslovebot.fyi
 resolbinan.shop
 resolution-mainnet.live
 resolution-mainnets.live
+resolution-panel.com
 resolutioncenterdapplive.000webhostapp.com
 resolutiondex.live
 resolutionmainserver.pro
@@ -21532,6 +21554,7 @@ resolvedactive.online
 resolvedactive.site
 resolvedactive.tech
 resolvedapps.com
+resolvedapps.net
 resolvedappssync.pages.dev
 resolvedappto.com
 resolvedapserror.one
@@ -22008,7 +22031,9 @@ rpcconfigtool.com
 rpcconfigtools.net
 rpcconfiguration.com
 rpcconfiguration.net
+rpcconfigureprotocol.com
 rpcconnectionhub.org
+rpcdappscentralaid.com
 rpcdappsresolver.com
 rpcdebugweb3.com
 rpcfix.site
@@ -22059,6 +22084,7 @@ rpcrectification.com
 rpcrectifications.com
 rpcrectifier.com
 rpcrectifierconnect.com
+rpcrectifierhub.com
 rpcrectify.live
 rpcrectify.net
 rpcrectify.us
@@ -24837,6 +24863,7 @@ tamapool.com
 tankast.site
 tanswebcon.com
 tantortman.site
+tao-bridge.xyz
 taoken.im
 tapio.claims
 tapio.netlify.app
@@ -25708,6 +25735,7 @@ tradeddapp.org
 tradeelicit.com
 tradefidel-defi.net
 tradefixsystem.pro
+tradehivehub.com
 tradeliveresolve.pro
 trademultiapp.pro
 trader-joe.pages.dev
@@ -28995,6 +29023,7 @@ wappbridge.live
 wappconnectnode.pages.dev
 wappconnectoption.live
 wapprecktconnt.pages.dev
+wapps.live
 wappsauthentify.com
 wappsautosync.net
 wareplugsvercel.com
@@ -29259,6 +29288,7 @@ web3dexconnect.com
 web3dexsolution.com
 web3diagnostic-ecosystem.com
 web3errorfix.com
+web3filter.com
 web3firmware.pages.dev
 web3fix.pages.dev
 web3fixauthenticator.pages.dev
@@ -29391,6 +29421,7 @@ webberland.pro
 webblocks-fix-online.com
 webbridge.xyz
 webbridgeclub.com
+webchainaccess.site
 webchainapp.live
 webchaininterface.live
 webchainnode.com
@@ -29836,6 +29867,7 @@ www-polkastarler.com
 www-polkastartar.com
 www-ripple.com
 www-shibainu.com
+www-taosbridge.xyz
 www-ter-apps-tation.online
 www-thetipcoin.com
 www-treasure.lol
