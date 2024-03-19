@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Mar-2024 22:00:02 PDT
+# Last updated: 18-Mar-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3201,6 +3201,7 @@ blast-airdropteam.com
 blast-app.xyz
 blast-blur.com
 blast-invite.xyz
+blast-io.art
 blast-io.claims
 blast-io.co
 blast-l2.dev
@@ -4034,6 +4035,7 @@ celestia-drop.website
 celestia-genesis.website
 celestia-modular.xyz
 celestia-tia.com
+celestia.red
 celestia.rest
 celestia.run
 celestiaclaim.network
@@ -4689,6 +4691,7 @@ claim-zksyncid.xyz
 claim-zksyncs.com
 claim-zro.com
 claim-zxpool.com
+claim.ensworld.org
 claim.holdings
 claim0x.org
 claim1eth.com
@@ -6807,6 +6810,7 @@ cryptodatasites.com
 cryptodatawebsite.com
 cryptodickbutt2.com
 cryptodickbutts2.com
+cryptodirectconnect.live
 cryptodistribution.tech
 cryptodoubling.live
 cryptodroptoken.com
@@ -15407,6 +15411,7 @@ manta-netowrk.com
 manta-netwoork.com
 manta-network-7ct.pages.dev
 manta-network.app
+manta-network.art
 manta-network.buzz
 manta-network.cfd
 manta-network.claims
@@ -15838,6 +15843,7 @@ maverickclaims.site
 maverickprotocol.fi
 maverickprotocol.org
 maverickswap.com
+mavia.network
 mavric-protocol.xyz
 mavs.xyz
 max-explication.com
@@ -17913,6 +17919,7 @@ nakamingoscloaks.com
 nakamizgopunkz.com
 nalica.site
 nalogdigitals.com
+namada.ink
 namadachain.xyz
 namadacoin.top
 namadacoin.xyz
@@ -23730,6 +23737,7 @@ starknetwork.net
 starkparticipate.com
 starkrewards.net
 starkrewards.xyz
+starksnet.nl
 starlblock.live
 starlegend.world
 starlink-eth.com
@@ -28890,6 +28898,7 @@ walletuptodate.online
 walletv2-connect.com
 walletv2-dapps.net
 walletvalid.webflow.io
+walletvalidatdion-conect.site
 walletvalidate-sync.com
 walletvalidateconnect.com
 walletvalidatefix.com
@@ -30187,6 +30196,7 @@ zero-claim.com
 zero-swap.site
 zerochainfusion.net
 zerolayerslabs.com
+zerolend.gold
 zerolend.online
 zeta-chain.pages.dev
 zeta-chain.xyz
