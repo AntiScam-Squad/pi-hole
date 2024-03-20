@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Mar-2024 22:00:01 PDT
+# Last updated: 19-Mar-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1570,6 +1570,7 @@ appnetworkaudit.net
 appnetworkdapp-endpointvercel.app
 appnindex.online
 appnodecenter.com
+appnodecon.pages.dev
 appnodeconfig.com
 appnodefix.surge.sh
 appnoderectify.org
@@ -4599,6 +4600,7 @@ claim-polyhedra.net
 claim-pond.com
 claim-pond0x.org
 claim-pondx.com
+claim-poodlinu.pages.dev
 claim-portalcoin.xyz
 claim-pp.com
 claim-pudgy.com
@@ -11130,6 +11132,7 @@ explore-opensese.com
 explore-sync.com
 exploreboardsync.com
 exploremanta.com
+exploremanta.pages.dev
 explorenet.website
 explorenode.live
 exploreonsite.com
@@ -15379,6 +15382,7 @@ manta-company.com
 manta-drop.com
 manta-drop.space
 manta-earn.com
+manta-eiu.pages.dev
 manta-eligibility.network
 manta-eligible.com
 manta-eth.xyz
@@ -15400,6 +15404,7 @@ manta-layer.xyz
 manta-layerbank.com
 manta-layerbank.finance
 manta-live.com
+manta-logistics.pages.dev
 manta-ma.icu
 manta-mainet.com
 manta-n.network
@@ -15491,6 +15496,7 @@ manta.in.net
 manta.limited
 manta.mobi
 mańta.network
+manta.pages.dev
 manta.plus
 manta.quest
 manta.rs
@@ -15500,7 +15506,16 @@ manta.uno
 manta.wales
 manta.watch
 manta.zone
+manta10.pages.dev
+manta11.pages.dev
 manta2.network
+manta2.pages.dev
+manta3.pages.dev
+manta4.pages.dev
+manta5.pages.dev
+manta6.pages.dev
+manta7.pages.dev
+manta8.pages.dev
 mantaa-network.org
 mantaa.top
 mantaairdrop.com
@@ -15567,6 +15582,7 @@ mantai.claims
 mantaintotheblue.com
 mantaintotheblue.net
 mantaitb.com
+mantal2.io
 mantalayerbank.finance
 mantalnetwork.com
 mantamemwork.one
@@ -15674,6 +15690,7 @@ mantas.biz
 mantasnetwoeks.pages.dev
 mantasnetworks.app
 mantasnetworks.com
+mantasnetworks.live
 mantasnetworks.net
 mantasnetworks.org
 mantasswap.com
@@ -16659,6 +16676,7 @@ mgmart.shop
 mi-gratedapp.com
 mi-gratedappweb.com
 miannetconnects.com
+mianta.network
 micro22strategy.gift
 microconnectoken.net
 microconnectoken.one
@@ -18405,6 +18423,7 @@ nodeconnectschain.herokuapp.com
 nodecontractdeploy.life
 nodecore.app
 nodecorrects.kwaratech.com
+nodecorrectsync.pages.dev
 nodedapp.netlify.app
 nodedapps.com
 nodedapps.online
@@ -18612,6 +18631,7 @@ nodetoolsdev.com
 nodetranscendence.com
 nodetroubleshoot.online
 nodetroubleshoot.pages.dev
+nodeunifix.pages.dev
 nodevalidate.live
 nodevalidate.online
 nodevalidate.tech
@@ -19931,6 +19951,7 @@ polkadot-chain.vercel.app
 polkadot-chinese.com
 polkadot-dapps.com
 polkadot-dex.com
+polkadot-distribution.com
 polkadot-distribution.live
 polkadot-dot.com
 polkadot-dot.info
@@ -20195,6 +20216,7 @@ polkametaverse.org
 polkamon.co
 polkamood.com
 polkamstarter.com
+polkanetwork.net
 polkapool.live
 polkapot.network
 polkaprojects-interface.online
@@ -21734,6 +21756,7 @@ revalidatingwallet.com
 revalidationnetwork.com
 revamp-traders.ltd
 revchainconnect.network
+reveal-manta.pages.dev
 revealswitch.netlify.app
 revealwallet.org
 reverifymytoken.com
@@ -21880,6 +21903,7 @@ rewardweb3.com
 rewardxrp.xyz
 rewebsyn.net
 rewebsyn.org
+rgrdgddf.pages.dev
 richcoin.website
 richpepe.org
 richpepe.tech
@@ -26975,6 +26999,7 @@ velodorme-finance.org
 velodrome.capital
 velodrome.gifts
 velodromerouter.com
+veloxlinknode.pages.dev
 veltexverse.website
 vempire-ddao-rewards-claims-erc20-token.my.id
 venom-airdrop.icu
@@ -29254,6 +29279,7 @@ web3apizj.gq
 web3appconnect.live
 web3appsync.org
 web3assetsrestorer.com
+web3authenticatehub.com
 web3authentication.xyz
 web3auths.com
 web3avax.com
