@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Mar-2024 22:00:02 PDT
+# Last updated: 20-Mar-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1546,6 +1546,7 @@ appkinza.finance
 applaunch.org
 applaunchsyst.live
 application-form.net
+application-manta.pages.dev
 applindex.online
 applive-polkadot.tech
 appliveio.com
@@ -9736,6 +9737,7 @@ deploify.netlify.app
 deploysync.pages.dev
 derapp.link
 derckktoolzkevm.com
+derdtyu.pages.dev
 deriprotocol-giveaway.pages.dev
 deriprotocol.com
 deservedapp.net
@@ -11431,6 +11433,7 @@ finxedfloat.info
 fire-sale-results.pages.dev
 firedrop-freetokens.com
 firmware-config.net
+firmware-data.pages.dev
 firmwareaccess.app
 firstdefitokenv2.tech
 firstreplycus.online
@@ -15118,6 +15121,7 @@ mainnetdapps.info
 mainnetdapps.live
 mainnetdapps.online
 mainnetdapps.org
+mainnetdapps.site
 mainnetdappsconnect.com
 mainnetdappsresolve.online
 mainnetdaps.com
@@ -22017,6 +22021,7 @@ rokecsconnect.com
 roken.im
 rolbitsconnect.live
 rolebite.com
+roles-get.com
 roll-bit.xyz
 roll-collabs.land
 rollbit-claim.com
@@ -22117,6 +22122,7 @@ rpconevalidator.app
 rpconnectresolver.com
 rpcprotocol.com
 rpcprotocol.xyz
+rpcprotocolevault.com
 rpcprotocoltool.com
 rpcprotocoltool.net
 rpcprotocoltool.org
@@ -25407,6 +25413,7 @@ tokendappvaliddators.com
 tokendatasync.com
 tokendefi-rectification.com
 tokendn1.club
+tokendot.org
 tokeneigenlayer.org
 tokenerror-resolution.online
 tokenerrorsfix.com
@@ -29986,6 +29993,7 @@ xn--collb-jra.land
 xn--eth-mxer-xkb.com
 xn--fixdfloat-23a.com
 xn--fixdfloat-iib.com
+xn--fixedflat-c7a.net
 xn--fixedflat-msd.com
 xn--fixedfloat-hj3e.com
 xn--fxedfloat-g5a.net
