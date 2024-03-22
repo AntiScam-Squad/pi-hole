@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Mar-2024 22:00:01 PDT
+# Last updated: 21-Mar-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -10656,6 +10656,7 @@ elsalvadorairdrop.com
 elseverse.claims
 elysians.net
 elyssamigration.online
+em.yotpo.com
 embertokencrypto.com
 emetamasks.com
 eminencebridge.net
@@ -11359,7 +11360,6 @@ fetken.site
 fetment.site
 fex-walletsec.com
 feykenenmsen.site
-ff.io
 ffixedfloat.org
 ffixedflood.com
 fflxedfload.com
@@ -15789,6 +15789,7 @@ manualwalletrestore.com
 manualwebrestore.online
 manully-migratedapp.com
 manyfaces.net.au
+mappextension.cyou
 market-looksrare.org
 marketcoin.online
 marketconnectexchange.online
