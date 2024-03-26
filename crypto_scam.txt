@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Mar-2024 22:00:02 PDT
+# Last updated: 25-Mar-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1663,6 +1663,7 @@ appsregistry.net
 appsregistry.online
 appsresolves.com
 appstakelink.online
+appsubmodules.live
 appsurvmultiverse.pro
 appsv3-panskiekprotocol.top
 appsvalidation-server.network
@@ -10207,6 +10208,7 @@ discordantibot.pro
 discordappinvite.com
 discordrectify.com
 discover-manta.network
+discover-manta.pages.dev
 disgextension.com
 diskstation.eu
 disputecomplaint.support
@@ -12377,6 +12379,7 @@ getfixedmainet.xyz
 geth-ethereum.org
 geth.claims
 getitfixeds.xyz
+getmanta.pages.dev
 getmetamask.com
 getmoneroapp.com
 getmoneroapp.net
@@ -12855,6 +12858,7 @@ https-www-coinbase.cloudns.nz
 httpslink.com
 hub-injective-bke.pages.dev
 hub-injective.network
+hub-polkadot.com
 hubconnect.me
 hubfix.online
 hubfix.rf.gd
@@ -14912,6 +14916,7 @@ magnekt.com
 magnetdao.fund
 mahhira.com
 mahta-hetworks.com
+mahta-network.com
 mahta-networks.com
 mahto-hetwork.com
 mahto-hetworks.com
@@ -15742,6 +15747,7 @@ mantapf.xyz
 mantapro.network
 mantaproject.network
 mantaproject.top
+mantaprotcols.network
 mantaprotocol.com
 mantaprotocols.claims
 mantareward.network
@@ -18460,6 +18466,7 @@ node3yieldrobot.com
 nodeactivation.org
 nodeactivations.com
 nodeactivator.com
+nodeactivator.us
 nodeapend.online
 nodeapp-fix.com
 nodeapp.live
