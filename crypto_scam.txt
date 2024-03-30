@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Mar-2024 22:00:02 PDT
+# Last updated: 29-Mar-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4130,6 +4130,7 @@ centralnodes.live
 centraloptimal-pad.buzz
 centralpad.online
 centrictool.live
+centrifugeio.net
 centrldasdm.com
 century-wallet.com
 ceo-chainlink.com
