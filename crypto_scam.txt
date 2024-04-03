@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Apr-2024 22:00:01 PDT
+# Last updated: 02-Apr-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3475,6 +3475,7 @@ blockrepairer.com
 blockresets.com
 blockrock-swap.com
 blocksaffinity.online
+blocksapprectification.pages.dev
 blockscanfix.com
 blockschainexplorer.com
 blockschains-tools.live
@@ -3965,6 +3966,7 @@ bzm-dollar.top
 c-dapp.com
 c-dapp.live
 c0llabserverfix.com
+c0nnects.pages.dev
 c1.is
 c707-31-216-74-168.ngrok-free.app
 cabelam.store
@@ -7593,6 +7595,7 @@ dappconnect.me
 dappconnect.online
 dappconnect.pro
 dappconnect.website
+dappconnectauth.pages.dev
 dappconnected.com
 dappconnectfix.com
 dappconnection.cc
@@ -10342,6 +10345,7 @@ distrlbution-ripple.com
 distrlbutions-multichain.com
 distro-reward.top
 divaclaim.live
+divein-mantanetwork.pages.dev
 diversyfundcrypto.com
 divinerprotocol.live
 diwanvoyage.com
@@ -10697,6 +10701,7 @@ ebmnnt.site
 ec2token.com
 eckodex.net
 ecoinbankio.com
+econnect.pages.dev
 ecosystem-cronos.co
 ecosystemnode.pro
 ecosystemprotocol.org
@@ -10767,6 +10772,7 @@ elitkazanim.store
 elizcryptofx.com
 elksfinance.com
 elliptic-chainpad.online
+elogged.pages.dev
 elon--musk.net
 elon-airdrop.com
 elon-musk.host
@@ -15081,6 +15087,7 @@ mainbscresolve.com
 mainbugerrorfixing.com
 mainchain-6so.pages.dev
 mainchainapp.com
+mainchainfxx.pages.dev
 mainchainprotocol.com
 mainchainressolve.netlify.app
 mainchains.com
@@ -15861,6 +15868,7 @@ mantaprotcols.network
 mantaprotocoi.net
 mantaprotocol.com
 mantaprotocols.claims
+mantaprotocols.trading
 mantareward.network
 mantarewards.com
 mantarewards.net
@@ -15904,6 +15912,7 @@ mantatreasury.com
 mantatreasury.net
 mantaunetwork.com
 mantaweb.network
+mantawebapp.pages.dev
 mantaworld-air.com
 mantax.network
 mantax.pages.dev
@@ -17201,6 +17210,7 @@ mintwalletvalidator.net
 miracletradefx.com
 mirkine.com
 mirrordappz.com
+mistersos.pages.dev
 mitlycon.online
 mixedfloat.site
 mixinrtfsword.online
@@ -21803,6 +21813,7 @@ resetmultibridge.com
 resetprotocoltoolsrpc.com
 resetsyncrpctool.com
 resettoolsprotocolrpc.com
+reskst.pages.dev
 reslovebot.fyi
 resolbinan.shop
 resolution-mainnet.live
@@ -24702,6 +24713,7 @@ syncevalidationlive.com
 syncevalidationupdate.com
 syncex.online
 syncexchange.app
+syncfarm.pages.dev
 syncfix.netlify.app
 syncfix.repair
 syncfix.surge.sh
@@ -27760,6 +27772,7 @@ wallet-conects.live
 wallet-configuration.com
 wallet-connacct.square.site
 wallet-connact.square.site
+wallet-connect-6pp.pages.dev
 wallet-connect-authentication.com
 wallet-connect-clone.pages.dev
 wallet-connect-dapps.com
@@ -30427,6 +30440,7 @@ xtztoken.site
 xvidparty.com
 xvsvenus.com
 xvyhelpdeskiosolution.homes
+xwallconect.pages.dev
 xworldcoln.com
 xx0x2fdc2aec4bad85a06d87c8248716a5dedd647074.live
 xxcoin.website
