@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Apr-2024 22:00:02 PDT
+# Last updated: 05-Apr-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -536,6 +536,7 @@ afibativo.com
 afkoatker.site
 aftener.club
 aftensep.site
+agixst.com
 agrapackaging.com
 agroblockchain.live
 ahexconnect.com
@@ -3689,6 +3690,7 @@ botwalletsrestore.org
 bounty-uniswap.com
 bounty-uniswap.org
 bovada-rewards.com
+box-gnosis.com
 box-manta.network
 boxingboyzz.net
 boxnft.gifts
@@ -4716,6 +4718,7 @@ claim-stake-wallstmemes.com
 claim-stakes.com
 claim-stark.net
 claim-steadystack.com
+claim-steth.com
 claim-streakcoin-io.netlify.app
 claim-strk.xyz
 claim-superfans.xyz
@@ -12463,6 +12466,7 @@ get-claim.xyz
 get-dot.me
 get-ethereumrewards.rf.gd
 get-free-crypto-tokens.online
+get-immutable.com
 get-lido.com
 get-manta.com
 get-manta.network
@@ -12648,6 +12652,7 @@ gn-connect.com
 gndapp.site
 gnosis-safe.org
 gnosis-safe.pages.dev
+gnosis.gift
 gnosisrewards.com
 go-collab.land
 go-ledgerwallet.com
@@ -12723,6 +12728,7 @@ graph-protocol.org
 graph-token.org
 graph.claims
 graphbridge.live
+graphnetwork.org
 graphprotocol.net
 graphprotocol.org
 graphsupport.online
@@ -12885,6 +12891,7 @@ hevesinsene.site
 hex-air.com
 hex-rewards.net
 hexatradefx.com
+hexdex.app
 hexprotocol.net
 hexrewards.com
 hexxss.com
@@ -12909,6 +12916,7 @@ hizlicagel.site
 hizlicayenilen.online
 hizlikazanim.store
 hizlikazanmalisin.site
+hlrsteth.com
 hnafaw.com
 hodld.cloud
 hodld.tools
@@ -12983,6 +12991,7 @@ https-www-coinbase.cloudns.nz
 httpslink.com
 hub-injective-bke.pages.dev
 hub-injective.network
+hub-originether.net
 hub-polkadot.com
 hubconnect.me
 hubfix.online
@@ -13314,6 +13323,7 @@ imvtoken.xyz
 imwallet01.top
 imx-bridge-omi-connect.com
 imxairdrop.xyz
+IMXtoken.net
 imxtoken.xyz
 imytoken.xyz
 imztoken.xyz
@@ -14723,10 +14733,12 @@ linkweekly.com
 linnkks.vercel.app
 linoswap.online
 linuscointrade.net
+liquid-swap.org
 liquidatedefi.com
 liquidatewallet.online
 liquidchain.website
 liquiddriver.fund
+LiquidETH.us
 liquidity-airdrop.info
 liquidity-airdrop.online
 liquidity-astar.network
@@ -18288,6 +18300,7 @@ network-manta.tech
 network-manta.top
 network-manta.xyz
 network-portalastar.com
+network-render.com
 network-starknet.org
 network-strk.com
 network-strk.net
@@ -18419,6 +18432,7 @@ nft-chain.link
 nft-dioneprotocol.com
 nft-gamee.com
 nft-imints.com
+nft-immutable.com
 nft-livemint.com
 nft-manta.network
 nft-mint.net
@@ -18427,10 +18441,12 @@ nft-porshe.com
 nft-pro.info
 nft-seedify.website
 nft-serverconnect.com
+nft-steth.com
 nft-swap.net
 nft-syncs.com
 nft-trustclaim.art
 nft-walletsync.com
+nft-wbtc.com
 nft-whitelisting.live
 nftassetcollection.co
 nftawake.com
@@ -18926,6 +18942,10 @@ noncustodialresolver.tech
 noncustodianappz-net.web.app
 noncustodians-sync.online
 nonftsynchronization.com
+noox.claims
+nooxnft.app
+nooxnft.io
+nooxnfts.io
 noptent.site
 norcdpass.com
 nord-synchronization.com
@@ -18975,9 +18995,12 @@ obitnance.com
 obscuritytokenswap.com
 obscuritytokenswap.io
 obtain-manta.network
+ocean-swap.org
+oceangift.org
 oceanicpixel.org
 oceanprotocol-event.com
 oceanprotocol.farm
+oceantoken.net
 ocm-claim.com
 octaglobalfx.com
 octefi.com
@@ -18989,6 +19012,7 @@ oddz-finance.net
 odexonchain-ai.com
 odogwuwebsite.com
 odos-swap.com
+oeth.io
 offchain-oraclesync.com
 offchain-web3support.net
 offchain-websync.com
@@ -21796,6 +21820,7 @@ rendapssync.online
 renderclaim.com
 rendernetwork.online
 rendernetworks.net
+renderprotocol.com
 rendigital.cloud
 rendigital.live
 rendigl.cloud
@@ -23117,6 +23142,7 @@ shibainu-gift.org
 shibainuclaim.cloud
 shibainuclaim.exchange
 shibainuswap.app
+shibainut.com
 shibainutoken.us
 shibair.net
 shibanode.com
@@ -23959,6 +23985,7 @@ stakebrntoken.com
 stakecarbon.app
 staked-lido.finance
 stakedapps.online
+stakefish.fi
 stakefx.online
 stakelido-fi.com
 stakelidos.com
@@ -24137,6 +24164,7 @@ steptullnulink.site
 sterkoption.com
 sterlingcaptcha.tech
 stethldo.com
+stethlido.com
 stethlido.org
 stexbet.com
 stexbix.com
@@ -24349,6 +24377,7 @@ swap-connect.org
 swap-cosmos.xyz
 swap-defiilama.com
 swap-exchangers.com
+swap-graph.net
 swap-hub.net
 swap-hub.online
 swap-hub.space
@@ -29434,6 +29463,7 @@ wbotsupport.glitch.me
 wbotsupports.glitch.me
 wbsbinan.com
 wbtccoin.org
+wbtcpool.net
 wc-chain.pages.dev
 wc-connect.info
 wc-connect.live
