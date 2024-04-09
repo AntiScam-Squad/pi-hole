@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Apr-2024 22:00:02 PDT
+# Last updated: 08-Apr-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1506,6 +1506,7 @@ app-walletsolutions.com
 app-wasync.com
 app-worldcoin.com
 app-zksync.org
+app.astarnet.net
 app.astarsnetworks.com
 app.coinodeservice.com
 app.fastresolve.network
@@ -10469,6 +10470,7 @@ doticket.online
 dotisded-drops-app.com
 dotisded-web-app.com
 dotisded.online
+dotisded.site
 dotisded.xyz
 dotminer.net
 dotmoovs.medium.cn.com
@@ -21781,6 +21783,7 @@ register-starknet-io.com
 register-venus.com
 register-worldcoin.com
 register-zksync.net
+register.astar-net.com
 registers-manta.network
 registrar-layerzero.com
 registrar-layerzero.network
@@ -23217,6 +23220,7 @@ signup-starknetwork.events
 signup-uniswap.org
 signup-worldcoin.com
 signup-zksync.com
+signup.astartech.app
 signups-verasity.io
 sikyisnsmacsdjicail.ru
 silo.events
