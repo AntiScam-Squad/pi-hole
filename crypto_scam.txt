@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Apr-2024 22:00:02 PDT
+# Last updated: 09-Apr-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1275,6 +1275,7 @@ api3dao.org
 api3drop.com
 api42-collabvrfy.land
 api48-land.github.io
+api55-collab.com
 api58-land.github.io
 api64-collab.land
 api84-collab.land
@@ -4701,6 +4702,7 @@ claim-rocketpool.org
 claim-rollbit.com
 claim-rubydex.com
 claim-scapemania.pages.dev
+claim-scottytheaii.pages.dev
 claim-scroll.cc
 claim-seedify.com
 claim-seedify.fund
@@ -5527,6 +5529,7 @@ colablanddefi.info
 colablandhelp.com
 colablandsyncapp.com
 colablland.com
+colablnd.net
 colablond.cc
 colabot-network.com
 colabpath.org
@@ -10105,6 +10108,7 @@ dexportal.network
 dexprofoundchain.org
 dexproject.netlify.app
 dexprotocolchain.io
+dexprotocolchain.live
 dexprotocolserver.com
 dexprotocolserver.net
 dexprotoolsgulid.online
@@ -10368,6 +10372,7 @@ divaclaim.live
 divein-mantanetwork.pages.dev
 diversyfundcrypto.com
 divinerprotocol.live
+diving-mantanetwork.pages.dev
 diwanvoyage.com
 dizzy-wallet.com
 djneptune.net
@@ -14996,6 +15001,7 @@ lrnrtoken.xyz
 lrntoken.xyz
 lsd-mainnet-address-spoofing.netlify.app
 ltc-official.com
+ltcni.com
 luanhcpad.xyz
 lubereft.com
 lucksiamtrade.tk
@@ -19387,12 +19393,14 @@ orbiter.events
 orbiterfoundation.news
 orblter.finance
 orc-fortepatch.org
+ordify.pages.dev
 ordinal-node.site
 ordinaldappsprotocol.com
 ordinaldappsync.com
 ordinaldrops.org
 ordinalinscription.vip
 ordinalshub.org
+ordinalswallet-gid0.onrender.com
 ordinate-protocol.site
 ordinfinance.com
 ordlinalswallet.app
@@ -21455,6 +21463,7 @@ rampad.org
 rangesync.pages.dev
 rangevalidator.firebaseapp.com
 rangevalidator.web.app
+rango-exchange-r8n4.onrender.com
 rango-exchange.onrender.com
 rangooooexapp.boo
 ransoit.com
@@ -22281,6 +22290,7 @@ rnanta.network
 rnantanetwork.com
 rndr.finance
 rnetanask.io
+rnmnt.pages.dev
 roasthimjimtokens.pro
 robinhood-cryptos.online
 robonomicsrewards.com
@@ -22328,6 +22338,7 @@ roizermer.site
 rokecsconnect.com
 roken.im
 rolbitsconnect.live
+role-bot.net
 rolebite.com
 roles-get.com
 roll-bit.xyz
@@ -30123,6 +30134,7 @@ webworkconnect.site
 wed3.pro
 weddappsreconnect.pages.dev
 wedomojo.xyz
+wedslp.netlify.app
 wegrid.org
 weigroopusaeb.live
 wel-net.online
@@ -30653,6 +30665,7 @@ zk-alt-sync.vercel.app
 zk-badge.com
 zk-eth.com
 zk-fair.com
+zk-manta-airdrop.pages.dev
 zk-ssynceth.com
 zk-syncio.com
 zk-syncnetwork.com
