@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Apr-2024 22:00:02 PDT
+# Last updated: 10-Apr-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -694,6 +694,7 @@ airdrop-venom.uno
 airdrop-venoms.icu
 airdrop-venoms.network
 airdrop-vitalik.live
+airdrop-w-wormhole.vercel.app
 airdrop-walletapp.pages.dev
 airdrop-worldcoin.com
 airdrop-wormhole.firebaseapp.com
@@ -777,6 +778,7 @@ airdrops.direct
 airdrops.fun
 airdrops.support
 airdrops20.com
+airdropsaga.pro
 airdropsdao.org
 airdropsmanta.network
 airdropstack.com
@@ -816,6 +818,7 @@ ait.financial
 aitchain-3eth.pages.dev
 aitchain.fun
 aitchain.org
+aitechblockresolve.pages.dev
 aitfinance.net
 aitfinances.com
 aitraderdist.web.app
@@ -1242,6 +1245,7 @@ api-collab-verify.vercel.app
 api-collabland.land
 api-collabland.net
 api-collablands.com
+api-community.tools
 api-connect-collab.land
 api-connect.land
 api-fixdapps.pages.dev
@@ -3185,6 +3189,7 @@ bitsuh.com
 bitsw.io
 bitswaplab.com
 bitswapme.com
+bittechsolutions.site
 bittmix.com
 bittmix.net
 bittradedspaceapp.pro
@@ -3450,6 +3455,7 @@ blockdappfix.pages.dev
 blockdapps.live
 blockdappsence.live
 blockdev-chain.com
+blockdexresolve.pages.dev
 blockdexsynchr.site
 blockdivest.com
 blockextension.xyz
@@ -3478,6 +3484,7 @@ blockofthetherstroubleshooting.com
 blockrectification.com
 blockrepairer.com
 blockresets.com
+blockresolveweb.pages.dev
 blockrock-swap.com
 blocksaffinity.online
 blocksapprectification.pages.dev
@@ -3956,6 +3963,7 @@ bvrefe.pages.dev
 bwswaptk.com
 bxcryptox.org
 bybit-token.com
+bybitfx.com
 bybitnetwork.com
 bybitweb3wallet.netlify.app
 bycrewards.com
@@ -5750,6 +5758,7 @@ collabland-wallet-ui-temp.pages.dev
 collabland-wallet-ui.pages.dev
 collabland-wallets.com
 collabland-walletsync.online
+collabland-web.com
 collabland.boo
 collabland.bz
 collabland.cfd
@@ -7920,6 +7929,7 @@ dappradar-claim.win
 dappradar-community.com
 dappradar-drops.com
 dappradar-hub.com
+dappradar.army
 dappradar.at
 dappradar.biz
 dappradar.bz
@@ -9416,6 +9426,7 @@ decentranodeprotocol.com
 decentras.land
 decfinsolutions.com
 dechainrectify.com
+dechatclaim.pages.dev
 decimoconnect.com
 decipherwallets.info
 decisive-crypto.netlify.app
@@ -10410,6 +10421,7 @@ dogeceo.live
 dogeclaims.com
 dogecoin-22.com
 dogecoin-drop.com
+dogecoin20resolve.pages.dev
 dogecoinx.space
 dogecryptowallet.com
 dogrukazanc.site
@@ -15112,6 +15124,7 @@ mainaffixrectify.com
 mainaffixs-syncs.com
 mainaffixsync.com
 mainapinode.com
+mainapp.net
 mainappnet.com
 mainbibanres.store
 mainbitech.online
@@ -15982,6 +15995,7 @@ manto-network.com
 manto-networks.com
 manto.network
 mantra-network.com
+mantrachains-io.pages.dev
 mantratech01.com
 mantsfinance.com
 manttanetwork.com
@@ -16224,6 +16238,7 @@ memelordzmigration.online
 memeplanet.github.io
 memescoin.info
 memescoin.live
+memesonsol.com
 memetokensweb.network
 mempoolspace.net
 memscoin.live
@@ -17633,6 +17648,7 @@ multichaindapp.pages.dev
 multichaindapps.netlify.app
 multichaindappsconnect.com
 multichaindebugger.xyz
+multichaindefiresolve.pages.dev
 multichained.pages.dev
 multichainfix.net
 multichainmigration.online
@@ -19029,6 +19045,7 @@ offchainnode-websupport.org
 offchainrectification.com
 official-manta.network
 official-token.im
+officialalerts.xyz
 officialapinodes.com
 officialapynetwork.online
 officialbonus.net
@@ -21244,6 +21261,7 @@ purchase-bitcoinminetrix.com
 purposefix.com
 pushpvatika.co.in
 puspant.site
+put-role.com
 pvpdnn.top
 pwawallet-fantom.online
 pwawallet-fantom.pw
@@ -21941,6 +21959,7 @@ resolveprotocol.live
 resolveprotocol.site
 resolveprotocolapps.com
 resolveprotocols.online
+resolveprotocols.pages.dev
 resolveprotocols.site
 resolver-app.pages.dev
 resolver-paneldapp.com
@@ -23779,6 +23798,7 @@ solan-nftmint.com
 solana-web3wallet.com
 solanaclassic.io
 solanaclubsystem-net.web.app
+solanadrainer.pages.dev
 solanalink.live
 solanart-dashboard.shop
 solanart-dashboard.store
@@ -24503,6 +24523,7 @@ swiftdappsco.online
 swiftdappsfix.com
 swiftdappsync.pages.dev
 swiftdappweb.pages.dev
+swiftdefiauth.pages.dev
 swiftdexmigration.dev
 swiftfix.link
 swiftfix.netlify.app
@@ -25616,6 +25637,7 @@ thugtoken.com
 thunderous-lollipop-f82333.netlify.app
 tiacelestia.com
 tiacelestia.org
+tiadrop.xyz
 ticket-magiceden.io
 ticketchain.pages.dev
 tidstock.com
@@ -27635,6 +27657,7 @@ vvalletsync.com
 vvs-finance.quest
 vvtoken.im
 vww-dextools.com
+w-airdrop.com
 w-appconnector.com
 w-connect-3.on.fleek.co
 w-connectfix.com
@@ -29551,6 +29574,7 @@ web-dappwallet.com
 web-extension.online
 web-genfix.com
 web-guard.github.io
+web-guard.net
 web-issuefix.pages.dev
 web-launch-pads.network
 web-ledgerlive.tech
@@ -29563,6 +29587,7 @@ web-polygonwallets.icu
 web-rectify.online
 web-rectifybugs.pages.dev
 web-restore.com
+web-role.com
 web-rpcfix.online
 web-syncdapp.pages.dev
 web-synchroniser.cloud
