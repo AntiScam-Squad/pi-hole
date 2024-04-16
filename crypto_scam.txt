@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Apr-2024 22:00:02 PDT
+# Last updated: 15-Apr-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -35,6 +35,7 @@
 0xtorus.com
 0xtoruslabs.com
 0xzabo.com
+1-eu9.pages.dev
 1000-rewards.com
 1000-rewards.xyz
 1000rewards.xyz
@@ -196,6 +197,7 @@
 7evenconnect.com
 7polkadot.js.org
 7uniswap.org
+827032971.pages.dev
 861030.selcdn.ru
 862221.selcdn.ru
 8uniswap.org
@@ -1265,6 +1267,7 @@ api-role.land
 api-verify.com
 api-verify.github.io
 api-wallet-validation.vercel.app
+api-web3.com
 api-web3resolver.pages.dev
 api05-collab.com
 api100-collab.github.io
@@ -5927,6 +5930,7 @@ collabverification.com
 collabverifications.com
 collabverify.in
 collabverify.online
+collabverify.xyz
 collabwallett.com
 collabxmeta.com
 collaconecto.com
@@ -6634,6 +6638,7 @@ core-airdrop.top
 core-app.top
 core-krypto.com
 core-web-fix.com
+coreairdrophive.online
 coreapp.top
 corectionfix.com
 corectionsbot.net
@@ -7910,6 +7915,7 @@ dappnetworksync.org
 dappneutralprotocol.app
 dappnode-authenticate.pages.dev
 dappnode-sync.com
+dappnode.dev
 dappnode247.com
 dappnode247.xyz
 dappnodebridge.com
@@ -8353,6 +8359,7 @@ dappsconfirm.xyz
 dappsconn.tk
 dappsconnecsion.online
 dappsconnect-auth.org
+dappsconnect-chain.info
 dappsconnect-integrator.com
 dappsconnect-integrator.link
 dappsconnect.42web.io
@@ -10988,6 +10995,7 @@ eniyisisen.site
 eniyisisiz.site
 enjin-claim.com
 enjintoken.com
+enlist-mantanetwork.pages.dev
 ennovayte.netlify.app
 enoinvest.live
 enoinvest.xyz
@@ -12827,6 +12835,7 @@ gravitaprotocol-rewards.com
 gravitative-discrep.netlify.app
 grayscale.trading
 green-haze-3357.on.fleek.co
+greenbitscoin.pages.dev
 greenboxparcel.com
 greenhillstrade-fx.com
 greenyield.cloud
@@ -15832,6 +15841,7 @@ manta.gratis
 manta.icu
 manta.in.net
 manta.limited
+manta.lo-io.online
 manta.mobi
 mańta.network
 manta.pages.dev
@@ -15960,6 +15970,7 @@ mantanetwork.io
 mantanetwork.link
 mantanetwork.ltd
 mantanetwork.network
+mantanetwork.on-fleek.app
 mantanetwork.online
 mantanetwork.org
 mantanetwork.top
@@ -17398,6 +17409,7 @@ mneumonicactivator.com
 mneumonicactivator.net
 mneumonicactivator.org
 mneumonicactivator.pro
+mnt-network.org
 mntestkent.site
 mntunetblu.club
 mnwautochain.website
@@ -19137,6 +19149,7 @@ obitnance.com
 obscuritytokenswap.com
 obscuritytokenswap.io
 obtain-manta.network
+obtain-manta.pages.dev
 ocean-swap.org
 oceangift.org
 oceanicpixel.org
@@ -19629,6 +19642,7 @@ pacificdapps.live
 pacificmantanetwork.xyz
 pacificparadigm.org
 pacifics-manta-app.com
+pacifics-manta-network.pages.dev
 pacifiic-manta.network
 pacitic-manta.network
 padsync.pages.dev
@@ -21646,6 +21660,7 @@ rarrible-nft.us
 rasie.icu
 ratification-tool.online
 ratifyaltentry.com
+raydium.cm
 raydium.trading
 raydiumnet.work
 raymasterbatch.com
@@ -24410,6 +24425,7 @@ subsyncsupports.firebaseapp.com
 subsyncsupports.pages.dev
 subsyncsupports.web.app
 subulussalamkota.desa.id
+subwallet-polkadot.app
 subwallet.exchange
 subwallet.online
 successfulbridge.website
@@ -27646,6 +27662,7 @@ verify-account.net
 verify-api.github.io
 verify-assets.xyz
 verify-auth.online
+verify-bot.land
 verify-c0labland.com
 verify-chain.com
 verify-coinbase.sesamiclothings.com
@@ -29870,6 +29887,7 @@ web3-validate.com
 web3-verification.github.io
 web3-waletconnect.com
 web3-walletconnect.com
+web3-world.org
 web3-worldcoin.com
 web3-worldcoin.org
 web3access.online
