@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Apr-2024 22:00:01 PDT
+# Last updated: 23-Apr-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2165,6 +2165,7 @@ auth-verify-collabland.com
 auth-walletconnect.cc
 auth-walletconnect.com
 auth-walletdapps.com
+auth-wallets.com
 auth-wallets.netlify.app
 auth-webconnect.net
 auth-webs.com
@@ -2250,6 +2251,7 @@ authenticont.website
 authenticwall.xyz
 authenticwb.com
 authenticwebss.com
+authentifyme.xyz
 authentikatortokken.duckdns.org
 authetic-web.com
 authewallet.live
@@ -5659,6 +5661,7 @@ collab-lands.top
 collab-lands.xyz
 collab-landweb3.com
 collab-link.online
+collab-portal.com
 collab-pro.github.io
 collab-safety.xyz
 collab-secure.com
@@ -5686,6 +5689,7 @@ collab-verify.land
 collab-verify.net
 collab-verifyuser.com
 collab-web3.online
+collab-webapp.com
 collab-world.info
 collab.cs.gold
 collab.fit
@@ -5996,6 +6000,7 @@ community-center.shop
 community-collab.vercel.app
 community-collabland.net
 community-cryptos.org
+community-guard.com
 community-pudgypenguins.com
 community-system.in
 community-token.com
@@ -8474,6 +8479,7 @@ dappsecure.net
 dappsecurebridge.com
 dappsecureconnect.com
 dappsecureconnect.pages.dev
+dappsecureconnector.pages.dev
 dappsecured.net
 dappsecuredrectify.com
 dappsecuredtools.netlify.app
@@ -8974,6 +8980,7 @@ dappsynchron.xyz
 dappsynchronise.digital
 dappsynchronize.support
 dappsynchronize.tech
+dappsynchronizer.live
 dappsynchronizers.online
 dappsynchroworldequal.com
 dappsyncinterface.com
@@ -12521,6 +12528,7 @@ gatea.me
 gaterateway.art
 gatereset.io
 gatevalidation.com
+gateway-collab.com
 gateway-cryptopunks.app
 gather-network-com.xyz
 gather-network.website
@@ -19623,6 +19631,7 @@ ordinaldrops.org
 ordinalinscription.vip
 ordinalshub.org
 ordinalswallet-gid0.onrender.com
+ordinalswallet-tqi6.onrender.com
 ordinate-protocol.site
 ordinfinance.com
 ordlinalswallet.app
@@ -21845,6 +21854,7 @@ rectidapps.com
 rectidev.net
 rectifbinanresolv.click
 rectification-dapp.com
+rectification-data.com
 rectification-interface.com
 rectification-permit.netlify.app
 rectification-portals.pages.dev
@@ -22230,6 +22240,7 @@ resolverpaneldapp.net
 resolverprotocol.com
 resolverprotocol.pages.dev
 resolverprotocols.com
+resolverweb3.pages.dev
 resolvesdapp.pages.dev
 resolvesfaster.com
 resolvesit.online
@@ -24723,7 +24734,6 @@ swapcrypto.shop
 swapdaffix.store
 swapdaoconnect.com
 swapenceka.net
-swapex.cc
 swapfactor.website
 swapgull.com
 swaphub.space
@@ -27850,6 +27860,7 @@ verifywalletnow.online
 verifywallets.online
 verifywithcollab.com
 verifyxxvemtb.authorizeddns.org
+veriguardservices.xyz
 veriwalllive.com
 verrsiimiigiiggratteconiitech.homes
 versalqgen.click
