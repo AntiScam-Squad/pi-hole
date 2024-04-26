@@ -1,9 +1,10 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Apr-2024 22:00:02 PDT
+# Last updated: 25-Apr-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
+*.top
 07e96d43-381a-46a3-9c16-6daf97213efc.co
 09sync00.duckdns.org
 0kxwallet.org
@@ -3401,6 +3402,7 @@ blockchaincoinrestore.com
 blockchaincoinsrestore.com
 blockchainconnect.tk
 blockchaindapp.pages.dev
+blockchaindapp.pro
 blockchaindapps.co
 blockchaindapps.io
 blockchaindappsync.pages.dev
@@ -21983,6 +21985,7 @@ rectifyit.online
 rectifyliquidity.online
 rectifymainchain.pages.dev
 rectifymaindapp.com
+rectifymainnet.pages.dev
 rectifyme.org
 rectifymultichaindapp.com
 rectifymyassets.site
@@ -22714,6 +22717,7 @@ rpcapifix.com
 rpcautofix.com
 rpcautofix.net
 rpcblockchainiwebfix.com
+rpcbrowse.net
 rpcchain-mainnet.com
 rpcchain.dev
 rpcconfigtool.com
@@ -22737,6 +22741,7 @@ rpchubconnect.com
 rpchubconnect.net
 rpchublink.com
 rpchubnode.com
+rpchubnodeportal.pages.dev
 rpchubnodes.com
 rpchubrecovery.icu
 rpchubrepair.com
@@ -24581,6 +24586,7 @@ subsyncsupports.web.app
 subulussalamkota.desa.id
 subwallet-polkadot.app
 subwallet.exchange
+subwallet.guide
 subwallet.online
 subwallet.support
 successfulbridge.website
@@ -25040,6 +25046,7 @@ sync-walletvalidationguard.online
 sync-wallnet.live
 sync-web3.com
 sync-web3dapps.live
+sync1.online
 syncaccess.tech
 syncaccessfix.com
 syncaccessfix.net
@@ -27651,6 +27658,7 @@ validatornode.app
 validatornode.onrender.com
 validatornode.org
 validatorsecure.top
+validatorsfix.pages.dev
 validatorsign3.com
 validatorstaker.com
 validatorsync.com
