@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Apr-2024 22:00:02 PDT
+# Last updated: 01-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -676,6 +676,7 @@ airdrop-mantle.xyz
 airdrop-mantles.one
 airdrop-mantles.xyz
 airdrop-mantn.network
+airdrop-mbox.homes
 airdrop-memecoin.icu
 airdrop-memecoin.one
 airdrop-memecoins.one
@@ -1969,6 +1970,7 @@ aselerna.info
 asellper.site
 asetsupport.com
 ashaunthentication.com
+ashcryptocoin.com
 ashorbit.com
 ashrectification.com
 ashteadinvest.com
@@ -4800,6 +4802,7 @@ claim-seedify.fund
 claim-seedify.org
 claim-seedilfy.pl
 claim-senseifi.io
+claim-service.cc
 claim-services.xyz
 claim-shib.top
 claim-shib20.com
@@ -4937,6 +4940,7 @@ claimlitecoin.com
 claimluckysea.com
 claimlunc.com
 claimmablesolutions.live
+claimmantanetwork.live
 claimmassa.com
 claimmemecoin.org
 claimmemez.space
@@ -6639,6 +6643,7 @@ conquistas.site
 conrectifi.tech
 consauthenticateonnft.org
 consensus-poschain.live
+consensus24.com
 consensusintegration.io
 consensys.financial
 consensysapp.com
@@ -8099,6 +8104,7 @@ dappradars.org
 dappradars.pro
 dappraddar.org
 dappradersync.com
+dappraidars.in
 dappreader.static.app
 dapprealauthenticator.com
 dappreauthv2.xyz
@@ -8118,6 +8124,7 @@ dapprectify.site
 dapprectify.website
 dapprectifycapbot.tech
 dappregistration.online
+dapprelisting.com
 dappresolution.online
 dappresolve.io
 dappresolve.net
@@ -8610,6 +8617,7 @@ dappshubconnect.org
 dappshubonline.xyz
 dappsimportconnet.net
 dappsin.live
+dappsinfrax.network
 dappsintegrate.cloud
 dappsintegrate.co
 dappsintegrate.io
@@ -8645,6 +8653,7 @@ dappslinks.xyz
 dappslinkscan.com
 dappslinksconnect.com
 dappslinkvalidate.live
+dappslisting.org
 dappsliveconnect.netlify.app
 dappsliveintegrate.com
 dappsliveinterface.org
@@ -8754,6 +8763,7 @@ dappsolutions.net
 dappsolutionwebverce.xyz
 dappsolved.com
 dappsolver.com
+dappsolver.site
 dappsonline.com
 dappsonline.site
 dappsonlineconnect.com
@@ -8791,6 +8801,7 @@ dappsprotocolsycnpc.com
 dappspublicchain.com
 dappspublicchains.com
 dappspulse.com
+dappsradar.deals
 dappsradar.live
 dappsradar.ms
 dappsrader.live
@@ -11188,6 +11199,7 @@ epoch3-thetipcoin.com
 epolkadot.com
 epuny-crypto.surge.sh
 eq-finance.net
+equactioncrypto.com
 equinoxdexapp.dev
 equityzenchainlink.com
 era-sync.org
@@ -14781,6 +14793,7 @@ leedsdefinode.org
 leedswalletsauthentication.com
 leedswebrectification.com
 leetswaplpsolution.com
+lefmainfixchainer.pages.dev
 lefredse.site
 leftwingpinko.com
 legacy-stakedao.xyz
@@ -15419,6 +15432,7 @@ mainchains.com
 mainchainsonline.com
 mainchainsresolve.com
 mainchainsyncserver.com
+mainclaim.net
 mainco-rectify.site
 maincoinauth.com
 maincoinvault.com
@@ -15524,6 +15538,7 @@ mainlinvalidate.com
 mainmobilerectify.co
 mainmobilerectify.live
 mainnentconnect.io
+mainnet-airdrop.xyz
 mainnet-bridge.site
 mainnet-bridges.com
 mainnet-chain.xyz
@@ -15879,6 +15894,7 @@ manta-6om.pages.dev
 manta-aidrop.network
 manta-air.network
 manta-air.xyz
+manta-airdrop-47q.pages.dev
 manta-airdrop-9um.pages.dev
 manta-airdrop-claim.pages.dev
 manta-airdrop.7eel.com
@@ -15893,6 +15909,7 @@ manta-airdrops.network
 manta-allocation.network
 manta-app.com
 manta-app.network
+manta-app.pages.dev
 manta-apps.network
 manta-appsurvey.com
 manta-aps.com
@@ -15911,6 +15928,7 @@ manta-claim.xyz
 manta-claims.xyz
 manta-coin.network
 manta-company.com
+manta-company.net
 manta-dapp.vercel.app
 manta-drop.com
 manta-drop.space
@@ -15948,7 +15966,10 @@ manta-netcoins.com
 manta-neterwork.com
 manta-netowrk.com
 manta-netwoork.com
+manta-network-2zu.pages.dev
+manta-network-40h.pages.dev
 manta-network-7ct.pages.dev
+manta-network-airdrop-5w7.pages.dev
 manta-network.app
 manta-network.art
 manta-network.buzz
@@ -15963,6 +15984,7 @@ manta-network.guru
 manta-network.homes
 manta-network.icu
 manta-network.info
+manta-network.me
 manta-network.mobi
 manta-network.network
 manta-network.org
@@ -15975,6 +15997,7 @@ manta-network.team
 manta-network.vip
 manta-network.zone
 manta-networks-airdrop.com
+manta-networks.app
 manta-networks.net
 manta-networks.org
 manta-networks.vercel.app
@@ -15984,6 +16007,9 @@ manta-netwrk.network
 manta-newparadigm.com
 manta-newpardigm.com
 manta-nft.com
+manta-pacific-airdrop-guide.pages.dev
+manta-pacific-airdrop.pages.dev
+manta-pacific-drop.pages.dev
 manta-pacific.app
 manta-pacific.website
 manta-pacificnetwork.com
@@ -16007,6 +16033,7 @@ manta-rewards.online
 manta-sale.com
 manta-survey.com
 manta-test-sil.pages.dev
+manta-test.pages.dev
 manta-tokens.com
 manta-tokens.network
 manta-trades.com
@@ -16036,6 +16063,7 @@ manta.lo-io.online
 manta.mobi
 mańta.network
 manta.pages.dev
+manta.pics
 manta.plus
 manta.quest
 manta.rs
@@ -16051,6 +16079,7 @@ manta11.pages.dev
 manta2-ben.pages.dev
 manta2.network
 manta2.pages.dev
+manta3-7ef.pages.dev
 manta3.pages.dev
 manta4.pages.dev
 manta5.pages.dev
@@ -16070,6 +16099,7 @@ mantaassetchain.com
 mantablockchain.org
 mantabluerewards.com
 mantabluerewards.net
+mantabridge-1d4.pages.dev
 mantabridge.net
 mantabridge.org
 mantabridge.xyz
@@ -16126,6 +16156,7 @@ mantai.claims
 mantai.info
 mantaintotheblue.com
 mantaintotheblue.net
+mantairdrop.pages.dev
 mantaitb.com
 mantal2.io
 mantalayerbank.finance
@@ -16134,6 +16165,7 @@ mantamemwork.one
 mantamemwork.xyz
 mantanames.xyz
 mantananetwork.com
+mantananetwork.site
 mantanet-airdrop.org
 mantanet.app
 mantanet.icu
@@ -16144,12 +16176,14 @@ mantanetwoffical.online
 mantanetwok.app
 mantanetworck.com
 mantanetwork-0fficial.com
+mantanetwork-8tn.pages.dev
 mantanetwork-airdrop.com
 mantanetwork-airdrop.net
 mantanetwork-airdrop.org
 mantanetwork-chain.net
 mantanetwork-claim.com
 mantanetwork-claim.net
+mantanetwork-cmp.pages.dev
 mantanetwork-coin.com
 mantanetwork-newparadigm.com
 mantanetwork-newparadigm.net
@@ -16186,6 +16220,7 @@ mantanetworkzk.com
 mantanework.space
 mantanftcollect.com
 mantanftnet.com
+mantanjoin.pages.dev
 mantanuim.lat
 mantao-network.life
 mantao-network.pics
@@ -16236,6 +16271,7 @@ mantas-project.com
 mantas-project.info
 mantas-project.life
 mantas-project.mom
+mantas-project.net
 mantas-project.pics
 mantas-project.xyz
 mantas.biz
@@ -20543,6 +20579,7 @@ plaatshierjelink.com
 plague-taiyorobotics.pages.dev
 plaguworlzq.run
 plaiv.top
+planet-refi.top
 platformfixingwebiste.com
 platformfixingwebsite.com
 platformfixingwebsite1.ml
@@ -22328,7 +22365,9 @@ rendigl.cloud
 renecdexlist.website
 renewmanta-paradigm.network
 renewparadigm-manta.network
+renewparadigm-namta.com
 renewparadigm-namta.xyz
+renewparadigma-manta.pages.dev
 renewparadignmanta.network
 rengdoge.com
 renodepad.net
@@ -30566,6 +30605,7 @@ webdappsconnect.app
 webdappsconnection.com
 webdappsconnectprotocol.pages.dev
 webdappsfix.sbs
+webdappsinterface.app
 webdappslink.com
 webdappsoperations.com
 webdappsquery.online
@@ -30876,6 +30916,7 @@ winuswap.online
 winxcrypt.com
 wiredbits.online
 wisextension.com
+withdraw-crypto.gs
 withdraw-decentraland.org
 withdrawal-investvoyager.com
 withdrawalverification.com
