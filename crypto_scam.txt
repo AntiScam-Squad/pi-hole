@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-May-2024 22:00:01 PDT
+# Last updated: 02-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3871,6 +3871,7 @@ bridgenwehcontrhact.com
 bridgeonbase.com
 bridgeonbase.net
 bridgeonbeam.com
+bridgepacific.xyz
 bridgepad.net
 bridgeplatformio.best
 bridgeportal.online
@@ -4725,6 +4726,7 @@ claim-lunc.com
 claim-makerdao.xyz
 claim-mana.com
 claim-manta.network
+claim-manta.top
 claim-manta.website
 claim-manta.xyz
 claim-mantle.com
@@ -15920,6 +15922,8 @@ manta-bonus.xyz
 manta-bridge.com
 manta-bridge.network
 manta-chain.com
+manta-claim-93x.pages.dev
+manta-claim.app
 manta-claim.com
 manta-claim.icu
 manta-claim.net
@@ -16041,9 +16045,11 @@ manta-treasuries.com
 manta-treasury.com
 manta-trust.xyz
 manta-v1.network
+manta-wallet.org
 manta-wallets.xyz
 manta-web3.app
 manta-whitelist.network
+manta-x.pages.dev
 manta-zk.com
 manta-zk.net
 manta-zk.pages.dev
@@ -16088,6 +16094,7 @@ manta7.pages.dev
 manta8.pages.dev
 mantaa-network.org
 mantaa.top
+mantaairdrop-czw.pages.dev
 mantaairdrop.com
 mantaairdrop.net
 mantaairdrop.network
@@ -16124,6 +16131,7 @@ mantacoin-airs.com
 mantacoin-app.com
 mantacoin-wallet.com
 mantacoin.network
+mantacoin.pages.dev
 mantacoin.top
 mantacoinairdrop.com
 mantacoins-network.com
@@ -16176,6 +16184,7 @@ mantanetwoffical.online
 mantanetwok.app
 mantanetworck.com
 mantanetwork-0fficial.com
+mantanetwork-5xq.pages.dev
 mantanetwork-8tn.pages.dev
 mantanetwork-airdrop.com
 mantanetwork-airdrop.net
@@ -22307,6 +22316,7 @@ register-kava.com
 register-layerzero-events.com
 register-mana.com
 register-mantanetwork.com
+register-mantanetwork.net
 register-mantle.com
 register-mavprotocol.net
 register-memecoin.net
@@ -22525,6 +22535,7 @@ resolvingapptool.com
 resolvingapptools.com
 resolvingmainserver.pro
 resourcewallet.live
+restaking-manta.network
 restartcoinwallet.com
 restooreprime.com
 restorationprocess.net
