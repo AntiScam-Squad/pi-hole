@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-May-2024 22:00:02 PDT
+# Last updated: 04-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9478,6 +9478,7 @@ decentralisedhd.live
 decentralisedsync.onrender.com
 decentralisedwebdapp.com
 decentralizationissueresolve.com
+decentralize-mainnodes.com
 decentralize-solutions.com
 decentralize-validation.com
 decentralizeapp.com
@@ -13280,6 +13281,7 @@ hsabesa.site
 hsaka.net
 ht-mdexcom.swap-liquidity.site
 httospolkadot.js.org
+https-app-acala.network
 https-metamask.4nmn.com
 https-metamask.ddns.net
 https-metamaskaccounts.4nmn.com
@@ -18006,12 +18008,14 @@ multichain-tokenguidecart.xyz
 multichain-tokenguidecolast.com
 multichain-tokenguidehelper.net
 multichain-tokenguidehelpfer.shop
+multichain-tokenguidehelpline.net
 multichain-tokenguidehelpsave.shop
 multichain-tokenguidehelptray.xyz
 multichain-tokenguideherb.shop
 multichain-tokenguidehigh.online
 multichain-tokenguidelicket.online
 multichain-tokenguideline.xyz
+multichain-tokenguidemark.shop
 multichain-tokenguidemaxx.shop
 multichain-tokenguidemazl.shop
 multichain-tokenguidenicer.xyz
@@ -18023,6 +18027,7 @@ multichain-tokenguidesaver.online
 multichain-tokenguideshark.xyz
 multichain-tokenguidesignal.xyz
 multichain-tokenguidestable.shop
+multichain-tokenguidetecps.shop
 multichain-tokenguidewalker.shop
 multichain-tokenguidezein.online
 multichain-web.live
@@ -22392,6 +22397,7 @@ rendigital.live
 rendigl.cloud
 renecdexlist.website
 renewmanta-paradigm.network
+renewparadigm-mamta.com
 renewparadigm-manta.network
 renewparadigm-namta.com
 renewparadigm-namta.xyz
