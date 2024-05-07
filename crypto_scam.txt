@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-May-2024 22:00:02 PDT
+# Last updated: 06-May-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -688,6 +688,7 @@ airdrop-memecoin.one
 airdrop-memecoins.one
 airdrop-memeland.org
 airdrop-myria.one
+airdrop-ousd.org
 airdrop-pepetestpage.com
 airdrop-phantom.app
 airdrop-polarise.org
@@ -706,6 +707,7 @@ airdrop-taiko.xyz
 airdrop-taikos.icu
 airdrop-uni.org
 airdrop-unibot.com
+airdrop-usdc.space
 airdrop-usdc2023.com
 airdrop-vaults.com
 airdrop-venom.icu
@@ -776,6 +778,7 @@ airdropo.app
 airdropped.vercel.app
 airdroppepe20.vip
 airdroppingflux.com
+airdrops-bankless.com
 airdrops-blur.io
 airdrops-chain.link
 airdrops-claim.com
@@ -7594,6 +7597,7 @@ dapp-connet-web3fixtool.com
 dapp-crogecoin.com
 dapp-crypto.xyz
 dapp-debug.com
+dapp-drop.world
 dapp-equinoxgate.vercel.app
 dapp-eth.biz
 dapp-eth.center
@@ -7810,6 +7814,7 @@ dappconnection.online
 dappconnection.org
 dappconnections.online
 dappconnectme.com
+dappconnector.app
 dappconnector.co
 dappconnector.ml
 dappconnectpad.com
@@ -8141,9 +8146,11 @@ dappradar.wtf
 dappradar24.ru
 dappradars.deals
 dappradars.info
+dappradars.ms
 dappradars.online
 dappradars.org
 dappradars.pro
+dappradars.sh
 dappraddar.org
 dappradersync.com
 dappraidars.in
@@ -8907,6 +8914,7 @@ dappsrunup.com
 dappss-bridge.live
 dappss-connect.netlify.app
 dappsscan.com
+dappsscantrustline.com
 dappssconnectsync.pages.dev
 dappssecure.netlify.app
 dappssecurebridge.com
@@ -10823,6 +10831,7 @@ drop-chain.com
 drop-chainlink.com
 drop-curvefinance.com
 drop-curvefinance.net
+drop-dapp.world
 drop-dogecoin.com
 drop-faucet.exchange
 drop-layerzero.com
@@ -11048,6 +11057,7 @@ eheroapp.feibanana.com.br
 eiable.com
 eiegnlayer.xyz
 eigemlayer.top
+eigenfoundation-airdrop.net
 eigenlayer-app.network
 eigenlayer.info
 eigenlayer.tech
@@ -12133,6 +12143,7 @@ fixedfloat.autos
 fixedfloat.bid
 fixedfloat.bio
 fixedfloat.ca
+fixedfloat.cc
 fixedfloat.cfd
 fixedfloat.ch
 fixedflȯat.com
@@ -12618,6 +12629,7 @@ ftx-id.xyz
 ftxcprotocol.xyz
 ftxwalletfix.com
 fuadazzad.net
+fuel-airdrop.com
 fuelcoin.click
 fuelinjectorservices.com.au
 fuktlamp.site
@@ -12668,6 +12680,7 @@ gala-games.io
 gala-tokens.com
 gala.red
 galacoin.gift
+galaxies-mantanetwork.com
 galaxy-dapinx.store
 galaxyairdrop.xyz
 galaxyfox.xyz
@@ -15525,6 +15538,7 @@ maincryptofixlink.com
 maindapp.com
 maindapp.live
 maindapp.online
+maindappnetwork.com
 maindapprectifier.live
 maindappresolve.online
 maindapps.org
@@ -15939,6 +15953,7 @@ mainwebconnects.online
 mainwebdapp.com
 mainzaffix.com
 mairghetonhke.xyz
+maker-airdrop.io
 maker-dai.net
 maker-spark.claims
 maketools.co
@@ -16285,6 +16300,7 @@ mantanetwork.on-fleek.app
 mantanetwork.online
 mantanetwork.org
 mantanetwork.top
+mantanetwork.win
 mantanetworkairdrop.com
 mantanetworkairdrop.net
 mantanetworkairdrop.org
@@ -16295,6 +16311,7 @@ mantanetworkl.com
 mantanetworknewparadigm.com
 mantanetworknewparadigm.net
 mantanetworkrewards.net
+mantanetworksecuree.xyz
 mantanetworktoken.live
 mantanetworktoken.xyz
 mantanetworkzk.com
@@ -17732,6 +17749,7 @@ mmetamaskloginn.webflow.io
 mmetamaskloginns.webflow.io
 mmfiinahse.com
 mmmetatkmmaeks.azurewebsites.net
+mmoonbeam.network
 mmwebfix.com
 mmxcs.com
 mnata.network
@@ -17857,6 +17875,7 @@ moonbeamc.foundation
 moonbeamconnect.com
 moonbeame.com
 moonbeamin.com
+moonbeamm.network
 moonbeamm.online
 moonbeamnettwork.com
 moonbeamnetwork.online
@@ -22411,6 +22430,7 @@ register-ftm.com
 register-kava.com
 register-layerzero-events.com
 register-mana.com
+register-mantanetwork.app
 register-mantanetwork.com
 register-mantanetwork.net
 register-mantle.com
@@ -31162,6 +31182,7 @@ www-treasure.lol
 wwweb3token.com
 wwwmanta.net
 wwwmanta.top
+wwwmoonbeam.network
 wwwpolkadot.js.org
 wwwverificationmetamask.com
 wx-nodeconnectap.com
