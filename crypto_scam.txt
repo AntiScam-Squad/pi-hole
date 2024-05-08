@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-May-2024 22:00:02 PDT
+# Last updated: 07-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -624,6 +624,7 @@ airdrop-binance.net
 airdrop-blast.com
 airdrop-blur.foundation
 airdrop-blur.xyz
+airdrop-btcminetrix.live
 airdrop-celestia.icu
 airdrop-claim.fun
 airdrop-claimnow.pages.dev
@@ -687,12 +688,14 @@ airdrop-memecoin.icu
 airdrop-memecoin.one
 airdrop-memecoins.one
 airdrop-memeland.org
+airdrop-merlinchain.info
 airdrop-myria.one
 airdrop-ousd.org
 airdrop-pepetestpage.com
 airdrop-phantom.app
 airdrop-polarise.org
 airdrop-polkabridge.com
+airdrop-poodlinu.com
 airdrop-pythnetwork.com
 airdrop-pythnetwork.world
 airdrop-realio.network
@@ -7194,6 +7197,7 @@ cryptopay-secure.com
 cryptopay24.org
 cryptopentest.com
 cryptopepedrops.com
+cryptopiaa.com
 cryptopitex.com
 cryptoplonic.com
 cryptoportalsite.com
@@ -10692,6 +10696,7 @@ dodoswitch.com
 doekrestas.site
 dogclinicaveterinaria.it
 doge-swap.net
+doge20airdrop.com
 doge2coin.com
 dogeceo.live
 dogeclaims.com
@@ -17320,6 +17325,7 @@ metapad-next.com
 metapad-next.info
 metapad-x.info
 metapancakeswap.com
+metarisedapp.online
 metarun.finance
 metasafe.live
 metascapegraph.com
@@ -18087,6 +18093,7 @@ multichain-tokenguidecart.xyz
 multichain-tokenguidecolast.com
 multichain-tokenguidehelper.net
 multichain-tokenguidehelpfer.shop
+multichain-tokenguidehelphouse.net
 multichain-tokenguidehelpline.net
 multichain-tokenguidehelpsave.shop
 multichain-tokenguidehelptray.xyz
