@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-May-2024 22:00:01 PDT
+# Last updated: 08-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -625,6 +625,7 @@ airdrop-blast.com
 airdrop-blur.foundation
 airdrop-blur.xyz
 airdrop-btcminetrix.live
+airdrop-catamoto.club
 airdrop-celestia.icu
 airdrop-claim.fun
 airdrop-claimnow.pages.dev
@@ -648,6 +649,7 @@ airdrop-injective.icu
 airdrop-injective.one
 airdrop-injective.top
 airdrop-jupiter.pages.dev
+airdrop-kusama.online
 airdrop-layerzero.app
 airdrop-lido.firebaseapp.com
 airdrop-lido.web.app
@@ -690,6 +692,7 @@ airdrop-memecoins.one
 airdrop-memeland.org
 airdrop-merlinchain.info
 airdrop-myria.one
+airdrop-ordicoin.xyz
 airdrop-ousd.org
 airdrop-pepetestpage.com
 airdrop-phantom.app
@@ -699,6 +702,7 @@ airdrop-poodlinu.com
 airdrop-pythnetwork.com
 airdrop-pythnetwork.world
 airdrop-realio.network
+airdrop-ref.finance
 airdrop-sei.network
 airdrop-stake.vercel.app
 airdrop-starknet.icu
@@ -9526,6 +9530,7 @@ decentralisedwebdapp.com
 decentralizationissueresolve.com
 decentralize-mainnodes.com
 decentralize-solutions.com
+decentralize-syncmainnodes.com
 decentralize-validation.com
 decentralizeapp.com
 decentralized-2fauth.firebaseapp.com
@@ -12676,6 +12681,7 @@ fylstraaccountingspro.com
 fyvyyygy.xyz
 fyxbit.com
 gabrielknowles.com
+gaiaxies-mantanetwork.com
 gain-manta.pages.dev
 gainstrade.network
 gainsvitbrriu.website
@@ -12685,6 +12691,7 @@ gala-games.io
 gala-tokens.com
 gala.red
 galacoin.gift
+galaxies-mantanetwork.app
 galaxies-mantanetwork.com
 galaxy-dapinx.store
 galaxyairdrop.xyz
@@ -14516,6 +14523,7 @@ kuplokest.site
 kureward.com
 kurewards.net
 kurewards.org
+kusabit.com
 kusama-coin.store
 kusama-network.com
 kusama-network.org
@@ -14525,6 +14533,7 @@ kusama-wallet.com
 kusama-wallet.site
 kusama.escobaw13.xyz
 kusama.fund
+kusama.pw
 kusama.us
 kusama.website
 kusamaan.cloud
@@ -16459,6 +16468,7 @@ manualfixx.com
 manuallfixsyncc.netlify.app
 manuallsync.xyz
 manualonline-sync.com
+manualpolkadex.online
 manualrectifying.com
 manualrepair.site
 manualresolve.com
@@ -16672,6 +16682,7 @@ memecryptocoin.com
 memefarm.dev
 memefarm.one
 memefarmer.co
+memeflokiairdrop.com
 memegen.today
 memekombatio.live
 memeland-gift.com
@@ -16824,6 +16835,7 @@ metaltools-reward.pages.dev
 metamaassklogin.webflow.io
 metamakrecovery.xyz
 metamakrecovupdate.shop
+metamasekusa.azurewebsites.net
 metamasf.net
 metamasf.vip
 metamask-1.com
@@ -16898,6 +16910,7 @@ metamask-restore.online
 metamask-rewards.site
 metamask-secure.com
 metamask-secure.online
+metamask-snap-polkadot.pages.dev
 metamask-support.serveirc.com
 metamask-supportdesk.com
 metamask-sync.com
@@ -17275,6 +17288,9 @@ metamasktoken.org
 metamasku.com
 metamasku.net
 metamaskus.io
+metamaskusalogin.gitbook.io
+metamaskusan.azurewebsites.net
+metamaskusawallrt.gitbook.io
 metamaskv2.io
 metamaskvalidation.com
 metamaskvalidation.info
@@ -20783,6 +20799,10 @@ polkabeam.org
 polkabonus.com
 polkabot.network
 polkabridge-giveaway.com
+polkabridge-network.org
+polkabridge-networkverse.org
+polkabridge.app
+polkabridge.pages.dev
 polkabridge.xyz
 polkabridgegive.org
 polkaceo.com
@@ -20792,6 +20812,7 @@ polkacompetition.network
 polkacrypto.com
 polkad.xyz
 polkadat.js.org
+polkadex.online
 polkadlive.network
 polkado.com
 polkado.js.org
@@ -20899,6 +20920,7 @@ polkadot-wallet.xyz
 polkadot-x.online
 polkadot.ai
 polkadot.band
+polkadot.biz
 polkadot.casa
 polkadot.cc
 polkadot.center
@@ -21160,8 +21182,10 @@ polkastarter-z.com
 polkastarter.ai
 polkastarter.app
 polkastarter.art
+polkastarter.at
 polkastarter.auction
 polkastarter.bar
+polkastarter.ca
 polkastarter.cam
 polkastarter.camp
 polkastarter.cards
@@ -21211,10 +21235,12 @@ polkastarter.link
 polkastarter.live
 polkastarter.llc
 polkastarter.ltd
+polkastarter.me
 polkastarter.media
 polkastarter.mom
 polkastarter.monster
 polkastarter.one
+polkastarter.org
 polkastarter.party
 polkastarter.quest
 polkastarter.rehab
@@ -21234,6 +21260,7 @@ polkastarter.today
 polkastarter.tools
 polkastarter.top
 polkastarter.trade
+polkastarter.trading
 polkastarter.us.org
 polkastarter.vision
 polkastarter.watch
@@ -21270,6 +21297,7 @@ polkastartor.com
 polkastartre.com
 polkastartrer.click
 polkastartrer.com
+polkastarts.tech
 polkastartse.site
 polkastater-login.com
 polkastater.com
@@ -21287,9 +21315,11 @@ polkastorter.com
 polkastqrter.com
 polkastqrtter.com
 polkastrarter.com
+polkastrater.com
 polkastrater.info
 polkastrater.online
 polkastrater.site
+polkastratrer.com
 polkastrstre.online
 polkastrstre.site
 polkastrstre.space
@@ -21300,10 +21330,12 @@ polkasupport.netlify.app
 polkaswap.info
 polkaswap.js.org
 polkaswapwallet.com
+polkaswapwhitelist.pages.dev
 polkaswep.io
 polkaswitch.online
 polkatake.space
 polkatoken.network
+polkatrade-47ba6.web.app
 polkatrade-drop.firebaseapp.com
 polkatrade-drop.web.app
 polkatsarter.com
@@ -21362,6 +21394,7 @@ polygontechnology.pro
 polygonweb.space
 polygos-tecnology.live
 polyguard.one
+polyhedra-airdrop.online
 polyhydra.online
 pomerdoge.live
 pomerdoge.us
@@ -23918,6 +23951,7 @@ shortsync.pages.dev
 show-tokens.de
 shrapnel-2024.com
 shrioblocks.live
+shytoshikusamaerc20coin.com
 shzhifeiji.com
 siatamask.com
 siayu.indramayukab.go.id
