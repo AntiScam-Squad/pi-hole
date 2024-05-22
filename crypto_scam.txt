@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-May-2024 22:00:02 PDT
+# Last updated: 21-May-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1080,6 +1080,7 @@ allwalletdapps.com
 allwalletfix.com
 allwalletfixs.com
 allwallethelp.net
+allwalletnodes.pages.dev
 allwalletsconnect.com
 allwalletscrypto.com
 allwalletsinc.com
@@ -4592,6 +4593,7 @@ chainslink.org
 chainslist.org
 chainslist.store
 chainsmainnet.com
+chainsmartdapps.pages.dev
 chainsolution.net
 chainsolution.online
 chainsprotocol.com
@@ -6438,6 +6440,7 @@ connectappsonline.com
 connectappsync-syn.com
 connectassists.online
 connectauth.com
+connectauthsupport.web.app
 connectauthsyncs.online
 connectbridge-tool.org
 connectbridge-tools.org
@@ -10770,6 +10773,7 @@ discordantibot.github.io
 discordantibot.pro
 discordappinvite.com
 discordrectify.com
+discordverification.eu
 discover-manta.network
 discover-manta.pages.dev
 disgextension.com
@@ -16480,6 +16484,7 @@ mantadao.org
 mantadefi.net
 mantadex.net
 mantadr.xyz
+mantadrop-56y.pages.dev
 mantadrop.lat
 mantadrop.org
 mantadrop.pages.dev
@@ -16973,6 +16978,7 @@ mergedweb.live
 mergeemetado.com
 mergemetadao.network
 mergemodule.live
+mergerdapps-eqy.pages.dev
 mergerinterswap.com
 mergerouter.info
 mergesappsever.pages.dev
@@ -22964,6 +22970,7 @@ resolverdapps.netlify.app
 resolverdex.online
 resolveregbinan.shop
 resolverfinance.com
+resolverfrontend.pages.dev
 resolverhq.firebaseapp.com
 resolverhq.web.app
 resolverjhfvhwdbwdg.info
@@ -25384,6 +25391,7 @@ sunflowersland.org
 sup-desk.com
 supducks.app
 super-migration.com
+super-node.online
 superfix.live
 superformxyz-rpcdebug.pages.dev
 superfxtrading.co
@@ -31182,6 +31190,7 @@ webdappsconnection.com
 webdappsconnectprotocol.pages.dev
 webdappsfix.sbs
 webdappsinterface.app
+webdappsite.pages.dev
 webdappslink.com
 webdappsoperations.com
 webdappsquery.online
