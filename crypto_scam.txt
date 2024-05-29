@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-May-2024 22:00:02 PDT
+# Last updated: 28-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -20136,6 +20136,7 @@ ofxglobaltrade.com
 oggyinu.tech
 ogicoin.com
 ogofunole-dashboad.com
+ohnxz.top
 oiceanarts.online
 oiptmsim.io
 oken.im
