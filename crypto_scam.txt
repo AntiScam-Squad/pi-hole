@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-May-2024 22:00:01 PDT
+# Last updated: 29-May-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -19605,6 +19605,7 @@ nlunatoken.com
 nlweb3.com
 nmemecoins.com
 nmtpolkadot.js.org
+nnnfk.top
 noanews.al
 noatloknt.site
 nocovid19.finance
