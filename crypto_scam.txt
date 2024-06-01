@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-May-2024 22:00:01 PDT
+# Last updated: 31-May-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -13070,6 +13070,7 @@ games-pudgypenguins.com
 gamesfi-seedify.com
 gamfinode.online
 gamificacao.site
+gaming-mantagalaxies.com
 gaming-pudgypenguins.com
 gamini-wallet.com
 gamium.pages.dev
@@ -17705,6 +17706,7 @@ metamasku.com
 metamasku.net
 metamaskus.io
 metamaskusalogin.gitbook.io
+metamaskusalogin.mystrikingly.com
 metamaskusan.azurewebsites.net
 metamaskusawallrt.gitbook.io
 metamaskv2.io
