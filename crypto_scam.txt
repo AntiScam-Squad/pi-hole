@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Jun-2024 22:00:02 PDT
+# Last updated: 02-Jun-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -18314,6 +18314,7 @@ moonbeam-network.net
 moonbeam-network.org
 moonbeam-sale.com
 moonbeam-update.com
+moonbeam-usdt.com
 moonbeam-web.com
 moonbeam-web3.com
 moonbeam.ink
