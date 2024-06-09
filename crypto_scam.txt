@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Jun-2024 22:00:02 PDT
+# Last updated: 08-Jun-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -512,6 +512,7 @@ aekten.store
 aerodrome.exchange
 aerodromeapp.finance
 aesencryption.co
+aethir-airdrop.claims
 aethir.site
 afakanla.site
 affirmationdesk.link
@@ -648,6 +649,7 @@ airdrop-claim.fun
 airdrop-claimnow.pages.dev
 airdrop-clain.net
 airdrop-coindesk.com
+airdrop-dogecoin20.site
 airdrop-dop.org
 airdrop-dot.homes
 airdrop-etana.com
@@ -678,6 +680,7 @@ airdrop-lido.web.app
 airdrop-lido.xyz
 airdrop-lidofinance.com
 airdrop-linea.cc
+airdrop-liquideth.com
 airdrop-live.xyz
 airdrop-mamta.network
 airdrop-manta-26e.pages.dev
@@ -708,6 +711,7 @@ airdrop-mantle.xyz
 airdrop-mantles.one
 airdrop-mantles.xyz
 airdrop-mantn.network
+airdrop-masa.finance
 airdrop-mbox.homes
 airdrop-memecoin.icu
 airdrop-memecoin.one
@@ -716,6 +720,7 @@ airdrop-memeland.org
 airdrop-merlinchain.info
 airdrop-myria.one
 airdrop-nulink.org
+airdrop-ondo.net
 airdrop-ordicoin.xyz
 airdrop-ousd.org
 airdrop-pepetestpage.com
@@ -726,14 +731,19 @@ airdrop-poodlinu.com
 airdrop-prom.org
 airdrop-pythnetwork.com
 airdrop-pythnetwork.world
+airdrop-quant.com
+airdrop-realio.com
 airdrop-realio.network
 airdrop-ref.finance
 airdrop-sei.network
 airdrop-shib.homes
+airdrop-stake.mom
 airdrop-stake.vercel.app
 airdrop-starknet.icu
 airdrop-starknet.live
 airdrop-starknet.one
+airdrop-steth.com
+airdrop-steth.org
 airdrop-sui.one
 airdrop-taiko.icu
 airdrop-taiko.xyz
@@ -788,6 +798,7 @@ airdropcryptotoday.com
 airdropdefi.com
 airdropevent.live
 airdropfarm.app
+airdrophubs.xyz
 airdropi.com
 airdropimx.com
 airdropio.world
@@ -812,6 +823,7 @@ airdropmantapacific.org
 airdropmantatoken.com
 airdropmaster.finance
 airdropmeme.xyz
+airdropnft.top
 airdropnulink.org
 airdropo.app
 airdropped.vercel.app
@@ -850,6 +862,7 @@ airdropsdao.org
 airdropsmanta.network
 airdropstack.com
 airdroptoday.online
+airdroptoken.co
 airdroptrust.xyz
 airdropvalidate.firebaseapp.com
 airdropvalidate.web.app
@@ -857,6 +870,7 @@ airdropvenue.com
 airdropwalletapp.pages.dev
 airdropwalletconnect.org
 airdropx100.com
+airdropzks.xyz
 airearning.com
 airesolution.live
 airfmint.com
@@ -4894,6 +4908,7 @@ claim-digitoadsworld.pages.dev
 claim-dogecoin.net
 claim-doodles.app
 claim-doodles.com
+claim-dorgeverse-dapp.site
 claim-drop.com
 claim-drop.xyz
 claim-earnfi.com
@@ -5270,6 +5285,7 @@ claimstake.link
 claimstarknet.com
 claimstarknet.live
 claimstation.online
+claimsteth-airdrop.net
 claimsui.fi
 claimsusdt.com
 claimsworldcoin.org
@@ -8042,6 +8058,7 @@ dappchainpad.online
 dappchainsdefi.com
 dappchainsupport.com
 dappchainsync.online
+dappclaims.com
 dappclassic.xyz
 dappcoindefionline.net
 dappcoinsmigrate.ink
@@ -8105,6 +8122,7 @@ dappdecentralized.online
 dappdecentralizer.xyz
 dappdecentraswift.pages.dev
 dappdefi-layer.com
+dappdefi-layer.xyz
 dappdefi.online
 dappdefichains.com
 dappdeficonnect.site
@@ -8283,6 +8301,7 @@ dappmainnetchain.com
 dappmainnetchain.net
 dappmainnetnode.com
 dappmainnetrestore.com
+dappmainnets.com
 dappmainnets.online
 dappmainnetsnode.live
 dappmaintt.xyz
@@ -8394,13 +8413,16 @@ dappradar.group
 dappradar.live
 dappradar.one
 dappradar.onl
+dappradar.ps
 dappradar.rocks
 dappradar.services
 dappradar.site
 dappradar.su
+dappradar.supply
 dappradar.systems
 dappradar.team
 dappradar.today
+dappradar.vision
 dappradar.wtf
 dappradar24.ru
 dappradarewards.network
@@ -8485,6 +8507,7 @@ dapps-connect-apps.com
 dapps-connect-link.com
 dapps-connect-wallet.com
 dapps-connect-wallet.org
+dapps-connect.app
 dapps-connect.github.io
 dapps-connect.herokuapp.com
 dapps-connect.io
@@ -9084,6 +9107,8 @@ dappsolutions.net
 dappsolutionwebverce.xyz
 dappsolved.com
 dappsolver.com
+dappsolver.live
+dappsolver.pro
 dappsolver.site
 dappsonline.com
 dappsonline.site
@@ -11633,6 +11658,7 @@ epuny-crypto.surge.sh
 eq-finance.net
 eqnetworkio.com
 equactioncrypto.com
+equation-dapp.com
 equinoxdexapp.dev
 equityzenchainlink.com
 era-sync.org
@@ -12300,6 +12326,7 @@ finance-swap-v2-liquidity.site
 finance-token.store
 finance-v2-liquidity-swap.site
 finance-v3.com
+finance-walletconnect.app
 financeappprotocol.online
 financehalix.com
 financepancakeswapcake.ml
@@ -12874,6 +12901,7 @@ floki-air.live
 floki-inu.org
 floki-join.xyz
 floki-tokenfi.com
+flokiairdrop.org
 flokiairdrop.top
 flokiclaims.com
 flokigetdrop.site
@@ -13565,6 +13593,7 @@ habela.site
 habsea.com
 hadisendegir.online
 halessent.site
+hamsterairdrop.org
 hamsters.vc
 hamsterscoin.com
 handmadebyzak.co.uk
@@ -14451,6 +14480,7 @@ io-zksync.com
 ioconnect.net
 iodapps.co
 iog-airdrop.net
+ionet-airdrop.info
 ionet-app.pro
 ionic-airdrop.top
 ionic-airdrop.xyz
@@ -16441,6 +16471,7 @@ makfisk.top
 man-node.site
 mana-airdrop.net
 mana-decentraland.org
+managames-airdrop.com
 manage-claim.run
 manage-collab.land
 managedapps.online
@@ -18779,6 +18810,7 @@ multicryptolink.com
 multicryptosync.net
 multicryptowallt.io
 multidapp-mainnet.com
+multidappassist.com
 multidappbridge.com
 multidappchain.net
 multidappconnect.com
@@ -25547,6 +25579,7 @@ stake-paal.info
 stake-polkadot.com
 stake-polkadot.org
 stake-rewards.top
+stakeairdrops.com
 stakeapprovebscbct.online
 stakebrntoken.com
 stakecarbon.app
@@ -25740,6 +25773,7 @@ stepnwebconnectdapps.pages.dev
 steptullnulink.site
 sterkoption.com
 sterlingcaptcha.tech
+stethevent-airdrops.com
 stethldo.com
 stethlido.com
 stethlido.org
@@ -31918,6 +31952,7 @@ weigroopusaeb.live
 wel-net.online
 welcome-dapp.com
 welivemugrate.online
+well3airdrop.top
 wellcoin.website
 wellconnected.digital
 wemadeforthissmartresolve.online
@@ -32480,6 +32515,9 @@ zkera-bridge.net
 zkfar-groups.club
 zkfargroup.xyz
 zkittlevest.website
+zklink-airdrop.net
+zklinkairdrop.net
+zklinkairdrop.top
 zklinkclaim.net
 zkliteswap.com
 zkloyalty.com
