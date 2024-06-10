@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Jun-2024 22:00:02 PDT
+# Last updated: 09-Jun-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -184,6 +184,7 @@
 4r74h-viaaa-aaaal-qbqna-cai.raw.icp0.io
 4vvuniswap.top
 5-253-84-133.plesk.page
+5645342673567846435467.cloud
 5gfixbox.com
 5gwalletfix.com
 5ıre.com
@@ -307,6 +308,7 @@ acalas.top
 acalas.xyz
 acalastaking.network
 acalatrack.com
+acalla.network
 acallanetwork.com
 acapolkadot.js.org
 acatoken.network
@@ -2206,6 +2208,7 @@ astar-network-portal.com
 astar-network-portal.org
 astar-network-wallet.com
 astar-network.com-t.co
+astar.buzz
 astar.coins-pad.tech
 astar.homes
 astar.mba
@@ -8215,6 +8218,7 @@ dappextension.com
 dappextensions.com
 dappfactoryvalidationconnect.online
 dappfastfix.live
+dappfix-mainnet.pages.dev
 dappfix-net.online
 dappfix.app
 dappfix.com
@@ -18451,6 +18455,7 @@ moonswaptoken.com
 moontrum.com
 moonv2.help
 moonwarpre-sale.live
+moonwell.digital
 moonwellstake.fi
 mooonriver.network
 moox.pro
@@ -20576,6 +20581,7 @@ optimnism.com
 optimus-token.xyz
 optitoadz.com
 optiver-chain.live
+optkabstakng.pages.dev
 optlmismtoken.live
 optstakihifiprompt.pages.dev
 opuscule-uncertaint.000webhostapp.com
@@ -24113,6 +24119,7 @@ safepalps.com
 safepocket.live
 safercoins.online
 safereum.in
+saferpcnode.vercel.app
 safeswap.site
 safesync.app
 safesyncs.net
