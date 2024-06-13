@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Jun-2024 22:00:01 PDT
+# Last updated: 12-Jun-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -14744,6 +14744,7 @@ jolrhunsmacsbanesha.ru
 joulekkerding.co.za
 journey-mantle.com
 jovensacademy.com
+jpivd.top
 jpolkadot.js.org
 jto-coin.com
 jto-network.com
