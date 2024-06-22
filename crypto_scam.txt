@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Jun-2024 22:00:01 PDT
+# Last updated: 21-Jun-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -707,6 +707,7 @@ airdrop-jupiter.pages.dev
 airdrop-kusama.online
 airdrop-layerzero.app
 airdrop-layerzero.click
+airdrop-layerzeros.foundation
 airdrop-lido.firebaseapp.com
 airdrop-lido.web.app
 airdrop-lido.xyz
@@ -714,6 +715,8 @@ airdrop-lidofinance.com
 airdrop-linea.cc
 airdrop-liquideth.com
 airdrop-lista.org
+airdrop-listadao.top
+airdrop-listadao.xyz
 airdrop-live.xyz
 airdrop-mamta.network
 airdrop-managift.org
@@ -922,6 +925,8 @@ airdropvenue.com
 airdropwalletapp.pages.dev
 airdropwalletconnect.org
 airdropx100.com
+airdropzizle.top
+airdropzizle.xyz
 airdropzks.xyz
 airdropzones.xyz
 airearning.com
@@ -5418,6 +5423,7 @@ claimsei.io
 claimseth.com
 claimsflip.com
 claimsftx.com
+claimsfuel-airdrop.xyz
 claimshibainu.capital
 claimslinea.com
 claimslink.app
@@ -16273,6 +16279,7 @@ maesara.com
 maestrobots.xyz
 maestrocointek.com
 maextrocloud.net
+magamemecoin-airdrop.org
 magic-walletconnect.com
 magicden.digital
 magiceden-launchpad-sagastudio.pages.dev
@@ -17125,6 +17132,7 @@ mantalayerbank.finance
 mantalnetwork.com
 mantamemwork.one
 mantamemwork.xyz
+mantanames.dev
 mantanames.xyz
 mantananetwork.com
 mantananetwork.site
@@ -19005,6 +19013,7 @@ multichain-portal.xyz
 multichain-pro.com
 multichain-pro.net
 multichain-pro.org
+multichain-protocol.tech
 multichain-protocolkit.netlify.app
 multichain-rectifier.com
 multichain-rectify.com
@@ -24093,6 +24102,7 @@ rewards-lightlink.io
 rewards-makerdao.org
 rewards-manta.com
 rewards-mantanetwork.com
+rewards-mantanetwork.net
 rewards-mantapacific.net
 rewards-mevfree.live
 rewards-mode.com
