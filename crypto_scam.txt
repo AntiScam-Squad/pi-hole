@@ -1,10 +1,9 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Jun-2024 22:00:02 PDT
+# Last updated: 26-Jun-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
-.top
 07e96d43-381a-46a3-9c16-6daf97213efc.co
 09sync00.duckdns.org
 0kxwallet.org
@@ -4579,6 +4578,7 @@ centralizedsmart-fix.live
 centralizedsmart-protocol.live
 centralizedvalidate.com
 centralizedweb3exchange.pro
+centrallink.pages.dev
 centralnode.live
 centralnodes.live
 centraloptimal-pad.buzz
@@ -4605,6 +4605,7 @@ cextradeinc.com
 cexus-master.com
 ceykulanman.store
 cfd500connect.xyz
+cfdappconnect.tech
 cfdconnect.online
 cfddapp.live
 cfddapp.tech
@@ -5637,6 +5638,7 @@ coiinstechsoltuons.live
 coiintechsolution.lol
 coiintechsolutions.live
 coiirndappsolluitoin.xyz
+coilab-land.xyz
 coilab.xyz
 coin-affixs.com
 coin-base.org.cn
@@ -6414,6 +6416,7 @@ collablandtools.online
 collablandup.cc
 collablandupdate.com
 collablandverification.cc
+collablandverify.onrender.com
 collablandwallet.netlify.app
 collablandwalletconnect.xyz
 collablandwallets.xyz
@@ -10633,6 +10636,7 @@ defiprotocols.pages.dev
 defiprotocols.webflow.io
 defiprotocolservices.net
 defiprotocolsrectify.com
+defiprotocolsweb.pages.dev
 defiprotocolsync.com
 defiprotocolsync.web.app
 defiprotocolweb.live
@@ -11067,6 +11071,7 @@ dexsynchub.com
 dexsynclink.live
 dextdapps.link
 dextokenrewards.online
+dextool-fix.pages.dev
 dextool.app
 dextool.icu
 dextoolauth.com
@@ -11833,6 +11838,7 @@ emvnetwork.net
 en-alldappsfix.pages.dev
 en-appsmultichains.live
 en-appsmultichainss.com
+en-chainrestore.pages.dev
 en-dapprectify.pages.dev
 en-issuefix.pages.dev
 en-manualrestore.pages.dev
@@ -17733,6 +17739,7 @@ mergemodule.live
 mergerdapps-eqy.pages.dev
 mergerinterswap.com
 mergerouter.info
+merges-appsever-dapps.pages.dev
 mergesappsever.pages.dev
 mergesappsevers.pages.dev
 mergesappssever.pages.dev
@@ -18626,6 +18633,7 @@ migrationfix.pages.dev
 migrationfixs.live
 migrationformfix.pages.dev
 migrationlinkz.click
+migrationplatforms.online
 migrationprompt.com
 migrationsfix.com
 migrationsfix.live
@@ -20305,6 +20313,7 @@ node-protocol.com
 node-resolve-all-defi-setup.com
 node-restore.tech
 node-revalidation.online
+node-rpc.pages.dev
 node-sc.com
 node-secured.com
 node-solidity.live
@@ -20473,6 +20482,7 @@ noderectify.com
 noderectify.net
 noderectifysyncs.com
 noderefresh.com
+noderelayer.pages.dev
 noderemedy.com
 noderepairs.xyz
 noderepository.xyz
@@ -27139,6 +27149,7 @@ syncfixed.repair
 syncfixit.com
 syncflexible.com
 syncflexible.pages.dev
+syncfulldap.pages.dev
 syncfusion.buzz
 syncfusions.com
 syncget.online
@@ -32109,6 +32120,7 @@ web-d0e37.web.app
 web-dappbridge.online
 web-dapps-bridge.online
 web-dapps-connector.netlify.app
+web-dappsync.xyz
 web-dappwallet.com
 web-defiwallets.app
 web-extension.online
@@ -32575,6 +32587,8 @@ webliverevallidates.com
 webmainnet.net
 webmainnetai.pages.dev
 webmainnetconnector.pages.dev
+webmainnetfix.firebaseapp.com
+webmainnetfix.web.app
 webmainnetrestore.com
 webmainnets.com
 webmerged.live
@@ -33345,6 +33359,7 @@ zknewdcs.pages.dev
 zkpepe.pw
 zkpepe.website
 zkpmainnetbridge.com
+zkpolyhedra.tech
 zks-bridge.xyz
 zks-labsfoundation.com
 zks-labsfoundation.net
