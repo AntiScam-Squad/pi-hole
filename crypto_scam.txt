@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Jun-2024 22:00:02 PDT
+# Last updated: 01-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -15526,6 +15526,7 @@ krowtenoowtroppus.live
 krypt-crest.netlify.app
 kryptconnect.com
 kryptconnect.xyz
+kryptian.org
 kryptmaintenaince.com
 kryptnodes.com
 kryptoconnect-support.com
@@ -21880,6 +21881,7 @@ pcloudfxcrediteconnectverification.com
 pcrivnote.com
 pcshelpdesk.co
 pcsupport24-7.com
+pdpfzj.top
 pdugyworld.com
 peacemakerinu.com
 peakdefi.net
@@ -30342,6 +30344,7 @@ voltconnector.com
 voltek.foundation
 voltinu-migrated.live
 voltinuclaim.in
+voltpaydigitals.com
 voltprotocol.live
 vortexcrypto-mining.company
 vote-cyberdao.net
