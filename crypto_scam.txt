@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Jul-2024 22:00:01 PDT
+# Last updated: 02-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -7964,6 +7964,7 @@ cvv2.sbs
 cwalet.com
 cwaptrade.com
 cwconnecting.online
+cwgml.top
 cwnodeconnecting.online
 cxjig.top
 cxvxc.tech
