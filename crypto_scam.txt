@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Jul-2024 22:00:02 PDT
+# Last updated: 04-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9786,6 +9786,7 @@ dappswiftethermigrate.com
 dappswsolutionconnect.com
 dappsxfix.pages.dev
 dappsychronizer-wallet.com
+dappsychronizer.com
 dappsync-apw.pages.dev
 dappsync-extensions.com
 dappsync-resolvepage.xyz
