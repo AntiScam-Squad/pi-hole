@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Jul-2024 22:00:01 PDT
+# Last updated: 08-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -12445,6 +12445,7 @@ ethereumrestore.com
 ethereums.app
 etherfi-6rc.pages.dev
 etherfi-6za.pages.dev
+etherfi-claim.xyz
 etherfi.wtf
 etherfilive.com
 etherfis.xyz
@@ -17784,6 +17785,7 @@ mantaus.info
 mantaweb.network
 mantaweb.pages.dev
 mantawebapp.pages.dev
+mantawebdapp.pages.dev
 mantaworld-air.com
 mantax.network
 mantax.pages.dev
@@ -18238,6 +18240,7 @@ metaltools-reward.pages.dev
 metamaassklogin.webflow.io
 metamakrecovery.xyz
 metamakrecovupdate.shop
+metamaseakusa.azurewebsites.net
 metamasekusa.azurewebsites.net
 metamasf.net
 metamasf.vip
@@ -18614,6 +18617,7 @@ metamaskk.com
 metamaskk.dray-dns.de
 metamaskk.org
 metamaskkeyverif.com
+metamaskkusaloginus.webflow.io
 metamaskkwalleet.webflow.io
 metamaskl0gine.webflow.io
 metamaskl0ginn.webflow.io
@@ -18691,6 +18695,7 @@ metamasktoken.org
 metamasku.com
 metamasku.net
 metamaskus.io
+metamaskusa-login.gitbook.io
 metamaskusalogin.gitbook.io
 metamaskusalogin.mystrikingly.com
 metamaskusan.azurewebsites.net
@@ -22163,6 +22168,7 @@ pbistakevalidation.com
 pcakecoins.finance
 pccpa.cc
 pcertification.xyz
+pclkaclotre.top
 pcloudfxcrediteconnectverification.com
 pcrivnote.com
 pcshelpdesk.co
