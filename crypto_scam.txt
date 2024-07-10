@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Jul-2024 22:00:02 PDT
+# Last updated: 09-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3748,6 +3748,7 @@ blast-claim-foundation.com
 blast-drop.net
 blast-foundations.pages.dev
 blast-invite.xyz
+blast-io-l2.pages.dev
 blast-io.art
 blast-io.claims
 blast-io.co
@@ -8726,6 +8727,7 @@ dappfixing.app
 dappfixing.com
 dappfixings.app
 dappfixings.com
+dappfixissue.pages.dev
 dappfixmytoken.com
 dappfixnode.com
 dappfixnodes.com
@@ -9488,6 +9490,7 @@ dappsintegrate.live
 dappsintegrate.one
 dappsintegrated.online
 dappsintegrating.com
+dappsintegration-rectify.pages.dev
 dappsintegration.net
 dappsintegrationserver.com
 dappsinterface.com
@@ -12445,6 +12448,7 @@ ethereumrestore.com
 ethereums.app
 etherfi-6rc.pages.dev
 etherfi-6za.pages.dev
+etherfi-airdrop.xyz
 etherfi-claim.xyz
 etherfi.wtf
 etherfilive.com
@@ -12846,6 +12850,7 @@ fastestonlinevalidation.site
 fastetnet.site
 fastfixapp.com
 fastfixbugs.xyz
+fastfixed.pages.dev
 fastfixnow.live
 fastfixnow.net
 fastfixwallet.com
@@ -15778,6 +15783,7 @@ kucoin-token.com
 kucoin-wallets.gq
 kucoin.financial
 kucoinredeem.com
+kugdw.top
 kuku3connect.com
 kulssentres.site
 kulswap.com
@@ -15853,6 +15859,7 @@ lampoant.site
 lampvest.site
 lamzgrp.xyz
 lanav2.com
+land-api-app.com
 land-assest.com
 land-assets.app
 land-bot-role.com
@@ -23288,6 +23295,7 @@ primordia.space
 prismafinance.app
 prismchaintech.pages.dev
 pristinesafetrade.com
+privacy-dapps.pages.dev
 privacy-wallet.online
 privacydapps.pages.dev
 private-zksync.com
@@ -23460,6 +23468,7 @@ protocolapps.tools
 protocolapps.web.app
 protocolauthverify.site
 protocolbank.money
+protocolchain.pages.dev
 protocolchains.xyz
 protocolcoins.pages.dev
 protocolconnect.site
@@ -24436,6 +24445,7 @@ resolution-mainnet.live
 resolution-mainnets.live
 resolution-panel.com
 resolutioncenterdapplive.000webhostapp.com
+resolutiondapps.pages.dev
 resolutiondex.com
 resolutiondex.live
 resolutionmainserver.pro
@@ -25072,6 +25082,7 @@ rpchubrecovery.icu
 rpchubrepair.com
 rpchubrepair.net
 rpchubtools.net
+rpclink.pages.dev
 rpclists.xyz
 rpcmainnet.com
 rpcmasters.com
@@ -26623,6 +26634,7 @@ solomoney11.github.io
 solrazr.club
 solrefundprotocol.com
 solresolve.tech
+solrewardlive.pages.dev
 solsolvevalidly.org
 solsynclab.com
 solt-mnsolution.online
@@ -28055,6 +28067,7 @@ syncvalidator.netlify.app
 syncvalidator.web.app
 syncvalidator.xyz
 syncvalidator1.xyz
+syncvalidators.pages.dev
 syncverse.live
 syncvizer.com
 syncwalet.netlify.app
@@ -28197,6 +28210,7 @@ systemvalidator.com
 systemvalidatorexplorer.com
 systemverify.online
 systemwalletvalidation.com
+sysxes.com
 t0ken.im
 t0kenp0cket.com
 t0kenp0cket.org.cn
