@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Jul-2024 22:00:01 PDT
+# Last updated: 10-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4390,6 +4390,7 @@ brigdeextension.info
 brigdenet.com
 brigeprotocol.com
 briskminersfx.com
+britfx.net
 broken-block-5040.on.fleek.co
 brokksolution.com
 browmprime.com
