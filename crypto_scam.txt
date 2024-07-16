@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Jul-2024 22:00:01 PDT
+# Last updated: 15-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -19364,6 +19364,7 @@ mneumonicactivator.com
 mneumonicactivator.net
 mneumonicactivator.org
 mneumonicactivator.pro
+mnhmo.top
 mnt-network.org
 mntairdrop.xyz
 mntestkent.site
@@ -19502,6 +19503,7 @@ moonbeamunlock.com
 moonbean-network.app
 moonbeanm.network
 moonbearm.network
+moonbearn.network
 moonbirds-claim.com
 moonbirds.online-mint.com
 moonbirdsclaim.xyz
@@ -24059,6 +24061,7 @@ quickwalletconnect.netlify.app
 quickwithdrawal.com
 quivilentdex.website
 qutrex.com
+qvegy.top
 qwazily.com
 qwertasverify.ddnss.org
 r5r6yt78u9i92jg.com
