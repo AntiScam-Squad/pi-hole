@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Jul-2024 22:00:02 PDT
+# Last updated: 16-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2844,6 +2844,7 @@ autos-migrates.live
 autosetfix.com
 autosfixmigrates.live
 autosmartappconnect.pro
+autosmartnodefix.pages.dev
 autosolutionfastlink.com
 autosolutiontoken.com
 autosolutiontokenss.com
@@ -3630,6 +3631,7 @@ bitconnect.xfiniitycare.online
 bitconnecthub.com
 bitconnectwallet.com
 bitcountry.org
+bitcryp0.online
 bitcryptowallets.com
 bitcypo-dapp.netlify.app
 bitcypo-xi.vercel.app
@@ -4367,6 +4369,7 @@ bridgeaptos.net
 bridgearbltrum.com
 bridgeavax.network
 bridgeavaxnet.xyz
+bridgeblock-hub.pages.dev
 bridgeblockchainprotocol.com
 bridgeconect.com
 bridgeconnect.herokuapp.com
@@ -5730,6 +5733,7 @@ claimsflip.com
 claimsftx.com
 claimsfuel-airdrop.xyz
 claimshibainu.capital
+claimshido.pages.dev
 claimslinea.com
 claimslink.app
 claimsmatic.com
@@ -10727,6 +10731,7 @@ defi-net.online
 defi-node.com
 defi-node.org
 defi-nodeapi.com
+defi-nodeportal.online
 defi-nodeserver.com
 defi-nodetool.com
 defi-nodetools.com
@@ -11523,6 +11528,7 @@ digital-smartprotocol.live
 digital-smartsync.live
 digital-synchub.com
 digital-synchub.live
+digital.ulse.site
 digitalannex.live
 digitalappsync.online
 digitalassetssolution.com
@@ -15618,6 +15624,7 @@ jto-network.com
 jto-token.com
 jtoairdrop.com
 jtodrop.network
+jtwdw.top
 juice-claim.com
 juicefinance-cug.pages.dev
 juicy-opikeses.org.ua
@@ -18270,6 +18277,7 @@ mergerdapps-eqy.pages.dev
 mergerinterswap.com
 mergerouter.info
 merges-appsever-dapps.pages.dev
+mergesapps.pages.dev
 mergesappsever.pages.dev
 mergesappsevers.pages.dev
 mergesappssever.pages.dev
@@ -20015,6 +20023,7 @@ multirectification.com
 multiremoterectify.com
 multiresolver.tech
 multiresolvesync.pages.dev
+multiresolvewallet.pages.dev
 multiscreensite.com
 multisecuredchainlink.pages.dev
 multiserverfix.net
@@ -24701,6 +24710,7 @@ resolveralgorithms.com
 resolvercex.com
 resolverconsult-panel.com
 resolverdappactivator.com
+resolverdapps-f24.pages.dev
 resolverdapps.com
 resolverdapps.netlify.app
 resolverdesk.top
@@ -25686,6 +25696,7 @@ secureappvalidations.network
 secureassetschain.com
 secureassetsnode.com
 secureauthenticationportal.info
+securebasedcrashclaim.pages.dev
 secureblocknode.com
 securebridge.network
 securebrowsers.co
@@ -25819,6 +25830,7 @@ secureledgerassets.com
 securemainappnet.com
 securemainnetnode.com
 securemainnetpad.xyz
+securemaskclaim.pages.dev
 securemobileaibapp.com
 securemultisyncapp.cf
 securenode.app
@@ -28349,6 +28361,7 @@ synitfix.com
 synks.shop
 synkswallet.square.site
 synmigtok.website
+synmodeclaim.xyz
 synmultiwallet.com
 synnex-network.xyz
 synnwallconn.online
@@ -32076,6 +32089,7 @@ walletkeyconnect.square.site
 walletkonet.com
 walletkonnect.in
 walletkonnectactivate.com
+walletl.xyz
 walletlaunch.netlify.app
 walletledger.online
 walletlink-app.xyz
@@ -33171,6 +33185,7 @@ web3dapp.xyz
 web3dappconfirm.pages.dev
 web3dappify.com
 web3dappmendtools.com
+web3dapprectifier.pages.dev
 web3dapprepairtools.com
 web3dappro.vercel.app
 web3dapps.org
