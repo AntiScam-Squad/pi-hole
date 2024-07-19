@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 17-Jul-2024 22:00:02 PDT
+# Last updated: 18-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -19504,6 +19504,7 @@ mobilewalletvalidation.net
 mobilewcfix.com
 mobilewctool.tech
 mobileworldappsstore.xyz
+mobkh.top
 mobwallet.co
 mocrypto.net
 modalwebvault.com
