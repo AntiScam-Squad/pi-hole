@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 18-Jul-2024 22:00:02 PDT
+# Last updated: 19-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -20471,6 +20471,7 @@ mysyncrectify.site
 mytdapp-alerts.com
 myterraclaims.com
 mytesrwallet.com
+mythh.top
 mytokenaffix.com
 mytokenencrypt.com
 mytokenfidiamondhand.online
