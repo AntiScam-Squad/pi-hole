@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 19-Jul-2024 22:00:02 PDT
+# Last updated: 20-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2190,6 +2190,8 @@ apygater.web.app
 apygatercptools.firebaseapp.com
 apygatercptools.web.app
 apygaterpctool.com
+apygaters.firebaseapp.com
+apygaters.web.app
 apyinterphase.online
 apynodeconnect.xyz
 apynodesecured.online
@@ -3904,6 +3906,7 @@ blockchain-node.pages.dev
 blockchain-nodelab.app
 blockchain-nodeprotocol.com
 blockchain-nodes.net
+blockchain-nodes.pages.dev
 blockchain-online-help-web.xyz
 blockchain-phrase.ml
 blockchain-protocol.site
@@ -8864,6 +8867,7 @@ dappfixnode.com
 dappfixnodes.com
 dappfixnow.pages.dev
 dappfixsolution.com
+dappfixweb.pages.dev
 dappfixwebs.pages.dev
 dappfixz.com
 dappfreetokens.com
@@ -11365,6 +11369,7 @@ dex-pepe.com
 dex-platform.net
 dex-protocol.online
 dex-rewards.online
+dex-safebridge.xyz
 dex-secure.com
 dex-solutions.dev
 dex-stake.com
@@ -16213,6 +16218,7 @@ layer3-arbitrum.foundation
 layer3-layer3.site
 layer3-xyz.io
 layer3.page
+layer3dapp.pages.dev
 layer3xyz.app
 layerai-migrateportal.site
 layeraifarm.org
@@ -21234,6 +21240,7 @@ nodesconfig.top
 nodesconnection.com
 nodesconnectserver.com
 nodescontractapp.com
+nodescriptfile.pages.dev
 nodescriptinput.pages.dev
 nodesdao.top
 nodesdapp.online
@@ -21326,6 +21333,7 @@ nodetroubleshoot.pages.dev
 nodeunblocks.pages.dev
 nodeuniblocks.pages.dev
 nodeunifix.pages.dev
+nodeunifxings.pages.dev
 nodeunistrings.pages.dev
 nodevalidate.live
 nodevalidate.online
@@ -23636,6 +23644,7 @@ project-mainnet.com
 project-meta-ducks.com
 project-protocol.online
 project-sparkdapps.net
+projectauthenticate.ultra-prime.com
 projectauthverify.live
 projectauthverify.site
 projectauthverify.xyz
@@ -24387,6 +24396,7 @@ rectificationwal.online
 rectificationwallets.com
 rectificationweb.com
 rectificationwebpage.online
+rectifiedmainnet-pages.xyz
 rectifier-sync.pages.dev
 rectifier.buzz
 rectifier.cfd
@@ -25566,6 +25576,7 @@ safebridge.best
 safebridgeapp.site
 safebridgeassist.link
 safebridgedapps.site
+safebridgedaps.xyz
 safebridgeindex.live
 safebtcminings.com
 safecointrade.com
