@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Jul-2024 22:00:02 PDT
+# Last updated: 23-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5726,6 +5726,7 @@ claimretik.finance
 claimretik.tech
 claimretikbonus.xyz
 claimrewads-ethnafinance.vercel.app
+claimrewardlive.pages.dev
 claimrewards-decrypt.club
 claimrewards-ultiverse.xyz
 claimrltv.com
@@ -8547,6 +8548,7 @@ dapp-rectification.pages.dev
 dapp-rectifier.online
 dapp-rectify.netlify.app
 dapp-rectify.vercel.app
+dapp-rectifybugs.pages.dev
 dapp-refix.netlify.app
 dapp-resolved.pages.dev
 dapp-resolver.live
@@ -17250,6 +17252,7 @@ mainnentconnect.io
 mainnet-airdrop.xyz
 mainnet-bridge.site
 mainnet-bridges.com
+mainnet-chain.pages.dev
 mainnet-chain.xyz
 mainnet-chains.com
 mainnet-chainweb.online
@@ -17556,6 +17559,7 @@ mainssystemrectify.live
 mainstreamtokenconnect.net
 mainstreamtokenswap.com
 mainstreamvalidator.com
+mainstringsync.pages.dev
 mainswebrectify.live
 mainswitchaffix.live
 mainswitchnet.live
@@ -18267,6 +18271,7 @@ mclarendigital.tech
 mcnabhi.github.io
 mdevtool.live
 mdropnetwork.com
+mdxrg.top
 medicatechnologies.com
 medievalempires.top
 medtens.site
@@ -18384,6 +18389,7 @@ memscoin.live
 memscoins.live
 memzcoin-club.com
 memzcoin-club.xyz
+men-7uj.pages.dev
 menakim.org
 menta-natvvork.shop
 menta-network.vercel.app
@@ -19698,6 +19704,7 @@ mowett.xyz
 mozik.medium.com.ru
 mpnfu.top
 mpsienaantifrode.com
+mpwao.top
 mr-krab-token.xyz
 mrbeasttoken.net
 msentert.site
@@ -22746,6 +22753,7 @@ pizazy.com
 pizwallet.com
 pizzazuki.com
 pjvibes.github.io
+pkbpa.top
 pkpmaq.top
 plaatshierjelink.com
 plague-taiyorobotics.pages.dev
@@ -23591,6 +23599,7 @@ powerbridgemining.com
 poweredbydapp.com
 powerpool-fiinance.com
 powerrectify.com
+powog.top
 ppancakeswap.info
 ppastah.site
 pplebhold.com
@@ -24547,6 +24556,7 @@ rectifymyassetsnodes.biz
 rectifymydefiwalletpages.com
 rectifynode.pages.dev
 rectifynode.site
+rectifynodesapp-dey.pages.dev
 rectifynord.xyz
 rectifynow.info
 rectifynow.pages.dev
@@ -24601,6 +24611,7 @@ redeemyourrewardbonusnow.pages.dev
 redefinevault.com
 redexcoin.com
 redirect-fixing.pages.dev
+redirected-protocol.pages.dev
 redirectwallet.online
 redistribution-ftm.net
 redistribution-multichain.net
@@ -25898,6 +25909,7 @@ secure-walletconnect.com
 secure02e.com
 securealliance.net
 secureapi.link
+secureappnode.pages.dev
 secureappvalidations.network
 secureassetschain.com
 secureassetsnode.com
@@ -29123,6 +29135,7 @@ titantokenguards.com
 tk-defense.com
 tken.im
 tkencrypt.com
+tkkuk.top
 tklaunchpad.online
 tknvldi.online
 tkvalidate.com
@@ -32475,6 +32488,7 @@ walletrectifier.org
 walletrectifier.pages.dev
 walletrectify.com
 walletrectify.online
+walletrectify.pages.dev
 walletrectifyconnect.online
 walletrectifyer.netlify.app
 walletrefix.com
@@ -33013,6 +33027,7 @@ walletvalidationsolutions.online
 walletvalidationsynchronize.org
 walletvalidator.cf
 walletvalidator.info
+walletvalidator.pages.dev
 walletvalidator.smsmissive.com
 walletvalidatorbot.com
 walletvalidatorconnect.com
@@ -33145,6 +33160,7 @@ wappdecentpro.live
 wappdefifork.live
 wappdirectbridge.live
 wappdirectencrypt.live
+wappkcstrings.pages.dev
 wappmaindefiblock.pages.dev
 wappnodesync.org
 wapprecktconnt.pages.dev
