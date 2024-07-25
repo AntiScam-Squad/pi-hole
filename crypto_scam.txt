@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-Jul-2024 22:00:01 PDT
+# Last updated: 24-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1264,6 +1264,7 @@ allocation-zetachain.com
 allocation-zkshares.app
 allocation-zksync.org
 allocations-blastl2.io
+allocations-manta.network
 allocations.network
 allonecrypto.io
 alloraclaim.com
@@ -5218,6 +5219,7 @@ ciaims-oasisprotocol.com
 ciaims-oasisprotocol.net
 cidappsweb.com
 cidappwa.org
+cieqj.top
 cipherblades.com
 cipherdatanet.com
 cipherglit.com
@@ -14736,6 +14738,7 @@ holxyx.us
 home-collab.com
 home-dappsconnect.online
 home-kraken.online
+home-metamakkusa.gitbook.io
 homeconnectwalletpancakeswap.diskstation.org
 homesynced.digital
 hondzaman.site
@@ -19116,6 +19119,7 @@ metroverse-blocks.com
 mettammask.netlify.app
 mettmask.bar
 metwebvrancse.website
+metymaskusa.gitbook.io
 mevblocker.co
 mevfclaim.com
 mevfree.xyz
@@ -24165,6 +24169,7 @@ qfsxassetsbackups.com
 qfsxbackupassets.com
 qfxlnetwork.com
 qfxsignalassets.com
+qhiqo.top
 qixadonfrig.tech
 qldkorean.net
 qpropaganda.com.br
@@ -30622,6 +30627,7 @@ v2-multibridge.co
 v2-multibridge.live
 v2-multibridge.net
 v2-pepe.com
+v2-polkastarter.com
 v2-safuu.com
 v2-seedify.fund
 v2-seedify.online
@@ -30652,6 +30658,7 @@ v3-shubble.com
 v3-uniswap-token.im
 v3-withdraw.quest
 v3-zyberswap.com
+v3cloudloop.live
 v3dappsnow.xyz
 v3dappsresolve.live
 v3dappsresolve.us
@@ -34419,6 +34426,7 @@ yugaclaim.com
 yugadaotoken.com
 yugamerch.com
 yuzu-swap.live
+yznut.top
 z-chain.co.in
 z5h64q92x9.net
 za.com
