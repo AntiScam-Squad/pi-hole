@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Jul-2024 22:00:02 PDT
+# Last updated: 25-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -11,7 +11,6 @@
 0pensea.co.uk
 0therside.com
 0ver.network
-0vvwvuniswap.top
 0vvwwuniswap.top
 0vwwuniswap.top
 0x-protocol.com
@@ -689,6 +688,8 @@ airdrop--manta.network
 airdrop-5ire.org
 airdrop-aerodrome.net
 airdrop-agixtoken.net
+airdrop-ancient.top
+airdrop-ancient.xyz
 airdrop-ancient8.app
 airdrop-appconnect.pages.dev
 airdrop-arbitrum.app
@@ -847,6 +848,7 @@ airdrop-realio.com
 airdrop-realio.network
 airdrop-ref.finance
 airdrop-rivusdao.net
+airdrop-secure3.com
 airdrop-sei.network
 airdrop-shib.homes
 airdrop-shibanetwork.org
@@ -863,6 +865,7 @@ airdrop-sui.one
 airdrop-taiko.icu
 airdrop-taiko.xyz
 airdrop-taikos.icu
+airdrop-tomato.fun
 airdrop-ton.homes
 airdrop-uni.org
 airdrop-unibot.com
@@ -996,6 +999,7 @@ airdropstack.com
 airdropstake.com
 airdroptoday.online
 airdroptoken.co
+airdroptomato.fun
 airdroptrust.xyz
 airdropusd.xyz
 airdropvalidate.firebaseapp.com
@@ -1798,6 +1802,7 @@ app-morphos.org
 app-morpiho.org
 app-multichain.com
 app-multichains.vercel.app
+app-multichainsfi.com
 app-multisync.net
 app-mute.com
 app-nodepoint.com
@@ -8622,6 +8627,7 @@ dapp-web3fixtool-ecosystem.com
 dapp-web3fixtool-secured.com
 dapp-web3fixtool.com
 dapp-webnode.rf.gd
+dapp-zklinknovadrop.com
 dapp2.xyz
 dapp2022connect.web.app
 dapp247fix.live
@@ -10300,6 +10306,7 @@ dappyrectifier.com
 dappz.one
 dappzillfix.pages.dev
 dappzilpaywallet.com
+dappznode.com
 dappzone-sync.cfd
 dapradar.gg
 dapradar.vc
@@ -12637,6 +12644,7 @@ etherbunny.mintbuy.me
 ethercbase.com
 etherclaims.com
 etherclaims.xyz
+ethercoredappethermigt.com
 etherdigital.cloud
 etherdropio.com
 etherealmystery.xyz
@@ -12700,6 +12708,7 @@ ethrefund.pages.dev
 ethrise22.org
 ethswap.site
 ethswiftcoredapp.com
+ethswiftcoredappmigts.com
 ethswiftrecon.net
 ethsynchronizer.com
 etht20token.info
@@ -14486,6 +14495,7 @@ graphnetwork.org
 graphprotocol.net
 graphprotocol.org
 graphsupport.online
+grassairdroptokens.com
 gravitaprotocol-rewards.com
 gravitative-discrep.netlify.app
 grayscale.trading
@@ -16638,6 +16648,7 @@ lineabuiid.com
 lineabuild-allocation.com
 lineabuild-register.network
 lineadapps.com
+lineairdrops.xyz
 lineamainnet.xyz
 linefraction.xyz
 lingoclaim.pages.dev
@@ -19963,6 +19974,7 @@ multichain.onrender.com
 multichainapp.org
 multichainassetscon.net
 multichainbridge.live
+multichainclaim.online
 multichaincnet.online
 multichainconect.com
 multichainconnect.app
@@ -21223,6 +21235,7 @@ nodemint.app
 nodemodifier.dev
 nodemodifier.org
 nodemultichainprotcol.pages.dev
+nodemultisyncdapp.dev
 nodenetwork.site
 nodenetwork.website
 nodenetworklaunch.site
@@ -22978,6 +22991,7 @@ polkadot.ai
 polkadot.band
 polkadot.biz
 polkadot.casa
+polkadot.cash
 polkadot.cc
 polkadot.center
 polkadot.co
@@ -22989,6 +23003,7 @@ polkadot.deals
 polkadot.events
 polkadot.exchange
 polkadot.express
+polkadot.farm
 polkadot.gg
 polkadot.gift
 polkadot.gifts
@@ -23785,6 +23800,7 @@ projectweblink.live
 projectwebmainnets.com
 promcoin.com
 promomanta.world
+promptdappconect.com
 promptdappcoreconect.com
 promptdave.pages.dev
 promtfix.net
@@ -24172,6 +24188,7 @@ qfxsignalassets.com
 qhiqo.top
 qixadonfrig.tech
 qldkorean.net
+qnpuz.top
 qpropaganda.com.br
 qrauth.live
 qrconnect.xyz
@@ -27792,6 +27809,7 @@ swapcorrection.com
 swapcrypto.shop
 swapdaffix.store
 swapdaoconnect.com
+swapdappmigraccessweb.com
 swapenceka.net
 swapfactor.website
 swapgull.com
@@ -27819,6 +27837,7 @@ swaprox.com
 swaprumfinance.com
 swapsafemoonv2.net
 swapsushi.net
+swapswiftetherrcoredapp.com
 swapto.pro
 swaptoget.com
 swaptoken.co
