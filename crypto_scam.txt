@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 25-Jul-2024 22:00:01 PDT
+# Last updated: 26-Jul-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -27183,6 +27183,7 @@ soulart.hu
 sourcefixapp.com
 sourcevalidations.net
 southpacificmissions.org
+sovkh.top
 spaatial.net
 space-authynet.com
 space-pi.xyz
@@ -34123,6 +34124,7 @@ wowamw.com
 wowoproject-com.pages.dev
 wpolkadot.js.org
 wpolkadot.network
+wqree.top
 wrap-lido.fi
 wraplink.online
 wrappedbtc.org
