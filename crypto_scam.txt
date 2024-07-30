@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Jul-2024 22:00:01 PDT
+# Last updated: 29-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -527,6 +527,7 @@ advanced-token.live
 advancedauth.website
 advancednftsolutions.com
 advancedpolkadot.com
+advancedwalletrecovery.com
 advertisingnews.org
 advreg-solutions.com
 aekten.store
@@ -1994,6 +1995,7 @@ appkeplrs.online
 appkinza.finance
 appkoifidapps.com
 appkoifidapps.xyz
+appl-ahm.pages.dev
 applaunch.org
 applaunchsyst.live
 application-form.net
@@ -3924,6 +3926,7 @@ blockchain-fix.net
 blockchain-fix.org
 blockchain-fixnodes.web.app
 blockchain-genesis.vercel.app
+blockchain-node-508.pages.dev
 blockchain-node.pages.dev
 blockchain-nodelab.app
 blockchain-nodeprotocol.com
@@ -8243,6 +8246,7 @@ curvefinance.co
 curvefinance.com.de
 curvefixnance.netlify.app
 curverexchange.com
+curves-fi.pages.dev
 curves.pages.dev
 cusdclaim.com
 custodiahull.com
@@ -8996,6 +9000,7 @@ dappmodule.net
 dappmodulehub.com
 dappmotion.online
 dappmultichain-ai.pages.dev
+dappmultichainfix.pages.dev
 dappmultichainsyn.com
 dappmultichainsynz.com
 dappmulticonnect.online
@@ -9135,6 +9140,7 @@ dapprecover.com
 dapprecovery.com
 dapprecovery.repair
 dapprecovery.support
+dapprecoveryprotocol.pages.dev
 dapprectification.live
 dapprectifier.com
 dapprectify.click
@@ -9545,6 +9551,7 @@ dappsconnectives.com
 dappsconnectives.net
 dappsconnectlivenow.com
 dappsconnectonline.app
+dappsconnector-api.pages.dev
 dappsconnector.com
 dappsconnector.net
 dappsconnector.online
@@ -10792,6 +10799,7 @@ defi-chainlink.com
 defi-chainlink.site
 defi-chainsolution.pages.dev
 defi-chainsync.com
+defi-coinfix.com
 defi-colab.net
 defi-conects.com
 defi-connect.net
@@ -14838,6 +14846,7 @@ hypebearclob.com
 hypebearclubgiveaway.com
 hypercycle.org
 hyperfarecretivehash.pages.dev
+hyperhash.pages.dev
 hyperlinkresolution.com
 hyperlinksync.com
 hyperliquid-xyz.events
@@ -15312,6 +15321,7 @@ integrals-dex.com
 integrals-dexs-bridges.com
 integrals-dexs.net
 integrate-autosync.com
+integrate-rectifydapps.pages.dev
 integratechain.xyz
 integratechaindefi.com
 integratechainfix.pages.dev
@@ -16038,6 +16048,7 @@ kryptoconnect.live
 kryptoconnectsupport.com
 kryptomaintain.com
 kryptorectifysurge.online
+krystal-app.pages.dev
 ksm-chinese.com
 ksmtoken.org
 kspnodemainnet.pages.dev
@@ -19999,6 +20010,7 @@ multichaindefiresolve.pages.dev
 multichaindexauth.net
 multichained.pages.dev
 multichainfix.net
+multichainfixnow.pages.dev
 multichainmigration.online
 multichainmigration.website
 multichainmobile.xyz
@@ -20139,6 +20151,7 @@ multiextensionprotocol.com
 multifaucetconnect.online
 multifix-ductifier.com
 multifix-links.com
+multifix.tech
 multifixbridge.online
 multifixchain.net
 multifixchains.online
@@ -20299,6 +20312,7 @@ multiversesyc.com
 multiversesyncon.vercel.app
 multiversxegld.com
 multiverx.net
+multivhian.pages.dev
 multiwalconn.com
 multiwallet-approvalsync.pages.dev
 multiwallet-connect.com
@@ -21170,6 +21184,7 @@ nodecoiresolver.com
 nodecoiresolvers.com
 nodeconfig.live
 nodeconnect.sbs
+nodeconnectdapp.pages.dev
 nodeconnections.com
 nodeconnectons.com
 nodeconnectschain.herokuapp.com
@@ -24779,6 +24794,7 @@ reloadsula.pages.dev
 reloadsyncpages.xyz
 remixapp-251.pages.dev
 remixsecured.online
+remote-rectifier.pages.dev
 remotechainextension.com
 remotemain.ink
 remotepaths.org
@@ -24931,6 +24947,7 @@ resolveprotocols.site
 resolver-algorithm.com
 resolver-app.pages.dev
 resolver-paneldapp.com
+resolver-seer.pages.dev
 resolver-string.com
 resolver-string.net
 resolver.network
@@ -27377,6 +27394,7 @@ stakingpaalai.live
 stakingpaalai.net
 stakingrewards-silv2.com
 stakinkchoin.tech
+staklng-polkadot.cloud
 staknet.org
 stalking-seedify.com
 stampdesk.link
@@ -27725,6 +27743,7 @@ supportwebdefi.com
 supportxyz.com
 supraoracles.one
 suprasync.pages.dev
+suprecorefix.pages.dev
 suptokens.com
 suptont.site
 surekequipmentservice.com
@@ -28987,6 +29006,7 @@ thedefiprotocol.online
 theden-token.com
 thedexrectifier.org
 thedodgeversetoken.online
+thedogeverse-claim.pages.dev
 thedogeverse-v1.pages.dev
 thedogxverce.xyz
 thedotprotocol.online
@@ -33195,6 +33215,7 @@ wapps.live
 wappsauthentify.com
 wappsautosync.net
 wappunistringnify.pages.dev
+wapsmaindefiblocks.pages.dev
 wardenprotocoi.app
 wareplugsvercel.com
 warpverify.com
@@ -33868,6 +33889,7 @@ websresolve.com
 websrevalidate.online
 webstakeupdate.online
 webstargate.online
+websubwallet.pages.dev
 webswalletconnect.app
 webswalletconnect.com
 webswallets.com
