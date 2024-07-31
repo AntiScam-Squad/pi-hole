@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Jul-2024 22:00:02 PDT
+# Last updated: 30-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2348,6 +2348,7 @@ arocprotocol.tech
 aroken.xyz
 arpabtc.com
 arpaupgradedtoken.com
+arrisdapp.com
 art-claims.com
 art-drop.io
 artauthenticateonnft.org
@@ -2824,6 +2825,7 @@ autocrypsync.website
 autodaapsconnect.live
 autodappchain.online
 autodappchain.site
+autodappflaresolutiion.com
 autodappmigratedapop.com
 autodappreauth.xyz
 autodapprepair.com
@@ -8499,6 +8501,7 @@ dapp-eth.zone
 dapp-ethena.com
 dapp-evmrect.site
 dapp-extension.com
+dapp-extrafi.com
 dapp-fix.com
 dapp-fix.net
 dapp-fixing.com
@@ -8507,6 +8510,7 @@ dapp-fixmyissue.online
 dapp-fixs.pages.dev
 dapp-fixsync.com
 dapp-fixtrade.netlify.app
+dapp-hashai.live
 dapp-init.capital
 dapp-injective.com
 dapp-kits.com
@@ -8642,10 +8646,15 @@ dappaccess-activation.com
 dappaccess.net
 dappaccessmigrtoken.com
 dappactions.com
+dappadar.cx
 dappadar.gs
 dappadar.in
 dappadar.live
+dappadar.mn
 dappadar.ms
+dappadar.sh
+dappadar.tv
+dappadar.ws
 dappaflixcwallet.net
 dappaflixwallet.xyz
 dappagreggator.com
@@ -8919,6 +8928,7 @@ dappgatevault.com
 dappgrader.com
 dappguide.org
 dappharmonize.com
+dapphashai.com
 dapphelpconnectfix.com
 dapphelpmana.com
 dapphubmodule.com
@@ -9109,6 +9119,7 @@ dappradar.vision
 dappradar.wtf
 dappradar24.ru
 dappradarewards.network
+dappradarr.dev
 dappradarr.eu
 dappradars.deals
 dappradars.info
@@ -10702,6 +10713,7 @@ decentralizedresolver.com
 decentralizedrpcsystem.buzz
 decentralizedserver.site
 decentralizedseverlink.com
+decentralizedsmartdapps.dev
 decentralizedsmarthub.com
 decentralizedsync.com
 decentralizedsync.herokuapp.com
@@ -13862,6 +13874,7 @@ flrtrustlinez.xyz
 flrxrptrustline.xyz
 fluffa.io
 fluffi.club
+fluid-instadapp.xyz
 fluwii.com
 flux-bot.net
 flux-protocol.pages.dev
@@ -17689,6 +17702,7 @@ manta-blockchains.com
 manta-bonus.xyz
 manta-bridge.com
 manta-bridge.network
+manta-cedefi.network
 manta-chain.com
 manta-claim-93x.pages.dev
 manta-claim.app
@@ -19638,6 +19652,7 @@ mojitoswap.io
 mojitoswap.org
 mojitoswep.finance
 molcoins.com
+moldappcoins.com
 molliea.ml
 momkont.site
 momoencrypt.com
@@ -20038,6 +20053,7 @@ multichainsbridge.com
 multichainsbridge.live
 multichainsbridges.com
 multichainsdapp.org
+multichainsdapps.xyz
 multichainsecured.pages.dev
 multichainserver.com
 multichainsfi.com
@@ -20125,6 +20141,7 @@ multidappsresolve.com
 multidappssolutions.com
 multidappsvalidator.com
 multidappsyncfix.top
+multidapptool.pro
 multidecentralizedex.pages.dev
 multidefi-wallet.com
 multidefi.network
@@ -21474,6 +21491,7 @@ nominex-dex.firebaseapp.com
 nominex-dex.web.app
 nominexauth.firebaseapp.com
 nominexauth.web.app
+nominidappbot.site
 nonce-rectify.com
 noncenode.live
 noncentralizeddomain.io
@@ -25507,6 +25525,7 @@ rpcdissolveprotocolhub.com
 rpcdomain.org
 rpcfix-dex.pages.dev
 rpcfix.site
+rpcfixchainsolution.com
 rpcfixconnect.com
 rpcfixrepairstool.com
 rpcfixrepairtool.com
@@ -26887,6 +26906,7 @@ smartnodetech.com
 smartnoncebase.pages.dev
 smartnord-synchronization.live
 smartnordsynchronization.live
+smartoinnunetdapp.com
 smartointechdappsolutiion.live
 smartointechdappsolutiion.xyz
 smartokenapps.com
@@ -27868,6 +27888,7 @@ swaptorchainz.com.ng
 swapuni.website
 swapusday.com
 swapvista.tech
+swapwebmigratiionflaredapp.com
 swapzchainx.com.ng
 swapzona.pro
 swarmsalicwi.website
@@ -27963,6 +27984,7 @@ swiftrewardauthenticator.cloud
 swiftsecuremultiprotocol.pages.dev
 swiftsolutionsapp.com
 swiftstation.net
+swiftswapfloreetherrcoredapp.com
 swiftsynced.pages.dev
 swiftsynchronization.com
 swiftsyncresolve.pages.dev
@@ -29031,6 +29053,7 @@ thememecoin.vip
 themetalord.net
 themetamask.io
 themis.name
+themultichainprotocole.pro
 thenctccin.org
 thenear.net
 thenodeconfig.online
