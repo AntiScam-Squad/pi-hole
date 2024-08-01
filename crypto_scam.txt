@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Jul-2024 22:00:02 PDT
+# Last updated: 31-Jul-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -7351,6 +7351,7 @@ connects-wallet.on.fleek.co
 connects-wallet.website
 connects-web3.org
 connects-websync.live
+connects.mom
 connects2wallet.com
 connectscollab.land
 connectsdapp.me
@@ -18002,6 +18003,7 @@ mantanetwork.ink
 mantanetwork.io
 mantanetwork.link
 mantanetwork.ltd
+mantanetwork.net
 mantanetwork.network
 mantanetwork.on-fleek.app
 mantanetwork.online
