@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 31-Jul-2024 22:00:02 PDT
+# Last updated: 01-Aug-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -10323,6 +10323,7 @@ dappx.icu
 dappynoode.com
 dappyrectifier.com
 dappz.one
+dappzerionintelclaim.pages.dev
 dappzillfix.pages.dev
 dappzilpaywallet.com
 dappznode.com
@@ -10397,6 +10398,7 @@ darpstech.network
 darpsupfix.com
 darptradetech.pro
 darpvalidatornet.com
+darress.pages.dev
 dasfy3345fsd.pages.dev
 dashboard-aave.info
 dashboard-aave.live
@@ -11614,6 +11616,7 @@ diamria.best
 diceflows.com
 diemicowallet.com
 diemjoinwallet.com
+diffpr0tocol.pages.dev
 dificapitol.com
 digi-byte.org
 digi-byte.pages.dev
@@ -14045,6 +14048,7 @@ fusiondim.com
 fusionmodule.vercel.app
 fustkulklan.site
 fustlakm.site
+fusynrectify.pages.dev
 futments.site
 futuretradecoins.com
 futurverse.xyz
@@ -14489,6 +14493,7 @@ gotcoinwallet.com
 gov-zerolend.org
 governance-manta.com
 governance-manta.network
+governance-mantanetwork.pages.dev
 governance-zerolend.app
 governance-zerolend.net
 govgrantsupport.org
@@ -20821,10 +20826,12 @@ networkprotocol.live
 networkrectifiers.online
 networkrestoreauth.live
 networkrestoresync.live
+networkrpc.digital
 networks-starknet.org
 networks-strk.com
 networks-strk.org
 networksdev.app
+networkservices.digital
 networkstellersolution.digital
 networkstellersolutions.site
 networksurge-fix.digital
@@ -25914,6 +25921,7 @@ screening-wallet.com
 scroll.gift
 scrollchain.me
 scurencrypt.com
+scwjs.top
 scyn-walletsbackup.com
 scyn-walletsecure.com
 sdaoairdrop.com
@@ -27983,6 +27991,7 @@ swiftresolve.xyz
 swiftresolvedapps.pages.dev
 swiftresolvedex.pages.dev
 swiftrewardauthenticator.cloud
+swiftsecuredchainlink.pages.dev
 swiftsecuremultiprotocol.pages.dev
 swiftsolutionsapp.com
 swiftstation.net
@@ -34077,6 +34086,7 @@ whynotcoins.com
 wickvalidate.live
 wickvalidate.netlify.app
 wienerdog-co.pages.dev
+wiersners-dogs.pages.dev
 wietst-tkeynet.com
 wikiemu.com
 wikipromigration.best
