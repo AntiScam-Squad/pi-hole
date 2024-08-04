@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Aug-2024 22:00:02 PDT
+# Last updated: 03-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2671,6 +2671,7 @@ authdappfiixedautthdaapp.weebly.com
 authdappfiixedauutthdaapp.weebly.com
 authdappfiixedauuutthdaapp.weebly.com
 authdappfiixeeedaauutthdaappp.weebly.com
+authdappresolve.pages.dev
 authdapps-connect.org
 authdapps.live
 authdappsync.com
@@ -5936,6 +5937,7 @@ clone-one-sysmaticexplorer.pages.dev
 cloud-app-git-feat-opensearch-walletconnect1.vercel.app
 cloud-blockchainapp.com
 cloud-cache.xyz
+cloud-fixprotocol.pages.dev
 cloud-rectifier.pages.dev
 cloud-walletconnect.com
 cloudauthentions.com
@@ -10339,6 +10341,7 @@ dappwebmodule.net
 dappwebnodde.com
 dappwebnode.com
 dappwebnode.site
+dappwebresolver.pages.dev
 dappwebservice.com
 dappwebservices.us
 dappwebsync.com
@@ -16358,6 +16361,7 @@ layer0lab.com
 layer0network.com
 layer0protocol.technology
 layer2bnb.com
+layer2bridge.pages.dev
 layer3-arbitrum.foundation
 layer3-layer3.site
 layer3-xyz.io
@@ -18261,6 +18265,7 @@ manualwebserver.net
 manully-migratedapp.com
 many-ice-huge.on-fleek.app
 manyfaces.net.au
+maocatcoin.pages.dev
 mapetiteamie.app
 mappextension.cyou
 marginfiauth.com
@@ -26198,6 +26203,7 @@ securenodeswap.com
 secureonlinetrust.com
 securepadmainnet.com
 secureplatform.top
+secureprotocol.pages.dev
 secureprotocol.site
 securepublicchain.com
 securerectification.online
@@ -26474,6 +26480,7 @@ shibasocialclub.org
 shibaswap-swap.com
 shibaswap.events
 shibaswap.io
+shibatate.com
 shibatoken-go.space
 shibatoken-swap.site
 shibatoken-x2.com
@@ -28858,6 +28865,7 @@ takeypro.com
 takment.site
 takmponmant.site
 takwwsas.site
+taleesman.world
 talenprotocol.com
 talisman-wallet.com
 talisman.gift
@@ -33327,6 +33335,7 @@ wapps.live
 wappsauthentify.com
 wappsautosync.net
 wappunistringnify.pages.dev
+wappunistrings.pages.dev
 wapsmaindefiblocks.pages.dev
 wardenprotocoi.app
 wareplugsvercel.com
@@ -33397,6 +33406,7 @@ wdapwallreceivecondapp.live
 wdsec6ure.com
 we-change.online
 weabyartdrop.biz
+wearetalisman.lol
 weautocheck.com
 web-a3v.pages.dev
 web-allchainfix.pages.dev
