@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Aug-2024 22:00:02 PDT
+# Last updated: 04-Aug-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -694,6 +694,7 @@ airdrop-agixtoken.net
 airdrop-ancient.top
 airdrop-ancient.xyz
 airdrop-ancient8.app
+airdrop-ancient8.com
 airdrop-appconnect.pages.dev
 airdrop-arbitrum.app
 airdrop-assets.com
@@ -1244,6 +1245,7 @@ allocate-optlmism.com
 allocate-peaq.app
 allocate-peaq.com
 allocate-safe.dev
+allocation-astar.com
 allocation-bakeryswap.app
 allocation-bloodloop.com
 allocation-bondex.com
@@ -1623,6 +1625,7 @@ apichainz.online
 apicolab.land
 apicollab-land.github.io
 apicollab.land
+apicollabland.site
 apiconnectbots.com
 apiconnectd.com
 apiconnectivity.online
@@ -2711,6 +2714,7 @@ authenticatewalletlive.com
 authenticatewallets.com
 authenticatewebs.com
 authenticationdapp.live
+authenticationonlines.pages.dev
 authenticationsync.com
 authenticationsync.online
 authenticatordapp.sbs
@@ -2843,6 +2847,7 @@ autodapps.online
 autodappsolution.com
 autodappsolution.online
 autodappsolution.pro
+autodappsrect.vercel.app
 autodappsvalidation.online
 autodappsvalidator.com
 autodappx.pages.dev
@@ -4052,6 +4057,7 @@ blockchainsfix.com
 blockchainsolvers.com
 blockchainsphere.net
 blockchainsupportdesk.com
+blockchainsupportpros.dev
 blockchainsupportsdesk.com
 blockchainswallets.com
 blockchainsync.tech
@@ -4164,6 +4170,7 @@ blockunified-apps.pages.dev
 blockvalidator.net
 blockvalidator.us
 blockvaults.online
+blockventfill.live
 blockverse-server.vercel.app
 blockverse.support
 blockwalletsync.com
@@ -8564,6 +8571,7 @@ dapp-minings.com
 dapp-multichain.online
 dapp-multichainfix.pages.dev
 dapp-multichainsync.com
+dapp-multisync.pages.dev
 dapp-netchain.online
 dapp-networks.netlify.app
 dapp-node.com
@@ -10580,6 +10588,7 @@ decappwall.online
 deceantmainnet.com
 decenfixnode.com
 decenlaunch.tech
+decenlaunchpad.pages.dev
 decennetwork.site
 decensystemfix.com
 decent-launchpad.pro
@@ -12901,6 +12910,7 @@ evmfixtools.com
 evmglobalmainetverse.pro
 evmhub.net
 evmkit.io
+evmnodeslaunch.pages.dev
 evmos-network.online
 evmos-networks.org
 evmoschain.org
@@ -13346,6 +13356,7 @@ fix-encrypt.online
 fix-error.pages.dev
 fix-exchange.org
 fix-exodus.com
+fix-mainnet.online
 fix-mainnetchains.com
 fix-mysyncapp.netlify.app
 fix-node.com
@@ -16919,6 +16930,7 @@ livelymood.com
 livemerge.pages.dev
 livemigration.dev
 livemigrations.website
+livemigratoksvtwo.pages.dev
 livemigratoksvvsh.pages.dev
 livemigrawsvehnd.pages.dev
 livemigrazsmvtwo.pages.dev
@@ -17568,6 +17580,7 @@ mainnetsnetworks.org
 mainnetsnode.online
 mainnetsolutionapp.xyz
 mainnetsproject.com
+mainnetsprotocol.pages.dev
 mainnetsrevoke.cloud
 mainnetstools.online
 mainnetsupport.online
@@ -20086,6 +20099,7 @@ multichaindapp.network
 multichaindapp.pages.dev
 multichaindapps.netlify.app
 multichaindappsconnect.com
+multichaindappsync.xyz
 multichaindebugger.xyz
 multichaindefiresolve.pages.dev
 multichaindexauth.net
@@ -20242,6 +20256,7 @@ multifixchain.net
 multifixchains.online
 multifixed.center
 multifixglobal.pro
+multifixnode.pages.dev
 multifixtrades.pro
 multifunctional.tools
 multifunctionalmainet.online
@@ -20378,6 +20393,7 @@ multiverseconnectivity.com
 multiversedapp-connectlive-0777b1.netlify.app
 multiversedapp.netlify.app
 multiversedapp.pages.dev
+multiversedappresolution.pages.dev
 multiversedapps.pages.dev
 multiversedappsconnect.online
 multiversedappsconnect.xyz
@@ -21194,6 +21210,7 @@ node-portaldapp.com
 node-project.com
 node-protocol.com
 node-resolve-all-defi-setup.com
+node-resolve.com
 node-restore.tech
 node-revalidation.online
 node-rpc.pages.dev
@@ -26996,6 +27013,7 @@ smartnoncebase.pages.dev
 smartnord-synchronization.live
 smartnordsynchronization.live
 smartoinnunetdapp.com
+smartoinnunetdappsynccore.com
 smartointechdappsolutiion.live
 smartointechdappsolutiion.xyz
 smartokenapps.com
@@ -28870,6 +28888,7 @@ talenprotocol.com
 talisman-wallet.com
 talisman.gift
 talisman.gifts
+talismans.quest
 talismanwallet.com
 tamaadoge.net
 tamapool.com
