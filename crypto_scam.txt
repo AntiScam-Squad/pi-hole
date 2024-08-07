@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Aug-2024 22:00:01 PDT
+# Last updated: 06-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -13268,6 +13268,7 @@ ferbidex.com
 ferrum-network.site
 fertukmaz.shop
 ferum.network
+fesd.online
 festive-knuth-9ba589.netlify.app
 festomnet.site
 fet-solution.pro
@@ -14236,6 +14237,7 @@ gather-network.website
 gathernetwork.xyz
 gavesync.cfd
 gaxle.app
+gb-8x4.pages.dev
 gbtc-claim.com
 gccoin-whitelisting.site
 gcf-online.com
@@ -14891,6 +14893,7 @@ hordapp.online
 hoslex.com
 host-ethereum.org
 host-node.net
+hostchainaccess.pages.dev
 hostchainlink.net
 hotgains.xyz
 hotinvestnow.com
@@ -16352,6 +16355,7 @@ launchmywallet.netlify.app
 launchpad-apps.network
 launchpad-astar.network
 launchpad-availproject.com
+launchpad-dapp.online
 launchpad-defi.com
 launchpad-dgi.com
 launchpad-dydx.com
@@ -20370,6 +20374,7 @@ multiprocessor.live
 multiprotocolfix.com
 multirectification.com
 multiremoterectify.com
+multiresolver.pages.dev
 multiresolver.tech
 multiresolvesync.pages.dev
 multiresolvewallet.pages.dev
@@ -21237,6 +21242,7 @@ node-bot.me
 node-cipher.com
 node-connect-kyc-trade.netlify.app
 node-connect-walethub.pages.dev
+node-dapp.retrievepoint.tech
 node-dapprect.com
 node-dapprectify.live
 node-data.com
@@ -21612,6 +21618,7 @@ nodevalidators.org
 nodevaults-sync.net
 nodeverify-keybase.org
 nodeverify.us
+nodeverisync.pages.dev
 nodewalet.com
 nodewallet.live
 nodeweb.online
@@ -25801,6 +25808,7 @@ rpcsolutions.dev
 rpcsolutions.org
 rpcsosconfig.com
 rpcsosconfig.net
+rpcsosrepairs.com
 rpcsosresolve.com
 rpcsostool.net
 rpcsyctoolsprotocol.com
@@ -28968,6 +28976,7 @@ talenprotocol.com
 talisman-wallet.com
 talisman.gift
 talisman.gifts
+talismanquest.net
 talismans.quest
 talismanwallet.com
 tamaadoge.net
@@ -29861,6 +29870,7 @@ tonconnect.org
 toncrypto.cloud
 tondrop.tech
 tonnect.top
+tonnectgiveaway.pages.dev
 tonpocket.com
 tonweekly.com
 tonxcoin.org
