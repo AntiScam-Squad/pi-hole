@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 06-Aug-2024 22:00:02 PDT
+# Last updated: 07-Aug-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -471,6 +471,7 @@ activefix.online
 activeimportsystem.site
 activeinventoryautoapp.pro
 activelaunch-apps.site
+activelaunch.site
 activelaunchbridge.site
 activelaunchdapp.site
 activelaunchdapps.site
@@ -1196,6 +1197,7 @@ alldappsconnect.com
 alldappsconnection.com
 alldapptools.onrender.com
 alldefiwallet.com
+alldeppcon.pages.dev
 alldigitalwalletapp.com
 allenanna.com
 allfixednodes.pages.dev
@@ -4087,6 +4089,7 @@ blockchaiweb.pages.dev
 blockchian-sync.tk
 blockcnode.com
 blockdag-claim.xyz
+blockdag-network-rectification.pages.dev
 blockdag-web.network
 blockdagnetwork-xyz.live
 blockdagnetwork.pro
@@ -9076,6 +9079,7 @@ dappmultichainsyn.com
 dappmultichainsynz.com
 dappmulticonnect.online
 dappmultisolution.net
+dappmultiwallet.pages.dev
 dappn-wallets.com
 dappnetlify.com
 dappnetorks.com
@@ -9629,6 +9633,7 @@ dappsconnector.com
 dappsconnector.net
 dappsconnector.online
 dappsconnector.org
+dappsconnector.pages.dev
 dappsconnects.com
 dappsconnects.io
 dappsconnects.vercel.app
@@ -10636,6 +10641,7 @@ decentralab.site
 decentralab.xyz
 decentraland-claims.com
 decentralande.org
+decentralbridge.pages.dev
 decentralchain.live
 decentralchainhost.website
 decentraldapps.pages.dev
@@ -16425,6 +16431,7 @@ layer0claim.com
 layer0lab.com
 layer0network.com
 layer0protocol.technology
+layer2-app-portal.pages.dev
 layer2bnb.com
 layer2bridge.pages.dev
 layer3-arbitrum.foundation
@@ -21618,6 +21625,7 @@ nodevalidators.org
 nodevaults-sync.net
 nodeverify-keybase.org
 nodeverify.us
+nodeverilyunisync.pages.dev
 nodeverisync.pages.dev
 nodewalet.com
 nodewallet.live
@@ -27940,6 +27948,8 @@ supportfastfix.com
 supportfix.online
 supportfix.onrender.com
 supportfixchain.pages.dev
+supportfixdapp.firebaseapp.com
+supportfixdapp.web.app
 supportfixs.online
 supporthub.firebaseapp.com
 supporthub.web.app
@@ -33449,6 +33459,7 @@ wappsauthentify.com
 wappsautosync.net
 wappunistringnify.pages.dev
 wappunistrings.pages.dev
+wapsmaindefiblock.pages.dev
 wapsmaindefiblocks.pages.dev
 wardenprotocoi.app
 wareplugsvercel.com
