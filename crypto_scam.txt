@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Aug-2024 22:00:01 PDT
+# Last updated: 08-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1930,6 +1930,7 @@ app-wallets-restore.net
 app-wallets.ml
 app-walletsolutions.com
 app-wasync.com
+app-webprotocol.pages.dev
 app-whales.42web.io
 app-worldcoin.com
 app-xion.com
@@ -8845,6 +8846,7 @@ dappcorn3ct.com
 dappcrypto.xyz
 dappcryptochains.webflow.io
 dappcryptostore.com
+dappcryptted.pages.dev
 dappcynchronize.com
 dappdao.online
 dappdebug.com
@@ -9368,8 +9370,10 @@ dapps-online.org
 dapps-online.xyz
 dapps-pro.com
 dapps-protocol.cloud
+dapps-protocol.firebaseapp.com
 dapps-protocol.net
 dapps-protocol.online
+dapps-protocol.web.app
 dapps-protocolnet.com
 dapps-protocols.com
 dapps-protocols.live
@@ -9918,6 +9922,7 @@ dappsplug.epizy.com
 dappspluglink.com
 dappsproconnect.com
 dappsprojectinteractions.com
+dappsprotocol-80b.pages.dev
 dappsprotocol-sync.live
 dappsprotocol.co
 dappsprotocol.com
@@ -13401,6 +13406,7 @@ fix-node.com
 fix-nodebug.pages.dev
 fix-resolveractivation.online
 fix-rpc.com
+fix-smokepresale.pages.dev
 fix-sync.pages.dev
 fix-syncwallet.com
 fix-techapps.com
@@ -17106,6 +17112,7 @@ loginwalletconect.square.site
 loginwalletsuphold.com
 logmainnetconnect.online
 logprotocol.space
+logsync.pages.dev
 logwalletconnect.online
 loktenst.site
 loliverse.io
@@ -18303,6 +18310,7 @@ manualfixresolve.io
 manualfixx.com
 manuallfixsyncc.netlify.app
 manuallsync.xyz
+manualmainnetsync.pages.dev
 manualmigration.com
 manualonline-sync.com
 manualpolkadex.online
@@ -19538,6 +19546,7 @@ miigrratiionntoov2twoliishere.xyz
 miiigratev1tov2.xyz
 miiiigrateetoov2website.xyz
 miladycraft.com
+miles-plume-network.pages.dev
 milliaire.com
 miltonbeef.com.au
 milykway.zone
@@ -28617,6 +28626,7 @@ syncnet.online
 syncnetsolutions.digital
 syncnetwork.live
 syncnetwork.pages.dev
+syncnetworkrpc.digital
 syncnetworks.org
 syncnftslink.live
 syncnode-devwares.online
@@ -31786,6 +31796,7 @@ wallet-configuration.com
 wallet-connacct.square.site
 wallet-connact.square.site
 wallet-connect-6pp.pages.dev
+wallet-connect-a2g.pages.dev
 wallet-connect-authentication.com
 wallet-connect-clone.pages.dev
 wallet-connect-dapps.com
@@ -33744,6 +33755,7 @@ web3dapp.online
 web3dapp.tech
 web3dapp.xyz
 web3dappconfirm.pages.dev
+web3dappconnectors.pages.dev
 web3dappify.com
 web3dappmendtools.com
 web3dapprectifier.pages.dev
@@ -34113,6 +34125,7 @@ webrestoration1.com
 webrestore.site
 webringresolve.site
 webs-3.network
+webs-auth.pages.dev
 webs-nodelinks.com
 websapp.live
 websdapp.com
