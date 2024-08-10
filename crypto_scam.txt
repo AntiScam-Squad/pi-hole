@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 08-Aug-2024 22:00:02 PDT
+# Last updated: 09-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1930,6 +1930,7 @@ app-wallets-restore.net
 app-wallets.ml
 app-walletsolutions.com
 app-wasync.com
+app-web3bugfix.pages.dev
 app-webprotocol.pages.dev
 app-whales.42web.io
 app-worldcoin.com
@@ -7885,6 +7886,7 @@ crypto-nftltd.com
 crypto-nodes.org
 crypto-now.org
 crypto-obmenka.com
+crypto-onlinerectification.pages.dev
 crypto-pad.online
 crypto-pay.exchange
 crypto-platformes.com
@@ -10885,6 +10887,7 @@ defi-appsolution.com
 defi-authentication.com
 defi-authentication.site
 defi-authenticator.app
+defi-chainfix.pages.dev
 defi-chainlink.com
 defi-chainlink.site
 defi-chainsolution.pages.dev
@@ -28429,6 +28432,7 @@ syncdappsonline.com
 syncdappsurgeconnect.xyz
 syncdappsvalidator.com
 syncdapptoken.com
+syncdappw.pages.dev
 syncdappwall.com
 syncdappwallet.online
 syncdaps.site
