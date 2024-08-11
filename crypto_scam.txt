@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Aug-2024 22:00:02 PDT
+# Last updated: 10-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1115,6 +1115,7 @@ algowallet.app
 aliancrypto.com
 alianswap.com
 aliaskusa.org
+alibabasynvs.run.place
 alienate-launchpads.com
 alienform-claim.com
 alienform-claim.live
@@ -1973,6 +1974,7 @@ appbunnyswap.web.app
 appcentralverse.pro
 appchainsauth.com
 appcoachs.cn
+appcoinexplore.pages.dev
 appcoinify.com
 appcoinswaps.com
 appcoiresolve.live
@@ -4706,6 +4708,7 @@ cakeconnect.cfd
 cakedefi-dfi-cstage.com
 cakedex.net
 cakekoreanswap.site
+cakepiedapps.pages.dev
 cakewalletassist.tips
 cakkement.site
 cakoptrnr.site
@@ -7184,6 +7187,7 @@ connectandsheild.com
 connectapps.online
 connectappsonline.com
 connectappsync-syn.com
+connectappsync.pages.dev
 connectassists.online
 connectauth.com
 connectauthsupport.web.app
@@ -10386,6 +10390,7 @@ dappwebnodde.com
 dappwebnode.com
 dappwebnode.site
 dappwebresolver.pages.dev
+dappwebresolvers.pages.dev
 dappwebservice.com
 dappwebservices.us
 dappwebsync.com
@@ -11522,6 +11527,7 @@ dex-stake.com
 dex-syncdapps.xyz
 dex-tool-portal.live
 dex-tool.top
+dex-toolkits.on.fleek.co
 dex.claims
 dexandcexservers.com
 dexappconnect.online
@@ -18617,6 +18623,7 @@ merges-appsever-dapps.pages.dev
 mergesapps.pages.dev
 mergesappsever.pages.dev
 mergesappsevers.pages.dev
+mergesappseversads.pages.dev
 mergesappssever.pages.dev
 mergeseverapps.pages.dev
 mergeseverdapps.pages.dev
@@ -21322,6 +21329,7 @@ nodeactivation.org
 nodeactivations.com
 nodeactivator.com
 nodeactivator.us
+nodeactive.site
 nodeactivelaunch.site
 nodeapend.online
 nodeapp-fix.com
@@ -30663,6 +30671,7 @@ uniultragen.buzz
 uniunis.org
 univ3lp.org
 univasaldapp.co
+univentdepend.pages.dev
 universal-explorer.xyz
 universal-gateway.live
 universal-solve.com
