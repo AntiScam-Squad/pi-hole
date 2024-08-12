@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Aug-2024 22:00:02 PDT
+# Last updated: 11-Aug-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1343,6 +1343,7 @@ alrdropmanta.network
 alsanh.site
 altchains-beta.online
 altcoinfarm.com
+altdapps-resolve.pages.dev
 altdexbridge.live
 alterdappasync.com
 altfoliofix.tech
@@ -2117,6 +2118,7 @@ apps-syncs.net
 apps-syncs.org
 apps-thorswapfinance.com
 apps-walletconnect.org
+apps-zushidefi.pages.dev
 apps.org.pl
 appsaccess.org
 appsamendify.network
@@ -2778,6 +2780,7 @@ authresolve.com
 authresolve.pages.dev
 authresolvefix.pages.dev
 authrestoreaccess.help
+auths-lab.pages.dev
 authsecure-coinbaseinfo.com
 authsolutions.site
 authstandby.com
@@ -3280,6 +3283,7 @@ base-protocol.app
 base-token.org
 base24e.com
 baseaerodrome.xyz
+basebridge-restore.pages.dev
 basebridge.app
 basebridge.fi
 basebridge.live
@@ -8525,6 +8529,7 @@ dapp-acact.com
 dapp-acts.com
 dapp-appfixup.com
 dapp-arbitrum.com
+dapp-auth.pages.dev
 dapp-authentikator.xyz
 dapp-backend.pages.dev
 dapp-brdg.firebaseapp.com
@@ -9092,6 +9097,7 @@ dappn-wallets.com
 dappnetlify.com
 dappnetorks.com
 dappnetprotocol.com
+dappnetrectify.pages.dev
 dappnetsync.com
 dappnetworkactivation.net
 dappnetworkconnect.com
@@ -9651,6 +9657,7 @@ dappsconnectservices.online
 dappsconnectspad.pages.dev
 dappsconnectsync.com
 dappsconnectsync.website2.me
+dappsconnectt.pages.dev
 dappsconnecttsync.vercel.app
 dappsconnectvalidate.org
 dappsconnectvalidator.com
@@ -10195,6 +10202,7 @@ dappswebs.online
 dappswiftethermigrate.com
 dappswsolutionconnect.com
 dappsxfix.pages.dev
+dappsxresolved.pages.dev
 dappsychnonizer.com
 dappsychronizer-wallet.com
 dappsychronizer.com
@@ -11957,6 +11965,7 @@ dogecoin20resolve.pages.dev
 dogecoinx.space
 dogecryptowallet.com
 dogeverseclaims.com
+dogitafairlunchclaim.pages.dev
 dogpreneurclaim.xyz
 dogrukazanc.site
 dogruyer.store
@@ -18423,6 +18432,7 @@ maticrewards.net
 maticsmartconnect.xyz
 maticwalletweb.net
 matlatkan.site
+matmochainclaim.pages.dev
 matrica.vip
 matrixnetwork.top
 mav-app.org
@@ -20196,6 +20206,7 @@ multichainmigration.online
 multichainmigration.website
 multichainmobile.xyz
 multichainnode.net
+multichainnode.pages.dev
 multichainportal.pro
 multichainprotocol.com
 multichainrefunds.com
@@ -20293,6 +20304,7 @@ multidappnode.com
 multidappnode.vercel.app
 multidappprotocol.com
 multidapprevap.com
+multidapps-connect.pages.dev
 multidapps-mainnet.com
 multidapps-net.netlify.app
 multidapps.app
@@ -21703,6 +21715,7 @@ nordpassr.com
 nordrpass.com
 nordsynchronization.com
 normativa-ora.com
+normiebase-claimreward.pages.dev
 nostra-app.online
 nostrastarknet.icu
 notbeks.site
@@ -22175,6 +22188,7 @@ oraclechain-bridge.net
 oraclecloudpath.net
 oracledecypher.pages.dev
 oracledexapp.org
+oraclememesales.pages.dev
 oracleops-alliance.org
 oracleops-sync.org
 oraclesystematik.org
@@ -23011,6 +23025,7 @@ plavment.site
 play-staratlas.net
 playdaysaustralia.com.au
 playdoge.cash
+playdogegame-claimrewards.pages.dev
 playwfun.com
 pledge-elixir.app
 plena-airdrop.vercel.app
@@ -24852,6 +24867,7 @@ rectnodes.xyz
 rectoderzmec.com
 rectsyncs.esq
 rectsyncs.surge.sh
+rectufyassetcrypto.pages.dev
 rectwall.com
 rectwalletdapp.firebaseapp.com
 rectwalletdapp.web.app
@@ -25105,6 +25121,7 @@ resolutionvalidationet.link
 resolvbinanreg.monster
 resolvbinanrestore.shop
 resolve-chains.com
+resolve-dappx.pages.dev
 resolve-portal-migrate.online
 resolve-syncstring.xyz
 resolve-validator.xyz
@@ -27315,6 +27332,7 @@ sol-communities.org
 sol-official.store
 solan-dapp.com
 solan-nftmint.com
+solana-3aw.pages.dev
 solana-web3wallet.com
 solanaclassic.io
 solanaclubsystem-net.web.app
@@ -29174,6 +29192,7 @@ test2.itsallaboutdigital.com
 testcryptowallet.click
 testdomainstesting1.com
 testing.monubhandva.repl.co
+testingtestings.pages.dev
 testlivewallet.com
 testnet-risczero.com
 testnetpolkadot-me58n.js.org
@@ -31336,6 +31355,7 @@ verasitytoken.top
 verasitytoken.xyz
 verbal-rationswiftverse.pro
 verbosedapp.pages.dev
+vercel-merge-apps.pages.dev
 vercelexchange.com
 veri-land.com
 veri.band
@@ -34520,6 +34540,7 @@ xgghif.xyz
 xii.jp
 xintelli-syncapps.netlify.app
 xion-burnt.pages.dev
+xiraaibot.pages.dev
 xlaunchpad.net
 xlitecrypto.com
 xmainchain.pages.dev
