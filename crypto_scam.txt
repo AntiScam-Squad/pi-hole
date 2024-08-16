@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Aug-2024 22:00:02 PDT
+# Last updated: 15-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9067,6 +9067,7 @@ dappfixissue.pages.dev
 dappfixmytoken.com
 dappfixnode.com
 dappfixnodes.com
+dappfixnodes.pages.dev
 dappfixnow.pages.dev
 dappfixsolution.com
 dappfixweb.pages.dev
@@ -9649,6 +9650,7 @@ dappsbsc-restore.live
 dappsbugfix.xyz
 dappsc.site
 dappscconnect.net
+dappscentralfix.pages.dev
 dappscertify-official.com
 dappschain.online
 dappschainencrypt.co
@@ -9752,6 +9754,7 @@ dappscorrections.pages.dev
 dappscryptconnect.com
 dappsct.com
 dappscycle.online
+dappscyppted.pages.dev
 dappsdatabaseactivation.com
 dappsdebug.com
 dappsdebugconnect.xyz
@@ -18753,6 +18756,7 @@ mergerdapps-eqy.pages.dev
 mergerinterswap.com
 mergerouter.info
 merges-appsever-dapps.pages.dev
+merges-vercel-app.pages.dev
 mergesapps.pages.dev
 mergesappsever.pages.dev
 mergesappsevers.pages.dev
@@ -31673,6 +31677,7 @@ verifyuser-collabland.com
 verifywallet-connect.com
 verifywallet.info
 verifywalletnow.online
+verifywallets.app
 verifywallets.online
 verifywithcollab.com
 verifyxxvemtb.authorizeddns.org
