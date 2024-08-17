@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Aug-2024 22:00:02 PDT
+# Last updated: 16-Aug-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1190,6 +1190,7 @@ allchaindapps.com
 allchaindappsync.site
 allchainfix.net
 allchainfix.online
+allchainfix.pages.dev
 allchainprotocol.com
 allchainprotocols.com
 allchains-node.com
@@ -1451,6 +1452,7 @@ ancient-hospital-steep.on-fleek.app
 ancoin.website
 andiegijom.website
 andrewdonaldsongr.com
+andycoinclaimapp.pages.dev
 aneyvarmx.site
 angalwallet.com
 angelinspirationshop.app
@@ -2720,6 +2722,7 @@ authdapps.live
 authdappsync.com
 authdaps.com
 authdapsync.com
+authdevxtrade.pages.dev
 authdex.netlify.app
 authdexsync.icu
 authdsappsfixed.000webhostapp.com
@@ -7484,6 +7487,7 @@ connectsdappz.online
 connectsecure.land
 connectsecure.link
 connectsecuredweb3.org
+connectsecurewallet.pages.dev
 connectserver.webflow.io
 connectservrs.com
 connectsfixs.com
@@ -8775,6 +8779,7 @@ dapp-web3fixtool-ecosystem.com
 dapp-web3fixtool-secured.com
 dapp-web3fixtool.com
 dapp-webnode.rf.gd
+dapp-y.pages.dev
 dapp-zklinknovadrop.com
 dapp2.xyz
 dapp2022connect.web.app
@@ -9471,6 +9476,7 @@ dapps-reconnect.com
 dapps-reconnect.org
 dapps-rectificate.com.co
 dapps-rectification.com
+dapps-rectifications.pages.dev
 dapps-rectifier.online
 dapps-rectifier.pro
 dapps-rectify.com
@@ -11468,6 +11474,7 @@ deriprotocol.com
 derivenodepath.vercel.app
 descriptionconnect.com
 deservedapp.net
+designatedconnect.pages.dev
 desk-mainnet.com
 desk-syncmainodes.com
 desk-validation.com
@@ -17375,6 +17382,7 @@ maestrobots.xyz
 maestrocointek.com
 maextrocloud.net
 magamemecoin-airdrop.org
+maganomicscoinclaim.pages.dev
 magic-walletconnect.com
 magicden.digital
 magiceden-launchpad-sagastudio.pages.dev
@@ -19587,6 +19595,7 @@ migration-captaininu.com
 migration-captaininu.online
 migration-captaininu.pro
 migration-claim-paal.live
+migration-claimassets.pages.dev
 migration-coinasmmardacon.online
 migration-cuminu.pro
 migration-dappsguidehub.net
@@ -20335,6 +20344,7 @@ multichained.pages.dev
 multichainfix.net
 multichainfixnow.pages.dev
 multichainfixx.pages.dev
+multichainlink.pages.dev
 multichainmigration.online
 multichainmigration.website
 multichainmobile.xyz
@@ -21009,6 +21019,7 @@ nansenportfolio.tech
 naos.medium.com.ru
 nasa-2022.net
 nasdexx.xyz
+nasecure.pages.dev
 naskizz.com
 naspentg.site
 natbents.site
@@ -21777,6 +21788,7 @@ nodesynclive-web.app
 nodesyncs.com
 nodesyncs.live
 nodesyncs.net
+nodesyncs.org
 nodetoautt.com
 nodetool.org
 nodetooldev.online
@@ -21984,6 +21996,7 @@ ofxglobaltrade.com
 oggyinu.tech
 ogicoin.com
 ogofunole-dashboad.com
+ogsurvivorclaim-mig.pages.dev
 ohnxz.top
 oiceanarts.online
 oiptmsim.io
@@ -24059,6 +24072,7 @@ presale-portalgamlng.com
 presale.fund
 presale.shibachi.site
 presalecustomer.online
+presaledappweb.pages.dev
 presaleportalgaming.com
 presales-neiro.com
 presales.live
@@ -25069,6 +25083,7 @@ redprobite.pages.dev
 redundancy-protocol92.netlify.app
 refactoreddapp.com
 refgateway.app
+refix-protocol.pages.dev
 refixerror.app
 refixsync.onrender.com
 refixsync.pages.dev
@@ -26463,6 +26478,8 @@ securedebugsynctools.network
 securedeffi.com
 securedefinode.com
 securedefinodes.org
+securedefiwallet.pages.dev
+securedelcomplexclaims.pages.dev
 securedencrypt.vercel.app
 securedencryption.site
 securedencryption.xyz
@@ -26550,6 +26567,7 @@ securesfix.com
 securesfix.info
 securesssyn.info
 securesupportdeskportal.live
+securesurvivorclaim.pages.dev
 securesyencs.net
 securesync.live
 securesync.one
@@ -28425,6 +28443,7 @@ swiftresolvedex.pages.dev
 swiftrewardauthenticator.cloud
 swiftsecuredchainlink.pages.dev
 swiftsecuremultiprotocol.pages.dev
+swiftsmartwalletresolve.pages.dev
 swiftsolutionsapp.com
 swiftstation.net
 swiftswapfloreetherrcoredapp.com
@@ -29384,6 +29403,7 @@ teslaprojectstoken.com
 teslax2.com
 teslax2.net
 test-aml.com
+test-newapp.pages.dev
 test-polkadot.js.org
 test-rand-bro-12912ages.pages.dev
 test-serve.pages.dev
@@ -30316,6 +30336,7 @@ truistunlock.com
 truistwallet-com.tk
 trump-coin1.pages.dev
 trump-nft.com
+trumpmigrationclaim.pages.dev
 trumpnft.site
 trumpwallets.com
 trunstwallet.com
@@ -34345,6 +34366,7 @@ webofdog.claims
 webonchain-hub.live
 webpage-syncapp.site
 webpage-synccloneapp.tech
+webpageconnect.pages.dev
 webpages-multichaix.xyz
 webpagesync.com
 webplug.live
