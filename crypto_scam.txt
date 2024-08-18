@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Aug-2024 22:00:01 PDT
+# Last updated: 17-Aug-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5471,6 +5471,7 @@ claim-drop.com
 claim-drop.xyz
 claim-dvinciethgiveaway.top
 claim-earnfi.com
+claim-easya.com
 claim-egenfoundation.com
 claim-eigen-layer.claims
 claim-eigenlayers.com
@@ -7230,6 +7231,7 @@ connect-walletdapps.com
 connect-wallets.biz
 connect-wallets.com
 connect-wallets.live
+connect-wdapp.pages.dev
 connect-web3.pages.dev
 connect-web3fixtool.com
 connect-web3fixtool.xyz
@@ -22908,6 +22910,7 @@ pataxchain.com
 pathfindernode.online
 pathwaylink.online
 patkonth.site
+patlicanoturtma.pages.dev
 paulatierney.com
 paulgoldhunter.com
 paxful-com.com
@@ -24069,6 +24072,7 @@ presale-manta.network
 presale-portalcoin.com
 presale-portalgamings.com
 presale-portalgamlng.com
+presale-scorpion-casino-claiming.pages.dev
 presale.fund
 presale.shibachi.site
 presalecustomer.online
@@ -31703,6 +31707,7 @@ verifywallets.online
 verifywithcollab.com
 verifyxxvemtb.authorizeddns.org
 veriguardservices.xyz
+veripassdep.pages.dev
 veriwalllive.com
 verrsiimiigiiggratteconiitech.homes
 versalqgen.click
