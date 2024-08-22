@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Aug-2024 22:00:02 PDT
+# Last updated: 21-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2765,6 +2765,7 @@ authenticatewallet.site
 authenticatewalletaccount.com
 authenticatewalletlive.com
 authenticatewallets.com
+authenticateweb3.pages.dev
 authenticatewebs.com
 authenticationdapp.live
 authenticationonlines.pages.dev
@@ -5063,6 +5064,7 @@ chaincodperm.com
 chaincoin.epizy.com
 chaincoine.epizy.com
 chainconnect-dapps.com
+chainconnect.pages.dev
 chainconnectapp.org
 chainconnectsync.com
 chainconnectwallet.com
@@ -7318,6 +7320,7 @@ connectassists.online
 connectauth.com
 connectauthsupport.web.app
 connectauthsyncs.online
+connectblockchain.pages.dev
 connectbridge-tool.org
 connectbridge-tools.org
 connectbridge.live
@@ -7951,6 +7954,7 @@ crosschain.click
 crosswebfix.live
 crownandcaliber.app
 crpto-solution.com
+crptofixserver.pages.dev
 crptopunks.app
 crptosupport.com
 crpytopunks.app
@@ -8163,6 +8167,7 @@ cryptofix.webflows.live
 cryptofixall.com
 cryptofixmaster.com
 cryptofixpro.surge.sh
+cryptofixserver.pages.dev
 cryptofixsource.com
 cryptoflips.net
 cryptoflow.online
@@ -11425,6 +11430,7 @@ defisolutions.ga
 defisolutionsdapp.finance
 defispool.net
 defispot.live
+defispotclaim.pages.dev
 defistargate.org
 defistation.pages.dev
 defistations.xyz
@@ -18036,6 +18042,7 @@ mainsystemresolve.live
 mainsystemrestore.com
 mainsystemrestore.live
 mainsystemupdate.com
+maintainance-desk.pro
 maintaindapp.com
 maintdapp.com
 maintech-pages.dev
@@ -26818,6 +26825,7 @@ securewalletconnects.dynamic-dns.net
 securewalletdapps.net
 securewalletfix.com
 securewalletprotocol.netlify.app
+securewallets.app
 securewalletsolutions.com
 securewalletsval.com
 securewalletsvalidation.com
