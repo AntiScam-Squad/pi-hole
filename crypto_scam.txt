@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Aug-2024 22:00:02 PDT
+# Last updated: 23-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -8836,6 +8836,7 @@ dapp-validator.netlify.app
 dapp-validators.com
 dapp-validators.live
 dapp-vitadao.pages.dev
+dapp-wallet-connect.pages.dev
 dapp-wallet.com
 dapp-walletaffix.online
 dapp-walletauthenticator.netlify.app
@@ -9040,6 +9041,7 @@ dappdirectconnect.com
 dappdradar.com
 dappdrops.vercel.app
 dappedsolved.com
+dappelitefix.pages.dev
 dappencrypt.xyz
 dappencryptbridge.live
 dappencryptbridge.site
@@ -9750,6 +9752,7 @@ dappschainserver.com
 dappschainsync.live
 dappschecker.com
 dappschronize.com
+dappsclaim.pages.dev
 dappsclaimsconnect.com
 dappscloud.online
 dappscnet.online
@@ -14753,6 +14756,7 @@ globaldappschain.com
 globaldevdapps.com
 globalmaindapp.com
 globalmultiswiftapp.net
+globalnetab.com
 globalonemarkets.network
 globalpower.ltd
 globalqfsbackup.com
@@ -22076,6 +22080,7 @@ nrtcoins.top
 nsairdrop.top
 nsairdrop.xyz
 nsprectifier.xyz
+nst-reward.pages.dev
 nubesync.com
 nubft.space
 nucorrex-protocol.live
@@ -26837,6 +26842,7 @@ securewalletvalidation.xyz
 securewalletvalidator.cf
 securewalletx.org
 secureweb3.site
+secureweb3connect.pages.dev
 securewebdapp.pages.dev
 securewebnodeconnect.com
 securewebssync.com
@@ -28356,6 +28362,7 @@ summo2interchains.com
 summon2interchain.xyz
 sumpetkent.site
 sumtant.site
+sun-auth.pages.dev
 sun-flower-land.com
 suncoastsoftball.pro
 suncrossprinting.com
@@ -28622,6 +28629,7 @@ swiftappenddapp.pages.dev
 swiftappendm.com
 swiftappendsi.net
 swiftappendsw.net
+swiftapprove.pages.dev
 swiftappsfixed.com
 swiftauthcoinwallet.pages.dev
 swiftcargoes.com
