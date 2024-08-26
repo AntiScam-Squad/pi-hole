@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Aug-2024 22:00:02 PDT
+# Last updated: 25-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -14570,6 +14570,7 @@ geminiassetclaims.com
 geminito.com
 geminitrading.org
 gemtops.site
+genboxai.live
 gencache.site
 genclere.store
 general-blockchain.com
@@ -17752,6 +17753,7 @@ mainnet-airdrop.xyz
 mainnet-authenticate.pages.dev
 mainnet-bridge.site
 mainnet-bridges.com
+mainnet-bugresolver.pages.dev
 mainnet-chain.pages.dev
 mainnet-chain.xyz
 mainnet-chains.com
@@ -23056,6 +23058,7 @@ pandoshi-chain.pages.dev
 pandoshidaapsintegration.onrender.com
 panel-activate-trustpad.pages.dev
 panel-activator.pages.dev
+panelactivator.net
 panelactivatordapp.com
 panelresolver.com
 panelweb3.com
@@ -26804,6 +26807,7 @@ securemainnetnode.com
 securemainnetpad.xyz
 securemaskclaim.pages.dev
 securemobileaibapp.com
+securemooniify.pages.dev
 securemultisyncapp.cf
 securenode.app
 securenode.support
