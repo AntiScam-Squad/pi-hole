@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 26-Aug-2024 22:00:01 PDT
+# Last updated: 27-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -8863,6 +8863,7 @@ dapp-resolver.netlify.app
 dapp-restore.pages.dev
 dapp-rhomarkets.xyz
 dapp-ring.exchange
+dapp-sanc.pages.dev
 dapp-secure.com
 dapp-secured.pages.dev
 dapp-security.netlify.app
@@ -10838,6 +10839,7 @@ datmens.online
 datmens.site
 daveyproducts.live
 davinaspace.xyz
+dawallconnect.pages.dev
 dawsonline.live
 daxpp.net
 daxtools.site
@@ -17489,6 +17491,7 @@ lneabuild.org
 lnjectivehub.com
 lnk3community.com
 lnl-lawfirm.net
+lntegratechain.dev
 lnvsiblefriends.io
 lo.yreje.com
 loadfix.pages.dev
@@ -17747,6 +17750,7 @@ maindapp.com
 maindapp.live
 maindapp.online
 maindappnetwork.com
+maindappnodeprotocol.in
 maindapprectifier.live
 maindappresolve.online
 maindapps.org
@@ -17768,6 +17772,7 @@ maindefisolu.com
 maindefisolutionsite.com
 maindefisync.com
 maindefiwallet.netlify.app
+maindeveloper.pages.dev
 maindexapp.org
 maindexapp.pages.dev
 maindexhub.com
@@ -25936,6 +25941,7 @@ revokechain.org
 revokedapp.support
 revokee.digital
 revokeis.cash
+revokemainnet.pages.dev
 revokesafepal.com
 revokesafepal.xyz
 revokesync.org
