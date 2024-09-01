@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Aug-2024 22:00:02 PDT
+# Last updated: 31-Aug-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -753,6 +753,7 @@ airdrop-floki.net
 airdrop-free.app
 airdrop-fuelmirror.xyz
 airdrop-fuse.io
+airdrop-galxe.com
 airdrop-galxe.one
 airdrop-getgrass.net
 airdrop-getgrass.site
@@ -1004,11 +1005,14 @@ airdropped.vercel.app
 airdroppepe20.vip
 airdroppingflux.com
 airdropr.top
+airdroprenzo-protocol.top
+airdroprenzo.xyz
 airdrops-bankless.com
 airdrops-blum.io
 airdrops-blur.io
 airdrops-chain.link
 airdrops-claim.com
+airdrops-claimsmetversetokens.world
 airdrops-layerzero.foundation
 airdrops-layerzero.icu
 airdrops-lista.org
@@ -8804,6 +8808,7 @@ dapp-api.com
 dapp-appfixup.com
 dapp-arbitrum.com
 dapp-auth.pages.dev
+dapp-authenticator.com
 dapp-authentikator.xyz
 dapp-backend.pages.dev
 dapp-brdg.firebaseapp.com
@@ -8811,8 +8816,10 @@ dapp-brdg.web.app
 dapp-brdge.firebaseapp.com
 dapp-brdge.web.app
 dapp-bridge.online
+dapp-bridgers.xyz
 dapp-browser-logln.com
 dapp-browser.info
+dapp-c.pages.dev
 dapp-calo.run
 dapp-chain.com
 dapp-chain.firabaseapp.com
@@ -8875,6 +8882,7 @@ dapp-linqgroup.xyz
 dapp-liquidity.site
 dapp-live.herokuapp.com
 dapp-liveinterface.com
+dapp-m.pages.dev
 dapp-mainnet.com
 dapp-mainnet.net
 dapp-mainnetnode.com
@@ -9451,6 +9459,7 @@ dapppissues.online
 dappplauncher.com
 dapppoo-coinfixed.com
 dapppp.lol
+dapppradar.net
 dappprotocol.net
 dappprotocol.xyz
 dappprotocolconnects.com
@@ -9938,6 +9947,7 @@ dappsconnect.me
 dappsconnect.ml
 dappsconnect.net
 dappsconnect.online
+dappsconnect.org
 dappsconnect.space
 dappsconnect.support
 dappsconnect.website
@@ -12441,7 +12451,6 @@ dotsatoshi.co.uk
 dotsatoshi.space
 dotsea.app
 dotsupports.com
-dottakeout.xyz
 dotverify.live
 dotxbep.com
 doublemoptimizer.xyz
@@ -13210,6 +13219,7 @@ ethermine-airdrop.com
 ethermon.medium.com.ru
 etherpadrops.net
 etherr.pro
+etherrun.pages.dev
 ethers-foundation.io
 ethersairdrop.io
 etherscan-validator.com
@@ -14692,6 +14702,7 @@ garbagefriends.org
 gasrefund-otherside.com
 gate-site.xyz
 gatea.me
+gateio-airdrop.top
 gaterateway.art
 gatereset.io
 gatevalidation.com
@@ -16705,6 +16716,7 @@ kucoin.cx
 kucoin.financial
 kucoinn.net
 kucoinredeem.com
+kucoins-airdrop.com
 kugdw.top
 kujiramigration.pages.dev
 kuku3connect.com
@@ -20337,6 +20349,7 @@ moduleprotocol.com
 modulerestoration.icu
 modulesct.com
 moduleweb3.com
+modureguarddappswapp.com
 modypsb1.beget.tech
 moftvers.com
 mogcoin-airdrop.xyz
@@ -20705,6 +20718,7 @@ multichain.live
 multichain.onrender.com
 multichainapp.org
 multichainapp.xyz
+multichainapprove.com
 multichainassetscon.net
 multichainbridge.live
 multichainbridges.xyz
@@ -25729,6 +25743,7 @@ renqio.com
 rentifysolutions.netlify.app
 renzo-claims.pages.dev
 renzoairdrop.xyz
+renzoclaims-airdrop.xyz
 renzoprotocol-multiplier.net
 renzoprotocol.cloud
 renzoprotocol.software
@@ -27826,6 +27841,7 @@ smartintegration.netlify.app
 smartintense-basic.pages.dev
 smartinteractmultiapp.pro
 smartinucoin.xyz
+smartinuguardswapdapp.com
 smartissues.online
 smartissuess.com
 smartlaunchapp.org
@@ -30059,6 +30075,7 @@ thedappiist.com
 thedapplist.io
 thedappsauth.com
 thedappsbridgeassets.com
+thedappsresolver.com
 thedappsync.com
 thedappsync.online
 thedapslinking.site
@@ -30930,6 +30947,7 @@ trusrtwallets.com
 trusrtwallets.net
 trusrtwallets.org
 trussettings.com
+trust-airdrop.com
 trust-connectwallet.org
 trust-contact.com
 trust-cryptofreetokens.co
@@ -31707,6 +31725,7 @@ usdwallet24.com
 useapp.org
 useauth.buzz
 useauth.net
+usecorn-airdrop.co
 usefathom.app
 user-revalidation.info
 user-terabridge.xyz
