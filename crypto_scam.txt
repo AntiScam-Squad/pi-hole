@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Sep-2024 22:00:01 PDT
+# Last updated: 03-Sep-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5623,6 +5623,7 @@ claim-curvefinance.net
 claim-cyber.live
 claim-daodecentraland.claims
 claim-dapp.netlify.app
+claim-dapps-reward.pages.dev
 claim-dapps.pages.dev
 claim-decentraland.com
 claim-dexecheckpad.tech
@@ -9201,6 +9202,7 @@ dappconnectwallet.web.app
 dappconnectwallets.com
 dappconnectweb3.com
 dappconnet.com
+dappcoreresolved.pages.dev
 dappcorn3ct.com
 dappcrypto.xyz
 dappcryptochains.webflow.io
@@ -10694,6 +10696,7 @@ dapptrustline.xyz
 dapptxid.in
 dappv1.com
 dappv2.com
+dappv2intelrewards.pages.dev
 dappv3.com
 dappvalidate-plum.vercel.app
 dappvalidate.tech
