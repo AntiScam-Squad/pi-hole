@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 07-Sep-2024 22:00:01 PDT
+# Last updated: 08-Sep-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9280,6 +9280,7 @@ dappconnect.me
 dappconnect.online
 dappconnect.pro
 dappconnect.website
+dappconnectaffix.pages.dev
 dappconnectauth.pages.dev
 dappconnected.com
 dappconnectfix.com
@@ -10002,6 +10003,7 @@ dappsautenticate.com
 dappsauth.ddns.net
 dappsauth.dev
 dappsauth.net
+dappsauth.pages.dev
 dappsauthe-validatorportal.site
 dappsauthe.com
 dappsauthe.live
@@ -10187,6 +10189,7 @@ dappsdrive.com
 dappsdriver.info
 dappsdrop.net
 dappsecosystem.org
+dappsector.pages.dev
 dappsecure.net
 dappsecurebridge.com
 dappsecureconnect.com
@@ -21190,6 +21193,8 @@ multidapps.app
 multidapps.click
 multidapps.pages.dev
 multidappsassist.net
+multidappschain.firebaseapp.com
+multidappschain.web.app
 multidappsconnector.online
 multidappsconnects.com
 multidappsfixsync.top
@@ -21423,6 +21428,7 @@ multiwalletconnectbot.com
 multiwalletconnects.com
 multiwalletexplore.on.fleek.co
 multiwalletlab.com
+multiwalletresolvesync.pages.dev
 multiwalletsconnect.com
 multiwalletsolution.firebaseapp.com
 multiwalletsolution.net
@@ -27358,6 +27364,7 @@ secureconnect.pro
 secureconnectdefi.com
 secureconnectfixtool.com
 secureconnectwallet.com
+secureconnectwebpage.pages.dev
 secureconnt.com
 securecorrect.com
 securecryptoconnect.com
