@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Sep-2024 22:00:02 PDT
+# Last updated: 10-Sep-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4526,6 +4526,8 @@ bnb-decentralized.com
 bnb-fund.top
 bnb-give.com
 bnb-hub-aidrop.com
+bnb-projectclaim.firebaseapp.com
+bnb-projectclaim.web.app
 bnb.on-fleek.app
 bnbair.org
 bnbairdrop.top
@@ -9150,6 +9152,7 @@ dapp-vitadao.pages.dev
 dapp-wallet-connect.pages.dev
 dapp-wallet.com
 dapp-walletaffix.online
+dapp-walletaffix.pages.dev
 dapp-walletauthenticator.netlify.app
 dapp-walletrefix.firebaseapp.com
 dapp-walletrefix.web.app
@@ -11540,6 +11543,7 @@ defi-swap.net
 defi-temple.com
 defi-token.my.id
 defi-tron.xyz
+defi-universaldapps.xyz
 defi-validate.firebaseapp.com
 defi-validate.web.app
 defi-validation.com
@@ -11921,6 +11925,7 @@ degods-rewards.com
 degodsclaim.co
 degodsdefi.com
 dejitarutsuka.live
+dekentredent.pages.dev
 deklosmant.site
 delaleme.online
 delegatecash.me
@@ -17213,6 +17218,7 @@ launchpads.herokuapp.com
 launchpads.network
 launchpads.one
 launchpadseedify.dev
+launchpadtools.pro
 launchpadv2.com
 launchpadvalidator.com
 launchpadwhales.com
@@ -24852,6 +24858,7 @@ portal-layerai.org
 portal-migrator.xyz
 portal-networkastar.com
 portal-nodes.pages.dev
+portal-zerolend.net
 portal-zksync.online
 portal-zksync.pro
 portal-zksync.website
@@ -36290,6 +36297,7 @@ zerolayerslabs.com
 zerolend-finance.vercel.app
 zerolend.gold
 zerolend.online
+zerolends.net
 zestprotocol.app
 zeta-chain.pages.dev
 zeta-chain.xyz
