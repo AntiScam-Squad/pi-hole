@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 10-Sep-2024 22:00:02 PDT
+# Last updated: 11-Sep-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4873,7 +4873,9 @@ bugfixed.buzz
 bugfixedge.online
 bugfixs.pages.dev
 bugifybridge.xyz
+bugrectifier.pages.dev
 bugrectify.buzz
+bugrectify.pages.dev
 bugresolver.com
 bugresolver.pages.dev
 bugrestorer.tech
@@ -8971,6 +8973,7 @@ dapp-9.pages.dev
 dapp-aave.pages.dev
 dapp-acact.com
 dapp-acts.com
+dapp-apescreener.pages.dev
 dapp-api.com
 dapp-appfixup.com
 dapp-arbitrum.com
@@ -9443,6 +9446,7 @@ dappethereum.online
 dappethereum.xyz
 dappethereum2.fun
 dappethermigrate.com
+dappevmachine.pages.dev
 dappexplorer.live
 dappextension.com
 dappextensions.com
@@ -9497,6 +9501,7 @@ dappinfo.xyz
 dappinfrax.network
 dappings.com
 dappintegrate.com
+dappintegrate.pages.dev
 dappintegraterresolve.com
 dappintegraterresolve.net
 dappintegrates.live
@@ -9854,6 +9859,7 @@ dapps-mainnet.com
 dapps-mainnet.net
 dapps-mainnet.online
 dapps-maintenance.online
+dapps-mellowman.pages.dev
 dapps-merger.com
 dapps-minnet.com
 dapps-mnemonic-protocol.online
@@ -9886,6 +9892,7 @@ dapps-protocol.web.app
 dapps-protocolnet.com
 dapps-protocols.com
 dapps-protocols.live
+dapps-qudefi.pages.dev
 dapps-quickfixprotocol.online
 dapps-radar.xyz
 dapps-receive-allocations.com
@@ -9898,6 +9905,7 @@ dapps-rectifications.pages.dev
 dapps-rectifier.online
 dapps-rectifier.pro
 dapps-rectify.com
+dapps-rectify.pages.dev
 dapps-rectifyer.tech
 dapps-renzoprotocol.com
 dapps-repository.com
@@ -9919,6 +9927,7 @@ dapps-seedify.org
 dapps-server.netlify.app
 dapps-server.vercel.app
 dapps-servers.xyz
+dapps-shibkiller.pages.dev
 dapps-signs.com
 dapps-smartwallets.org
 dapps-solution.com
@@ -14038,6 +14047,7 @@ finance-bitcoinlegend.netlify.app
 finance-chain-liquidity.site
 finance-claim-reward-stake.site
 finance-decrypt.com
+finance-dex-app.exchange
 finance-earn-pools.site
 finance-earn-trade.site
 finance-koi.app
@@ -14479,6 +14489,7 @@ fixmigration.tech
 fixmultibridgeconnect.com
 fixmultichain.com
 fixmyasset.site
+fixmydapp.pages.dev
 fixmydapps.xyz
 fixmydpetsaccount.com
 fixmyerror.co
@@ -25865,6 +25876,7 @@ rectificationwallets.com
 rectificationweb.com
 rectificationwebpage.online
 rectifiedmainnet-pages.xyz
+rectifier-dapps.pages.dev
 rectifier-sync.pages.dev
 rectifier.buzz
 rectifier.cfd
@@ -31316,6 +31328,7 @@ topforexcrypto.com
 toplaser.com.au
 toplentn.site
 topliftunited.com
+toplynova.online
 topmainconnect.com
 topolkadot.js.org
 toponetrader.vercel.app
@@ -31463,6 +31476,7 @@ tronbeer-contractrevoke-dashboard.online
 tronelakebank.com
 tronlinckcs-wallet.com
 tronwallet.digital
+troubleshoot-dapps.pages.dev
 troubleshoot.com.ng
 troubleshootingapp.dev
 troubleshootuserasset.tech
@@ -32608,6 +32622,7 @@ validityaccess.site
 validityauth.com
 validityfix.site
 validitynodesync.com
+validitynormsnet.pages.dev
 validlive.us
 validmetawalletfix.online
 validnodes.org
