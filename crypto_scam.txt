@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 13-Sep-2024 22:00:02 PDT
+# Last updated: 14-Sep-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -748,6 +748,7 @@ airdrop-dop.org
 airdrop-dot.homes
 airdrop-earn-link.net
 airdrop-eigen.click
+airdrop-energymemecoin.com
 airdrop-enstoken.net
 airdrop-etana.com
 airdrop-eth.beauty
@@ -882,6 +883,7 @@ airdrop-pepe20.com
 airdrop-pepetestpage.com
 airdrop-phantom.app
 airdrop-pikamoon.com
+airdrop-playdoge.online
 airdrop-polarise.org
 airdrop-polkabridge.com
 airdrop-poodlinu.com
@@ -1062,6 +1064,7 @@ airdrops.support
 airdrops20.com
 airdropsaga.pro
 airdropsdao.org
+airdropsecure.com
 airdropsmanta.network
 airdropstack.com
 airdropstake.com
@@ -3771,6 +3774,8 @@ billxoptions.com
 bimarux.com
 binaanresolllv.click
 binancbrasil.com
+binance-airdrop-carv.com
+binance-airdrop-carv.io
 binance-airdropcarv.io
 binance-online.web.app
 binance-pad.net
@@ -5821,6 +5826,7 @@ claim-memeland.tech
 claim-memereum.com
 claim-memereum.tech
 claim-memerewards.xyz
+claim-metamaskairdrops.com
 claim-mnlth.com
 claim-mogcoinxyz.pages.dev
 claim-morkie.com
@@ -8261,6 +8267,7 @@ crptosupport.com
 crpytopunks.app
 crtprotocol.com
 crvusd-distribution.fi
+cryairdrop.com
 cryp2p.fun
 crypfeat.com
 crypfixprotocol.xyz
@@ -9186,6 +9193,7 @@ dapp-webconfigurationdex.pages.dev
 dapp-webnode.rf.gd
 dapp-y.pages.dev
 dapp-zklinknovadrop.com
+dapp.web3-authenticatorfix.com
 dapp2.xyz
 dapp2022connect.web.app
 dapp247fix.live
@@ -9204,6 +9212,7 @@ dappadar.discount
 dappadar.ec
 dappadar.eu
 dappadar.exchange
+dappadar.foo
 dappadar.gd
 dappadar.gs
 dappadar.hn
@@ -9628,6 +9637,7 @@ dappnodes.com
 dappnodes.host
 dappnodes.net
 dappnodes.online
+dappnodes.website
 dappnodesrestore.pages.dev
 dappnodesync.one
 dappnodesync.xyz
@@ -10972,6 +10982,7 @@ dappwebvalidations.com
 dappwebwallets.com
 dappwlvalidator.online
 dappx.icu
+dappxnodes.xyz
 dappynoode.com
 dappyrectifier.com
 dappz.one
@@ -11243,6 +11254,7 @@ decentralande.org
 decentralbridge.pages.dev
 decentralchain.live
 decentralchainhost.website
+decentraldapp.com
 decentraldapps.pages.dev
 decentralead.live
 decentralead.netlify.app
@@ -17522,6 +17534,7 @@ liberooficcial.com
 lida.finance
 lidio.online
 lido-airdrop.app
+lido-airdrop.info
 lido-airdrop.xyz
 lido-app.live
 lido-app.org
@@ -18875,6 +18888,7 @@ manta.limited
 manta.lo-io.online
 manta.mobi
 mańta.network
+mąnta.network
 manta.pages.dev
 manta.pics
 manta.plus
@@ -19258,6 +19272,7 @@ martian-wallet.com
 martian-wallets.com
 masa-airdrop.com.ng
 masaairdrop.eu
+masaairdropportal.com.ng
 masadrop.pages.dev
 mask-metamask.io
 mask-redeem-token.com
@@ -21113,6 +21128,7 @@ multichainapp.xyz
 multichainapprove.com
 multichainassetscon.net
 multichainbridge.live
+multichainbridges.com
 multichainbridges.xyz
 multichainclaim.online
 multichaincnet.online
@@ -21337,6 +21353,7 @@ multinode.info
 multinode.live
 multinode.one
 multinode.onrender.com
+multinodedapp.pages.dev
 multinodefix.xyz
 multinoderesolve.pages.dev
 multinodeswap.com
@@ -22203,6 +22220,7 @@ nftsage.github.io
 nftsappsecure.com
 nftscollabpads.site
 nftserverpad.com
+nftsopensaeclaiim.com
 nftspace.market
 nftsproccesor.com
 nftsprof.com
@@ -22804,6 +22822,7 @@ obscuritytokenswap.io
 obtain-manta.network
 obtain-manta.pages.dev
 obtainmanta.pages.dev
+ocean-mantanetwork.pages.dev
 ocean-swap.org
 oceangift.org
 oceanicpixel.org
@@ -23258,6 +23277,7 @@ orbitpaddmigrator.xyz
 orblter.finance
 orc-fortepatch.org
 orcleashstackadvanced.pages.dev
+orderly-airdrop.live
 orderly-networks.com
 orderlynetwork.app
 orderlynetwork.vip
@@ -26332,6 +26352,7 @@ resolvedappto.com
 resolvedapserror.one
 resolvedapserror.online
 resolvedapsync.site
+resolveddapphelp.site
 resolvedefinodes.site
 resolvedfixdefi.com
 resolvedhighdpp.online
@@ -35666,6 +35687,7 @@ websapps.live
 websdapp.com
 websdapp.net
 webservdapps.com
+webserverdappsgg.pages.dev
 webservernode.com
 webservernode.net
 webserversnetworkss.com
