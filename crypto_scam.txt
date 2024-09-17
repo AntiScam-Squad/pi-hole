@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 15-Sep-2024 22:00:02 PDT
+# Last updated: 16-Sep-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4551,6 +4551,7 @@ bnbchain.top
 bnbchains.org
 bnbdrop.network
 bnbfour.net
+bnbfourclaim.pages.dev
 bnbpool.live
 bnbprotocol.net
 bnbreward.info
@@ -10421,6 +10422,7 @@ dappsmultichainauth.com
 dappsmultichainsolution.com
 dappsmulticonnect.online
 dappsmulticonnector.com
+dappsmultilinks.pages.dev
 dappsmultivalidator.com
 dappsn0de.website
 dappsnet.io
@@ -19300,6 +19302,7 @@ masktoken.info
 masktokens.com
 maskwallet.cc
 maslektonu.site
+masstruier20pterminalis.pages.dev
 mast-dpp.firebaseapp.com
 mast-dpp.web.app
 mastopvent.site
@@ -20901,6 +20904,7 @@ multi-chain-inky.vercel.app
 multi-chain-migration.xyz
 multi-chain.link
 multi-chain.tech
+multi-chainconnect.vercel.app
 multi-chainfusionapp.net
 multi-chainnet.online
 multi-chains-ubfb.onrender.com
@@ -28854,6 +28858,7 @@ spendabit-payment.xyz
 sphere-finance.org
 sphére.finance
 sphereconnect.site
+spikeclaimweb.pages.dev
 spikeconnect.com
 spikeyspacefish.com
 spiraltrades.com
@@ -35903,6 +35908,7 @@ wilnetly.com
 wiltonoption.network
 win-treasure.com
 windeckcolecttion.xyz
+wingwavetrade.xyz
 winklebit.net
 winner-crypto.top
 winnerinvestgroup.com
