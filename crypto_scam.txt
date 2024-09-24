@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Sep-2024 22:00:01 PDT
+# Last updated: 23-Sep-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -786,6 +786,7 @@ airdrop-greenbitcoin.com
 airdrop-greenbitcoin.net
 airdrop-grvt.com
 airdrop-gummyonsol.top
+airdrop-hamster.xyz
 airdrop-hextoken.com
 airdrop-hextoken.net
 airdrop-hub.org
@@ -954,6 +955,7 @@ airdrop-worldcoin.com
 airdrop-wormhole.firebaseapp.com
 airdrop-wormhole.web.app
 airdrop-zetablockchain.com
+airdrop-zetachain.com
 airdrop-zetachain.one
 airdrop-zetachain.win
 airdrop-zetachain.xyz
@@ -1065,6 +1067,7 @@ airdrops-sunpump.com
 airdrops-taikos.xyz
 airdrops-venom.icu
 airdrops-venom.network
+airdrops-wienerdog.site
 airdrops-zetachain.co
 airdrops-zetachain.com
 airdrops-zetachain.one
@@ -3501,6 +3504,7 @@ bankk-11.cf
 bankless-claim.com
 bankless-claims.com
 bankless-claims.net
+banklessairdrop.net
 banksocial.app
 banktoken.co
 bankwestbank.com
@@ -3840,6 +3844,7 @@ binancbrasil.com
 binance-airdrop-carv.app
 binance-airdrop-carv.com
 binance-airdrop-carv.io
+binance-airdrop-carv.net
 binance-airdropcarv.io
 binance-online.web.app
 binance-pad.net
@@ -4537,6 +4542,7 @@ blue-manta.network
 blue-morning-0976.on.fleek.co
 bluebridges.online
 bluecubefinance.com
+bluedapp.live
 bluesky-protocol.com
 bluesync.nl
 blum-airdrop.net
@@ -4616,6 +4622,7 @@ bnbchain.top
 bnbchains.org
 bnbdrop.network
 bnbfastxmigrateerc.com
+bnbfastxmigrateercdappz.com
 bnbfour.net
 bnbfourclaim.pages.dev
 bnbpool.live
@@ -6041,6 +6048,7 @@ claim-toshi.com
 claim-uncx.com
 claim-uncxnetwork.com
 claim-unis.xyz
+claim-uniswapsairdrop-verify01c.org
 claim-usd.com
 claim-usd.org
 claim-usd.xyz
@@ -6430,6 +6438,7 @@ clearlinking.us
 clearnode.xyz
 clearpool-airdrop.com
 clearsolve.ink
+cliam-uniswapstoken.org
 cliamslavanet.xyz
 clibiya.com
 clibonanode-select.dev
@@ -9344,6 +9353,7 @@ dappadar.sh
 dappadar.si
 dappadar.sk
 dappadar.tv
+dappadar.wiki
 dappadar.ws
 dappaflixcwallet.net
 dappaflixwallet.xyz
@@ -15188,6 +15198,7 @@ gammaswap.pages.dev
 gaos.bio
 garantexchange.com
 garbagefriends.org
+garcia-airdrop.com
 gasrefund-otherside.com
 gate-site.xyz
 gatea.me
@@ -21418,6 +21429,7 @@ multichaind.com
 multichaindapp.netlify.app
 multichaindapp.network
 multichaindapp.pages.dev
+multichaindappresolver.com
 multichaindapps.netlify.app
 multichaindappsconnect.com
 multichaindappsync.xyz
@@ -21542,6 +21554,7 @@ multidapperweb3.org
 multidappgate.net
 multidappnode.com
 multidappnode.vercel.app
+multidappnode.xyz
 multidappprotocol.com
 multidapprevap.com
 multidapps-connect.pages.dev
@@ -22173,6 +22186,7 @@ nebulascloudnetwork.com
 necozi.cf
 neiro-claim.org
 neiro-inu.pages.dev
+neiroairdrop.com
 neirocoin-airdrop.xyz
 neirosoldog.pages.dev
 nekotoken.tech
@@ -24266,6 +24280,7 @@ pepe20token.xyz
 pepe20vip.info
 pepe20vip.live
 pepe2airdrop.com
+pepe2airdrop.lol
 pepe2claim.com
 pepe2coin.app
 pepe2coin.com
@@ -26468,6 +26483,7 @@ register-astar.xyz
 register-autoiayer.app
 register-axelar.network
 register-ben.com
+register-bittensor.com
 register-blastl2.com
 register-botanix.app
 register-burntxion.app
@@ -29623,6 +29639,7 @@ sudonetwork.online
 sudoswap.art
 sudotrade.xyz
 suguniport.org.ng
+sui-airdrop.com
 sui-claim.live
 sui-claim.pages.dev
 sui-drop.online
@@ -30819,6 +30836,7 @@ talisman-wallet.com
 talisman.gift
 talisman.gifts
 talismanquest.net
+talismanquests.xyz
 talismans.quest
 talismanwallet.com
 tamaadoge.net
@@ -31017,6 +31035,7 @@ tether.nu
 tether.to.epgr.org
 tetherairdrop.net
 tetherclaims.org
+tetherdapp.io
 tetherdrop.com
 tethergold.net
 tetherinsure.com
