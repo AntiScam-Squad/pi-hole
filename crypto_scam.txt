@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 24-Sep-2024 22:00:02 PDT
+# Last updated: 25-Sep-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -2414,6 +2414,7 @@ aptos-r0e.pages.dev
 aptosfound.org
 aptosfoundation.gift
 aptosfoundation.info
+aptosfoundation.pages.dev
 aptosfundation.app
 aptosfundation.com
 aptosıabs.com
@@ -5520,6 +5521,7 @@ chainsdapp.org
 chainsecuredparcel.pages.dev
 chainserver.pages.dev
 chainserverconnect.org
+chainserverdappsreclaim.pages.dev
 chainservernode.org
 chainset.space
 chainsfixedmaindappnet.com
@@ -9434,6 +9436,7 @@ dappchainsync.online
 dappchainx.live
 dappclaims.com
 dappclassic.xyz
+dappcoinclaim.pages.dev
 dappcoindefionline.net
 dappcoinsmigrate.ink
 dappcoinsrectification.com
@@ -10370,6 +10373,7 @@ dappsdebugger.xyz
 dappsdebugvault.xyz
 dappsdecentralizedglobal.app
 dappsdefi-sync.com
+dappsdemandprize.pages.dev
 dappsdex.net
 dappsdex.online
 dappsdexauth.pages.dev
@@ -17585,6 +17589,7 @@ layerzero-drop.net
 layerzero-finance.com
 layerzero-finance.network
 layerzero-foundation-claim.pages.dev
+layerzero-foundation-claims.pages.dev
 layerzero-foundation.net
 layerzero-foundation.network
 layerzero-free.pro
@@ -19792,6 +19797,7 @@ mergesappsevers.pages.dev
 mergesappseversads.pages.dev
 mergesappseverst.pages.dev
 mergesappssever.pages.dev
+mergesdappsever.pages.dev
 mergeseverapps.pages.dev
 mergeseverd-apps.pages.dev
 mergeseverdapps.pages.dev
@@ -23450,6 +23456,7 @@ openseaconnections.com
 openseafox.com
 openseafox.eu
 openseaio0x95724798d703e87196375be5f8fhf136d862f033collect.pages.dev
+openseanftprojectbox.pages.dev
 openseapr-project.vercel.app
 openseaprotocol.com
 opensearaffles.com
@@ -30010,6 +30017,7 @@ swiftresolve.vercel.app
 swiftresolve.xyz
 swiftresolvedapps.pages.dev
 swiftresolvedex.pages.dev
+swiftresolverwalletsystem.pages.dev
 swiftrewardauthenticator.cloud
 swiftsecuredchainlink.pages.dev
 swiftsecuremultiprotocol.pages.dev
@@ -31781,6 +31789,7 @@ toncoin-distribution.com
 tonconnect.org
 toncrypto.cloud
 tondrop.tech
+tonevent.org
 tonlockapp.pages.dev
 tonnect.top
 tonnectgiveaway.pages.dev
@@ -34191,6 +34200,7 @@ walletconnect-sync.com
 walletconnect-sync.org
 walletconnect-synch.square.site
 walletconnect-synchs.square.site
+walletconnect-three.vercel.app
 walletconnect-tools.net
 walletconnect-v2.netlify.app
 walletconnect-validate.net
