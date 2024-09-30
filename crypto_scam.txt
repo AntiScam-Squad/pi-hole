@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Sep-2024 22:00:01 PDT
+# Last updated: 29-Sep-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -198,6 +198,7 @@
 4r74h-viaaa-aaaal-qbqna-cai.raw.icp0.io
 4vvuniswap.top
 5-253-84-133.plesk.page
+5216441684.pages.dev
 5645342673567846435467.cloud
 5gfixbox.com
 5gwalletfix.com
@@ -1029,6 +1030,7 @@ airdropimx.com
 airdropio.world
 airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
+airdropmanta-267.pages.dev
 airdropmanta.com
 airdropmanta.org
 airdropmanta.top
@@ -1887,6 +1889,7 @@ app-chaingpt.tech
 app-claim.finance
 app-claim.shop
 app-claims-omni-network.pages.dev
+app-cloudsolution.pages.dev
 app-coirmarketcup.com
 app-collab.land
 app-com.gb.net
@@ -3084,6 +3087,7 @@ auto-pass.net
 auto-servicedapps.online
 auto-sync.net
 auto-validation.com
+auto-webpanel.pages.dev
 autoactivechain.com
 autoappfix.com
 autoapps-server.live
@@ -9575,6 +9579,7 @@ dappdebugger.org
 dappdebugger.pro
 dappdebugpro.com
 dappdecentracs.biz
+dappdecentralisedlaunchpad.vercel.app
 dappdecentralize.com
 dappdecentralize.xyz
 dappdecentralized.com
@@ -10913,6 +10918,7 @@ dappswallcon.cfd
 dappswallconnect.com
 dappswallectconnect.tech
 dappswallectconnects.com
+dappswallet-com.pages.dev
 dappswallet-sync.online
 dappswallet.app
 dappswallet.info
@@ -18626,6 +18632,7 @@ mainetchainw.live
 mainetconnects.com
 mainetdapp.org
 mainetdapps.cfd
+mainetdappsprotocol.xyz
 mainetdappsync.cfd
 mainetdappsync.sbs
 mainetfix.com
@@ -23451,6 +23458,7 @@ ongawaterswitch.com.au
 onliinedappsync.trade
 online-auth.4nmn.com
 online-dapps.com
+online-livesupport.pages.dev
 online-metamask.info
 online-trust-web-wallet.com
 online-uniswap.tech
@@ -28005,6 +28013,7 @@ secureassetschain.com
 secureassetsnode.com
 secureauthenticationportal.info
 securebasedcrashclaim.pages.dev
+securebasedgodsclaims.pages.dev
 secureblocknode.com
 securebridge.network
 securebrowsers.co
@@ -34666,6 +34675,7 @@ walletdappfix.live
 walletdappfixed.net
 walletdappnetwork.app
 walletdappnode.pages.dev
+walletdapprectify.pages.dev
 walletdapprevalidation.com
 walletdapps-auth.org
 walletdapps-comect.com
@@ -34770,6 +34780,7 @@ walletfix.weebly.com
 walletfix.xyz
 walletfixdap.pages.dev
 walletfixdapp.com
+walletfixdapp.pages.dev
 walletfixedconnects.com
 walletfixhub.weebly.com
 walletfixplatform.com
@@ -35213,6 +35224,7 @@ walletsdappconnection.com
 walletsdappfix.net
 walletsdappmainnet.online
 walletsdappp.biz
+walletsdapprectify.pages.dev
 walletsdapprepl.com
 walletsdapps.live
 walletsdapps.net
