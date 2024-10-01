@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Sep-2024 22:00:01 PDT
+# Last updated: 30-Sep-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -5432,6 +5432,7 @@ chainfix.bond
 chainfix.buzz
 chainfix.org
 chainfixbridge.online
+chainfixs-ai.pages.dev
 chainfx.pages.dev
 chainge-finance.pages.dev
 chainge.gifts
@@ -6556,6 +6557,7 @@ cloudnetworking.online
 cloudquestproject.site
 cloudrectification.pages.dev
 cloudrectification.xyz
+cloudresolution.pages.dev
 clouds-backup.com
 cloudsmartconnect.org
 cloudsync.pages.dev
@@ -9572,6 +9574,7 @@ dappcryptostore.com
 dappcryptted.pages.dev
 dappcynchronize.com
 dappdao.online
+dappdashboards.pages.dev
 dappdebug.com
 dappdebug.xyz
 dappdebugger.app
@@ -9759,6 +9762,7 @@ dapplaunch.org
 dapplaunchchain.com
 dapplaunchpad.live
 dapplaunchpads.com
+dapplineblockreward.pages.dev
 dapplink.firebaseapp.com
 dapplink.tech
 dapplink.web.app
@@ -19170,6 +19174,7 @@ manta-network-2zu.pages.dev
 manta-network-40h.pages.dev
 manta-network-7ct.pages.dev
 manta-network-airdrop-5w7.pages.dev
+manta-network-eth.pages.dev
 manta-network.app
 manta-network.art
 manta-network.buzz
@@ -22881,6 +22886,7 @@ nodedebug.web.app
 nodedecentralizedapp.com
 nodedefi.net
 nodedefis.site
+nodedekent.pages.dev
 nodedelegations.digital
 nodedelegator.live
 nodedeployment.life
@@ -28764,6 +28770,7 @@ smartchainauth.pages.dev
 smartchainextension.com
 smartchainmulticoin.pages.dev
 smartchainnetwork.com
+smartchainreslover.pages.dev
 smartchainresolve.pages.dev
 smartchains.site
 smartchainsfix.com
