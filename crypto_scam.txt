@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 30-Sep-2024 22:00:02 PDT
+# Last updated: 01-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -10335,6 +10335,7 @@ dappsbsc-restore.live
 dappsbugfix.xyz
 dappsc.site
 dappscconnect.net
+dappscentralauths.pages.dev
 dappscentralfix.pages.dev
 dappscertify-official.com
 dappschain.online
@@ -11537,6 +11538,7 @@ decentralized-link.info
 decentralized-mainnet.com
 decentralized-mainnet.firebaseapp.com
 decentralized-mainnet.web.app
+decentralized-multichain.pages.dev
 decentralized-multichains.com
 decentralized-network.site
 decentralized-node.firebaseapp.com
@@ -26165,6 +26167,7 @@ queuedappsync.vercel.app
 quick-fix.online
 quick-fixsprotocol.live
 quick-network.app
+quickapifix.vercel.app
 quickappauths.com
 quickautolinks.com
 quickbite-protocol.com
@@ -26937,6 +26940,7 @@ resolveralgorithms.com
 resolvercex.com
 resolverconsult-panel.com
 resolverd.dev
+resolverdaapps.pages.dev
 resolverdappactivator.com
 resolverdapps-f24.pages.dev
 resolverdapps.com
