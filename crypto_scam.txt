@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 01-Oct-2024 22:00:02 PDT
+# Last updated: 02-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9207,6 +9207,7 @@ dapp-brdg.web.app
 dapp-brdge.firebaseapp.com
 dapp-brdge.web.app
 dapp-bridge.online
+dapp-bridge.pages.dev
 dapp-bridgers.xyz
 dapp-browser-logln.com
 dapp-browser.info
@@ -10446,6 +10447,7 @@ dappscryptconnect.com
 dappsct.com
 dappscycle.online
 dappscyppted.pages.dev
+dappsdasboards.pages.dev
 dappsdatabaseactivation.com
 dappsdebug.com
 dappsdebugconnect.xyz
@@ -11170,6 +11172,7 @@ dappwalletsauthorisation.com
 dappwalletsbrowser.com
 dappwalletsconnect.netlify.app
 dappwalletsconnect.online
+dappwalletsnode.pages.dev
 dappwalletsolution.com
 dappwalletsrestore.com
 dappwalletsservice.company
@@ -14224,6 +14227,7 @@ fastetnet.site
 fastfixapp.com
 fastfixbugs.xyz
 fastfixed.pages.dev
+fastfixednow.pages.dev
 fastfixnow.live
 fastfixnow.net
 fastfixwallet.com
@@ -31117,6 +31121,7 @@ techno-apecoin.com
 techsmainapp.com
 techsoft-web3.com
 techsolutionagent.com
+techspacee.online
 techsuportter.000webhostapp.com
 techsupportdesk.info
 techsupportsavvy.com
