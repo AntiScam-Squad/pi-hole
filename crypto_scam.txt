@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 02-Oct-2024 22:00:02 PDT
+# Last updated: 03-Oct-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -10402,6 +10402,7 @@ dappsconnectd.com
 dappsconnected.com
 dappsconnectfix.net
 dappsconnectify.com
+dappsconnectio.vercel.app
 dappsconnection.cc
 dappsconnection.net
 dappsconnection.online
