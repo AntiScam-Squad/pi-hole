@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 03-Oct-2024 22:00:01 PDT
+# Last updated: 04-Oct-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1031,6 +1031,7 @@ airdropio.world
 airdropmainnetprotocol.firebaseapp.com
 airdropmainnetprotocol.web.app
 airdropmanta-267.pages.dev
+airdropmanta-app.pages.dev
 airdropmanta.com
 airdropmanta.org
 airdropmanta.top
@@ -4473,6 +4474,7 @@ blockdev-chain.com
 blockdexauths.pages.dev
 blockdexprotocol.site
 blockdexresolve.pages.dev
+blockdexresolve.vercel.app
 blockdexsynchr.site
 blockdextool.com
 blockdivest.com
