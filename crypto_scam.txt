@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 04-Oct-2024 22:00:01 PDT
+# Last updated: 05-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -883,6 +883,7 @@ airdrop-mrlnchain.xyz
 airdrop-muitibit.com
 airdrop-multibit.blog
 airdrop-myria.one
+airdrop-mythos.foundation
 airdrop-neirocoin.xyz
 airdrop-network.online
 airdrop-nostra.com
@@ -1051,6 +1052,7 @@ airdropmantapacific.org
 airdropmantatoken.com
 airdropmaster.finance
 airdropmeme.xyz
+airdropmythos.foundation
 airdropnft.top
 airdropnulink.org
 airdropo.app
@@ -2955,6 +2957,7 @@ authdsappsfixed.000webhostapp.com
 authdsappsfixed.com
 autheadvance.website
 authedapps.site
+authenfix.pages.dev
 authenharmonizedapps.online
 authentic-account.com
 authenticapps.cloud
@@ -4329,6 +4332,7 @@ blockchain-rectification-next.vercel.app
 blockchain-rectification-u1gz.vercel.app
 blockchain-rectification.com
 blockchain-rectificationapp.com
+blockchain-rectifications.com
 blockchain-rectify-ai.vercel.app
 blockchain-resolvewallet.vercel.app
 blockchain-sync.netlify.app
@@ -9402,6 +9406,7 @@ dapp-web3fixtool-secured.com
 dapp-web3fixtool.com
 dapp-webconfigurationdex.pages.dev
 dapp-webnode.rf.gd
+dapp-webpro.pages.dev
 dapp-y.pages.dev
 dapp-zklinknovadrop.com
 dapp.web3-authenticatorfix.com
@@ -9970,6 +9975,7 @@ dappreader.static.app
 dapprealauthenticator.com
 dappreauthv2.xyz
 dapprecon.info
+dappreconcilersync.xyz
 dappreconciliation.xyz
 dappreconfig.com
 dappreconnect.com
@@ -13399,6 +13405,7 @@ elyssamigration.online
 em.yotpo.com
 embertokencrypto.com
 embrace-innovation.net
+embraces-web3.pages.dev
 emetamasks.com
 eminencebridge.net
 eminent-global.one
@@ -16942,6 +16949,7 @@ jitpointglobal.com
 jitto.app
 jjito.network
 jjsecure.pages.dev
+jlpnode.vercel.app
 jlto.app
 jmdspolkadot.js.org
 jnkhu.pages.dev
@@ -17457,6 +17465,8 @@ kusamastaking.com
 kusamaswap.com
 kusamat.js.org
 kusamatokens.com
+kusarna.network
+kusarna.us
 kusbanmetr.site
 kustuplop.site
 kuzcanavari.site
