@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 05-Oct-2024 22:00:02 PDT
+# Last updated: 06-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -170,6 +170,7 @@
 2xxbonuslive.site
 30coin.org
 321998dc83451dfa7d497e5b9e10b3bf.surf
+32476.com
 34-151-85-42.plesk.page
 34-92-30-20.plesk.page
 34-97-37-234.plesk.page
@@ -1289,6 +1290,7 @@ allchainfix.online
 allchainfix.pages.dev
 allchainprotocol.com
 allchainprotocols.com
+allchainrectification.pages.dev
 allchains-node.com
 allchainsaunthenticator.live
 allchainscrypt.com
@@ -9376,6 +9378,7 @@ dapp-syncs.live
 dapp-synrectify.pages.dev
 dapp-timibase.pages.dev
 dapp-to-connect.netlify.app
+dapp-ton.pages.dev
 dapp-tool.xyz
 dapp-vadilate.tools
 dapp-validate.vercel.app
@@ -9517,6 +9520,7 @@ dappchainfix.one
 dappchainlinks.vercel.app
 dappchainlive.online
 dappchainpad.online
+dappchainprotocol.pages.dev
 dappchainsdefi.com
 dappchainsupport.com
 dappchainsync.online
@@ -11199,6 +11203,7 @@ dappwalletvalidator.com
 dappwalletvault.com
 dappwallletsync.uno
 dappwalllett.live
+dappwalt.vercel.app
 dappwarefirm.herokuapp.com
 dappwconnect.com
 dappwctsoftconnect.com
@@ -11809,6 +11814,7 @@ defi-pad.net
 defi-platform.net
 defi-portal.intecilab.com
 defi-portal.xyz
+defi-prot.pages.dev
 defi-protocol-live.click
 defi-protocol-live.live
 defi-protocol.icu
@@ -12899,6 +12905,7 @@ dogs-listing-deposit-to-exchange-walletconnect.pages.dev
 dogs-rewards.vercel.app
 dogston-app.world
 dogston.cc
+dogsviatondrops.pages.dev
 dogwif-airdrop.org
 doken.im
 dokidvision.com
@@ -21406,6 +21413,7 @@ multiapp-webhubs.com
 multiappsmartconnect.pro
 multiauthchain.pages.dev
 multiauthfix.pages.dev
+multiauthourizefixchain.pages.dev
 multiauthwallet.pages.dev
 multibchainrectify.online
 multibitexchange.live
