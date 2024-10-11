@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 09-Oct-2024 22:00:02 PDT
+# Last updated: 10-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -734,6 +734,7 @@ airdrop-ancient8.app
 airdrop-ancient8.com
 airdrop-appconnect.pages.dev
 airdrop-arbitrum.app
+airdrop-arbitrumtoken-verify01a.com
 airdrop-assets.com
 airdrop-avalabs.com
 airdrop-base.org
@@ -837,6 +838,7 @@ airdrop-listadao.top
 airdrop-listadao.xyz
 airdrop-live.xyz
 airdrop-logx.network
+airdrop-lootlegends.net
 airdrop-magicsquare.app
 airdrop-mamta.network
 airdrop-managift.org
@@ -901,6 +903,7 @@ airdrop-nostra.org
 airdrop-nulink.org
 airdrop-okxn.pro
 airdrop-ondo.net
+airdrop-optimismtoken-verify01c.com
 airdrop-optlmism.app
 airdrop-ordelry.network
 airdrop-orderly.site
@@ -928,6 +931,7 @@ airdrop-realio.com
 airdrop-realio.network
 airdrop-ref.finance
 airdrop-rivusdao.net
+airdrop-scroll.site
 airdrop-secure3.com
 airdrop-sei.network
 airdrop-shib.homes
@@ -956,6 +960,7 @@ airdrop-trojan.com
 airdrop-uni.org
 airdrop-unibot.com
 airdrop-unicorn.app
+airdrop-uniswapstoken-verify01a.org
 airdrop-usdc.space
 airdrop-usdc2023.com
 airdrop-usual.money
@@ -1078,6 +1083,7 @@ airdropr.top
 airdroprenzo-protocol.top
 airdroprenzo.xyz
 airdropreward.top
+airdrops-babydogecoin.com
 airdrops-bankless.com
 airdrops-blum.com
 airdrops-blum.io
@@ -1126,6 +1132,7 @@ airdroptoday.online
 airdroptoken.co
 airdroptomato.fun
 airdroptrust.xyz
+airdropupgrades.com
 airdropusd.xyz
 airdropvalidate.firebaseapp.com
 airdropvalidate.web.app
@@ -1418,6 +1425,7 @@ allocation-scopeprotocol.com
 allocation-solvfinance.com
 allocation-tapswap.com
 allocation-venusprotocol.app
+allocation-walletconnect.trade
 allocation-wasabi.app
 allocation-wojak.com
 allocation-zetachain.com
@@ -2581,6 +2589,7 @@ arbitrumhub.com
 arbitrumpass.com
 arbitrumpass.org
 arbitrumpro.foundation
+arbitrumstoken-airdrop-verify01c.com
 arbitrumsurvey.net
 arbitrumsyseco.com
 arbitrumv2.org
@@ -3588,6 +3597,7 @@ bang-blast.pages.dev
 bankdapps.com
 banking2sec.com
 bankk-11.cf
+bankless-airdrops-web.app
 bankless-claim.com
 bankless-claims.com
 bankless-claims.net
@@ -4554,6 +4564,7 @@ blocknweb.site
 blockofthetherstroubleshooting.com
 blockonchains.live
 blockrectification.com
+blockrectify.io
 blockrepairer.com
 blockresets.com
 blockresolveweb.pages.dev
@@ -15242,6 +15253,7 @@ fowelcorrect.com
 fowelcorrect.org
 foxmasterapp.com
 foxsecuritykeys.xyz
+foxyairdrop.com
 fqassestsgloballedger.com
 fqassestsgloballedgers.com
 frafchaincoldstorage.com
@@ -21373,6 +21385,7 @@ mong.capital
 mongaming.xyz
 monitisecreate.com
 monkcoin.co
+monkeypoxairdrop.info
 monlyswap.com
 monopolydrop.com
 monprotocolstake.xyz
@@ -22521,6 +22534,7 @@ nebulacloudnetwork.xyz
 nebulascloudnetwork.com
 necozi.cf
 neir0c0in.org
+neiro-airdrop-claim.run
 neiro-claim.org
 neiro-inu.pages.dev
 neiroairdrop.com
@@ -24552,6 +24566,8 @@ peakstakeinvestments.com
 peancakfiance.com
 peapodfis.live
 peaq-dye.pages.dev
+peaq-layerzero.foundation
+peaq-layerzero.xyz
 pearlibird.app
 pearswap.org
 peckont.site
@@ -24893,6 +24909,7 @@ pointeigen.xyz
 points-debank.site
 points-rainbow.app
 pokladot.network
+pokladot.us
 pokrotmant.site
 polcastarter.com
 polckastartere.top
