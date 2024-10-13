@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 11-Oct-2024 22:00:01 PDT
+# Last updated: 12-Oct-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -10228,6 +10228,7 @@ dapps-livesync.com
 dapps-mainnet.com
 dapps-mainnet.net
 dapps-mainnet.online
+dapps-maintenace.pages.dev
 dapps-maintenance.online
 dapps-mellowman.pages.dev
 dapps-merger.com
@@ -11087,6 +11088,7 @@ dappswalletsecured.us
 dappswalletsnode.firebaseapp.com
 dappswalletsnode.web.app
 dappswalletsolution.com
+dappswalletsolution.pages.dev
 dappswalletsolutions.com
 dappswalletsvalidation.com
 dappswalletsync.com
@@ -16600,6 +16602,7 @@ imytoken.xyz
 imztoken.xyz
 in-nord-synchronization.com
 in-nords-synchronization.com
+inbetweener-blue.pages.dev
 inbetweeners-blue.pages.dev
 inchpd-syncapp.site
 inchpd-synccloneapp.tech
@@ -23177,6 +23180,7 @@ nodeprotocols.icu
 nodeprotto.com
 nodequickfix.com
 noderebase.center
+noderectfix.pages.dev
 noderectifeir.com
 noderectifier.org
 noderectifier.site
