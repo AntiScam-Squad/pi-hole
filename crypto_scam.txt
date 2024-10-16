@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 14-Oct-2024 22:00:02 PDT
+# Last updated: 15-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -25231,6 +25231,7 @@ polkadot-swap.com
 polkadot-technology.com
 polkadot-token.network
 polkadot-trust.site
+polkadot-v3.xyz
 polkadot-wallet.com
 polkadot-wallet.net
 polkadot-wallet.org
