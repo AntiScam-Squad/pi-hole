@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 16-Oct-2024 22:00:02 PDT
+# Last updated: 17-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -3105,6 +3105,7 @@ authmigration294482.com
 authminweb.live
 authnetworks-tech.cc
 authnodes.network
+authnodes.on.fleek.co
 authnodesblock.pages.dev
 autho-dappswallet.org
 autho-dappwallets.org
@@ -10408,6 +10409,7 @@ dapps-syncsmain.online
 dapps-syncwallet.com
 dapps-token.com
 dapps-tolink.net
+dapps-tool.pages.dev
 dapps-tool.xyz
 dapps-toolkit.vercel.app
 dapps-troubleshootings.com
@@ -10494,6 +10496,7 @@ dappsauthfix.pages.dev
 dappsauthorization.com
 dappsauthorized.com
 dappsauthprotocol.com
+dappsauthresolve.pages.dev
 dappsautosync.com
 dappsautovalidate.com
 dappsbackend.au-u-ver.site
@@ -13657,6 +13660,7 @@ emvnetwork.net
 en-alldappsfix.pages.dev
 en-appsmultichains.live
 en-appsmultichainss.com
+en-bugsolution.pages.dev
 en-chainresolver.pages.dev
 en-chainrestore.pages.dev
 en-dapprectify.pages.dev
@@ -16064,6 +16068,7 @@ guzelkazanc.site
 guzelkazanclar.site
 guzelkazancli.site
 h-412.pages.dev
+h-ao2.pages.dev
 h2-finance.web.app
 h2finance.net
 h5-uniswape.com
@@ -19207,6 +19212,7 @@ mainnetonline.info
 mainnetpadbridge.com
 mainnetportal.com
 mainnetportal.org
+mainnetpro.pages.dev
 mainnetprotocol.co
 mainnetprotocol.live
 mainnetprotocol.site
@@ -23258,6 +23264,7 @@ nodefixdex.pages.dev
 nodefixer.pages.dev
 nodefixing.online
 nodefixing.org
+nodefixvalidation.com
 nodeguardian.tech
 nodehelpfix.live
 nodehubdevelopment.com
@@ -26078,6 +26085,7 @@ projectsvaultsync.tech
 projectswebmainnets.com
 projectswebsmainnet.com
 projectsyncauto.net
+projectsyncsol.pages.dev
 projectsynncauto.com
 projectt79.com
 projectwebfix.xyz
@@ -27750,6 +27758,7 @@ rewardweb3.com
 rewardxrp.xyz
 rewebsyn.net
 rewebsyn.org
+rexasfinance-5l6.pages.dev
 reyae.network
 reyanetwork.org
 reznoprotocol.finance
