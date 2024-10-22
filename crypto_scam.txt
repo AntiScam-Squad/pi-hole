@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 20-Oct-2024 22:00:02 PDT
+# Last updated: 21-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9536,6 +9536,7 @@ dapp-radar.org
 dapp-radar.pro
 dapp-radar.top
 dapp-raddar.online
+dapp-rationappverse.pages.dev
 dapp-rectification.pages.dev
 dapp-rectificationapp.pages.dev
 dapp-rectifier.online
@@ -10312,6 +10313,7 @@ dapps-exploreonsite.online
 dapps-fix.com
 dapps-fix.pages.dev
 dapps-fixed.pages.dev
+dapps-fixer.pages.dev
 dapps-fixes.tech
 dapps-fixing.com
 dapps-fixings.com
@@ -12451,6 +12453,7 @@ defixrectify.live
 defixyz.com
 defizushis.pages.dev
 defl-chain.io
+deflchainhub.live
 deflkingdom.live
 deflokmant.site
 deflsaver.xyz
@@ -12888,6 +12891,7 @@ diemicowallet.com
 diemjoinwallet.com
 diffpr0tocol.pages.dev
 dificapitol.com
+diggy.pages.dev
 digi-byte.org
 digi-byte.pages.dev
 digibytesync.com
@@ -19357,6 +19361,7 @@ mainnodeupdate.com
 mainnodevalidation.net
 mainodes.com
 mainonlinesolution.com
+mainpad.on.fleek.co
 mainportfolionetwork.com
 mainpydapps.pages.dev
 mainrectification.com
