@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 22-Oct-2024 22:00:02 PDT
+# Last updated: 23-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -10933,6 +10933,7 @@ dappsolution.xyz
 dappsolutionchain.com
 dappsolutiondex.net
 dappsolutionfix.com
+dappsolutionfix.org
 dappsolutionindex.com
 dappsolutions.github.io
 dappsolutions.net
@@ -28295,6 +28296,7 @@ safe-syncbridge.xyz
 safe-xsecurity.net
 safeaudits.info
 safeblocknetwork.live
+safebluck.online
 safebridge.best
 safebridgeapp.site
 safebridgeassist.link
@@ -33551,6 +33553,7 @@ upswap-hela.xyz
 uratheum.live
 us-coinbasewallet.com
 us-lido.fi
+us37jab7q9.space
 usa-circle.net
 usd-claim.xyz
 usd-coin.org
