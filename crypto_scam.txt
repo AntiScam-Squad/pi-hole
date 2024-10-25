@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 23-Oct-2024 22:00:02 PDT
+# Last updated: 24-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -14231,6 +14231,7 @@ events-tearcoin.com
 events-worldcoin.org
 eventslayerzero.com
 eventstrustwallet.weebly.com
+evercliclaimfydex.pages.dev
 everdomedapps.online
 evergrowegcc.com
 everlabsting.pages.dev
@@ -19433,6 +19434,7 @@ maintechresolves.com
 maintechs.org
 maintechsnet.com
 maintecth.org
+maintester.pages.dev
 maintitdefi.com
 maintocommand.com
 maintoken.org
@@ -20305,6 +20307,7 @@ mergeappsevers.pages.dev
 mergeappseversd.pages.dev
 mergeappsserve.pages.dev
 mergecrypt.com
+mergedagsblocknetwork.pages.dev
 mergedaoprotocol.live
 mergedapp.live
 mergedapp.xyz
@@ -29337,6 +29340,7 @@ smartblockprotocol.com
 smartbridge.online
 smartbridgeapp.com
 smartbscrestore.com
+smartchain-dapps.pages.dev
 smartchain-tools.xyz
 smartchain.tk
 smartchainauth.pages.dev
@@ -29806,6 +29810,7 @@ snso.com.cn
 sntepn.space
 sntfs-seedify.online
 snwclaim.com
+snycronizelinks.pages.dev
 snycsawwp.com
 snycwallets.app
 soap-degods.com
