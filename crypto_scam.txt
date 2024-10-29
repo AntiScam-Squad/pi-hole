@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 27-Oct-2024 22:00:01 PDT
+# Last updated: 28-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -1978,6 +1978,7 @@ app-botto.com
 app-bouncefi.com
 app-bsquared.org
 app-bugsfix.pages.dev
+app-bugsolution.pages.dev
 app-cadinu.xyz
 app-cefinet.online
 app-celestia.com
@@ -4750,6 +4751,7 @@ bloksyncschain.live
 bloktract.firebaseapp.com
 bloktract.web.app
 blombertset.site
+blsck-dag-sever.pages.dev
 blswapi.com
 bltcetftoken.pro
 blu-art.fun
@@ -5737,6 +5739,7 @@ chainprotocolsystem.online
 chainpulse.finance
 chainrebuild.com
 chainrectification.com
+chainrectification.pages.dev
 chainrectifier.000webhostapp.com
 chainrectifier.online
 chainrectifier.xyz
@@ -10043,6 +10046,7 @@ dappfixsolution.com
 dappfixwallet.pages.dev
 dappfixweb.pages.dev
 dappfixwebs.pages.dev
+dappfixwebsite.pages.dev
 dappfixz.com
 dappfreetokens.com
 dappgatevault.com
@@ -10102,6 +10106,7 @@ dapplivesyncs.online
 dappmainet.com
 dappmainet.pages.dev
 dappmainhub.pages.dev
+dappmainhub.vercel.app
 dappmainnet.com
 dappmainnet.live
 dappmainnet.net
@@ -13064,6 +13069,7 @@ digitalchainsonline.live
 digitalcoin-authenticate.com
 digitalcoin-migrate.com
 digitalcoinasset.ltd
+digitalconcept.pro
 digitalconnectionsapp.online
 digitalcrossways.com
 digitalcryptofx.com
@@ -14897,6 +14903,7 @@ fix-mainnetchains.com
 fix-mysyncapp.netlify.app
 fix-node.com
 fix-nodebug.pages.dev
+fix-protocol.pages.dev
 fix-resolveractivation.online
 fix-rpc.com
 fix-smokepresale.pages.dev
@@ -23010,6 +23017,7 @@ netbentq.site
 netbosth.site
 netbridgepro.com
 netbugfix.tech
+netchain-block.surge.sh
 netchainlink.com
 netcoinsmanta.com
 netconnectsyncc.com
