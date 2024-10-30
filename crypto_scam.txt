@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 28-Oct-2024 22:00:02 PDT
+# Last updated: 29-Oct-2024 22:00:01 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -4483,6 +4483,7 @@ blockchain-phrase.ml
 blockchain-protocol.site
 blockchain-recovery.ml
 blockchain-recovery.tk
+blockchain-rectification-merge.pages.dev
 blockchain-rectification-next.vercel.app
 blockchain-rectification-u1gz.vercel.app
 blockchain-rectification.com
@@ -20526,6 +20527,7 @@ mergerdapps-eqy.pages.dev
 mergerinterswap.com
 mergerouter.info
 merges-appsever-dapps.pages.dev
+merges-dags-sever.pages.dev
 merges-vercel-app.pages.dev
 mergesapps.pages.dev
 mergesappsever.pages.dev
@@ -31303,6 +31305,7 @@ syncauthorization.com
 syncbeta.site
 syncbit.online
 syncblock.live
+syncblockchain.net
 syncblocknode.org
 syncblocks.firebaseapp.com
 syncblocks.web.app
