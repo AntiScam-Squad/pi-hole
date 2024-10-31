@@ -1,6 +1,6 @@
 ######################################################### 
 # AntiScamSquad Blacklist of crypto scam links 
-# Last updated: 29-Oct-2024 22:00:01 PDT
+# Last updated: 30-Oct-2024 22:00:02 PDT
 # https://github.com/polkadot-js/phishing/raw/master/all.json 
 ######################################################### 
 
@@ -9781,6 +9781,7 @@ dappardar.co
 dappardar.io
 dappatech.online
 dappatestion.pages.dev
+dappattest.pages.dev
 dappauthconnect.xyz
 dappauthenticate.org
 dappauthenticator.live
@@ -19328,6 +19329,8 @@ mainnet-sync.com
 mainnet-sync.org
 mainnet-syncli.site
 mainnet-v2.com
+mainnet-validate.firebaseapp.com
+mainnet-validate.web.app
 mainnet-webextension.net
 mainnet-zircuit.app
 mainnet.codes
@@ -28595,6 +28598,7 @@ safeconntedsever.com
 safecross.live
 safecrosschainbridge.com
 safecryptosync.com
+safedapp-fix.pages.dev
 safedappchain.com
 safedapps.firebaseapp.com
 safedapps.web.app
@@ -31552,6 +31556,7 @@ syncmydigits.com
 syncmywallet.me
 syncmywallets.online
 syncndefi.line.pm
+syncndefix.line.pm
 syncnet.info
 syncnet.online
 syncnetsolutions.digital
